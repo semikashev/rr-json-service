@@ -1,0 +1,270 @@
+{
+  "Slug": "safety",
+  "Label": [
+    "pages"
+  ],
+  "Title": "Безопасность Retail Rocket",
+  "PublishDate": {
+    "$date": "2025-08-14T09:07:42"
+  },
+  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/10/og_safety.png",
+  "AuthorIdList": [
+    "rradmin"
+  ],
+  "LeadText": [
+    {
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Безопасность Retail Rocket Защита данных Обеспечиваем 4-й уровень защиты персональных данных Храним большие массивы персональных данных в зашифрованном виде — в соответствии с требованиями ФЗ-152 и нормативами по безопасности. Аттестованы по стандартам ФСТЭК Технологии и процессы Retail Rocket Group соответствуют государственным стандартам контроля конфиденциальности персональных данных. 0 инцидентов потерь данных клиентов за все время работы Retail Rocket Group с 2013 года.​ Обеспечиваем 4-й […]"
+        }
+      ]
+    }
+  ],
+  "MetaTitle": "Безопасность Retail Rocket Group",
+  "ContentBlockList": [
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Безопасность Retail Rocket Защита данных"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/1svg.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Обеспечиваем 4-й уровень защиты персональных данных Храним большие массивы персональных данных в зашифрованном виде — в соответствии с требованиями ФЗ-152 и нормативами по безопасности."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/border-line.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/2-8.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Аттестованы по стандартам ФСТЭК Технологии и процессы Retail Rocket Group соответствуют государственным стандартам контроля конфиденциальности персональных данных."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/3-6.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "0 инцидентов потерь данных клиентов за все время работы Retail Rocket Group с 2013 года.​"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/1svg.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Обеспечиваем 4-й уровень защиты персональных данных Храним большие массивы персональных данных в зашифрованном виде — в соответствии с требованиями ФЗ-152 и нормативами по безопасности."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/border-line.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/2-8.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Аттестованы по стандартам ФСТЭК Технологии и процессы Retail Rocket Group соответствуют государственным стандартам контроля конфиденциальности персональных данных."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/border-line.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/3-6.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "0 инцидентов потерь данных клиентов за все время работы Retail Rocket Group с 2013 года."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/safetyimg1.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Коды доступа генерируются каждые 30 секунд на вашем устройстве — быстро, надежно и без зависимости от SMS."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/safetyimg2.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Доступ к личному кабинету защищен от внешних и внутренних угроз по технологии двухфакторной аутентификации и генерации одноразовых паролей."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/1-9.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Храним персональные данные на российских серверах"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/2-9.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Прошли проверки платформы по 152-ФЗ"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/3-7.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Вошли в реестр аккредитованных IT-компаний"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/4-9.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Входим в реестр операторов персональных данных"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/5-5.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/antispam/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "Соблюдаем антиспам-политику в коммуникациях"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/6-4.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Обрабатываем персональные данные, следуя политике, — получаем согласие пользователей Свяжитесь с нами, чтобы узнать больше о безопасной работе с данными клиентов"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "Slug": "updates-smart-placement-ads-2024",
+  "Label": [
+    "Retail Media"
+  ],
+  "Title": "Улучшения UX/UI для работы с рекламным кабинетом AdTech-платформы Smart Placement Ads",
+  "PublishDate": {
+    "$date": "2024-12-20T10:31:00"
+  },
+  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/12/thumbnail_update_10_Улучшения-UX_UI-для-работы-с-рекламным-кабинетом-AdTech-платформой-Smart-Placement-Ads-1.png",
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
+  "LeadText": [
+    {
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "← Вернуться назад Рынок Retail Media стремительно растет: только в 2024 году к нему присоединились такие крупные игроки, как Лэтуаль, Авторусь, Лемана Про и другие. В условиях высокой конкуренции, удобство использования рекламной платформы становится ключевым фактором для привлечения и удержания рекламодателей. Кирилл Морозов Главный редактор Retail Rocket Group Именно поэтому мы постоянно работаем над улучшением UX/UI, чтобы сделать работу с AdTech-платформой Smart […]"
+        }
+      ]
+    }
+  ],
+  "MetaTitle": "Зимнее обновление Smart Placement Ads: новые функции для удобства и эффективности",
+  "ContentBlockList": [
+    {
+      "_t": "UnorderedList",
+      "Items": [
+        [
+          {
+            "_t": "Text",
+            "Content": "Продуктовые обновления"
+          }
+        ]
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Рынок Retail Media стремительно растет: только в 2024 году к нему присоединились такие крупные игроки, как Лэтуаль, Авторусь, Лемана Про и другие. В условиях высокой конкуренции, удобство использования рекламной платформы становится ключевым фактором для привлечения и удержания рекламодателей."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/author/kirill-morozov/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " Именно поэтому мы постоянно работаем над улучшением UX/UI, чтобы сделать работу с AdTech-платформой Smart Placement Ads эффективной и приятной. В зимнем обновлении представляем ряд функций, которые помогут сэкономить время, упростить управление кампаниями и, в конечном итоге, увеличить доходы, как для рекламодателей, так и для ecom-площадок."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Приглашения в кабинет рекламодателя",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": ". Теперь каждый рекламодатель может нажать на одну кнопку и получить ссылку с приглашением в личный кабинет, которую можно отправить своему коллеге-маркетологу."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Расход бюджета",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": ". Теперь рекламодатель всегда видит актуальную информацию о том, сколько бюджета рекламной кампании израсходовано в текущий момент времени."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/12/unnamed.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Статусы реклам",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": ". В статистике по рекламным кампаниям теперь видно, какая реклама запущена, какая остановлена, а какая редактируется. Найти нужный запуск среди всех кампаний стало проще."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/12/unnamed-1.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Управление порядком товаров",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": ". Раньше приходилось добавлять товары на рекламную полку сразу в нужном порядке, теперь их порядок можно менять при настройке кампании в любой удобный момент."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/12/unnamed-2.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Выбор периодов",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": ". Календарем для выбора периода на странице статистики стало удобнее пользоваться: можно выделить временной промежуток не только с начала периода, но и с конца. А при выборе периода в 1 день не требуется кликать 2 раза."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/12/unnamed.gif",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Страница статистики стала нагляднее",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": ". Теперь на странице видно место размещение рекламы и тип используемого инвентаря: баннеры, товарные полки и так далее."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/12/unnamed-3.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Добавление в статистику CPM",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": ". Теперь на странице статистики рекламодатель видит, сколько он реально заплатил за 1 000 показов с учетом аукциона второй цены."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/12/unnamed-4.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Уведомления о нехватке товаров",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": ". Появились уведомления о нехватке товаров в полке, если товар вышел из ротации или изменились настройки места размещения."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/12/unnamed-5.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Авторы статьи "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/author/kirill-morozov/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " Похожие статьи "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/updates/novye-vozmozhnosti-segmentacii-v-retail-rocket/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "Продуктовые обновления Максимальная персонализация: новые возможности сегментации Наталья Казьмина 22.10.2025"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/updates/smart-placement-avto-vlozhennye-kategorii-v-targetinge/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "Продуктовые обновления Упростили работу с вложенными категориями в условиях показа рекламы в Smart Placement Кирилл Морозов 24.09.2025"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/updates/novyj-dashbord-retail-rocket-vliyanie-rekomendaciy-i-kommunikaciy/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "Продуктовые обновления Новый дашборд: наглядное влияние рекомендаций и коммуникаций на выручку Кирилл Морозов 23.09.2025"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

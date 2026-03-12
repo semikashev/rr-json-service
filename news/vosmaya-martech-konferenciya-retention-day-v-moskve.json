@@ -1,0 +1,204 @@
+{
+  "Slug": "vosmaya-martech-konferenciya-retention-day-v-moskve",
+  "Label": [
+    "news"
+  ],
+  "Title": "Восьмая MarTech-конференция Retention Day пройдет в Москве",
+  "PublishDate": {
+    "$date": "2024-04-23T17:29:00"
+  },
+  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/10/quote.svg",
+  "AuthorIdList": [
+    "natalia-kazmina"
+  ],
+  "LeadText": [
+    {
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "← Вернуться назад 25 апреля состоится восьмая конференция Retention Day, посвященная развитию маркетинговых технологий в e-commerce. Мероприятие соберет ведущих игроков рынка электронной коммерции, чтобы обсудить стратегии, инструменты и инсайты, которые необходимы для успешного ведения бизнеса в эпоху цифрового покупателя. В этот раз Retention Day будет включать три тематических трека: будущее маркетинга в e-commerce, а также […]"
+        }
+      ]
+    }
+  ],
+  "MetaTitle": "Восьмая MarTech-конференция Retention Day пройдет в Москве – Retail Rocket Group",
+  "ContentBlockList": [
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "25 апреля состоится восьмая конференция Retention Day, посвященная развитию маркетинговых технологий в e-commerce. Мероприятие соберет ведущих игроков рынка электронной коммерции, чтобы обсудить стратегии, инструменты и инсайты, которые необходимы для успешного ведения бизнеса в эпоху цифрового покупателя."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "В этот раз Retention Day будет включать три тематических трека:"
+        }
+      ]
+    },
+    {
+      "_t": "UnorderedList",
+      "Items": [
+        [
+          {
+            "_t": "Text",
+            "Content": "будущее маркетинга в e-commerce, а также технологии и инструменты, которые формируют его ландшафт;"
+          }
+        ],
+        [
+          {
+            "_t": "Text",
+            "Content": "эволюция рынка Retail Media и его влияние на e-commerce;"
+          }
+        ],
+        [
+          {
+            "_t": "Text",
+            "Content": "практические кейсы по работе над удержанием аудитории."
+          }
+        ]
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Спикерами конференции станут:"
+        }
+      ]
+    },
+    {
+      "_t": "UnorderedList",
+      "Items": [
+        [
+          {
+            "_t": "Text",
+            "Content": "Андрей Мигунов, руководитель отдела программ лояльности в «Перекрестке» (X5 Retail Group);"
+          }
+        ],
+        [
+          {
+            "_t": "Text",
+            "Content": "Дмитрий Сильвентойнен, Product Owner в Ашане;"
+          }
+        ],
+        [
+          {
+            "_t": "Text",
+            "Content": "Виктория Грачева, Head of CRM в Л’Окситан;"
+          }
+        ],
+        [
+          {
+            "_t": "Text",
+            "Content": "Серж Иванов, директор по маркетингу в Petshop;"
+          }
+        ],
+        [
+          {
+            "_t": "Text",
+            "Content": "Варвара Нагаева, старший бизнес-аналитик в Glowbyte;"
+          }
+        ],
+        [
+          {
+            "_t": "Text",
+            "Content": "Сергей Абрамов, CEO в Easy Commerce;"
+          }
+        ],
+        [
+          {
+            "_t": "Text",
+            "Content": "Сергей Тимохин, Regional Director CIS в Retail Rocket Group;"
+          }
+        ],
+        [
+          {
+            "_t": "Text",
+            "Content": "Елена Абрамова, руководитель направления клиентского сервиса Zenden;"
+          }
+        ],
+        [
+          {
+            "_t": "Text",
+            "Content": "Даниил Дернов, директор по продуктам Fresh Auto."
+          }
+        ]
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Retail Rocket Group с 2021 года собирает сообщество Retention Day, чтобы развивать маркетологов и предоставлять площадку для выступлений. За все время в конференции поучаствовало 44 спикера из таких компаний как Яндекс, VK, Skillbox, Avito, Setters, Miuz и других лидеров рынка в разных отраслях."
+        }
+      ]
+    },
+    {
+      "_t": "Quote",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Из-за стремительного развития технологий мир маркетинга меняется очень быстро. И чтобы оставаться успешным в таких условиях, нужно непрерывно учиться. Самый эффективный способ делать это — получать инсайты из первых уст от тех, кто внедряет новые технологии прямо сейчас. Именно поэтому мы придумали Retention day — конференцию, которая объединяет выдающихся маркетологов, чтобы вместе делать умный маркетинг"
+        }
+      ],
+      "Author": "Сергей Тимохин,",
+      "AuthorPosition": "генеральный директор Retail Rocket Group",
+      "AuthorImageUrl": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Похожие статьи "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/news/retail-rocket-cofix-premiya-miks-rossiya-2025/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "Новости Retail Rocket Group и Cofix получили премию «МИКС Россия — 2025» за проект martech-экосистемы для франчайзинговой сети Наталья Казьмина 12.11.2025"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/news/retail-rocket-group-premiya-bolshoj-oborot-2025/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "Новости Retail Rocket Group получила премию «Большой Оборот — 2025» Наталья Казьмина 10.10.2025"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/news/edinij-centr-marketinga-retail-rocket-ecom-awards-2025/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "Новости Единый центр управления маркетингом Retail Rocket Group получил премию ECOM Awards 2025 Наталья Казьмина 08.10.2025"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,97 +1,159 @@
-# JSON Schema — блоки контента
+# JSON Schema — BlogArticle
 
-Каждая статья хранится как JSON-файл с верхнеуровневыми полями и массивом `blocks`.
+Каждая статья хранится как JSON-файл в формате BlogArticle. Все поля используют PascalCase. Контент представлен как массив типизированных блоков с discriminator-полем `_t`.
 
 ## Верхнеуровневые поля
 
 | Поле | Тип | Описание |
 |---|---|---|
-| `section` | `string` | Раздел: `blog`, `analytics`, `glossary`, `cases` |
-| `id` | `number` | WordPress post ID |
-| `slug` | `string` | URL-slug статьи |
-| `url` | `string` | Полный URL на retailrocket.ru |
-| `h1` | `string` | Заголовок статьи |
-| `date_published` | `string` | ISO 8601 дата публикации |
-| `date_modified` | `string` | ISO 8601 дата последнего изменения |
-| `excerpt` | `string \| null` | Краткое описание (превью) статьи |
-| `blocks` | `array` | Массив контент-блоков (см. ниже) |
+| `Slug` | `string` | URL-slug статьи |
+| `Label` | `string[]` | Метки/теги (тематические теги из WP или название раздела как fallback) |
+| `Title` | `string` | Заголовок статьи |
+| `PublishDate` | `{ "$date": string }` | Дата публикации в формате MongoDB Extended JSON (ISO 8601) |
+| `ImageUrl` | `string` | URL обложки (из Yoast og:image) |
+| `AuthorIdList` | `string[]` | Список slug-ов авторов |
+| `LeadText` | `Paragraph[]` | Краткое описание (превью) в формате rich-text |
+| `MetaTitle` | `string` | SEO-заголовок (из Yoast, fallback к Title) |
+| `ContentBlockList` | `Block[]` | Массив контент-блоков (см. ниже) |
+
+Пример верхнеуровневой структуры:
+
+```json
+{
+  "Slug": "kak-schitat-churn-rate",
+  "Label": ["blog"],
+  "Title": "Как считать Churn Rate",
+  "PublishDate": { "$date": "2024-06-15T10:00:00" },
+  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/cover.jpg",
+  "AuthorIdList": ["natalia-kazmina"],
+  "LeadText": [
+    {
+      "Elements": [
+        { "_t": "Text", "Content": "Churn Rate — ключевая метрика удержания..." }
+      ]
+    }
+  ],
+  "MetaTitle": "Как считать Churn Rate – Retail Rocket",
+  "ContentBlockList": [ ... ]
+}
+```
 
 ---
 
-## Inline-форматирование в текстовых полях
+## Inline-элементы (Text / Link)
 
-Все текстовые поля (`text`, элементы списков, ячейки таблиц и т.д.) могут содержать inline-разметку в формате Markdown:
+Все текстовые поля внутри блоков (`Elements`, `Items`, `TitleElements`) содержат массивы inline-элементов двух типов, различаемых по полю `_t`.
 
-| Разметка | HTML-источник | Пример |
+### `Text` — текстовый фрагмент
+
+```json
+{
+  "_t": "Text",
+  "Content": "Текст фрагмента",
+  "IsBold": true
+}
+```
+
+| Поле | Тип | Описание |
 |---|---|---|
-| `**текст**` | `<strong>`, `<b>` | **жирный** |
-| `*текст*` | `<em>`, `<i>` | *курсив* |
-| `__текст__` | `<u>` | подчёркнутый |
-| `~~текст~~` | `<del>`, `<s>` | ~~зачёркнутый~~ |
-| `==текст==` | `<mark>` | ==выделение== |
-| `^текст^` | `<sup>` | надстрочный |
-| `~текст~` | `<sub>` | подстрочный |
-| `[текст](url)` | `<a href="url">` | [ссылка](https://example.com) |
+| `_t` | `"Text"` | Discriminator |
+| `Content` | `string` | Текст |
+| `IsBold` | `boolean?` | Жирный (присутствует только если `true`) |
+| `IsItalic` | `boolean?` | Курсив |
+| `IsUnderline` | `boolean?` | Подчёркнутый |
+| `IsStrike` | `boolean?` | Зачёркнутый |
+| `IsHighlight` | `boolean?` | Выделение (маркер) |
+| `IsSuperscript` | `boolean?` | Надстрочный |
+| `IsSubscript` | `boolean?` | Подстрочный |
 
-Форматирование может быть вложенным: `***жирный курсив***` = `<strong><em>текст</em></strong>`.
+Boolean-флаги опциональны — присутствуют только со значением `true`.
+
+### `Link` — ссылка
+
+```json
+{
+  "_t": "Link",
+  "Href": "https://example.com",
+  "Elements": [
+    { "_t": "Text", "Content": "текст ссылки" }
+  ]
+}
+```
+
+| Поле | Тип | Описание |
+|---|---|---|
+| `_t` | `"Link"` | Discriminator |
+| `Href` | `string` | URL ссылки |
+| `Elements` | `Text[]` | Массив Text-элементов (без вложенных Link) |
 
 ---
 
 ## Типы блоков
 
-### `text` — Текстовый параграф
+Каждый блок имеет поле `_t` (discriminator) для определения типа.
+
+### `Paragraph` — Текстовый параграф
 
 Основной блок контента. Самый частый тип.
 
 ```json
 {
-  "type": "text",
-  "text": "Текст параграфа с **жирным** и *курсивом*."
+  "_t": "Paragraph",
+  "Elements": [
+    { "_t": "Text", "Content": "Текст с " },
+    { "_t": "Text", "Content": "выделением", "IsBold": true },
+    { "_t": "Text", "Content": " и " },
+    {
+      "_t": "Link",
+      "Href": "https://example.com",
+      "Elements": [{ "_t": "Text", "Content": "ссылкой" }]
+    }
+  ]
 }
 ```
 
-| Поле | Тип | Обязательное | Описание |
-|---|---|---|---|
-| `type` | `"text"` | да | |
-| `text` | `string` | да | Содержимое с inline-разметкой |
+| Поле | Тип | Описание |
+|---|---|---|
+| `_t` | `"Paragraph"` | |
+| `Elements` | `(Text \| Link)[]` | Rich-text содержимое |
 
 ---
 
-### `heading_1` .. `heading_6` — Заголовки
+### `Heading2` .. `Heading4` — Заголовки
 
-Заголовки уровней 1–6. На практике используются `heading_1`, `heading_2`, `heading_3`.
+Заголовки уровней 2–4. `Heading1` пропускается при конвертации (дублирует Title).
 
 ```json
 {
-  "type": "heading_2",
-  "text": "Заголовок второго уровня"
+  "_t": "Heading2",
+  "Title": "Заголовок второго уровня"
 }
 ```
 
-| Поле | Тип | Обязательное | Описание |
-|---|---|---|---|
-| `type` | `"heading_N"` | да | N = 1..6 |
-| `text` | `string` | да | Текст заголовка (без inline-разметки) |
+| Поле | Тип | Описание |
+|---|---|---|
+| `_t` | `"Heading2"` / `"Heading3"` / `"Heading4"` | |
+| `Title` | `string` | Текст заголовка (plain text) |
 
 ---
 
-### `image` — Изображение
+### `Image` — Изображение
 
 ```json
 {
-  "type": "image",
-  "url": "https://retailrocket.ru/wp-content/uploads/photo.jpg",
-  "alt": "Описание изображения",
-  "caption": "Подпись к изображению"
+  "_t": "Image",
+  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/photo.jpg",
+  "Alt": "Описание изображения",
+  "Caption": "Подпись к изображению"
 }
 ```
 
-| Поле | Тип | Обязательное | Описание |
-|---|---|---|---|
-| `type` | `"image"` | да | |
-| `url` | `string` | да | Абсолютный URL изображения |
-| `alt` | `string \| null` | нет | Alt-текст |
-| `caption` | `string \| null` | нет | Подпись (из `<figcaption>`) |
+| Поле | Тип | Описание |
+|---|---|---|
+| `_t` | `"Image"` | |
+| `ImageUrl` | `string` | Абсолютный URL изображения |
+| `Alt` | `string` | Alt-текст (пустая строка если отсутствует) |
+| `Caption` | `string \| null` | Подпись (из `<figcaption>`) |
 
 ---
 
@@ -99,26 +161,23 @@
 
 ```json
 {
-  "type": "UnorderedList",
-  "items": [
-    { "text": "Первый пункт с **выделением**" },
-    { "text": "Второй пункт" },
-    {
-      "text": "Пункт с вложенным списком",
-      "children": [
-        { "text": "Вложенный пункт" }
-      ]
-    }
+  "_t": "UnorderedList",
+  "Items": [
+    [
+      { "_t": "Text", "Content": "Первый пункт с " },
+      { "_t": "Text", "Content": "выделением", "IsBold": true }
+    ],
+    [
+      { "_t": "Text", "Content": "Второй пункт" }
+    ]
   ]
 }
 ```
 
-| Поле | Тип | Обязательное | Описание |
-|---|---|---|---|
-| `type` | `"UnorderedList"` | да | |
-| `items` | `array` | да | Массив элементов |
-| `items[].text` | `string` | да | Текст элемента с inline-разметкой |
-| `items[].children` | `array` | нет | Вложенные элементы (рекурсивная структура) |
+| Поле | Тип | Описание |
+|---|---|---|
+| `_t` | `"UnorderedList"` | |
+| `Items` | `(Text \| Link)[][]` | Массив элементов, каждый элемент — массив inline-элементов |
 
 ---
 
@@ -128,34 +187,34 @@
 
 ```json
 {
-  "type": "OrderedList",
-  "items": [
-    { "text": "Шаг 1" },
-    { "text": "Шаг 2" }
+  "_t": "OrderedList",
+  "Items": [
+    [{ "_t": "Text", "Content": "Шаг 1" }],
+    [{ "_t": "Text", "Content": "Шаг 2" }]
   ]
 }
 ```
 
 ---
 
-### `table` — Таблица
+### `Table` — Таблица
 
 ```json
 {
-  "type": "table",
-  "header": ["Метрика", "Описание", "Формула"],
-  "rows": [
+  "_t": "Table",
+  "Header": ["Метрика", "Описание", "Формула"],
+  "Rows": [
     ["CPA", "Стоимость привлечения", "Расходы / Конверсии"],
     ["ROAS", "Возврат на рекламу", "Доход / Расходы"]
   ]
 }
 ```
 
-| Поле | Тип | Обязательное | Описание |
-|---|---|---|---|
-| `type` | `"table"` | да | |
-| `header` | `string[]` | да | Заголовки столбцов |
-| `rows` | `string[][]` | да | Строки данных (ячейки с inline-разметкой) |
+| Поле | Тип | Описание |
+|---|---|---|
+| `_t` | `"Table"` | |
+| `Header` | `string[]` | Заголовки столбцов |
+| `Rows` | `string[][]` | Строки данных (plain text) |
 
 ---
 
@@ -163,236 +222,203 @@
 
 ```json
 {
-  "type": "Quote",
-  "text": "Текст цитаты.",
-  "attribution": "Иван Петров, CEO"
+  "_t": "Quote",
+  "Elements": [
+    { "_t": "Text", "Content": "Текст цитаты." }
+  ],
+  "Author": "Алексей Клотц",
+  "AuthorPosition": "Head of digital products в Cofix",
+  "AuthorImageUrl": "https://retailrocket.ru/wp-content/uploads/photo.webp"
 }
 ```
 
-| Поле | Тип | Обязательное | Описание |
-|---|---|---|---|
-| `type` | `"Quote"` | да | |
-| `text` | `string` | да | Текст цитаты |
-| `attribution` | `string` | да | Автор / источник |
+| Поле | Тип | Описание |
+|---|---|---|
+| `_t` | `"Quote"` | |
+| `Elements` | `(Text \| Link)[]` | Текст цитаты в rich-text |
+| `Author` | `string` | Имя автора цитаты |
+| `AuthorPosition` | `string \| null` | Должность автора (из Elementor author-box) |
+| `AuthorImageUrl` | `string \| null` | URL фото автора (из Elementor author-box) |
 
 ---
 
-### `EmphasisQuote` — Выделенная цитата (без автора)
+### `Factoid` — Факт / Выделенная цитата
+
+Объединяет бывшие `EmphasisQuote` и `Factoid` из v1.
 
 ```json
 {
-  "type": "EmphasisQuote",
-  "text": "Важная мысль, выделенная в тексте."
-}
-```
-
-| Поле | Тип | Обязательное | Описание |
-|---|---|---|---|
-| `type` | `"EmphasisQuote"` | да | |
-| `text` | `string` | да | Текст выделенной цитаты |
-
----
-
-### `Factoid` — Факт / Highlight
-
-Короткий выделенный блок (обычно до 280 символов).
-
-```json
-{
-  "type": "Factoid",
-  "text": "67% покупателей бросают корзину до оплаты."
-}
-```
-
-| Поле | Тип | Обязательное | Описание |
-|---|---|---|---|
-| `type` | `"Factoid"` | да | |
-| `text` | `string` | да | Текст факта (до 600 символов) |
-
----
-
-### `formula` — Математическая формула
-
-LaTeX-нотация, извлечённая из кастомных виджетов формул.
-
-```json
-{
-  "type": "formula",
-  "latex": "Churn Rate = \\frac{Lost}{Start} \\times 100\\%"
-}
-```
-
-| Поле | Тип | Обязательное | Описание |
-|---|---|---|---|
-| `type` | `"formula"` | да | |
-| `latex` | `string` | да | LaTeX-выражение |
-
----
-
-### `cta_primary` / `cta_secondary` — Call-to-Action кнопки
-
-```json
-{
-  "type": "cta_primary",
-  "text": "Запросить демо",
-  "url": "https://retailrocket.ru/request-demo/"
-}
-```
-
-```json
-{
-  "type": "cta_secondary",
-  "text": "Узнать больше",
-  "url": "https://retailrocket.ru/cases/"
-}
-```
-
-| Поле | Тип | Обязательное | Описание |
-|---|---|---|---|
-| `type` | `"cta_primary"` или `"cta_secondary"` | да | |
-| `text` | `string` | да | Текст кнопки |
-| `url` | `string` | да | URL ссылки |
-
-**Логика классификации:**
-- `primary` — «Запросить демо», «Оставить заявку», «Получить демо», «Связаться», «Заказать», «Купить», «Начать», «Попробовать», «Записаться»
-- `secondary` — «Узнать больше», «Подробнее», «Посмотреть», «Читать», «Кейсы» и прочие
-
----
-
-### `video` — Видео
-
-```json
-{
-  "type": "video",
-  "url": "https://www.youtube.com/watch?v=..."
-}
-```
-
-| Поле | Тип | Обязательное | Описание |
-|---|---|---|---|
-| `type` | `"video"` | да | |
-| `url` | `string` | да | URL видео (YouTube, Vimeo и др.) |
-
----
-
-### `contents` — Оглавление / Таймкоды видео
-
-```json
-{
-  "type": "contents",
-  "title": "Содержание видео",
-  "text": "0:00 — Введение\n0:45 — Первый раздел\n2:30 — Заключение"
-}
-```
-
-| Поле | Тип | Обязательное | Описание |
-|---|---|---|---|
-| `type` | `"contents"` | да | |
-| `title` | `string` | да | Заголовок («Содержание видео», «Содержание») |
-| `text` | `string` | да | Таймкоды, разделённые `\n` |
-
----
-
-### `carousel` — Слайдер с кейсами
-
-```json
-{
-  "type": "carousel",
-  "items": [
-    {
-      "metric": "+400%",
-      "label": "Результаты",
-      "title": "АШАН",
-      "description": "Описание кейса...",
-      "link_text": "Посмотреть кейсы",
-      "link_url": "https://retailrocket.ru/cases/",
-      "video_url": "https://retailrocket.ru/video.mp4",
-      "video_poster": "https://retailrocket.ru/poster.jpg"
-    }
+  "_t": "Factoid",
+  "Elements": [
+    { "_t": "Text", "Content": "67% покупателей бросают корзину до оплаты." }
   ]
 }
 ```
 
-| Поле | Тип | Обязательное | Описание |
-|---|---|---|---|
-| `type` | `"carousel"` | да | |
-| `items` | `array` | да | Слайды |
-| `items[].metric` | `string` | нет | Ключевая метрика (напр. `+400%`) |
-| `items[].label` | `string` | нет | Подпись к метрике |
-| `items[].title` | `string` | нет | Название клиента / кейса |
-| `items[].description` | `string` | нет | Описание кейса |
-| `items[].link_text` | `string` | нет | Текст ссылки |
-| `items[].link_url` | `string` | нет | URL ссылки |
-| `items[].video_url` | `string` | нет | URL фонового видео |
-| `items[].video_poster` | `string` | нет | URL постера видео |
+| Поле | Тип | Описание |
+|---|---|---|
+| `_t` | `"Factoid"` | |
+| `Elements` | `(Text \| Link)[]` | Текст факта в rich-text |
 
 ---
 
-### `ImageCaption` — Подпись к изображению (legacy)
-
-Встречается в старых экспортах. Текущий экспортёр этот тип не генерирует — вместо него используется поле `caption` внутри блока `image`.
+### `Formula` — Математическая формула
 
 ```json
 {
-  "type": "ImageCaption",
-  "text": "Подпись к изображению",
-  "source": "Источник данных"
+  "_t": "Formula",
+  "Latex": "Churn Rate = \\frac{Lost}{Start} \\times 100\\%"
 }
 ```
 
-| Поле | Тип | Обязательное | Описание |
-|---|---|---|---|
-| `type` | `"ImageCaption"` | да | |
-| `text` | `string` | да | Текст подписи |
-| `source` | `string` | да | Источник |
+| Поле | Тип | Описание |
+|---|---|---|
+| `_t` | `"Formula"` | |
+| `Latex` | `string` | LaTeX-выражение |
+
+---
+
+### `Video` — Видео
+
+```json
+{
+  "_t": "Video",
+  "VideoUrl": "https://www.youtube.com/watch?v=..."
+}
+```
+
+| Поле | Тип | Описание |
+|---|---|---|
+| `_t` | `"Video"` | |
+| `VideoUrl` | `string` | URL видео (YouTube, Vimeo и др.) |
+
+---
+
+### `CtaPrimaryBlock` — Основной Call-to-Action
+
+Промо-блок с основным призывом к действию (заявка, демо).
+
+```json
+{
+  "_t": "CtaPrimaryBlock",
+  "TitleElements": [
+    { "_t": "Text", "Content": "Хотите так же?" }
+  ],
+  "Elements": [],
+  "BtnText": "Запросить демо",
+  "BtnUrl": "https://retailrocket.ru/demo/"
+}
+```
+
+| Поле | Тип | Описание |
+|---|---|---|
+| `_t` | `"CtaPrimaryBlock"` | |
+| `TitleElements` | `(Text \| Link)[]` | Заголовок промо-блока |
+| `Elements` | `(Text \| Link)[]` | Описание (обычно пустой массив) |
+| `BtnText` | `string` | Текст кнопки |
+| `BtnUrl` | `string` | URL кнопки |
+
+---
+
+### `CtaSecondaryBlock` — Вторичный Call-to-Action
+
+Промо-блок с вторичным призывом (подробнее, кейсы).
+
+```json
+{
+  "_t": "CtaSecondaryBlock",
+  "TitleElements": [
+    { "_t": "Text", "Content": "Узнать подробнее" }
+  ],
+  "Elements": [],
+  "BtnText": "Посмотреть кейсы",
+  "BtnUrl": "https://retailrocket.ru/cases/"
+}
+```
+
+Структура полей аналогична `CtaPrimaryBlock`.
 
 ---
 
 ## Разделы экспорта
 
-| Раздел | API | Папка | Кол-во файлов |
-|---|---|---|---|
-| Блог | `wp/v2/posts?categories=1` | `blog/` | 125 |
-| Аналитика | `wp/v2/posts?categories=14` | `analytics/` | 2 |
-| Словарь | `wp/v2/posts?categories=20` | `glossary/` | 42 |
-| Кейсы | `wp/v2/posts?categories=21` | `cases/` | 24 |
-| Новости | `wp/v2/posts?categories=19` | `news/` | 21 |
-| Обновления | `wp/v2/posts?categories=18` | `updates/` | 30 |
-| Страницы | `wp/v2/pages` | `pages/` | 18 |
-| Мероприятия | `wp/v2/event` | `events/` | 3 |
+| Раздел | Папка | Кол-во файлов |
+|---|---|---|
+| Блог | `blog/` | 125 |
+| Глоссарий | `glossary/` | 42 |
+| Обновления | `updates/` | 30 |
+| Кейсы | `cases/` | 24 |
+| Новости | `news/` | 21 |
+| Страницы | `pages/` | 18 |
+| Мероприятия | `events/` | 3 |
+| Аналитика | `analytics/` | 2 |
+| **Итого** | | **265** |
 
-## Статистика блоков (по текущему экспорту, 265 файлов)
+## Файл маппинга
+
+`_mapping.json` содержит маппинг `slug → { section, id, url }` для всех статей:
+
+```json
+{
+  "kak-schitat-churn-rate": {
+    "section": "blog",
+    "id": 12345,
+    "url": "https://retailrocket.ru/blog/kak-schitat-churn-rate/"
+  }
+}
+```
+
+| Поле | Тип | Описание |
+|---|---|---|
+| `section` | `string` | Раздел на сайте |
+| `id` | `number` | WordPress post ID |
+| `url` | `string` | Полный URL на retailrocket.ru |
+
+## Статистика блоков (265 файлов, 14 514 блоков)
+
+| Тип блока | Количество |
+|---|---|
+| `Paragraph` | 7 933 |
+| `Image` | 1 724 |
+| `Heading3` | 1 387 |
+| `Heading2` | 1 366 |
+| `UnorderedList` | 1 190 |
+| `CtaSecondaryBlock` | 202 |
+| `Table` | 201 |
+| `OrderedList` | 160 |
+| `Quote` | 148 |
+| `CtaPrimaryBlock` | 92 |
+| `Formula` | 85 |
+| `Factoid` | 17 |
+| `Video` | 8 |
+| `Heading4` | 1 |
+
+## Статистика inline-элементов (19 140 элементов)
 
 | Тип | Количество |
 |---|---|
-| `text` | ~7970 |
-| `image` | ~2400 |
-| `heading_3` | ~1390 |
-| `heading_2` | ~1370 |
-| `UnorderedList` | ~1190 |
-| `heading_1` | ~240 |
-| `cta_secondary` | ~200 |
-| `table` | ~200 |
-| `OrderedList` | ~160 |
-| `Quote` | ~148 |
-| `cta_primary` | ~92 |
-| `formula` | ~85 |
-| `EmphasisQuote` | ~12 |
-| `video` | ~8 |
-| `carousel` | ~8 |
-| `Factoid` | ~5 |
-| `contents` | ~2 |
-| `heading_4` | ~1 |
+| `Text` | 17 746 |
+| `Link` | 1 394 |
 
-## Статистика inline-форматирования (по текущему экспорту)
+### Boolean-флаги на Text-элементах
 
-| Паттерн | Синтаксис | Всего |
-|---------|-----------|------:|
-| Bold | `**текст**` | 2 443 |
-| Links | `[текст](url)` | 1 467 |
-| Italic | `*текст*` | 34 |
-| Underline | `__текст__` | 0 |
-| Strikethrough | `~~текст~~` | 0 |
-| Highlight | `==текст==` | 0 |
-| Superscript | `^текст^` | 0 |
-| Subscript | `~текст~` | 0 |
+| Флаг | Элементов |
+|---|---|
+| `IsBold` | 2 401 |
+| `IsItalic` | 34 |
+| `IsUnderline` | 0 |
+| `IsStrike` | 0 |
+| `IsHighlight` | 0 |
+| `IsSuperscript` | 0 |
+| `IsSubscript` | 0 |
+
+## Авторы
+
+| Author ID | Статей |
+|---|---|
+| `natalia-kazmina` | 140 |
+| `kirill-morozov` | 102 |
+| `rradmin` | 19 |
+| `elizaveta-krievu` | 1 |
+
+3 статьи не имеют привязанного автора (`AuthorIdList` пуст).

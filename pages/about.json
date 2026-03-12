@@ -1,0 +1,667 @@
+{
+  "Slug": "about",
+  "Label": [
+    "pages"
+  ],
+  "Title": "О нас",
+  "PublishDate": {
+    "$date": "2025-07-05T16:15:23"
+  },
+  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/10/og_about.png",
+  "AuthorIdList": [
+    "rradmin"
+  ],
+  "LeadText": [
+    {
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "О компании Миссия Нашипреимущества Партнерство Выступаем партнером через экспертизу и технологии — помогаем клиентам выстроить стратегию и получить лучшее решение бизнес-задач. Доверие и безопасность Предоставляем стабильные решения по работе с данными уровня enterprise — зарегистрированы как оператор персональных данных, соответствуем 152-ФЗ, подтвердили высокий уровень защиты информации через проверки и аудиты. Инновации Работаем с большими данными, разрабатываем решения в области машинного обучения и искусственного интеллекта — непрерывно […]"
+        }
+      ]
+    }
+  ],
+  "MetaTitle": "О компании Retail Rocket Group",
+  "ContentBlockList": [
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "О компании"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/sailpay.svg",
+      "Alt": "Service Logo #2",
+      "Caption": null
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/retail-rocket.svg",
+      "Alt": "Service Logo #1",
+      "Caption": null
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/Smart-Placement-Ads.svg",
+      "Alt": "Service Logo #3",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Миссия"
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Наши преимущества"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Партнерство Выступаем партнером через экспертизу и технологии — помогаем клиентам выстроить стратегию и получить лучшее решение бизнес-задач."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/divider.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Доверие и безопасность Предоставляем стабильные решения по работе с данными уровня enterprise — зарегистрированы как оператор персональных данных, соответствуем 152-ФЗ, подтвердили высокий уровень защиты информации через проверки и аудиты."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/divider.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Инновации Работаем с большими данными, разрабатываем решения в области машинного обучения и искусственного интеллекта — непрерывно создаем технологии, которые помогают клиентам получить конкурентное преимущество."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Данные за 2024 год"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/icon1.svg",
+      "Alt": "267823139",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "267 823 139 посетителей пользуются сайтами наших клиентов каждый месяц"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/icon2.svg",
+      "Alt": "426096",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "426 096 событий в минуту обрабатывают наши серверы"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/icon3.svg",
+      "Alt": "39231535708",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "39 231 535 708 рублей выручка наших клиентов от продаж товаров и услуг"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/icon4.svg",
+      "Alt": "347+",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "347+ серверов в экосистеме Retail Rocket Group"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/icon5.svg",
+      "Alt": "14012275",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "14 012 275 товаров продано на сайтах наших клиентов"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/icon6.svg",
+      "Alt": "100+",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "100+ лет нужно, чтобы создать Retail Rocket Group История компании От стартапа — до технологического решения для лидеров рынка 2013 Основали компанию Запустили алгоритмы товарных рекомендаций — привлекли 50 первых клиентов, в том числе Wildberries Запустили ключевые продукты Выпустили систему рекомендаций на основе ИИ, а также платформу для запуска триггерных рассылок 2014 2015 Стали резидентами «Сколково» Подтвердили технологический уровень проекта и потенциал для роста Вышли на рынок массовых email-рассылок Запустили платформу email-маркетинга 2016 2019 Вывели на рынок платформу Smart Placement Ads Разработали инструмент для трансформации бизнеса в Retail Media Запустили Live CDP Разработали инструмент для сегментации аудитории по среднему чеку, LTV, Retention Rate и другим метрикам 2020 2021 Приобрели платформу Sailplay С помощью покупки решили все задачи клиентов по автоматизации маркетинга Увеличили количество алгоритмов рекомендаций Внедрили в рекомендательные системы Upsell, рекомендации товаров-аналогов и отсутствующих товаров 2022 2025 Вывели на рынок Умный поиск Разработали поиск для сайтов и приложений, который понимает контекст запросов пользователя"
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Команда"
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Сергей Соловьев"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "CEO Дублируем плашку для мобильной версии вне content"
+        }
+      ]
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Сергей Соловьев"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "CEO"
+        }
+      ]
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Андрей Чиж"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "CTO, сооснователь Retail Rocket Group Дублируем плашку для мобильной версии вне content"
+        }
+      ]
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Андрей Чиж"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "CTO, сооснователь Retail Rocket Group"
+        }
+      ]
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Павел Мысин"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Региональный директор СНГ Дублируем плашку для мобильной версии вне content"
+        }
+      ]
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Павел Мысин"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Региональный директор СНГ"
+        }
+      ]
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Сурен Степанянц"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Директор по продажам Дублируем плашку для мобильной версии вне content"
+        }
+      ]
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Сурен Степанянц"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Директор по продажам Есть идея или вопрос? Пишите — всегда готовы к диалогу"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2026/01/Retail-Rocket-Website-2025-Mask-Group.png",
+      "Alt": "МИКС",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "2025 МИКС AdTech & MarTech (Ecosystem Creation)"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/Asset-9.webp",
+      "Alt": "Большой оборот",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "2025 Большой оборот Автоматизация маркетинга"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/Asset-6.webp",
+      "Alt": "Ecom Awards",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "2025 Ecom Awards Лучший сервис для e-retail: BIG DATA, аналитика"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2026/01/Retail-Rocket-Website-2025-Image-3-1.png",
+      "Alt": "New Retail Cases",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "2025 New Retail Cases Разработка и развитие ИТ-решений в ритейле"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2026/01/Retail-Rocket-Website-2025-7.png",
+      "Alt": "Retail Week Awards",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "2025 Retail Week Awards Цифровые решения для управления персоналом"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2026/01/Retail-Rocket-Website-2025-Image-3-1.png",
+      "Alt": "RB Digital Awards",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "2025 RB Digital Awards Поставщик года"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2026/01/Retail-Rocket-Website-2025-Image-3-1.png",
+      "Alt": "MarTech Star Awards Russia",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "2024 MarTech Star Awards Russia Best AdTech solution"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2026/01/Retail-Rocket-Website-2025-Image-3.png",
+      "Alt": "MarTech Star Awards Russia",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "2024 MarTech Star Awards Russia Best use of martech for employee engagement"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/Asset-9.webp",
+      "Alt": "Большой оборот",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "2022 Большой оборот Автоматизация маркетинга"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/Asset-6.webp",
+      "Alt": "Ecom Awards",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "2022 Ecom Awards Smart Placement – Big Data решение для e-com"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/Asset-9.webp",
+      "Alt": "Большой оборот",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "2019 Большой оборот Автоматизация маркетинга"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/Asset-9.webp",
+      "Alt": "Большой оборот",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "2019 Большой оборот Повышение лояльности и конверсии пользователей"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/Asset-7.webp",
+      "Alt": "Агентство Data Insight",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "2018 Агентство Data Insight Лидер среди сервисов персонализации"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/Asset-9.webp",
+      "Alt": "Большой оборот",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "2017 Большой оборот Лояльность и конверсия"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/Asset-8.webp",
+      "Alt": "Email Show",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "2017 Email Show Инновации в e-mail"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/Asset-8.webp",
+      "Alt": "Email Show",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "2017 Email Show Вклад в развитие отрасли "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/news/retail-rocket-cofix-premiya-miks-rossiya-2025/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "Новости Retail Rocket Group и Cofix получили премию «МИКС Россия — 2025» за проект martech-экосистемы для франчайзинговой сети 12.11.2025"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/news/retail-rocket-group-premiya-bolshoj-oborot-2025/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "Новости Retail Rocket Group получила премию «Большой Оборот — 2025» 10.10.2025"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/news/edinij-centr-marketinga-retail-rocket-ecom-awards-2025/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "Новости Единый центр управления маркетингом Retail Rocket Group получил премию ECOM Awards 2025 08.10.2025"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/news/retail-rocket-leader-retail-media-rejting-technology-index-2025/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "Новости Retail Media платформа Retail Rocket Group заняла лидирующие позиции в рейтинге Technology Index 2025 30.06.2025"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/news/mvideo-eldorado-zapustila-retail-media-s-retail-rocket/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "Новости М.Видео-Эльдорадо и Retail Rocket Group усилили конкуренцию на рынке Retail Media 25.06.2025"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/news/retail-rocket-i-cofix-final-new-retail-2025/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "Новости Retail Rocket Group и Cofix стали финалистами Конкурса кейсов New Retail 2025 19.06.2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/09/Group-2131328136.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Москва, Россия Ленинградский проспект, д. 74А, БЦ «Сокол центр», этаж 3, 125315 "
+        },
+        {
+          "_t": "Link",
+          "Href": "tel:+74997023688",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "+7 499 702 36 88"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "mailto:hello@retailrocket.io",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "hello@retailrocket.io"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

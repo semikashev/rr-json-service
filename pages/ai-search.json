@@ -1,0 +1,646 @@
+{
+  "Slug": "ai-search",
+  "Label": [
+    "pages"
+  ],
+  "Title": "Умный поиск",
+  "PublishDate": {
+    "$date": "2025-08-12T20:40:02"
+  },
+  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/10/og_ai-search.png",
+  "AuthorIdList": [
+    "rradmin"
+  ],
+  "LeadText": [
+    {
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Записаться на демо Увеличивайте продажи без дополнительного трафика Покупатели быстрее находят нужное и не уходят к конкурентам — растет конверсия, средний чек и число повторных покупок. Персонализированная поисковая выдача по каждому запросу Умный поиск распознаёт смысл, корректирует ошибки, предлагает релевантные варианты и персонализирует результаты поиска под клиента. Используйте поиск как источник данных о намерениях клиентов Умный поиск показывает, что и как ищут клиенты, помогая бизнесу […]"
+        }
+      ]
+    }
+  ],
+  "MetaTitle": "Умный поиск для сайта и интернет-магазина на AI-технологиях | Retail Rocket Group",
+  "ContentBlockList": [
+    {
+      "_t": "CtaPrimaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Записаться на демо"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Записаться на демо",
+      "BtnUrl": "https://retailrocket.ru/demo/"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/1-2.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Увеличивайте продажи без дополнительного трафика Покупатели быстрее находят нужное и не уходят к конкурентам — растет конверсия, средний чек и число повторных покупок."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/2-2.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Персонализированная поисковая выдача по каждому запросу Умный поиск распознаёт смысл, корректирует ошибки, предлагает релевантные варианты и персонализирует результаты поиска под клиента."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/3-2.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Используйте поиск как источник данных о намерениях клиентов Умный поиск показывает, что и как ищут клиенты, помогая бизнесу находить точки роста в UX и ассортименте."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/Frame-2131328131.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Гибкая интеграция, быстрый эффект Технология уровня маркетплейсов, которую можно внедрить за пару недель, — без затрат на команду и долгой разработки. Как AI-поиск влияет на бизнес Аудитория, которая использует поиск, знает, чего хочет. Умный поиск помогает это найти — повышая выручку и лояльность без дополнительных затрат на привлечение."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/icon1-1.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Конверсия в заказ с первой сессии Клиент быстрее находит нужный товар и покупает сразу. CTR в поисковой выдаче Больше кликов на релевантные товары, переходов в карточку и добавлений в корзину. Customer Satisfaction (CSAT), NPS Поиск понимает, что ищет покупатель, и помогает найти нужный товар."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/icon2-1.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Bounce rate Покупатели не уходят, потому что находят то, за чем пришли. Time to value AI-поиск сокращает путь клиента от намерения к результату, повышая скорость, с которой покупатель получает ценность. Количество нулевых результатов поиска Клиент не сталкивается со страницами «Ничего не найдено», даже если запрос неточный или с ошибкой. Хотите увидеть Умный поиск в деле?"
+        }
+      ]
+    },
+    {
+      "_t": "CtaPrimaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Записаться на демо"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Записаться на демо",
+      "BtnUrl": "https://retailrocket.ru/demo/"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Возможности Умного поиска Точность, персонализация, фильтры и аналитика — всё для того, чтобы клиенты были довольны. Помогает найти именно то, что ищут Понимает смысл запроса, а не только ключевые слова. Справляется с опечатками, синонимами, неточными формулировками и понимает разные языки."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/1-3-1024x889.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Постоянно обучается Запоминает историю поиска и действий покупателя, чтобы показывать точные результаты. Благодаря LLM поисковая выдача становится релевантнее, а подсказки при вводе помогают уточнить запрос."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/2-3-1024x889.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Персонализирует SERP При вводе запроса сразу появляются подходящие рекомендации. Новые пользователи видят популярные варианты, а система всегда находит релевантный результат вместо пустой страницы поиска."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/3-3-1024x889.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Аналитика для бизнеса"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/Frame-2131328146.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Узнайте, как не терять клиентов в момент, когда они готовы купить Оставьте заявку — и мы покажем, как помогать посетителям сайта находить товары быстрее и покупать чаще."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Умный поиск органично встраивается в ваш сайт, каталог и интерфейс — от витрины до логики фильтров."
+        }
+      ]
+    },
+    {
+      "_t": "CtaPrimaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Записаться на демо"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Записаться на демо",
+      "BtnUrl": "https://retailrocket.ru/demo/"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/1-2.svg",
+      "Alt": "1",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Быстрая интеграция через API или JS SDK"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/2-2.svg",
+      "Alt": "2",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Синхронизация остатков в реальном времени — в поиске только товары в наличии"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/3-2.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Фильтрация и сортировка по любым атрибутам: цене, бренду, наличию, новизне"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/4-5.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Полная совместимость с каталогами любого масштаба"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/5-1.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Повторяет UI/UX сайта — поиск выглядит и ощущается как часть сайта"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/6.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Гибкое подключение к Live CDP и Рекомендациям Retail Rocket Group"
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Live CDP"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Retail Media"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Коммуникации"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Рекомендации"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Умный поиск"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Лояльность"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Промоакции"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Live CDP Ускорьте бизнес-процессы с помощью live-данных о поведении и предпочтениях клиентов Скорость сегментации клиентской базы — 1 млн контактов в секунду Единые клиентские профили 360° с тегами и атрибутами Гибкие методы интеграции и передачи данных"
+        }
+      ]
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Узнать стоимость"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Узнать стоимость",
+      "BtnUrl": "https://retailrocket.ru/pricing/"
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Подробнее про Live CDP"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Подробнее про Live CDP",
+      "BtnUrl": "https://retailrocket.ru/cdp/"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/07/CDP-for-carousel.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Retail Мedia Получайте дополнительный доход с помощью нативной рекламы на всех этапах CJM Рекламный инвентарь для сайта, приложения и офлайн-магазина Гибкие условия таргетинга в реальном времени по интересам и поведению посетителей Аналитика в атрибуции post-click и post-view"
+        }
+      ]
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Узнать стоимость"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Узнать стоимость",
+      "BtnUrl": "https://retailrocket.ru/pricing/"
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Узнать больше про Retail media"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Узнать больше про Retail media",
+      "BtnUrl": "https://retailrocket.ru/retail-media/"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/07/Retail-Media-for-carousel.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Омниканальные коммуникации Персонализируйте каждое касание с клиентом — от e-mail до push и мессенджеров 17 триггерных сценариев на основе поведения клиентов WYSIWYG-редактор Омниканальность: e-mail, SMS, WhatsApp, push, чат-боты и уведомления в «Кошельке»"
+        }
+      ]
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Узнать стоимость"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Узнать стоимость",
+      "BtnUrl": "https://retailrocket.ru/pricing/"
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Подробнее про Коммуникации"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Подробнее про Коммуникации",
+      "BtnUrl": "https://retailrocket.ru/automation/"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/07/Comms-for-the-carousel.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Рекомендательные системы Увеличивайте конверсии с помощью персонализированных AI- и ML-рекомендаций на всем пути клиента 35+ высокоточных алгоритмов для любых сценариев Онлайн-, офлайн-, мобильные и email-рекомендации Мгновенная синхронизация с базами данных товаров любого масштаба"
+        }
+      ]
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Узнать стоимость"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Узнать стоимость",
+      "BtnUrl": "https://retailrocket.ru/pricing/"
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Подробнее про Рекомендации"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Подробнее про Рекомендации",
+      "BtnUrl": "https://retailrocket.ru/personalization/"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/07/Recommendations-for-the-carousel.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Умный поиск на базе ИИ Помогайте клиентам быстрее находить нужное — и покупок станет больше Учет абстракций, синонимов и опечаток при вводе запроса Понимание разных языков и раскладок клавиатуры Персонализация SERP"
+        }
+      ]
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Узнать стоимость"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Узнать стоимость",
+      "BtnUrl": "https://retailrocket.ru/pricing/"
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Подробнее про Поиск"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Подробнее про Поиск",
+      "BtnUrl": "https://retailrocket.ru/ai-search/"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/07/Smart-Search-image-for-the-carousel.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Управление лояльностью Удерживайте клиентов с помощью персонализированных бонусов и геймификации Настраиваемые уровни и статусы участия в программе лояльности Гибкие правила бонусов в no-code-конструкторе Управление подарками, реферальные программы и игровые механики"
+        }
+      ]
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Узнать стоимость"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Узнать стоимость",
+      "BtnUrl": "https://retailrocket.ru/pricing/"
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Подробнее про Лояльность"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Подробнее про Лояльность",
+      "BtnUrl": "https://retailrocket.ru/loyalty-program/"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/07/Loyalty-for-carousel-2.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Промоакции Повышайте частоту покупок с помощью таргетированных акций и гибкого ценообразования Конструктор no-code для создания промоакций: купонов, ваучеров, подарочных карт, комплектов и многого другого Инструменты для защиты от фрода Виртуальный терминал для тестирования акций"
+        }
+      ]
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Узнать стоимость"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Узнать стоимость",
+      "BtnUrl": "https://retailrocket.ru/pricing/"
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Подробнее про Промоакции"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Подробнее про Промоакции",
+      "BtnUrl": "https://retailrocket.ru/promo-marketing/"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/07/Promo-for-carousel.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Узнать стоимость"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Узнать стоимость",
+      "BtnUrl": "https://retailrocket.ru/pricing/"
+    },
+    {
+      "_t": "CtaPrimaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Записаться на демо"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Записаться на демо",
+      "BtnUrl": "https://retailrocket.ru/demo/"
+    }
+  ]
+}
