@@ -1,7 +1,7 @@
 {
   "Slug": "chto-takoe-retention-rate",
   "Label": [
-    "glossary"
+    "Словарь"
   ],
   "Title": "Retention Rate (коэффициент удержания клиентов): что это и как посчитать",
   "PublishDate": {
@@ -16,12 +16,12 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Retention Rate — доля клиентов, которые продолжают оставаться с бизнесом от периода к периоду. Анастасия Полякова, Head of product Retail Rocket Group рассказывает как посчитать Retention, какой показатель можно считать хорошим и по каким причинам коэффициент удержания может падать. Кирилл Морозов Главный редактор Retail Rocket Group Содержание статьи Что такое Retention Rate и зачем его […]"
+          "Content": "Retention Rate — доля клиентов, которые продолжают оставаться с бизнесом от периода к периоду. Анастасия Полякова, Head of product Retail Rocket Group рассказывает как посчитать Retention, какой показатель можно считать хорошим и по каким причинам коэффициент удержания может падать."
         }
       ]
     }
   ],
-  "MetaTitle": "Retention Rate: формула коэффициента удержания клиентов",
+  "MetaTitle": "Retention Rate: формула коэффициента удержания клиентов, страница 2",
   "ContentBlockList": [
     {
       "_t": "Paragraph",
@@ -36,18 +36,8 @@
       "_t": "Paragraph",
       "Elements": [
         {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/kirill-morozov/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-            }
-          ]
-        },
-        {
           "_t": "Text",
-          "Content": " Содержание статьи"
+          "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
         }
       ]
     },

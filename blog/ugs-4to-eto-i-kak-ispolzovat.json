@@ -1,7 +1,7 @@
 {
   "Slug": "ugs-4to-eto-i-kak-ispolzovat",
   "Label": [
-    "blog"
+    "Теория и практика"
   ],
   "Title": "Что такое UGC (user generated content) в e-commerce и как он влияет на продажи",
   "PublishDate": {
@@ -16,12 +16,12 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "← Вернуться назад UGC (от английского «user generated content») — пользовательский контент, который создается не нанятыми копирайтерами, а самими пользователями, которые купили товар или воспользовались услугой. Это мощный инструмент компании на рынке, если суметь правильно его применить. Рассмотрим подробнее, какой контент можно получить от пользователей и какую выгоду он сможет принести компании. Наталья Казьмина CMO Retail Rocket Group Содержание статьи Кто создает UGC-контент […]"
+          "Content": "UGC (от английского «user generated content») — пользовательский контент, который создается не нанятыми копирайтерами, а самими пользователями, которые купили товар или воспользовались услугой. Это мощный инструмент компании на рынке, если суметь правильно его применить. Рассмотрим подробнее, какой контент можно получить от пользователей и какую выгоду он сможет принести компании."
         }
       ]
     }
   ],
-  "MetaTitle": "Что такое UGC (user generated content) в e-commerce и как он влияет на продажи – Retail Rocket Group",
+  "MetaTitle": "Что такое UGC (user generated content) в e-commerce и как он влияет на продажи – Retail Rocket Group, страница 2",
   "ContentBlockList": [
     {
       "_t": "UnorderedList",
@@ -47,18 +47,8 @@
       "_t": "Paragraph",
       "Elements": [
         {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/natalia-kazmina/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Наталья Казьмина CMO Retail Rocket Group"
-            }
-          ]
-        },
-        {
           "_t": "Text",
-          "Content": " Содержание статьи"
+          "Content": "Наталья Казьмина CMO Retail Rocket Group"
         }
       ]
     },

@@ -1,7 +1,8 @@
 {
   "Slug": "tolko-po-soglasiju-kak-otpravljat-klientam-reklamnye-rassylki-i-ne-poluchit-shtraf",
   "Label": [
-    "blog"
+    "Next-Gen comms",
+    "Теория и практика"
   ],
   "Title": "Как не получить штраф за EMAIL-рассылку",
   "PublishDate": {
@@ -11,17 +12,8 @@
   "AuthorIdList": [
     "natalia-kazmina"
   ],
-  "LeadText": [
-    {
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "← Вернуться назад Наталья Казьмина CMO Retail Rocket Group Содержание статьи Правовое регулирование Email-рассылок Email-рассылки регулируются несколькими законами. В России это два основных документа: Федеральный закон «О рекламе» (№ 38-ФЗ) — устанавливает, что рекламу можно отправлять только после получения предварительного согласия получателя. Федеральный закон «О персональных данных» (№ 152-ФЗ) — регулирует сбор, хранение и использование […]"
-        }
-      ]
-    }
-  ],
-  "MetaTitle": "Как не получить штраф за Email-рассылку в 2025 год",
+  "LeadText": [],
+  "MetaTitle": "Как не получить штраф за Email-рассылку в 2025 год, страница 2",
   "ContentBlockList": [
     {
       "_t": "UnorderedList",
@@ -38,18 +30,8 @@
       "_t": "Paragraph",
       "Elements": [
         {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/natalia-kazmina/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Наталья Казьмина CMO Retail Rocket Group"
-            }
-          ]
-        },
-        {
           "_t": "Text",
-          "Content": " Содержание статьи"
+          "Content": "Наталья Казьмина CMO Retail Rocket Group"
         }
       ]
     },

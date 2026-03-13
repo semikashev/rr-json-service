@@ -1,7 +1,7 @@
 {
   "Slug": "open-source-instrument-dlya-provedeniya-a-b-testov",
   "Label": [
-    "blog"
+    "Теория и практика"
   ],
   "Title": "Open source библиотека для проведения А/Б тестов Retail Rocket Segmentator",
   "PublishDate": {
@@ -16,12 +16,12 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "← Вернуться назад Те, кто следит за регулярными постами о А/Б тестированиях нашего сервиса в блоге Retail Rocket, знает, что мы в RR съели на А/Б тестах столько собак, что хватило бы на все палатки шаурмы в Москве на целые выходные ? Для нас очень важно, чтобы наши клиенты могли получить объективную картину об эффективности системы Retail Rocket и проведение A/Б-теста — один из лучших способов сделать это. К сожалению, […]"
+          "Content": "Те, кто следит за регулярными постами о А/Б тестированиях нашего сервиса в блоге Retail Rocket, знает, что мы в RR съели на А/Б тестах столько собак, что хватило бы на все палатки шаурмы в Москве на целые выходные ? Для нас очень важно, чтобы наши клиенты могли получить объективную картину об эффективности системы Retail Rocket и проведение A/Б-теста — один из лучших способов сделать это. К сожалению,"
         }
       ]
     }
   ],
-  "MetaTitle": "Open source библиотека для проведения А/Б тестов Retail Rocket Segmentator – Retail Rocket, страница 2",
+  "MetaTitle": "Open source библиотека для проведения А/Б тестов Retail Rocket Segmentator – Retail Rocket, страница 7",
   "ContentBlockList": [
     {
       "_t": "UnorderedList",
@@ -47,18 +47,8 @@
       "_t": "Paragraph",
       "Elements": [
         {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/natalia-kazmina/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Наталья Казьмина CMO Retail Rocket Group"
-            }
-          ]
-        },
-        {
           "_t": "Text",
-          "Content": " Содержание статьи"
+          "Content": "Наталья Казьмина CMO Retail Rocket Group"
         }
       ]
     },

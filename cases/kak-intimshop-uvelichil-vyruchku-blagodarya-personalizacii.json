@@ -1,9 +1,7 @@
 {
   "Slug": "kak-intimshop-uvelichil-vyruchku-blagodarya-personalizacii",
   "Label": [
-    "Live CDP",
-    "Коммуникации",
-    "Рекомендации"
+    "Кейсы"
   ],
   "Title": "Как IntimShop увеличил выручку благодаря персонализации блога и email-маркетинга",
   "PublishDate": {
@@ -38,18 +36,8 @@
       "_t": "Paragraph",
       "Elements": [
         {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/kirill-morozov/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-            }
-          ]
-        },
-        {
           "_t": "Text",
-          "Content": " Содержание статьи Чтобы в таких условиях удержать пользователей, команда маркетинга фокусируется на улучшении CJM, повышении персонализации сайта и коммуникаций. Как получилось это сделать в блоге и рассылках, рассказываем в статье."
+          "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
         }
       ]
     },

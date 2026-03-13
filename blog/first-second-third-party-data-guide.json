@@ -1,7 +1,7 @@
 {
   "Slug": "first-second-third-party-data-guide",
   "Label": [
-    "blog"
+    "Теория и практика"
   ],
   "Title": "First, Second и Third Party Data: что это и как с этим работать",
   "PublishDate": {
@@ -16,12 +16,12 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "← Вернуться назад 1st, 2nd и 3rd party data — это информация о клиентах, которая нужна бизнесу для эффективных продаж. Эксперт Retail Rocket расскажет, как собирают эти данные, в чём их различие и в каких ситуациях они нужны. Наталья Казьмина CMO Retail Rocket Group Содержание статьи First Party Data (данные первого уровня) 1st party data или данные первого уровня — это информация о клиенте, […]"
+          "Content": "1st, 2nd и 3rd party data — это информация о клиентах, которая нужна бизнесу для эффективных продаж. Эксперт Retail Rocket расскажет, как собирают эти данные, в чём их различие и в каких ситуациях они нужны."
         }
       ]
     }
   ],
-  "MetaTitle": "Что такое First, Second и Third Party Data: руководство с кейсами",
+  "MetaTitle": "Что такое First, Second и Third Party Data: руководство с кейсами, страница 2",
   "ContentBlockList": [
     {
       "_t": "UnorderedList",
@@ -47,18 +47,8 @@
       "_t": "Paragraph",
       "Elements": [
         {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/natalia-kazmina/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Наталья Казьмина CMO Retail Rocket Group"
-            }
-          ]
-        },
-        {
           "_t": "Text",
-          "Content": " Содержание статьи"
+          "Content": "Наталья Казьмина CMO Retail Rocket Group"
         }
       ]
     },

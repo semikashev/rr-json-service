@@ -1,7 +1,7 @@
 {
   "Slug": "retail-media-on-retention-day-9",
   "Label": [
-    "blog"
+    "Теория и практика"
   ],
   "Title": "Как будет развиваться Retail media? Итоги Retention Day 9",
   "PublishDate": {
@@ -16,12 +16,12 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "← Вернуться назад 19 сентября прошла девятая конференция Retention Day, посвященная развитию маркетинговых технологий в e-commerce. На мероприятии собрались ключевые игроки отрасли, которые обсудили стратегии, инструменты и идеи, важные для успешного ведения бизнеса как в 2024 году, так и в дальнейшем. В этом обзоре представим основные выводы секции Retail media. Наталья Казьмина CMO Retail Rocket Group Содержание статьи Ритейл медиа — не для всех: […]"
+          "Content": "19 сентября прошла девятая конференция Retention Day, посвященная развитию маркетинговых технологий в e-commerce. На мероприятии собрались ключевые игроки отрасли, которые обсудили стратегии, инструменты и идеи, важные для успешного ведения бизнеса как в 2024 году, так и в дальнейшем. В этом обзоре представим основные выводы секции Retail media."
         }
       ]
     }
   ],
-  "MetaTitle": "Как будет развиваться Retail media? Итоги Retention Day 9 – Retail Rocket",
+  "MetaTitle": "Как будет развиваться Retail media? Итоги Retention Day 9 – Retail Rocket, страница 3",
   "ContentBlockList": [
     {
       "_t": "UnorderedList",
@@ -47,18 +47,8 @@
       "_t": "Paragraph",
       "Elements": [
         {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/natalia-kazmina/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Наталья Казьмина CMO Retail Rocket Group"
-            }
-          ]
-        },
-        {
           "_t": "Text",
-          "Content": " Содержание статьи Ритейл медиа — не для всех: готовы ли вы к трансформации?"
+          "Content": "Наталья Казьмина CMO Retail Rocket Group"
         }
       ]
     },

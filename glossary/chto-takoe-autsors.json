@@ -1,7 +1,7 @@
 {
   "Slug": "chto-takoe-autsors",
   "Label": [
-    "glossary"
+    "Словарь"
   ],
   "Title": "Аутсорс (Outsourcing): что это такое и зачем нужен",
   "PublishDate": {
@@ -16,7 +16,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "← Вернуться назад Читать далее → Материал из глоссария «Словарь маркетолога» команды Retail Rocket. Объясняем термины digital-маркетинга простыми словами. В этом тексте — что такое аутсорс (outsourcing) и зачем он нужен бизнесу. Кирилл Морозов Главный редактор Retail Rocket Group Содержание статьи Что такое Аутсорс Аутсорс (от англ. outsourcing — привлечение внешних ресурсов) — это когда […]"
+          "Content": "Материал из глоссария «Словарь маркетолога» команды Retail Rocket. Объясняем термины digital-маркетинга простыми словами. В этом тексте — что такое аутсорс (outsourcing) и зачем он нужен бизнесу."
         }
       ]
     }
@@ -36,18 +36,8 @@
       "_t": "Paragraph",
       "Elements": [
         {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/kirill-morozov/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-            }
-          ]
-        },
-        {
           "_t": "Text",
-          "Content": " Содержание статьи"
+          "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
         }
       ]
     },
