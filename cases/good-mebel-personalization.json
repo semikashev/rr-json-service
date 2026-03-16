@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2024-04-04T17:15:00"
   },
-  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/10/thumbnail_09.webp",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/good-mebel-personalization/thumbnail_09.webp",
   "AuthorIdList": [
     "kirill-morozov"
   ],
@@ -147,7 +147,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/04/good_mebel_1010.webp",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/good-mebel-personalization/good_mebel_1010.webp",
       "Alt": "",
       "Caption": "Теперь диваны можно отсортировать по длине, типу механизма трансформации, стилю, наличию бельевого ящика, типу обивки и другим параметрам"
     },
@@ -165,7 +165,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/04/good_mebel_2020.webp",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/good-mebel-personalization/good_mebel_2020.webp",
       "Alt": "",
       "Caption": "Фильтры до SEO-оптимизации учитывали только ценовой диапазон и категорию товара. После — учитывают все возможные атрибуты товаров"
     },
@@ -193,7 +193,7 @@
       ],
       "Author": "Станислав Архангельский",
       "AuthorPosition": "Директор по электронной коммерции «Гуд Мебель»",
-      "AuthorImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/04/Снимок-экрана-2025-10-31-в-20.26.53-300x245.webp"
+      "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/good-mebel-personalization/Snimok-ekrana-2025-10-31-v-20.26.53-300x245.webp"
     },
     {
       "_t": "Paragraph",
@@ -211,7 +211,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/04/good_mebel_3030.webp",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/good-mebel-personalization/good_mebel_3030.webp",
       "Alt": "",
       "Caption": null
     },

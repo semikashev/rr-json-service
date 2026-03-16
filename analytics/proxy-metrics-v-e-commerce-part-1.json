@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2024-06-28T18:53:00"
   },
-  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/06/106_Что-такое-прокси-метрики-и-зачем-они-нужны-в-e-commerce-1.png",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/analytics/proxy-metrics-v-e-commerce-part-1/106_Chto-takoe-proksi-metriki-i-zachem-oni-nuzhny-v-e-commerce-1.png",
   "AuthorIdList": [
     "natalia-kazmina"
   ],
@@ -276,7 +276,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/06/Capture-2025-10-29-190415.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/analytics/proxy-metrics-v-e-commerce-part-1/Capture-2025-10-29-190415.png",
       "Alt": "",
       "Caption": "Состав магазинов с указанием типа товаров"
     },
@@ -338,7 +338,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/06/Capture-2025-10-29-190624.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/analytics/proxy-metrics-v-e-commerce-part-1/Capture-2025-10-29-190624.png",
       "Alt": "",
       "Caption": "На графике — результат работы модели, которая работает на основе перечисленных выше прокси-метриках (пример одного из магазинов)."
     },

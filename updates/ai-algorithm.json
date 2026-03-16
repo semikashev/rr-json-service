@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2023-11-23T09:01:00"
   },
-  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2023/11/thumbnail_update_22_Новый-алгоритм-рекомендаций-на-основе-нейросетей-показывает-релевантные-товары-до-23-чаще.png",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/ai-algorithm/thumbnail_update_22_Novyj-algoritm-rekomendatsij-na-osnove-nejrosetej-pokazyvaet-relevantnye-tovary-do-23-chasche.png",
   "AuthorIdList": [
     "kirill-morozov"
   ],
@@ -80,7 +80,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2023/11/02-2048x1099-1.webp",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/ai-algorithm/02-2048x1099-1.webp",
       "Alt": "",
       "Caption": null
     },

@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2024-09-26T21:17:00"
   },
-  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/09/thumbnail_update_11_Лето-2024_-дайджест-обновлений-adTech-платформы-Smart-Placement-Ads-от-Retail-Rocket-Group.png",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/letnij-digest-obnovlenij-adtech-smart-placement-ads/thumbnail_update_11_Leto-2024_-dajdzhest-obnovlenij-adTech-platformy-Smart-Placement-Ads-ot-Retail-Rocket-Group.png",
   "AuthorIdList": [
     "kirill-morozov"
   ],
@@ -105,7 +105,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/09/Capture-2025-10-27-212354-scaled.webp",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/letnij-digest-obnovlenij-adtech-smart-placement-ads/Capture-2025-10-27-212354-scaled.webp",
       "Alt": "",
       "Caption": "После обновления исчезли зелёные полосы в списке мест размещения"
     },
@@ -265,7 +265,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/09/Capture-2025-10-27-213010-scaled.webp",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/letnij-digest-obnovlenij-adtech-smart-placement-ads/Capture-2025-10-27-213010-scaled.webp",
       "Alt": "",
       "Caption": "Баннеры теперь можно загружать с устройства без предварительного размещения во внешнем хранилище"
     },

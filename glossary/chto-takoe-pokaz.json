@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2025-08-15T15:58:00"
   },
-  "ImageUrl": "https://secure.gravatar.com/avatar/9e85f900d7b7648e1bf7ed4417c4edc3ee7258603a44cb4915f078de444f84dc?s=112&#038;d=mm&#038;r=g",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/cvm-crm-upravlenie-klientskoj-cennostyu/gravatar-9e85f900d7b7-s112.jpg",
   "AuthorIdList": [
     "kirill-morozov"
   ],
@@ -225,7 +225,7 @@
       ],
       "Author": "Кирилл Морозов",
       "AuthorPosition": "Главный редактор Retail Rocket Group",
-      "AuthorImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/09/photo_2022-11-25_22-25-20-300x300.jpg"
+      "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/broshennaya-korzina/photo_2022-11-25_22-25-20-300x300.jpg"
     },
     {
       "_t": "Heading2",
@@ -500,7 +500,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/Direct-Screen-Image.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-pokaz/Direct-Screen-Image.png",
       "Alt": "",
       "Caption": "Интерфейс личного кабинета Яндекс.Директ — в аналитике можно увидеть Показы, среднюю цену за 1000 показов и CTR"
     },
@@ -594,7 +594,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/digitalin-store_10.gif",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-pokaz/digitalin-store_10.gif",
       "Alt": "",
       "Caption": "С помощью adTech-платформы Smart Placement Ads можно настраивать таргетированные кампании на digital-экранах в офлайн-магазинах. Управление Digital In-Store стало таким же удобным, как и при работе с онлайн-рекламой"
     },
@@ -622,7 +622,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/ru-1-1-scaled.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-pokaz/ru-1-1-scaled.png",
       "Alt": "",
       "Caption": "Благодаря наглядной статистике в интерфейсе SailPlay от Retail Rocket Group легче анализировать email-кампании и строить гипотезы"
     },

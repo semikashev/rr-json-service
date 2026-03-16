@@ -8,7 +8,7 @@
   "PublishDate": {
     "$date": "2025-09-08T22:27:25"
   },
-  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/09/06-Что-такое-брошенная-корзина-и-как-вернуть-покупателей-с-помощью-Retail-Rocket.webp",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/broshennaya-korzina/06-Chto-takoe-broshennaya-korzina-i-kak-vernut-pokupatelej-s-pomoschyu-Retail-Rocket.webp",
   "AuthorIdList": [
     "natalia-kazmina"
   ],
@@ -68,7 +68,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/09/image-6-890x1024.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/broshennaya-korzina/image-6-890x1024.png",
       "Alt": "Пример брошенной корзины в онлайн-магазине",
       "Caption": "Пример брошенной корзины в онлайн-магазине"
     },
@@ -140,7 +140,7 @@
       ],
       "Author": "Кирилл Морозов",
       "AuthorPosition": "Главный редактор Retail Rocket Group",
-      "AuthorImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/09/photo_2022-11-25_22-25-20-300x300.jpg"
+      "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/broshennaya-korzina/photo_2022-11-25_22-25-20-300x300.jpg"
     },
     {
       "_t": "Heading2",
@@ -161,7 +161,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/blog-broshennaya-korzina-dolya-broshennyh-korzin.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/broshennaya-korzina/blog-broshennaya-korzina-dolya-broshennyh-korzin.png",
       "Alt": "",
       "Caption": null
     },
@@ -212,7 +212,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/09/image-7.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/broshennaya-korzina/image-7.png",
       "Alt": "пример расчета брошенной корзины",
       "Caption": null
     },
@@ -507,7 +507,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/09/image-8.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/broshennaya-korzina/image-8.png",
       "Alt": "SailPlay меню с триггерами",
       "Caption": null
     },
@@ -522,7 +522,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/09/image-9.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/broshennaya-korzina/image-9.png",
       "Alt": "",
       "Caption": null
     },
@@ -537,7 +537,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/09/image-10.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/broshennaya-korzina/image-10.png",
       "Alt": "добавить условия, коммуникации и другие события для цепочки",
       "Caption": null
     },

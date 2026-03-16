@@ -8,7 +8,7 @@
   "PublishDate": {
     "$date": "2025-10-02T12:03:00"
   },
-  "ImageUrl": "https://secure.gravatar.com/avatar/9e85f900d7b7648e1bf7ed4417c4edc3ee7258603a44cb4915f078de444f84dc?s=112&#038;d=mm&#038;r=g",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/cvm-crm-upravlenie-klientskoj-cennostyu/gravatar-9e85f900d7b7-s112.jpg",
   "AuthorIdList": [
     "kirill-morozov"
   ],
@@ -134,7 +134,7 @@
       ],
       "Author": "Владимир Золотарёв",
       "AuthorPosition": "Руководитель продукта Персонализация в Retail Rocket Group",
-      "AuthorImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/02/Push-nots_80-300x300.png"
+      "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/mobilnye-push-uvedomleniya/Push-nots_80-300x300.png"
     },
     {
       "_t": "Paragraph",
@@ -147,7 +147,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/12/image-1.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/upsell-cross-sell-downsell/image-1.png",
       "Alt": "",
       "Caption": "Алгоритм «Upsell» в блоке рекомендаций предлагает более дорогие товары с улучшенными характеристиками"
     },
@@ -205,7 +205,7 @@
       ],
       "Author": "Владимир Золотарёв",
       "AuthorPosition": "Руководитель продукта Персонализация в Retail Rocket Group",
-      "AuthorImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/02/Push-nots_80-300x300.png"
+      "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/mobilnye-push-uvedomleniya/Push-nots_80-300x300.png"
     },
     {
       "_t": "Paragraph",
@@ -218,7 +218,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/12/image-1-1.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/upsell-cross-sell-downsell/image-1-1.png",
       "Alt": "",
       "Caption": "DNS предлагает приобрести аксессуары, которые подходят к ноутбуку"
     },
@@ -262,7 +262,7 @@
       ],
       "Author": "Владимир Золотарёв",
       "AuthorPosition": "Руководитель продукта Персонализация в Retail Rocket Group",
-      "AuthorImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/02/Push-nots_80-300x300.png"
+      "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/mobilnye-push-uvedomleniya/Push-nots_80-300x300.png"
     },
     {
       "_t": "Paragraph",
@@ -275,7 +275,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/12/image-2-1.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/upsell-cross-sell-downsell/image-2-1.png",
       "Alt": "",
       "Caption": "Касперский предлагает самый дешевый тариф с ограничением опций, который обеспечивает базовую защиту"
     },
@@ -382,7 +382,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/12/image-3.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/upsell-cross-sell-downsell/image-3.png",
       "Alt": "",
       "Caption": "Во время оформления покупки стиральной машины, магазин DNS предлагает приобрести дополнительную гарантию и полезные аксессуары"
     },
@@ -401,7 +401,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/12/image-4-1.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/upsell-cross-sell-downsell/image-4-1.png",
       "Alt": "",
       "Caption": "Тануки предлагает кросс-сейл в виде соусов и дополнительных блюд"
     },
@@ -420,7 +420,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/12/image-5-1.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/upsell-cross-sell-downsell/image-5-1.png",
       "Alt": "",
       "Caption": "В Нетологии можно выбрать пакет обучения по своим потребностям"
     },
@@ -439,7 +439,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/12/image-6.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/upsell-cross-sell-downsell/image-6.png",
       "Alt": "",
       "Caption": "Сбербанк предлагает кросс-сейл в виде подписки с дополнительными опциями и сервисами"
     },
@@ -783,7 +783,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/12/image-7.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/upsell-cross-sell-downsell/image-7.png",
       "Alt": "",
       "Caption": "Этапы пути покупателя, на которых последовательно встраиваем апсейл и кросс-сейл"
     },

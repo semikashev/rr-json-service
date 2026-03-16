@@ -8,7 +8,7 @@
   "PublishDate": {
     "$date": "2026-01-23T18:17:06"
   },
-  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2026/01/Виджеты-для-сайта-1.png",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/vidzhety-dlya-sayta/Vidzhety-dlya-sajta-1.png",
   "AuthorIdList": [
     "kirill-morozov"
   ],
@@ -229,7 +229,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/Frame-2131328146.webp",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/vidzhety-dlya-sayta/Frame-2131328146.webp",
       "Alt": "",
       "Caption": "Интерфейс статистики в личном кабинете Rocket Search от Retail Rocket Group"
     },
@@ -317,7 +317,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2026/01/Retail-Rocket-Website-2025.webp",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/vidzhety-dlya-sayta/Retail-Rocket-Website-2025.webp",
       "Alt": "Retail Rocket Website 2025",
       "Caption": null
     },
@@ -341,7 +341,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/img-hero.webp",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/vidzhety-dlya-sayta/img-hero.webp",
       "Alt": "img hero",
       "Caption": null
     },
@@ -416,7 +416,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/2-3-1024x889.webp",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/vidzhety-dlya-sayta/2-3-1024x889.webp",
       "Alt": "",
       "Caption": null
     },

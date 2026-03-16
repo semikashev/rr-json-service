@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2017-06-23T13:22:00"
   },
-  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2017/06/thumbnail_update_48_Новый-функционал_-Уведомления-о-снижении-цены-на-товары-в-корзине-и-просмотренные-товары.webp",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/uvedomleniya-o-snizhenii-tsenyi-na-tovaryi-v-korzine-i-prosmotrennyie-tovaryi/thumbnail_update_48_Novyj-funktsional_-Uvedomleniya-o-snizhenii-tseny-na-tovary-v-korzine-i-prosmotrennye-tovary.webp",
   "AuthorIdList": [
     "kirill-morozov"
   ],
@@ -116,7 +116,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2017/06/sela.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/uvedomleniya-o-snizhenii-tsenyi-na-tovaryi-v-korzine-i-prosmotrennyie-tovaryi/sela.png",
       "Alt": "",
       "Caption": null
     },
@@ -144,7 +144,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2017/06/tvoe.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/uvedomleniya-o-snizhenii-tsenyi-na-tovaryi-v-korzine-i-prosmotrennyie-tovaryi/tvoe.png",
       "Alt": "",
       "Caption": null
     },
@@ -172,7 +172,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2017/06/detmir.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/uvedomleniya-o-snizhenii-tsenyi-na-tovaryi-v-korzine-i-prosmotrennyie-tovaryi/detmir.png",
       "Alt": "",
       "Caption": null
     },
@@ -204,7 +204,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2017/06/quelle.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/uvedomleniya-o-snizhenii-tsenyi-na-tovaryi-v-korzine-i-prosmotrennyie-tovaryi/quelle.png",
       "Alt": "",
       "Caption": null
     },
@@ -223,7 +223,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2017/06/technosila.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/uvedomleniya-o-snizhenii-tsenyi-na-tovaryi-v-korzine-i-prosmotrennyie-tovaryi/technosila.png",
       "Alt": "",
       "Caption": null
     },
@@ -260,7 +260,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2017/06/aizel.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/uvedomleniya-o-snizhenii-tsenyi-na-tovaryi-v-korzine-i-prosmotrennyie-tovaryi/aizel.png",
       "Alt": "",
       "Caption": null
     },
@@ -288,7 +288,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2017/06/petshop.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/uvedomleniya-o-snizhenii-tsenyi-na-tovaryi-v-korzine-i-prosmotrennyie-tovaryi/petshop.png",
       "Alt": "",
       "Caption": null
     },

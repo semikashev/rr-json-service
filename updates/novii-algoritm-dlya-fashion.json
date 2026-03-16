@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2023-07-27T19:13:00"
   },
-  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2023/07/thumbnail_update_27_Новый-алгоритм-для-fashion-который-помогает-составить-образ-с-понравившейся-вещью.png",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/novii-algoritm-dlya-fashion/thumbnail_update_27_Novyj-algoritm-dlya-fashion-kotoryj-pomogaet-sostavit-obraz-s-ponravivshejsya-veschyu.png",
   "AuthorIdList": [
     "kirill-morozov"
   ],
@@ -105,7 +105,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/10/Capture-2025-10-27-191451.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/novii-algoritm-dlya-fashion/Capture-2025-10-27-191451.png",
       "Alt": "",
       "Caption": null
     },

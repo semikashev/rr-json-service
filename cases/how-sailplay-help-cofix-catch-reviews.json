@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2023-12-14T18:10:00"
   },
-  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/10/thumbnail_12.webp",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/how-sailplay-help-cofix-catch-reviews/thumbnail_12.webp",
   "AuthorIdList": [
     "kirill-morozov"
   ],
@@ -65,7 +65,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2023/12/кофикс_10.webp",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/how-sailplay-help-cofix-catch-reviews/kofiks_10.webp",
       "Alt": "",
       "Caption": null
     },
@@ -80,7 +80,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2023/12/кофикс_20.webp",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/how-sailplay-help-cofix-catch-reviews/kofiks_20.webp",
       "Alt": "",
       "Caption": "В 2023 году в приложение добавили функционал отзывов, чтобы клиенты могли влиять на качество сервиса, а Cofix получал больше данных о заказах."
     },
@@ -99,7 +99,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2023/12/кофикс_30.webp",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/how-sailplay-help-cofix-catch-reviews/kofiks_30.webp",
       "Alt": "",
       "Caption": "Стандартная логика триггера purchase confirmation в платформе Sailplay"
     },
@@ -174,7 +174,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2023/12/кофикс_40.webp",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/how-sailplay-help-cofix-catch-reviews/kofiks_40.webp",
       "Alt": "",
       "Caption": "Так выглядит обновленная логика триггера purchase confirmation с учётом цели по сбору отзывов и внутренних процессов Cofix"
     },
@@ -188,7 +188,7 @@
       ],
       "Author": "Алексей Клотц",
       "AuthorPosition": "Head of digital products в Cofix",
-      "AuthorImageUrl": "https://retailrocket.ru/wp-content/uploads/2023/12/Component-603-300x300.webp"
+      "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/how-sailplay-help-cofix-catch-reviews/Component-603-300x300.webp"
     },
     {
       "_t": "Heading2",

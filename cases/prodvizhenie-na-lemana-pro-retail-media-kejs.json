@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2026-02-20T13:35:16"
   },
-  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2026/02/Thumbnail-from-TinyPNG.png",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/prodvizhenie-na-lemana-pro-retail-media-kejs/Thumbnail-from-TinyPNG.png",
   "AuthorIdList": [
     "kirill-morozov"
   ],
@@ -117,7 +117,7 @@
       ],
       "Author": "Александр Прохоренко",
       "AuthorPosition": "Ведущий эксперт по управлению рекламными кампаниями",
-      "AuthorImageUrl": "https://retailrocket.ru/wp-content/uploads/2026/02/photo_2026-02-20-13.59.20-300x300.jpeg"
+      "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/prodvizhenie-na-lemana-pro-retail-media-kejs/photo_2026-02-20-13.59.20-300x300.jpeg"
     },
     {
       "_t": "Paragraph",
@@ -218,7 +218,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/Retail%20Media%20from%20Figma.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/prodvizhenie-na-lemana-pro-retail-media-kejs/Retail-Media-from-Figma.png",
       "Alt": "",
       "Caption": "Пример аналитического дашборда SmartPlacement от Retail Rocket Group"
     },
@@ -350,7 +350,7 @@
       ],
       "Author": "Александр Прохоренко",
       "AuthorPosition": "Ведущий эксперт по управлению рекламными кампаниями",
-      "AuthorImageUrl": "https://retailrocket.ru/wp-content/uploads/2026/02/photo_2026-02-20-13.59.20-300x300.jpeg"
+      "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/prodvizhenie-na-lemana-pro-retail-media-kejs/photo_2026-02-20-13.59.20-300x300.jpeg"
     },
     {
       "_t": "Heading3",

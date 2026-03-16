@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2025-02-28T12:07:00"
   },
-  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/02/Первичные-и-вторичные-данные.png",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/first-second-third-party-data-guide/Pervichnye-i-vtorichnye-dannye.png",
   "AuthorIdList": [
     "natalia-kazmina"
   ],
@@ -143,7 +143,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/02/PartyData_01.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/first-second-third-party-data-guide/PartyData_01.png",
       "Alt": "",
       "Caption": "Бизнес обязан уведомить пользователя о политике обработки файлов cookie"
     },
@@ -172,13 +172,13 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/02/PartyData_02.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/first-second-third-party-data-guide/PartyData_02.png",
       "Alt": "",
       "Caption": "Российский бренд одежды Monochrome предлагает подписчикам интересный и познавательный контент"
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/02/PartyData_03.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/first-second-third-party-data-guide/PartyData_03.png",
       "Alt": "",
       "Caption": "В обмен на скидку потенциальный клиент ИТ-продукта оставляет свои контактные данные: имя, электронную почту и номер телефона"
     },
@@ -405,7 +405,7 @@
       ],
       "Author": "Владимир Золотарёв",
       "AuthorPosition": "руководитель продукта Персонализация Retail Rocket Group",
-      "AuthorImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/12/Push-nots_80-300x300.png"
+      "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/first-second-third-party-data-guide/Push-nots_80-300x300.png"
     },
     {
       "_t": "Paragraph",
@@ -593,7 +593,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/02/PartyData_05.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/first-second-third-party-data-guide/PartyData_05.png",
       "Alt": "",
       "Caption": "Особенности разных видов данных о клиенте"
     },

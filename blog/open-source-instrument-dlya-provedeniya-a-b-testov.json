@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2014-08-08T05:09:00"
   },
-  "ImageUrl": "https://secure.gravatar.com/avatar/6d7c404657b87220cc23d6370266d8f0b963bb9cb5de49e51edb9e20b7c9f268?s=112&#038;d=mm&#038;r=g",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/13-osnovnyh-otchetov-google-analytics/gravatar-6d7c404657b8-s112.jpg",
   "AuthorIdList": [
     "natalia-kazmina"
   ],
@@ -140,7 +140,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2014/08/raspredelenie.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/open-source-instrument-dlya-provedeniya-a-b-testov/raspredelenie.png",
       "Alt": "",
       "Caption": null
     },

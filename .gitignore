@@ -15,6 +15,11 @@ blog-cases-glossary-analytics-*/
 # Scripts & intermediate files (not part of data)
 convert.py
 enrich.py
+download_images.py
 _enrichment.json
 _export_report.json
+_image_errors.json
 output/
+
+# Downloaded images
+images/

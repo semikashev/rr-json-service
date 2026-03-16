@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2025-04-09T14:04:00"
   },
-  "ImageUrl": "https://secure.gravatar.com/avatar/6d7c404657b87220cc23d6370266d8f0b963bb9cb5de49e51edb9e20b7c9f268?s=112&#038;d=mm&#038;r=g",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/13-osnovnyh-otchetov-google-analytics/gravatar-6d7c404657b8-s112.jpg",
   "AuthorIdList": [
     "natalia-kazmina"
   ],
@@ -56,7 +56,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/04/Портрет1.webp",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-portret-klienta/Portret1.webp",
       "Alt": "",
       "Caption": "Пример портрета покупателя газонокосилки"
     },
@@ -811,7 +811,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/04/Портрет2.webp",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-portret-klienta/Portret2.webp",
       "Alt": "",
       "Caption": "Опрос по электронной почте от Gloria Jeans"
     },
@@ -956,7 +956,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/04/Портрет3.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-portret-klienta/Portret3.png",
       "Alt": "",
       "Caption": "Статистика в личном кабинете сообщества в ВК"
     },

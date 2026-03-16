@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2025-09-02T11:55:00"
   },
-  "ImageUrl": "https://secure.gravatar.com/avatar/9e85f900d7b7648e1bf7ed4417c4edc3ee7258603a44cb4915f078de444f84dc?s=112&#038;d=mm&#038;r=g",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/cvm-crm-upravlenie-klientskoj-cennostyu/gravatar-9e85f900d7b7-s112.jpg",
   "AuthorIdList": [
     "kirill-morozov"
   ],
@@ -232,7 +232,7 @@
       ],
       "Author": "Кирилл Морозов",
       "AuthorPosition": "Главный редактор Retail Rocket Group",
-      "AuthorImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/09/photo_2022-11-25_22-25-20-300x300.jpg"
+      "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/broshennaya-korzina/photo_2022-11-25_22-25-20-300x300.jpg"
     },
     {
       "_t": "Heading2",
@@ -433,7 +433,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/09/IMG_2034-768x1150.jpg",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-post/IMG_2034-768x1150.jpg",
       "Alt": "",
       "Caption": "Пример таргетированной рекламы онлайн-курса от в VK"
     },
@@ -452,7 +452,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/09/IMG_2035-768x1304.jpg",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-post/IMG_2035-768x1304.jpg",
       "Alt": "",
       "Caption": "Пример нативной рекламы в фитнес-блоге"
     },
@@ -471,7 +471,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/09/2025-09-02_15-59-22-1-1-2048x1467-1-768x550.jpg",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-post/2025-09-02_15-59-22-1-1-2048x1467-1-768x550.jpg",
       "Alt": "",
       "Caption": "Пример статьи в корпоративном блоге мебельного магазина"
     },
@@ -490,7 +490,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/09/2025-09-02_16-07-44-1-2048x1324-1-768x497.jpg",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-post/2025-09-02_16-07-44-1-2048x1324-1-768x497.jpg",
       "Alt": "",
       "Caption": "Пример ретаргетинга от интернет-магазина одежды"
     },
@@ -509,7 +509,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/09/IMG_2036-768x1189.jpg",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-post/IMG_2036-768x1189.jpg",
       "Alt": "",
       "Caption": "Пример анонса мастер-класса опубликованного в VK"
     },

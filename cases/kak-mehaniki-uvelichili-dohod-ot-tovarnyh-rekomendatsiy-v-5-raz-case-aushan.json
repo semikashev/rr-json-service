@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2024-08-21T17:08:00"
   },
-  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/10/thumbnail_08.webp",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-mehaniki-uvelichili-dohod-ot-tovarnyh-rekomendatsiy-v-5-raz-case-aushan/thumbnail_08.webp",
   "AuthorIdList": [
     "kirill-morozov"
   ],
@@ -74,7 +74,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/08/auchan_10.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-mehaniki-uvelichili-dohod-ot-tovarnyh-rekomendatsiy-v-5-raz-case-aushan/auchan_10.png",
       "Alt": "",
       "Caption": "Вид блока «Нет в наличии» до внедрения механик рекомендаций. Пользователь не имел возможности проконтактировать с товарами из блока"
     },
@@ -89,13 +89,13 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/08/auchan_20.webp",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-mehaniki-uvelichili-dohod-ot-tovarnyh-rekomendatsiy-v-5-raz-case-aushan/auchan_20.webp",
       "Alt": "",
       "Caption": "Блок «Нет в наличии» дополнен кнопками «Подобрать замену». При нажатии, открывается попап с рекомендациями"
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/08/auchan_30.webp",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-mehaniki-uvelichili-dohod-ot-tovarnyh-rekomendatsiy-v-5-raz-case-aushan/auchan_30.webp",
       "Alt": "",
       "Caption": "Рекомендации, которые видит пользователь при нажатии на кнопку «Подобрать замену»"
     },
@@ -123,7 +123,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/08/auchan_40.webp",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-mehaniki-uvelichili-dohod-ot-tovarnyh-rekomendatsiy-v-5-raz-case-aushan/auchan_40.webp",
       "Alt": "",
       "Caption": null
     },
@@ -185,7 +185,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/08/auchan_50.webp",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-mehaniki-uvelichili-dohod-ot-tovarnyh-rekomendatsiy-v-5-raz-case-aushan/auchan_50.webp",
       "Alt": "",
       "Caption": "Блок рекомендаций с новинками на главной странице сайта"
     },

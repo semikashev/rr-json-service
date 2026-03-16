@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2025-09-02T15:50:00"
   },
-  "ImageUrl": "https://secure.gravatar.com/avatar/9e85f900d7b7648e1bf7ed4417c4edc3ee7258603a44cb4915f078de444f84dc?s=112&#038;d=mm&#038;r=g",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/cvm-crm-upravlenie-klientskoj-cennostyu/gravatar-9e85f900d7b7-s112.jpg",
   "AuthorIdList": [
     "kirill-morozov"
   ],
@@ -114,7 +114,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/glossary-chto-takoe-str-str.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-str/glossary-chto-takoe-str-str.png",
       "Alt": "",
       "Caption": null
     },
@@ -236,7 +236,7 @@
       ],
       "Author": "Кирилл Морозов",
       "AuthorPosition": "Главный редактор Retail Rocket Group",
-      "AuthorImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/09/photo_2022-11-25_22-25-20-300x300.jpg"
+      "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/broshennaya-korzina/photo_2022-11-25_22-25-20-300x300.jpg"
     },
     {
       "_t": "Heading2",
@@ -530,7 +530,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/09/image-4.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-str/image-4.png",
       "Alt": "",
       "Caption": "Пример сравнения показателей STR в двух рекламных объявлениях"
     },
@@ -558,7 +558,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/09/2025-09-02_13-42-34-1-1-1-2048x1458-1.jpg",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-str/2025-09-02_13-42-34-1-1-1-2048x1458-1.jpg",
       "Alt": "",
       "Caption": "Пример сравнения показателей STR до запуска акции и после"
     },
@@ -586,7 +586,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/09/image-5.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-str/image-5.png",
       "Alt": "",
       "Caption": "Пример сравнения показателей STR до оптимизации карточки товара и после"
     },

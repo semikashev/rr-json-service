@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2025-08-21T12:04:00"
   },
-  "ImageUrl": "https://secure.gravatar.com/avatar/9e85f900d7b7648e1bf7ed4417c4edc3ee7258603a44cb4915f078de444f84dc?s=112&#038;d=mm&#038;r=g",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/cvm-crm-upravlenie-klientskoj-cennostyu/gravatar-9e85f900d7b7-s112.jpg",
   "AuthorIdList": [
     "kirill-morozov"
   ],
@@ -182,7 +182,7 @@
       ],
       "Author": "Кирилл Морозов",
       "AuthorPosition": "Главный редактор Retail Rocket Group",
-      "AuthorImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/09/photo_2022-11-25_22-25-20-300x300.jpg"
+      "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/broshennaya-korzina/photo_2022-11-25_22-25-20-300x300.jpg"
     },
     {
       "_t": "Heading2",
@@ -403,7 +403,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/AD_4nXdvWiFWX0FxPi1baEN-5ZkVsdosv1LAAqiFpzWBPpEoAwjewHmvQvcZLoLltrqoZPHk2Y5QJkG5cXfN870X-5HBzijGPLo9nmySGIje3UQkTEp823vtpO4Xyp7xKkOS8obWeI2b.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-ad-hoc-zapros/AD_4nXdvWiFWX0FxPi1baEN-5ZkVsdosv1LAAqiFpzWBPpEoAwjewHmvQvcZLoLltrqoZPHk2Y5QJkG5cXfN870X-5HBzijGPLo9nmySGIje3UQkTEp823vtpO4Xyp7xKkOS8obWeI2b.png",
       "Alt": "",
       "Caption": "Пример статистики спортивного магазина в Яндекс Директ"
     },
@@ -431,7 +431,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/AD_4nXdWUKaTmmO9yd43c7ELKDfp-8MRASdMKir7t2PxuIlVXZu4FKOxombnh6FQ_QFKyyqIKxwgA9HALH8eTkZHIqiunVcP6ggTA6AW387cCNdzJ04O3AvCn5jRIMc-2SPPei6i7J_59w.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-ad-hoc-zapros/AD_4nXdWUKaTmmO9yd43c7ELKDfp-8MRASdMKir7t2PxuIlVXZu4FKOxombnh6FQ_QFKyyqIKxwgA9HALH8eTkZHIqiunVcP6ggTA6AW387cCNdzJ04O3AvCn5jRIMc-2SPPei6i7J_59w.png",
       "Alt": "",
       "Caption": "Пример статистики таргетированной рекламы магазина в VK"
     },
@@ -450,7 +450,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/AD_4nXdo2iK3oh-Lbi8gB0HZucdvvdRw9FljEiAcP0o_xmgyxzjKt_tecZLyVHoza5zRVtJ9NXNo3dQ308Mv-ZemvD1Dt6qJKWbl21KVOVIG-hUBn0QDKUVR0-P8-lfdARRxbb4LEOTBmA.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-ad-hoc-zapros/AD_4nXdo2iK3oh-Lbi8gB0HZucdvvdRw9FljEiAcP0o_xmgyxzjKt_tecZLyVHoza5zRVtJ9NXNo3dQ308Mv-ZemvD1Dt6qJKWbl21KVOVIG-hUBn0QDKUVR0-P8-lfdARRxbb4LEOTBmA.png",
       "Alt": "",
       "Caption": "Пример email-аналитики магазина одежды"
     },
@@ -478,7 +478,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/AD_4nXd01-2aq4hL2oM9wyF92aNhW3MaT7UjzjAOSjeSwMdDpKB5NgsvjZTp0Lt2-TpKlEqCiXdCkE5bN4J8YUEpzX3_CT1AIGbqutdk6M4mu4ClKmETHFQRhWeGmL1WGE5cu30z3AiS5g.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-ad-hoc-zapros/AD_4nXd01-2aq4hL2oM9wyF92aNhW3MaT7UjzjAOSjeSwMdDpKB5NgsvjZTp0Lt2-TpKlEqCiXdCkE5bN4J8YUEpzX3_CT1AIGbqutdk6M4mu4ClKmETHFQRhWeGmL1WGE5cu30z3AiS5g.png",
       "Alt": "",
       "Caption": "Пример динамики продаж на маркетплейсе"
     },

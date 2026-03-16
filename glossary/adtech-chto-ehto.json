@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2025-01-01T09:50:00"
   },
-  "ImageUrl": "https://secure.gravatar.com/avatar/9e85f900d7b7648e1bf7ed4417c4edc3ee7258603a44cb4915f078de444f84dc?s=112&#038;d=mm&#038;r=g",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/cvm-crm-upravlenie-klientskoj-cennostyu/gravatar-9e85f900d7b7-s112.jpg",
   "AuthorIdList": [
     "kirill-morozov"
   ],
@@ -311,7 +311,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/01/AdTech.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/adtech-chto-ehto/AdTech.png",
       "Alt": "",
       "Caption": "Алгоритмическая реклама задействует сразу три инструмента AdTech: DSP, Ad Exchange и SSP"
     },
@@ -415,7 +415,7 @@
       ],
       "Author": "Андрей Москвин",
       "AuthorPosition": "Product Marketing Manager (PMM, Global), Retail Rocket Group",
-      "AuthorImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/01/Андрей-Москвин-фото-эксперта-1-300x300.jpg"
+      "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/adtech-chto-ehto/Andrej-Moskvin-foto-eksperta-1-300x300.jpg"
     },
     {
       "_t": "Heading2",

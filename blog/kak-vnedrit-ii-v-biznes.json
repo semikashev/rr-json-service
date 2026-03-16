@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2025-02-26T03:39:00"
   },
-  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/02/Искусственный-интеллект-в-бизнес.png",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-vnedrit-ii-v-biznes/Iskusstvennyj-intellekt-v-biznes.png",
   "AuthorIdList": [
     "natalia-kazmina"
   ],
@@ -84,7 +84,7 @@
       ],
       "Author": "Андрей Москвин",
       "AuthorPosition": "Product Marketing Manager (PMM, Global), Retail Rocket Group",
-      "AuthorImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/02/Андрей-Москвин-фото-эксперта-300x300.jpg"
+      "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-vnedrit-ii-v-biznes/Andrej-Moskvin-foto-eksperta-300x300.jpg"
     },
     {
       "_t": "Paragraph",
@@ -97,7 +97,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/02/ai_in_biz_10.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-vnedrit-ii-v-biznes/ai_in_biz_10.png",
       "Alt": "",
       "Caption": "Использование ИИ-решений организациями в 2024 году (в % от всех организаций)"
     },
@@ -263,7 +263,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/02/ai_in_biz_20.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-vnedrit-ii-v-biznes/ai_in_biz_20.png",
       "Alt": "",
       "Caption": "В пиковые часы робот-уборщик помогает сотрудникам отеля в Гонконге: доставляет использованную посуду на кухню"
     },
@@ -391,7 +391,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/02/ai_in_biz_30.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-vnedrit-ii-v-biznes/ai_in_biz_30.png",
       "Alt": "",
       "Caption": null
     },

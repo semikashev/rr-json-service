@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2025-06-19T20:00:00"
   },
-  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/09/37_Как-ставить-задачу-разработчику-сайта-чтобы-получить-результат-вовремя.webp",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-stavit-zadachi-razrabotchikam/37_Kak-stavit-zadachu-razrabotchiku-sajta-chtoby-poluchit-rezultat-vovremya.webp",
   "AuthorIdList": [
     "natalia-kazmina"
   ],
@@ -439,7 +439,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/06/task_01-2048x986-1.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-stavit-zadachi-razrabotchikam/task_01-2048x986-1.png",
       "Alt": "алгоритм постановки задачи разработчику",
       "Caption": null
     },
@@ -776,7 +776,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/06/task_02-2048x921-1.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-stavit-zadachi-razrabotchikam/task_02-2048x921-1.png",
       "Alt": "",
       "Caption": "Пример статусов задач в Jira"
     },

@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2025-02-28T11:00:00"
   },
-  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/02/thumbnail_update_08_3-параметра-для-детальной-сегментации-за-2-минуты.png",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/live-cdp-segmentaciya-po-prosmotram/thumbnail_update_08_3-parametra-dlya-detalnoj-segmentatsii-za-2-minuty.png",
   "AuthorIdList": [
     "kirill-morozov"
   ],
@@ -112,7 +112,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/02/image2.gif",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/live-cdp-segmentaciya-po-prosmotram/image2.gif",
       "Alt": "",
       "Caption": "Пример создания сегмента из посетителей, которые просматривали от 2 до 5 раз все товары из категории «Сухой корм для кошек» с 01.01.2025 до 19.02.2025. Сегменты обновляются мгновенно, а их настройка занимает считанные секунды"
     },

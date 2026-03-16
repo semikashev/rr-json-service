@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2023-12-07T11:50:00"
   },
-  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2023/12/Thumbnails-Update.png",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/sailplay-gift-cards/Thumbnails-Update.png",
   "AuthorIdList": [
     "kirill-morozov"
   ],
@@ -147,7 +147,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2023/12/gift-card-1.gif",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/sailplay-gift-cards/gift-card-1.gif",
       "Alt": "",
       "Caption": null
     },

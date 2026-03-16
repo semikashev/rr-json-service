@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2024-08-15T15:08:00"
   },
-  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/08/thumbnail_update_15_Digital_In-Store.webp",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/digital-in-store-s-auction-i-targetingovym-prodvizheniem/thumbnail_update_15_Digital_In-Store.webp",
   "AuthorIdList": [
     "kirill-morozov"
   ],
@@ -85,7 +85,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/08/digitalin-store_10.gif",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/digital-in-store-s-auction-i-targetingovym-prodvizheniem/digitalin-store_10.gif",
       "Alt": "",
       "Caption": null
     },

@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2025-06-29T15:04:00"
   },
-  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/07/27_Политика-DMARC_-что-это-и-как-её-прописать-правильно.webp",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/politika-dmarc-2/27_Politika-DMARC_-chto-eto-i-kak-eyo-propisat-pravilno.webp",
   "AuthorIdList": [
     "natalia-kazmina"
   ],
@@ -681,7 +681,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/06/unnamed.jpg",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/politika-dmarc-2/unnamed.jpg",
       "Alt": "",
       "Caption": "Схема работы DMARC: пошаговый процесс проверки аутентификации электронной почты"
     },

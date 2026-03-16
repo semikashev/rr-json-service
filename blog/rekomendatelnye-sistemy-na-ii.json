@@ -8,7 +8,7 @@
   "PublishDate": {
     "$date": "2024-12-20T16:25:00"
   },
-  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/09/201_Как-работают-рекомендательные-системы-на-базе-ИИ.webp",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rekomendatelnye-sistemy-na-ii/201_Kak-rabotayut-rekomendatelnye-sistemy-na-baze-II.webp",
   "AuthorIdList": [
     "natalia-kazmina"
   ],
@@ -86,7 +86,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/12/unnamed.jpg",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rekomendatelnye-sistemy-na-ii/unnamed.jpg",
       "Alt": "принцип работы рекомендательной системы на базе ИИ",
       "Caption": null
     },
@@ -194,7 +194,7 @@
       ],
       "Author": "Владимир Золотарев",
       "AuthorPosition": "Руководитель продукта Персонализация Retail Rocket Group",
-      "AuthorImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/12/Push-nots_80-300x300.png"
+      "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/first-second-third-party-data-guide/Push-nots_80-300x300.png"
     },
     {
       "_t": "Heading3",
@@ -453,13 +453,13 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/12/unnamed.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rekomendatelnye-sistemy-na-ii/unnamed.png",
       "Alt": "",
       "Caption": null
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/12/unnamed-1.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rekomendatelnye-sistemy-na-ii/unnamed-1.png",
       "Alt": "ии рекомендации с этим товаром покупают",
       "Caption": "Если в интернет-магазине «Гуд Мебель» выбрать кухонный гарнитур Гранд-2 , то коллаборативная фильтрация предложит товары, которые чаще всего покупали с этим гарнитуром другие посетители"
     },
@@ -546,7 +546,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/12/unnamed-2.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rekomendatelnye-sistemy-na-ii/unnamed-2.png",
       "Alt": "ии рекомендации контентная фильтрация",
       "Caption": "Домашняя страница Кинопоиска предлагает незарегистрированному пользователю подборку фильмов и сериалов, которые смотрят пользователи сейчас, а также ТОП-10 за месяц"
     },
@@ -565,7 +565,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/12/unnamed-3.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rekomendatelnye-sistemy-na-ii/unnamed-3.png",
       "Alt": "гибридные системы рекомендаций ии",
       "Caption": "Гибридная фильтрация Литреса сделала подборку книг на основании предыдущих покупок и предпочтении других людей, которые покупали те же книги"
     },
@@ -579,7 +579,7 @@
       ],
       "Author": "Владимир Золотарев",
       "AuthorPosition": "Руководитель продукта Персонализация Retail Rocket Group",
-      "AuthorImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/12/Push-nots_80-300x300.png"
+      "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/first-second-third-party-data-guide/Push-nots_80-300x300.png"
     },
     {
       "_t": "Paragraph",

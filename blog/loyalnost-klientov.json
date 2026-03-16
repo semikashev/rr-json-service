@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2024-08-01T11:45:00"
   },
-  "ImageUrl": "https://secure.gravatar.com/avatar/6d7c404657b87220cc23d6370266d8f0b963bb9cb5de49e51edb9e20b7c9f268?s=112&#038;d=mm&#038;r=g",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/13-osnovnyh-otchetov-google-analytics/gravatar-6d7c404657b8-s112.jpg",
   "AuthorIdList": [
     "natalia-kazmina"
   ],
@@ -198,7 +198,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/blog-loyalnost-klientov-nps.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/loyalnost-klientov/blog-loyalnost-klientov-nps.png",
       "Alt": "",
       "Caption": null
     },
@@ -288,7 +288,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/blog-loyalnost-klientov-churn-rate.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/loyalnost-klientov/blog-loyalnost-klientov-churn-rate.png",
       "Alt": "",
       "Caption": null
     },

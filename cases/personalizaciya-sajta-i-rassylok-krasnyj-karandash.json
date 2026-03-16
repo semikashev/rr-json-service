@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2026-02-05T14:06:55"
   },
-  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2026/02/Blog-Articles-Thumbnail-from-TinyPNG.png",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalizaciya-sajta-i-rassylok-krasnyj-karandash/Blog-Articles-Thumbnail-from-TinyPNG.png",
   "AuthorIdList": [
     "kirill-morozov"
   ],
@@ -209,7 +209,7 @@
       ],
       "Author": "Евгений Коржуков",
       "AuthorPosition": "Директор по маркетингу и рекламе сети арт-маркетов «Красный Карандаш»",
-      "AuthorImageUrl": "https://retailrocket.ru/wp-content/uploads/2026/02/photo_2026-02-04-13.13.26-300x300.jpeg"
+      "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalizaciya-sajta-i-rassylok-krasnyj-karandash/photo_2026-02-04-13.13.26-300x300.jpeg"
     },
     {
       "_t": "Paragraph",
@@ -451,7 +451,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/Image-from-TinyPNG-4%201.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalizaciya-sajta-i-rassylok-krasnyj-karandash/Image-from-TinyPNG-4-1.png",
       "Alt": "",
       "Caption": "Страница пустой корзины с рекомендациями «Хиты продаж» на сайте «Красный Карандаш»"
     },
@@ -611,7 +611,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/image4%201.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalizaciya-sajta-i-rassylok-krasnyj-karandash/image4-1.png",
       "Alt": "",
       "Caption": "Пример триггерного email с персональной подборкой товаров на основе алгоритма рекомендаций Next Best Offer от Retail Rocket Group"
     },
@@ -640,7 +640,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/Image-from-TinyPNG-3%201.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalizaciya-sajta-i-rassylok-krasnyj-karandash/Image-from-TinyPNG-3-1.png",
       "Alt": "",
       "Caption": "Пример контента массовой рассылки «Красный Карандаш»"
     },
@@ -703,7 +703,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/2026-02-04%2015-21-18.gif",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalizaciya-sajta-i-rassylok-krasnyj-karandash/2026-02-04-15-21-18.gif",
       "Alt": "",
       "Caption": "Процесс создания рассылки с блоком товарных рекомендаций в визуальном редакторе Retail Rocket Group"
     },
@@ -726,7 +726,7 @@
       ],
       "Author": "Айгел Мударисова",
       "AuthorPosition": "CSM Retail Rocket Group",
-      "AuthorImageUrl": "https://retailrocket.ru/wp-content/uploads/2026/02/aigel_rrg-300x300.webp"
+      "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalizaciya-sajta-i-rassylok-krasnyj-karandash/aigel_rrg-300x300.webp"
     },
     {
       "_t": "Heading2",

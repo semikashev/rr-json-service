@@ -7,7 +7,7 @@
   "PublishDate": {
     "$date": "2024-10-01T14:55:00"
   },
-  "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/09/81_Как-работает-динамическое-ценообразование.webp",
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-rabotayet-dinamicheskoye-tsenoobrazovaniye/81_Kak-rabotaet-dinamicheskoe-tsenoobrazovanie.webp",
   "AuthorIdList": [
     "natalia-kazmina"
   ],
@@ -185,7 +185,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/10/1_dynamic-pricing-1-scaled.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-rabotayet-dinamicheskoye-tsenoobrazovaniye/1_dynamic-pricing-1-scaled.png",
       "Alt": "",
       "Caption": "При динамическом ценообразовании у бизнеса есть несколько ценовых точек, которые помогают получать прибыль в разных ситуациях"
     },
@@ -675,7 +675,7 @@
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2024/10/2_dynamic-pricing-1-scaled.png",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-rabotayet-dinamicheskoye-tsenoobrazovaniye/2_dynamic-pricing-1-scaled.png",
       "Alt": "Преимущества и недостатки динамического ценообразования",
       "Caption": null
     },
