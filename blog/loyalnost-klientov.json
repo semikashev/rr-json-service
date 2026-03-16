@@ -188,7 +188,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/loyalnost-klientov/blog-loyalnost-klientov-nps.png",
-      "Alt": "",
+      "Alt": "Схема расчета NPS для оценки лояльности клиентов и сегментации клиентов.",
       "Caption": null
     },
     {
@@ -278,7 +278,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/loyalnost-klientov/blog-loyalnost-klientov-churn-rate.png",
-      "Alt": "",
+      "Alt": "Формула расчёта Churn Rate для управления данными клиентов в ритейле.",
       "Caption": null
     },
     {

@@ -81,7 +81,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-mau-dau-wau/DAU_MAU_WAU_01-2048x551-1.png",
-      "Alt": "",
+      "Alt": "DAU, WAU и MAU: метрики активности пользователей в инфографике.",
       "Caption": null
     },
     {
@@ -418,7 +418,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-mau-dau-wau/glossary-chto-takoe-mau-dau-wau-sticky-month.png",
-      "Alt": "",
+      "Alt": "Схема для расчета метрики Stickymonth в контексте DAU, WAU, MAU.",
       "Caption": null
     },
     {
@@ -428,7 +428,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-mau-dau-wau/glossary-chto-takoe-mau-dau-wau-sticky-week.png",
-      "Alt": "",
+      "Alt": "Интерфейс Sticky-week с полями для ввода данных и кнопками управления.",
       "Caption": null
     },
     {
@@ -577,7 +577,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-mau-dau-wau/glossary-chto-takoe-mau-dau-wau-arpu.png",
-      "Alt": "",
+      "Alt": "Уравнение для расчета ARPU: выручка делится на количество пользователей.",
       "Caption": null
     },
     {
@@ -628,7 +628,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-mau-dau-wau/glossary-chto-takoe-mau-dau-wau-rr.png",
-      "Alt": "",
+      "Alt": "Схема расчета метрик DAU, WAU и MAU в ритейле.",
       "Caption": null
     },
     {
@@ -674,7 +674,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-mau-dau-wau/glossary-chto-takoe-mau-dau-wau-ltv.png",
-      "Alt": "",
+      "Alt": "Формула расчета LTV в ритейле для роста показателя.",
       "Caption": null
     },
     {

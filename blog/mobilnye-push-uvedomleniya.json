@@ -48,7 +48,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/mobilnye-push-uvedomleniya/Mobile_push_notifications_01.png",
-      "Alt": "",
+      "Alt": "Экран, центр уведомлений и баннеры для мобильных push-уведомлений.",
       "Caption": null
     },
     {
@@ -262,7 +262,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/mobilnye-push-uvedomleniya/Mobile_push_notifications_02.png",
-      "Alt": "",
+      "Alt": "Схема отправки push уведомлений с сервера разработчика на устройство",
       "Caption": null
     },
     {
@@ -553,7 +553,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/mobilnye-push-uvedomleniya/blog-mobilnye-push-uvedomleniya-ctr.png",
-      "Alt": "",
+      "Alt": "Схема расчёта CTR для push-уведомлений с фокусом на персонализации.",
       "Caption": null
     },
     {
@@ -603,7 +603,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/mobilnye-push-uvedomleniya/blog-mobilnye-push-uvedomleniya-cr.png",
-      "Alt": "",
+      "Alt": "Схема расчета коэффициента конверсии для push-уведомлений.",
       "Caption": null
     },
     {
@@ -653,7 +653,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/mobilnye-push-uvedomleniya/blog-mobilnye-push-uvedomleniya-rr.png",
-      "Alt": "",
+      "Alt": "Схема расчета эффективности push уведомлений и персонализации в e-commerce.",
       "Caption": null
     },
     {
@@ -703,7 +703,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/mobilnye-push-uvedomleniya/blog-mobilnye-push-uvedomleniya-oor.png",
-      "Alt": "",
+      "Alt": "Интерфейс схемы рассылки push уведомлений с использованием персонализации в e-commerce.",
       "Caption": null
     },
     {

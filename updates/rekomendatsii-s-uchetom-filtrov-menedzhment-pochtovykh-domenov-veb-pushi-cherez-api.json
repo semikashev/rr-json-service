@@ -57,7 +57,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/rekomendatsii-s-uchetom-filtrov-menedzhment-pochtovykh-domenov-veb-pushi-cherez-api/updatedomens_60.png",
-      "Alt": "",
+      "Alt": "Интерфейс фильтрации с товарными рекомендациями на основе поиска красных платьев",
       "Caption": null
     },
     {
@@ -108,7 +108,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/rekomendatsii-s-uchetom-filtrov-menedzhment-pochtovykh-domenov-veb-pushi-cherez-api/updatedomens_10.png",
-      "Alt": "",
+      "Alt": "Интерфейс управления почтовыми доменами с верификацией через DKIM и SPF.",
       "Caption": null
     },
     {
@@ -232,7 +232,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/rekomendatsii-s-uchetom-filtrov-menedzhment-pochtovykh-domenov-veb-pushi-cherez-api/updatedomens_20.png",
-      "Alt": "",
+      "Alt": "Скриншот интерфейса управления почтовыми доменами и рассылками в Retail Rocket.",
       "Caption": null
     },
     {
@@ -256,7 +256,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/rekomendatsii-s-uchetom-filtrov-menedzhment-pochtovykh-domenov-veb-pushi-cherez-api/updatedomens_30.png",
-      "Alt": "",
+      "Alt": "Интерфейс добавления домена для управления почтовыми доменами.",
       "Caption": null
     },
     {
@@ -271,7 +271,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/rekomendatsii-s-uchetom-filtrov-menedzhment-pochtovykh-domenov-veb-pushi-cherez-api/updatedomens_40.png",
-      "Alt": "",
+      "Alt": "Интерфейс настройки DKIM, SPF и DMARC для управления почтовыми доменами.",
       "Caption": null
     },
     {
@@ -313,7 +313,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/rekomendatsii-s-uchetom-filtrov-menedzhment-pochtovykh-domenov-veb-pushi-cherez-api/updatedomens_50.png",
-      "Alt": "",
+      "Alt": "Интерфейс управления доменами с настройками DKIM и SPF для почтовых отправителей.",
       "Caption": null
     },
     {
@@ -346,7 +346,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/rekomendatsii-s-uchetom-filtrov-menedzhment-pochtovykh-domenov-veb-pushi-cherez-api/updatedomens_10-1.png",
-      "Alt": "",
+      "Alt": "Интерфейс управления почтовыми доменами с возможностью верификации и добавления доменов.",
       "Caption": null
     },
     {

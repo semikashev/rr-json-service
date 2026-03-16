@@ -94,7 +94,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/hto-takoe-cdp/cdp_10.png",
-      "Alt": "",
+      "Alt": "Интерфейс платформы данных о клиентах с аналитикой и историей действий пользователя.",
       "Caption": null
     },
     {
@@ -182,7 +182,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/hto-takoe-cdp/cdp_20.png",
-      "Alt": "",
+      "Alt": "Схема обработки и сегментации данных с использованием платформы данных о клиентах.",
       "Caption": null
     },
     {
@@ -383,7 +383,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/hto-takoe-cdp/cdp_30.png",
-      "Alt": "",
+      "Alt": "Интерфейс настройки сегментации и автоаутентификации в платформе данных о клиентах CDP.",
       "Caption": null
     },
     {

@@ -71,7 +71,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/proxy-metrics-v-e-commerce-part-2/proxymetrics_p1_10.png",
-      "Alt": "",
+      "Alt": "Типы магазинов и их количество; инфографика о ритейле и персонализация в e-commerce.",
       "Caption": null
     },
     {
@@ -182,7 +182,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/proxy-metrics-v-e-commerce-part-2/proxymetrics_p2_10.png",
-      "Alt": "",
+      "Alt": "Хронология сбора данных для анализа LTV в e-commerce.",
       "Caption": null
     },
     {
@@ -308,7 +308,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/proxy-metrics-v-e-commerce-part-2/proxymetrics_p2_20.png",
-      "Alt": "",
+      "Alt": "Графики зависимости метрик заказов и посещений в e-commerce магазинах.",
       "Caption": null
     },
     {
@@ -472,13 +472,13 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/proxy-metrics-v-e-commerce-part-2/proxymetrics_p2_30.png",
-      "Alt": "",
+      "Alt": "Тепловая карта корреляций метрик для персонализации в e-commerce.",
       "Caption": null
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/proxy-metrics-v-e-commerce-part-2/proxymetrics_p2_40.png",
-      "Alt": "",
+      "Alt": "Корреляция метрик для анализа персонализации в e-commerce.",
       "Caption": null
     },
     {
@@ -538,7 +538,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/proxy-metrics-v-e-commerce-part-2/proxymetrics_p2_50.png",
-      "Alt": "",
+      "Alt": "Графики: влияние количества просмотренных товаров на заказы; данные о клиентах в e-commerce.",
       "Caption": null
     },
     {
@@ -634,7 +634,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/proxy-metrics-v-e-commerce-part-2/proxymetrics_p2_60.png",
-      "Alt": "",
+      "Alt": "Диаграмма AUC при добавлении признаков, персонализация в e-commerce.",
       "Caption": null
     },
     {
@@ -676,7 +676,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/proxy-metrics-v-e-commerce-part-2/proxymetrics_p2_70.png",
-      "Alt": "",
+      "Alt": "График AUC с прокси-метриками для персонализации в e-commerce.",
       "Caption": null
     },
     {
