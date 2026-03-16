@@ -24,24 +24,6 @@
   "MetaTitle": "Как AI помогает создать индивидуальный подход: кейс интернет-магазина KANZLER и рост числа заказов в 1,5 раза – Retail Rocket Group, страница 2",
   "ContentBlockList": [
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Каждый покупатель хочет чувствовать себя уникальным и видеть в витрине магазина или в рассылке товары, интересные именно ему и именно сейчас. А магазин хочет постоянно увеличивать ключевые метрики. Как соединить пожелания клиента с целями бизнеса? Ответ дают возможности искусственного интеллекта. Об этом и многом другом рассказываем в сегодняшнем кейсе с интернет-магазином KANZLER."
-        }
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-        }
-      ]
-    },
-    {
       "_t": "Heading2",
       "Title": "Краткое саммари"
     },
@@ -722,67 +704,6 @@
       "Author": "Кирилл",
       "AuthorPosition": "Менеджер Retail Rocket Group",
       "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-ai-pomogaet-sozdat-individualnyj-podhod-kejs-internet-magazina-kanzler-i-rost-chisla-zakazov-v-1-5-raza/4343444444-300x300-1.webp"
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Авторы статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/kirill-morozov/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " Похожие статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/cases/personalizaciya-sajta-i-rassylok-krasnyj-karandash/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кейсы +21,9 % выручки с помощью персонализации сайта и рассылок. Кейс «Красный Карандаш» Кирилл Морозов 05.02.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/cases/case-b2b-personalizaciya-mir-instrumenta-retail-rocket/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кейсы 19,6% выручки — с участием персонализации. Как «МИР ИНСТРУМЕНТА» внедрил рекомендации в B2B Кирилл Морозов 20.01.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/cases/kak-intimshop-uvelichil-vyruchku-blagodarya-personalizacii/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кейсы Как IntimShop увеличил выручку благодаря персонализации блога и email-маркетинга Кирилл Морозов 26.09.2024"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

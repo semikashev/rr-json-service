@@ -25,35 +25,6 @@
   "MetaTitle": "Что такое push-уведомления и как они работают на практике, страница 4",
   "ContentBlockList": [
     {
-      "_t": "UnorderedList",
-      "Items": [
-        [
-          {
-            "_t": "Text",
-            "Content": "Next-Gen comms, Теория и практика"
-          }
-        ]
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Push-уведомления могут вернуть клиента на сайт, напомнить про скидку или подтолкнуть к покупке. Но если отправлять их без разбора, они раздражают и заставляют отключить оповещения. Владимир Золотарёв, руководитель продукта персонализации Retail Rocket Group, разбирает, как работают push-уведомления, какие задачи они решают и как сделать так, чтобы их читали, а не закрывали."
-        }
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Наталья Казьмина CMO Retail Rocket Group"
-        }
-      ]
-    },
-    {
       "_t": "Heading2",
       "Title": "Что такое push-уведомления"
     },
@@ -1232,67 +1203,6 @@
           "Бонусы сгорели. Пользователь расстроился, так как не успел ими воспользоваться. Желание на повторную покупку уменьшилось.",
           "Пользователь приобрёл на бонусы необходимый товар. Он остался доволен и сделал ещё одну покупку. Бренд — молодец!"
         ]
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Авторы статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/natalia-kazmina/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Наталья Казьмина CMO Retail Rocket Group"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " Похожие статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
-            }
-          ]
-        }
       ]
     }
   ]

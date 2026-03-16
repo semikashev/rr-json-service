@@ -25,17 +25,6 @@
   "MetaTitle": "Churn Rate: что такое отток клиентов и как его посчитать",
   "ContentBlockList": [
     {
-      "_t": "UnorderedList",
-      "Items": [
-        [
-          {
-            "_t": "Text",
-            "Content": "CX & Loyalty, Теория и практика"
-          }
-        ]
-      ]
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -1091,59 +1080,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Даже 1–2% снижения оттока способны повысить прибыль за счёт увеличения LTV, повторных покупок и оптимизации рекламных затрат. Авторы статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/natalia-kazmina/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Наталья Казьмина CMO Retail Rocket Group"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " Похожие статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/povyshenie-konversii-sajta/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty 20 способов увеличить конверсию сайта и получить больше заявок Кирилл Морозов 10.12.2025"
-            }
-          ]
+          "Content": "Даже 1–2% снижения оттока способны повысить прибыль за счёт увеличения LTV, повторных покупок и оптимизации рекламных затрат."
         }
       ]
     }

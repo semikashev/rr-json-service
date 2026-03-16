@@ -24,39 +24,6 @@
   "MetaTitle": "Что такое AOV (Average Order Value): определение, примеры и применение в маркетинге",
   "ContentBlockList": [
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/glossary/chto-takoe-ad-hoc-zapros/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Читать далее →"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "AOV (Average Order Value) — это средняя сумма, которую клиент тратит за один заказ. В этом тексте разбираем, что такое AOV, как его рассчитать и зачем он нужен маркетологу. Материал входит в глоссарий «Словарь маркетолога», созданный командой Retail Rocket. Мы объясняем ключевые термины digital-маркетинга простыми словами, с примерами из реальной практики."
-        }
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-        }
-      ]
-    },
-    {
       "_t": "Heading2",
       "Title": "Что такое AOV (average order value)"
     },
@@ -479,67 +446,6 @@
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-aov/tg_image_1586910156.png",
       "Alt": "",
       "Caption": "Пример блогера с рекламируемым товаром"
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Авторы статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/kirill-morozov/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " Похожие статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

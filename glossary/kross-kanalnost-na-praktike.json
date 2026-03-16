@@ -19,15 +19,6 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Наталья Казьмина CMO Retail Rocket Group"
-        }
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
           "Content": "Кросс-канальность — это не просто про удобство. Она меняет сам подход к покупкам. Представь, ты выбираешь смартфон на сайте, добавляешь его в корзину, но решаешь посмотреть его вживую в магазине. Придя туда, консультант сразу видит, что ты уже выбрал, рассказывает о модели, помогает сравнить с другими вариантами и быстро оформляет заказ. Это не просто экономит время — ты ощущаешь, что всё происходит как тебе удобно."
         }
       ]
@@ -422,67 +413,6 @@
             "Content": " Если email и push не сработали, только тогда отправляйте SMS. Это поможет удержать связь с клиентом, не тратя лишние деньги."
           }
         ]
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Авторы статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/natalia-kazmina/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Наталья Казьмина CMO Retail Rocket Group"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " Похожие статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
-            }
-          ]
-        }
       ]
     }
   ]

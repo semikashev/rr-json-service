@@ -24,17 +24,6 @@
   "MetaTitle": "Лето-2024: дайджест обновлений adTech-платформы Smart Placement Ads от Retail Rocket Group",
   "ContentBlockList": [
     {
-      "_t": "UnorderedList",
-      "Items": [
-        [
-          {
-            "_t": "Text",
-            "Content": "Продуктовые обновления"
-          }
-        ]
-      ]
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -268,67 +257,6 @@
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/letnij-digest-obnovlenij-adtech-smart-placement-ads/Capture-2025-10-27-213010-scaled.webp",
       "Alt": "",
       "Caption": "Баннеры теперь можно загружать с устройства без предварительного размещения во внешнем хранилище"
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Авторы статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/kirill-morozov/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " Похожие статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/updates/novye-vozmozhnosti-segmentacii-v-retail-rocket/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Продуктовые обновления Максимальная персонализация: новые возможности сегментации Наталья Казьмина 22.10.2025"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/updates/smart-placement-avto-vlozhennye-kategorii-v-targetinge/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Продуктовые обновления Упростили работу с вложенными категориями в условиях показа рекламы в Smart Placement Кирилл Морозов 24.09.2025"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/updates/novyj-dashbord-retail-rocket-vliyanie-rekomendaciy-i-kommunikaciy/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Продуктовые обновления Новый дашборд: наглядное влияние рекомендаций и коммуникаций на выручку Кирилл Морозов 23.09.2025"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

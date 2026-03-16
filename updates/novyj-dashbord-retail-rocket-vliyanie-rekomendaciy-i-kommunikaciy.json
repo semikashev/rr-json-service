@@ -24,35 +24,6 @@
   "MetaTitle": "Новый дашборд: как онлайн-инструменты влияют на выручку",
   "ContentBlockList": [
     {
-      "_t": "UnorderedList",
-      "Items": [
-        [
-          {
-            "_t": "Text",
-            "Content": "Продуктовые обновления"
-          }
-        ]
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "В кабинете Retail Rocket обновили дашборд — теперь видно, как рекомендации и коммуникации влияют на онлайн- и офлайн-продажи, формируя целостную картину эффективности бизнеса."
-        }
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-        }
-      ]
-    },
-    {
       "_t": "Heading2",
       "Title": "Главные изменения в Панели информации"
     },
@@ -414,67 +385,6 @@
             "Content": ". Теперь учитываются не только офлайн-продажи и переходы между устройствами, но и особенности работы почтовых приложений. Даже если пользователь открывает письмо не в стандартном браузере, а внутри почтового клиента, наша аналитика корректно фиксирует переход и связывает его с последующей активностью."
           }
         ]
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Авторы статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/kirill-morozov/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " Похожие статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/updates/novye-vozmozhnosti-segmentacii-v-retail-rocket/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Продуктовые обновления Максимальная персонализация: новые возможности сегментации Наталья Казьмина 22.10.2025"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/updates/smart-placement-avto-vlozhennye-kategorii-v-targetinge/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Продуктовые обновления Упростили работу с вложенными категориями в условиях показа рекламы в Smart Placement Кирилл Морозов 24.09.2025"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/updates/obnovlennye-kartochki-plejsmentov/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Продуктовые обновления Обновленные карточки плейсментов: улучшенный интерфейс и новые инструменты брендирования в AdTech-платформе Smart Placement Ads Кирилл Морозов 08.09.2025"
-            }
-          ]
-        }
       ]
     }
   ]

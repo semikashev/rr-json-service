@@ -28,24 +28,6 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Материал входит в глоссарий «Словарь маркетолога», созданный командой Retail Rocket. Мы разбираем сложные термины простыми словами. В этой статье объясняем, что такое бренд, какие у него функции и какие виды бывают."
-        }
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-        }
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
           "Content": "Бренд (от англ. brand — клеймо, марка) — это устойчивая ассоциация, которая возникает в сознании человека при встрече с названием, знаком или визуальным образом продукта, компании или услуги. Эта ассоциация складывается из личного опыта, контекста, эмоций, репутации и обещаний, которые бренд транслирует."
         }
       ]
@@ -888,67 +870,6 @@
             "Content": " — блог Retailrocket."
           }
         ]
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Авторы статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/kirill-morozov/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " Похожие статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
-            }
-          ]
-        }
       ]
     }
   ]

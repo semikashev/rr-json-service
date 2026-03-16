@@ -24,35 +24,6 @@
   "MetaTitle": "25 лучших книг по маркетингу и e-commerce для ритейла в 2025",
   "ContentBlockList": [
     {
-      "_t": "UnorderedList",
-      "Items": [
-        [
-          {
-            "_t": "Text",
-            "Content": "Теория и практика"
-          }
-        ]
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Розничный и e-commerce-рынки меняются быстрее, чем успевают выходить новые бизнес-книги. Чтобы не читать всё подряд, мы собрали 25 изданий, которые советуют практики — директора по e-commerce, маркетингу и развитию крупных российских компаний. В список вошли как классический must-read, так и неочевидные произведение, которые помогут совершенствовать работу в ритейле и e-commerce."
-        }
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Наталья Казьмина CMO Retail Rocket Group"
-        }
-      ]
-    },
-    {
       "_t": "Heading2",
       "Title": "«Маркетинг, основанный на данных» — Марк Джеффри"
     },
@@ -1724,59 +1695,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Автор статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/natalia-kazmina/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Наталья Казьмина CMO Retail Rocket Group"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " Похожие статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
-            }
-          ]
+          "Content": "Автор статьи Наталья Казьмина CMO Retail Rocket Group"
         }
       ]
     }

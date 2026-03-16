@@ -24,35 +24,6 @@
   "MetaTitle": "13 основных отчетов Google Analytics для ecommerce – Retail Rocket, страница 5",
   "ContentBlockList": [
     {
-      "_t": "UnorderedList",
-      "Items": [
-        [
-          {
-            "_t": "Text",
-            "Content": "Теория и практика"
-          }
-        ]
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Google Analytics — универсальный аналитический инструмент со множеством базовых отчетов, нацеленных на разные сегменты бизнеса, в том числе для ecommerce. Мы уже подробно рассказывали вам о том, как отслеживать незавершенные покупки в Google Analytics, а сегодня подготовили список из 13 наиболее функциональных готовых отчетов для ecommerce, которые могут значительно упростить жизнь маркетологам и владельцам интернет-магазинов."
-        }
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Наталья Казьмина CMO Retail Rocket Group"
-        }
-      ]
-    },
-    {
       "_t": "Heading2",
       "Title": "1. Часы пик и самые популярные дни недели"
     },
@@ -563,59 +534,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Все представленные специальные отчеты разработаны для повышения эффективности data-driven маркетинга вашего интернет-магазина. В зависимости от ваших задач используйте их в качестве альтернативы стандартным отчетам системы Google Analytics или в качестве дополнения к ним. Авторы статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/natalia-kazmina/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Наталья Казьмина CMO Retail Rocket Group"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " Похожие статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
-            }
-          ]
+          "Content": "Все представленные специальные отчеты разработаны для повышения эффективности data-driven маркетинга вашего интернет-магазина. В зависимости от ваших задач используйте их в качестве альтернативы стандартным отчетам системы Google Analytics или в качестве дополнения к ним."
         }
       ]
     }

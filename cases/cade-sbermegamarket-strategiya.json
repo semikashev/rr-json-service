@@ -71,67 +71,6 @@
       "Elements": [],
       "BtnText": "Запросить демо",
       "BtnUrl": "https://retailrocket.ru/demo/"
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Авторы статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/kirill-morozov/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " Похожие статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/cases/prodvizhenie-na-lemana-pro-retail-media-kejs/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кейсы Как не упустить пик сезонного спроса и получить 9,5 млн выручки с ДРР 7,8% за три месяца продвижения на Лемана ПРО Кирилл Морозов 20.02.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/cases/kak-detskij-mir-vnedril-prediktivnuyu-analitiku-v-reklamnyj-inventar/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кейсы Искусственный интеллект на маркетплейсе. Как «Детский мир» внедрил предиктивную аналитику в рекламный инвентарь Кирилл Морозов 27.08.2025"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/cases/pyat-instrumentov-prodvizheniya-detskih-tovarov-na-marketplejsah/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кейсы Пять инструментов продвижения детских товаров на маркетплейсах Кирилл Морозов 29.06.2025"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

@@ -24,35 +24,6 @@
   "MetaTitle": "Как поставить аватар отправителя к email-рассылке: Yandex, Gmail, Mail, страница 3",
   "ContentBlockList": [
     {
-      "_t": "UnorderedList",
-      "Items": [
-        [
-          {
-            "_t": "Text",
-            "Content": "Теория и практика"
-          }
-        ]
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Без аватара отправителя, письмо может оказаться незамеченным или попасть в спам. По данным исследования Consumer EmailTracker от DMA, 61% пользователей чаще открывают письма от брендов, с которыми они уже знакомы, а 39% делают это благодаря узнаваемости логотипа компании."
-        }
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Наталья Казьмина CMO Retail Rocket Group"
-        }
-      ]
-    },
-    {
       "_t": "Heading2",
       "Title": "Что такое аватар в email"
     },
@@ -554,59 +525,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Существует стандарт безопасности BIMI, который настраивает один аватар на все почтовые сервисы, которые его поддерживают. Из популярных почтовых сервисов в России, этот стандарт безопасности поддерживает только Google. Авторы статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/natalia-kazmina/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Наталья Казьмина CMO Retail Rocket Group"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " Похожие статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
-            }
-          ]
+          "Content": "Существует стандарт безопасности BIMI, который настраивает один аватар на все почтовые сервисы, которые его поддерживают. Из популярных почтовых сервисов в России, этот стандарт безопасности поддерживает только Google."
         }
       ]
     }

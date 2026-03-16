@@ -24,24 +24,6 @@
   "MetaTitle": "Как внедрить персональные рекомендации в мессенджеры за две недели: кейс Skillbox – Retail Rocket Group",
   "ContentBlockList": [
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Процент открытий и реакций в мессенджерах как правило выше, чем в email-канале. Несмотря на это, их редко рассматривают в качестве площадки для доставки рекламных сообщений — например, персональных рекомендаций."
-        }
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-        }
-      ]
-    },
-    {
       "_t": "Heading2",
       "Title": "О партнере"
     },
@@ -306,67 +288,6 @@
       "Author": "Алексей Полищук",
       "AuthorPosition": "Менеджер заботы о партнерах Retail Rocket Group",
       "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalnii-reko-v-messendgerah/Skype-2022-11-29-13-11-04-1-300x287.png"
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Авторы статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/kirill-morozov/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " Похожие статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/cases/prodvizhenie-na-lemana-pro-retail-media-kejs/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кейсы Как не упустить пик сезонного спроса и получить 9,5 млн выручки с ДРР 7,8% за три месяца продвижения на Лемана ПРО Кирилл Морозов 20.02.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/cases/personalizaciya-sajta-i-rassylok-krasnyj-karandash/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кейсы +21,9 % выручки с помощью персонализации сайта и рассылок. Кейс «Красный Карандаш» Кирилл Морозов 05.02.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/cases/case-b2b-personalizaciya-mir-instrumenta-retail-rocket/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кейсы 19,6% выручки — с участием персонализации. Как «МИР ИНСТРУМЕНТА» внедрил рекомендации в B2B Кирилл Морозов 20.01.2026"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

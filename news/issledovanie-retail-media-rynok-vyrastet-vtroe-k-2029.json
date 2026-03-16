@@ -177,53 +177,6 @@
           }
         ]
       ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Похожие статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/news/retail-rocket-cofix-premiya-miks-rossiya-2025/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Новости Retail Rocket Group и Cofix получили премию «МИКС Россия — 2025» за проект martech-экосистемы для франчайзинговой сети Наталья Казьмина 12.11.2025"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/news/retail-rocket-group-premiya-bolshoj-oborot-2025/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Новости Retail Rocket Group получила премию «Большой Оборот — 2025» Наталья Казьмина 10.10.2025"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/news/edinij-centr-marketinga-retail-rocket-ecom-awards-2025/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Новости Единый центр управления маркетингом Retail Rocket Group получил премию ECOM Awards 2025 Наталья Казьмина 08.10.2025"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

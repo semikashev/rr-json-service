@@ -24,35 +24,6 @@
   "MetaTitle": "Как проходит тимбилдинг в Retail Rocket и почему мы выбрали Team Canvas – Retail Rocket Group, страница 7",
   "ContentBlockList": [
     {
-      "_t": "UnorderedList",
-      "Items": [
-        [
-          {
-            "_t": "Text",
-            "Content": "Теория и практика"
-          }
-        ]
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Грамотный тимбилдинг позволяет синхронизировать цели команды, определить общие ценности и приятно провести время. В Retail Rocket уделяют много внимания командной работе и продуктивной обстановке в коллективе, стремясь использовать лучшие мировые практики. В начале года мы искали инструмент для сплочения команды разработчиков, который был бы и максимально полезным, и позволил бы пообщаться в нерабочей обстановке, лучше узнав друг друга. И мы его нашли."
-        }
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Наталья Казьмина CMO Retail Rocket Group"
-        }
-      ]
-    },
-    {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-prohodit-timbilding-v-retail-rocket-i-pochemu-my-vybrali-team-canvas/af2aa9d8-37c8-4476-b2ce-049423fb2466.webp",
       "Alt": "",
@@ -333,67 +304,6 @@
             "Content": "Работать с готовыми Team Canvas команд. Мы распечатали и повесили Team Canvas в офисе на видном месте: все, кто идут за чаем с печеньками, видят плакат формата А1. Также team-лиды анализируют личные цели, потребности/ожидания и включают эти желания в индивидуальные планы развития (ИПР) сотрудников. А точки роста обсуждаем на ретроспективах, внедряем правила, которые помогут закрыть возникшие на Team Canvas вопросы."
           }
         ]
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Авторы статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/natalia-kazmina/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Наталья Казьмина CMO Retail Rocket Group"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " Похожие статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
-            }
-          ]
-        }
       ]
     }
   ]

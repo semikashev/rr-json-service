@@ -24,35 +24,6 @@
   "MetaTitle": "Новый алгоритм рекомендаций на основе нейросетей показывает релевантные товары до 23% чаще – Retail Rocket Group, страница 2",
   "ContentBlockList": [
     {
-      "_t": "UnorderedList",
-      "Items": [
-        [
-          {
-            "_t": "Text",
-            "Content": "Продуктовые обновления"
-          }
-        ]
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Мы разработали алгоритм рекомендаций на поиске на основе нейросетей. По сравнению с прошлым алгоритмом, новый показывает релевантные товары до 23% чаще и до 14% точнее предсказывает следующий продукт, с которым пользователь будет взаимодействовать. О других преимуществах рассказываем в статье."
-        }
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-        }
-      ]
-    },
-    {
       "_t": "Heading2",
       "Title": "Ключевые преимущества нового алгоритма"
     },
@@ -151,64 +122,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Оставьте заявку",
-          "IsBold": true
-        },
-        {
-          "_t": "Text",
-          "Content": "на демо, чтобы увидеть возможности алгоритма. Авторы статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/kirill-morozov/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " Похожие статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/updates/novye-vozmozhnosti-segmentacii-v-retail-rocket/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Продуктовые обновления Максимальная персонализация: новые возможности сегментации Наталья Казьмина 22.10.2025"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/updates/smart-placement-avto-vlozhennye-kategorii-v-targetinge/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Продуктовые обновления Упростили работу с вложенными категориями в условиях показа рекламы в Smart Placement Кирилл Морозов 24.09.2025"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/updates/novyj-dashbord-retail-rocket-vliyanie-rekomendaciy-i-kommunikaciy/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Продуктовые обновления Новый дашборд: наглядное влияние рекомендаций и коммуникаций на выручку Кирилл Морозов 23.09.2025"
-            }
-          ]
+          "Content": "Оставьте заявкуна демо, чтобы увидеть возможности алгоритма."
         }
       ]
     }

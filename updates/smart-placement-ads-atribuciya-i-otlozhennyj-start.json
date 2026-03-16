@@ -24,35 +24,6 @@
   "MetaTitle": "Новые опции атрибуции и отложенный старт в Smart Placement Ads",
   "ContentBlockList": [
     {
-      "_t": "UnorderedList",
-      "Items": [
-        [
-          {
-            "_t": "Text",
-            "Content": "Продуктовые обновления"
-          }
-        ]
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Рассказываем об обновлениях платформы Smart Placement Ads — новых опциях атрибуции товара для детальной аналитики продаж, отложенном старте рекламной кампании и новых отчетах для анализа статистики площадок."
-        }
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-        }
-      ]
-    },
-    {
       "_t": "Heading2",
       "Title": "3 новые опции атрибуции товаров к рекламе"
     },
@@ -410,59 +381,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Чтобы получить доступ к статистике, запросите доступ у своего персонального менеджера. После этого в личном кабинете будет доступна статистика за любой период — в том числе, в расширенном формате .xlsx. Авторы статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/kirill-morozov/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " Похожие статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/updates/novye-vozmozhnosti-segmentacii-v-retail-rocket/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Продуктовые обновления Максимальная персонализация: новые возможности сегментации Наталья Казьмина 22.10.2025"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/updates/smart-placement-avto-vlozhennye-kategorii-v-targetinge/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Продуктовые обновления Упростили работу с вложенными категориями в условиях показа рекламы в Smart Placement Кирилл Морозов 24.09.2025"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/updates/novyj-dashbord-retail-rocket-vliyanie-rekomendaciy-i-kommunikaciy/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Продуктовые обновления Новый дашборд: наглядное влияние рекомендаций и коммуникаций на выручку Кирилл Морозов 23.09.2025"
-            }
-          ]
+          "Content": "Чтобы получить доступ к статистике, запросите доступ у своего персонального менеджера. После этого в личном кабинете будет доступна статистика за любой период — в том числе, в расширенном формате .xlsx."
         }
       ]
     }

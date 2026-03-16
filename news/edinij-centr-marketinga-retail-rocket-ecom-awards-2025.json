@@ -55,45 +55,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "ECOM Awards — ежегодная премия, которая отмечает наиболее яркие проекты и инновации в электронной торговле. Цель конкурса — признать достижения лидеров отрасли и привлечь внимание профессионального сообщества к лучшим практикам и решениям на рынке. Похожие статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/news/retail-rocket-cofix-premiya-miks-rossiya-2025/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Новости Retail Rocket Group и Cofix получили премию «МИКС Россия — 2025» за проект martech-экосистемы для франчайзинговой сети Наталья Казьмина 12.11.2025"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/news/retail-rocket-group-premiya-bolshoj-oborot-2025/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Новости Retail Rocket Group получила премию «Большой Оборот — 2025» Наталья Казьмина 10.10.2025"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/news/retail-rocket-leader-retail-media-rejting-technology-index-2025/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Новости Retail Media платформа Retail Rocket Group заняла лидирующие позиции в рейтинге Technology Index 2025 Наталья Казьмина 30.06.2025"
-            }
-          ]
+          "Content": "ECOM Awards — ежегодная премия, которая отмечает наиболее яркие проекты и инновации в электронной торговле. Цель конкурса — признать достижения лидеров отрасли и привлечь внимание профессионального сообщества к лучшим практикам и решениям на рынке."
         }
       ]
     }

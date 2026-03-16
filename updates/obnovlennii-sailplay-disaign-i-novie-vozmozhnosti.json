@@ -24,35 +24,6 @@
   "MetaTitle": "Обновленный Sailplay: дизайн, подарочные сертификаты, мгновенная сегментация и другие возможности – Retail Rocket Group, страница 2",
   "ContentBlockList": [
     {
-      "_t": "UnorderedList",
-      "Items": [
-        [
-          {
-            "_t": "Text",
-            "Content": "Продуктовые обновления"
-          }
-        ]
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "У платформы Sailplay вышли значительные обновления, с которыми управлять программой лояльности стало еще проще и удобнее. Рассказываем о них подробнее в продуктовом апдейте."
-        }
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-        }
-      ]
-    },
-    {
       "_t": "Heading2",
       "Title": "Главная"
     },
@@ -459,67 +430,6 @@
             "Content": "Управление картами. Отслеживайте и управляйте статусами карт в интерфейсе Sailplay.Защиту от мошенничества. Карты можно защитить пин-кодом, чтобы избежать мошенничества. Воспользоваться подарком сможет только его владелец."
           }
         ]
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Авторы статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/kirill-morozov/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " Похожие статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/updates/novye-vozmozhnosti-segmentacii-v-retail-rocket/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Продуктовые обновления Максимальная персонализация: новые возможности сегментации Наталья Казьмина 22.10.2025"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/updates/smart-placement-avto-vlozhennye-kategorii-v-targetinge/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Продуктовые обновления Упростили работу с вложенными категориями в условиях показа рекламы в Smart Placement Кирилл Морозов 24.09.2025"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/updates/novyj-dashbord-retail-rocket-vliyanie-rekomendaciy-i-kommunikaciy/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Продуктовые обновления Новый дашборд: наглядное влияние рекомендаций и коммуникаций на выручку Кирилл Морозов 23.09.2025"
-            }
-          ]
-        }
       ]
     }
   ]

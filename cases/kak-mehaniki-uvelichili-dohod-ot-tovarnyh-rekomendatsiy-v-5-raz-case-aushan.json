@@ -24,24 +24,6 @@
   "MetaTitle": "Какие механики увеличивают доход от товарных рекомендаций в 5 раз: кейс АШАН – Retail Rocket Group",
   "ContentBlockList": [
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Retail Rocket Group начали сотрудничать с интернет-магазином auchan.ru в 2015 году. За первые 6 лет работы доля рекомендаций в общем объеме онлайн-продаж составляла лишь 2%. В 2022 году e-commerce-департамент компании «АШАН Ритейл Россия» на стратегическом уровне закрепил развитие рекомендательных систем. Всего за 2 года доля дохода от алгоритмов рекомендаций увеличилась в 5 раз — до 10%."
-        }
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-        }
-      ]
-    },
-    {
       "_t": "Heading2",
       "Title": "Механика № 1 — аналоги товаров «не в наличии»"
     },
@@ -188,67 +170,6 @@
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-mehaniki-uvelichili-dohod-ot-tovarnyh-rekomendatsiy-v-5-raz-case-aushan/auchan_50.webp",
       "Alt": "",
       "Caption": "Блок рекомендаций с новинками на главной странице сайта"
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Авторы статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/kirill-morozov/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " Похожие статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/cases/personalizaciya-sajta-i-rassylok-krasnyj-karandash/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кейсы +21,9 % выручки с помощью персонализации сайта и рассылок. Кейс «Красный Карандаш» Кирилл Морозов 05.02.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/cases/case-b2b-personalizaciya-mir-instrumenta-retail-rocket/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кейсы 19,6% выручки — с участием персонализации. Как «МИР ИНСТРУМЕНТА» внедрил рекомендации в B2B Кирилл Морозов 20.01.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/cases/kak-intimshop-uvelichil-vyruchku-blagodarya-personalizacii/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кейсы Как IntimShop увеличил выручку благодаря персонализации блога и email-маркетинга Кирилл Морозов 26.09.2024"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

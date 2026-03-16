@@ -24,35 +24,6 @@
   "MetaTitle": "Digital In-Store с аукционом и таргетированным продвижением — прорыв в Retail media | Smart Placement Ads",
   "ContentBlockList": [
     {
-      "_t": "UnorderedList",
-      "Items": [
-        [
-          {
-            "_t": "Text",
-            "Content": "Продуктовые обновления"
-          }
-        ]
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Теперь через adTech-платформу Smart Placement Ads можно настраивать таргетированные кампании на digital-экранах в офлайн-магазинах. AdTech-платформа поддерживает возможность использовать статичный, товарный, видео- и звуковой формат, а размещение рекламы работает на базе аукциона. Управление Digital In-Store стало таким же удобным, как и при работе с онлайн-рекламой."
-        }
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-        }
-      ]
-    },
-    {
       "_t": "Heading2",
       "Title": "Digital In-Store позволяет использовать цифровые технологии для продвижения товаров офлайн"
     },
@@ -300,59 +271,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Рекламодатели получили возможность охватывать всю возможную аудиторию онлайн-площадки. Рекламная кампания может одновременно проходить на сайте, в мобильном приложении и в офлайн-точках. Авторы статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/kirill-morozov/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " Похожие статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/updates/novye-vozmozhnosti-segmentacii-v-retail-rocket/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Продуктовые обновления Максимальная персонализация: новые возможности сегментации Наталья Казьмина 22.10.2025"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/updates/smart-placement-avto-vlozhennye-kategorii-v-targetinge/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Продуктовые обновления Упростили работу с вложенными категориями в условиях показа рекламы в Smart Placement Кирилл Морозов 24.09.2025"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/updates/novyj-dashbord-retail-rocket-vliyanie-rekomendaciy-i-kommunikaciy/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Продуктовые обновления Новый дашборд: наглядное влияние рекомендаций и коммуникаций на выручку Кирилл Морозов 23.09.2025"
-            }
-          ]
+          "Content": "Рекламодатели получили возможность охватывать всю возможную аудиторию онлайн-площадки. Рекламная кампания может одновременно проходить на сайте, в мобильном приложении и в офлайн-точках."
         }
       ]
     }

@@ -25,17 +25,6 @@
   "MetaTitle": "Виджеты для сайта: что это, зачем нужны и лучшие примеры",
   "ContentBlockList": [
     {
-      "_t": "UnorderedList",
-      "Items": [
-        [
-          {
-            "_t": "Text",
-            "Content": "CX & Loyalty, Теория и практика"
-          }
-        ]
-      ]
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -710,67 +699,6 @@
         {
           "_t": "Text",
           "Content": "Результаты внедрения рекомендательных виджетов (кейсы Retail Rocket Group)"
-        }
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Авторы статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/kirill-morozov/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " Похожие статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/povyshenie-konversii-sajta/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty 20 способов увеличить конверсию сайта и получить больше заявок Кирилл Морозов 10.12.2025"
-            }
-          ]
         }
       ]
     }

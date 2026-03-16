@@ -28,24 +28,6 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Одна из ключевых особенностей fashion-ритейла заключается в необходимости адаптироваться к смене вкусов покупателей в зависимости от сезона и модных тенденций. Нет двух одинаковых людей, особенно, когда вопрос касается одежды. Это значит, что универсальной конфигурации товарных рекомендаций на сайте интернет-магазина просто не существует."
-        }
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-        }
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
           "Content": "Рассказываем, как внедрение персональных рекомендаций на всех страницах сайта позволило интерент-магазину Zarina.ru увеличить выручку более, чем на 28%."
         }
       ]
@@ -642,67 +624,6 @@
       "Author": "Татьяна Никитина",
       "AuthorPosition": "Менеджер интернет-магазина Zarina",
       "AuthorImageUrl": null
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Авторы статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/author/kirill-morozov/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " Похожие статьи "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/cases/personalizaciya-sajta-i-rassylok-krasnyj-karandash/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кейсы +21,9 % выручки с помощью персонализации сайта и рассылок. Кейс «Красный Карандаш» Кирилл Морозов 05.02.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/cases/case-b2b-personalizaciya-mir-instrumenta-retail-rocket/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кейсы 19,6% выручки — с участием персонализации. Как «МИР ИНСТРУМЕНТА» внедрил рекомендации в B2B Кирилл Морозов 20.01.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/cases/kak-intimshop-uvelichil-vyruchku-blagodarya-personalizacii/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кейсы Как IntimShop увеличил выручку благодаря персонализации блога и email-маркетинга Кирилл Морозов 26.09.2024"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

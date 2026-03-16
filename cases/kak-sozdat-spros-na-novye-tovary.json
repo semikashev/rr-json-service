@@ -24,24 +24,6 @@
   "MetaTitle": "Кейс Pharmacosmetica и Smart Placement: как создать спрос на новые товары - Retail Rocket Group",
   "ContentBlockList": [
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "В этом видео компания Pharmacosmetica, специализирующейся на производстве и продаже фармацевтической косметики поделится своим кейсом. Вместе с командой Smart Placement, они столкнулись с задачей сломить паттерн «привязанности» к конкретным товарам и обратить внимание покупателей на новые продукты — СТМ Pharmacosmetica."
-        }
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Наталья Казьмина CMO Retail Rocket Group"
-        }
-      ]
-    },
-    {
       "_t": "Video",
       "VideoUrl": "https://www.youtube.com/embed/CeApZJ-tyc0"
     }
