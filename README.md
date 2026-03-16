@@ -40,7 +40,13 @@ analytics/        2 статьи — аналитические отчёты
 
 Типы блоков: `Paragraph`, `Heading2`–`Heading4`, `Image`, `Video`, `UnorderedList`, `OrderedList`, `Table`, `Quote`, `Factoid`, `Formula`, `CtaPrimaryBlock`, `CtaSecondaryBlock`.
 
-Rich-text — массивы inline-элементов `Text` и `Link` с boolean-флагами форматирования (`IsBold`, `IsItalic` и др.), которые присутствуют только со значением `true`.
+Rich-text — массивы inline-элементов `Text` и `Link` с boolean-флагами форматирования:
+
+- `IsHighlight` — маркерное выделение (зелёный `#DAFB9D` на сайте). Используется в Paragraph-блоках.
+- `IsBold` — обычный жирный. Используется только в OrderedList/UnorderedList.
+- `IsItalic`, `IsUnderline`, `IsStrike` и др. — определены в схеме.
+
+Boolean-флаги присутствуют только со значением `true`.
 
 ## Служебные файлы
 

@@ -13,8 +13,10 @@
 - Каждый JSON-файл — одна статья в формате BlogArticle
 - PascalCase для всех полей
 - `_t` — discriminator-поле на каждом блоке и inline-элементе
-- Rich-text: массивы `Text`/`Link` элементов с boolean-флагами форматирования (`IsBold`, `IsItalic` и т.д.)
+- Rich-text: массивы `Text`/`Link` элементов с boolean-флагами форматирования (`IsHighlight`, `IsBold`, `IsItalic` и т.д.)
 - Boolean-флаги присутствуют ТОЛЬКО когда `true` (опущены если `false`)
+- `IsHighlight` — маркерное выделение (зелёный цвет `#DAFB9D` на сайте), используется в Paragraph-блоках
+- `IsBold` — обычный жирный, используется только в OrderedList/UnorderedList
 
 ### Labels (метки)
 
@@ -64,6 +66,9 @@
 - `_strip_leading_garbage()` — удаление мусора с начала ContentBlockList (лейбл категории, дубль LeadText, авторский блок, gravatar, навигация)
 - `_clean_content_blocks()` — пост-обработка: удаление/обрезка параграфов с «Содержание статьи/видео», «Авторы статьи», «Похожие статьи»
 - `_strip_trailing_garbage()` — удаление gravatar-аватарок и авторских блоков с конца (формат B)
+- `_bold_to_highlight()` — замена `IsBold` → `IsHighlight` в Paragraph (на сайте bold в heading.default = зелёный маркер)
+- Gravatar-URL в `ImageUrl` верхнего уровня обнуляется (`null`)
+- HTML entities (`&nbsp;`, `&mdash;` и т.д.) декодируются через `html.unescape()`
 
 Пропускаемые блоки v1: `heading_1` (дублирует Title), `carousel`, `ImageCaption`, `contents` (оглавление).
 
