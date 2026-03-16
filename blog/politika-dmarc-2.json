@@ -671,7 +671,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/politika-dmarc-2/unnamed.jpg",
-      "Alt": "",
+      "Alt": "Схема пошаговой проверки аутентификации email по стандарту DMARC",
       "Caption": "Схема работы DMARC: пошаговый процесс проверки аутентификации электронной почты"
     },
     {

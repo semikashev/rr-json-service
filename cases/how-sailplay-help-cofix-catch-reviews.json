@@ -63,7 +63,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/how-sailplay-help-cofix-catch-reviews/kofiks_20.webp",
-      "Alt": "",
+      "Alt": "Функционал отзывов в приложении Cofix 2023 года для сбора обратной связи",
       "Caption": "В 2023 году в приложение добавили функционал отзывов, чтобы клиенты могли влиять на качество сервиса, а Cofix получал больше данных о заказах."
     },
     {
@@ -82,7 +82,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/how-sailplay-help-cofix-catch-reviews/kofiks_30.webp",
-      "Alt": "",
+      "Alt": "Схема стандартного триггера purchase confirmation в платформе Sailplay",
       "Caption": "Стандартная логика триггера purchase confirmation в платформе Sailplay"
     },
     {
@@ -157,7 +157,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/how-sailplay-help-cofix-catch-reviews/kofiks_40.webp",
-      "Alt": "",
+      "Alt": "Обновлённый триггер purchase confirmation с логикой сбора отзывов Cofix",
       "Caption": "Так выглядит обновленная логика триггера purchase confirmation с учётом цели по сбору отзывов и внутренних процессов Cofix"
     },
     {

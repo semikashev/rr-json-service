@@ -281,7 +281,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/mobilnye-push-uvedomleniya/Mobile_push_notifications_03.png",
-      "Alt": "",
+      "Alt": "Схема структуры мобильного push-уведомления с основными элементами",
       "Caption": "Структура мобильного пуш-уведомления"
     },
     {
@@ -367,7 +367,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/mobilnye-push-uvedomleniya/Mobile_push_notifications_04.png",
-      "Alt": "",
+      "Alt": "Сравнение удачных и неудачных примеров мобильных push-уведомлений",
       "Caption": "Примеры удачных и не очень пуш-уведомлений"
     },
     {
@@ -516,7 +516,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/mobilnye-push-uvedomleniya/Mobile_push_notifications_06.png",
-      "Alt": "",
+      "Alt": "Инфографика Helplama о поведении пользователей при получении push-уведомлений",
       "Caption": "ИнфографикА с платформы [Helplama](https://helplama.com/what-do-consumers-think-about-push-notifications/)"
     },
     {

@@ -57,7 +57,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-mehaniki-uvelichili-dohod-ot-tovarnyh-rekomendatsiy-v-5-raz-case-aushan/auchan_10.png",
-      "Alt": "",
+      "Alt": "Блок «Нет в наличии» без рекомендаций до внедрения механики Ашана",
       "Caption": "Вид блока «Нет в наличии» до внедрения механик рекомендаций. Пользователь не имел возможности проконтактировать с товарами из блока"
     },
     {
@@ -72,13 +72,13 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-mehaniki-uvelichili-dohod-ot-tovarnyh-rekomendatsiy-v-5-raz-case-aushan/auchan_20.webp",
-      "Alt": "",
+      "Alt": "Блок «Нет в наличии» после внедрения: кнопка «Подобрать замену» с попапом рекомендаций",
       "Caption": "Блок «Нет в наличии» дополнен кнопками «Подобрать замену». При нажатии, открывается попап с рекомендациями"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-mehaniki-uvelichili-dohod-ot-tovarnyh-rekomendatsiy-v-5-raz-case-aushan/auchan_30.webp",
-      "Alt": "",
+      "Alt": "Попап с товарными рекомендациями по нажатию «Подобрать замену» на Ашане",
       "Caption": "Рекомендации, которые видит пользователь при нажатии на кнопку «Подобрать замену»"
     },
     {
@@ -168,7 +168,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-mehaniki-uvelichili-dohod-ot-tovarnyh-rekomendatsiy-v-5-raz-case-aushan/auchan_50.webp",
-      "Alt": "",
+      "Alt": "Блок рекомендаций «Новинки» на главной странице сайта Ашана",
       "Caption": "Блок рекомендаций с новинками на главной странице сайта"
     }
   ]

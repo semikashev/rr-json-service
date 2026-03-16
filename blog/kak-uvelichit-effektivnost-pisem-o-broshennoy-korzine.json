@@ -222,13 +222,13 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-uvelichit-effektivnost-pisem-o-broshennoy-korzine/image6-1.png",
-      "Alt": "",
+      "Alt": "Вариант A шаблона email-сценария брошенной корзины (контрольный)",
       "Caption": "Сегмент A(вариант шаблона сценария «брошенная корзина» без изменений)"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-uvelichit-effektivnost-pisem-o-broshennoy-korzine/image4-1.png",
-      "Alt": "",
+      "Alt": "Вариант B шаблона email-сценария брошенной корзины (тестовый)",
       "Caption": "Сегмент B(альтернативный вариант шаблона сценария «брошенная корзина»)"
     },
     {

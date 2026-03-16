@@ -259,7 +259,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/analytics/proxy-metrics-v-e-commerce-part-1/Capture-2025-10-29-190415.png",
-      "Alt": "",
+      "Alt": "Таблица состава тестируемых магазинов с типами товаров",
       "Caption": "Состав магазинов с указанием типа товаров"
     },
     {
@@ -321,7 +321,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/analytics/proxy-metrics-v-e-commerce-part-1/Capture-2025-10-29-190624.png",
-      "Alt": "",
+      "Alt": "График результатов работы модели прокси-метрик на примере одного магазина",
       "Caption": "На графике — результат работы модели, которая работает на основе перечисленных выше прокси-метриках (пример одного из магазинов)."
     },
     {

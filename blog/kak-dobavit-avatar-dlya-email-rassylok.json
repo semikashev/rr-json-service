@@ -66,7 +66,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-dobavit-avatar-dlya-email-rassylok/Kak_dobavit_avatar_01.png",
-      "Alt": "",
+      "Alt": "Примеры логотипов брендов в виде аватаров в email-рассылке",
       "Caption": "Примеры аватаров различных брендов в email-рассылке"
     },
     {
@@ -116,7 +116,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-dobavit-avatar-dlya-email-rassylok/Kak_dobavit_avatar_02.png",
-      "Alt": "",
+      "Alt": "Скриншот главной страницы постмастера с полем для ввода доменного имени",
       "Caption": "Главная страница постмастера, где нужно ввести доменное имя"
     },
     {
@@ -163,7 +163,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-dobavit-avatar-dlya-email-rassylok/Kak_dobavit_avatar_03.png",
-      "Alt": "",
+      "Alt": "Инструкция по подтверждению домена в постмастере",
       "Caption": "Каждый способ подтверждения домена содержит свою инструкцию из нескольких шагов"
     },
     {
@@ -178,7 +178,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-dobavit-avatar-dlya-email-rassylok/Kak_dobavit_avatar_04.png",
-      "Alt": "",
+      "Alt": "Скриншот раздела настройки аватаров доменов с кнопкой выбора",
       "Caption": "Кнопка для выбора аватара доступна в разделе «Настройка аватаров ваших доменов»"
     },
     {
@@ -228,7 +228,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-dobavit-avatar-dlya-email-rassylok/Kak_dobavit_avatar_05.png",
-      "Alt": "",
+      "Alt": "Требования к аватару: PNG, 180×180 пикселей, с читаемостью при 32×32",
       "Caption": "Изображение должно быть в формате PNG, иметь размеры 180×180 и сохранять чёткость при уменьшении до 32×32"
     },
     {
@@ -256,7 +256,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-dobavit-avatar-dlya-email-rassylok/Kak_dobavit_avatar_06.png",
-      "Alt": "",
+      "Alt": "Скриншот главной страницы личного аккаунта Google",
       "Caption": "Главная страница личного аккаунта в Google"
     },
     {
@@ -271,7 +271,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-dobavit-avatar-dlya-email-rassylok/Kak_dobavit_avatar_07.png",
-      "Alt": "",
+      "Alt": "Раздел дополнительных email-адресов в Google с кнопкой добавления",
       "Caption": "Кнопка добавить находится в разделе «Дополнительные адреса электронной почты»"
     },
     {
@@ -295,7 +295,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-dobavit-avatar-dlya-email-rassylok/Kak_dobavit_avatar_08.png",
-      "Alt": "",
+      "Alt": "Раздел основной информации Google с кнопкой выбора аватара",
       "Caption": "Кнопка для выбора аватара доступна в разделе «Основная информация»"
     },
     {
@@ -325,7 +325,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-dobavit-avatar-dlya-email-rassylok/Kak_dobavit_avatar_10.png",
-      "Alt": "",
+      "Alt": "Предпросмотр загруженного аватара в интерфейсе",
       "Caption": "После загрузки изображения, можно будет увидеть как оно будет смотреться на аватаре"
     },
     {
@@ -368,7 +368,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-dobavit-avatar-dlya-email-rassylok/Kak_dobavit_avatar_12.png",
-      "Alt": "",
+      "Alt": "Скриншот ответа поддержки Яндекса об установке аватара для корпоративной почты",
       "Caption": "Ответ службы поддержки Яндекса на запрос автора о том, как установить аватар для корпоративной почты"
     },
     {
@@ -486,7 +486,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-dobavit-avatar-dlya-email-rassylok/Kak_dobavit_avatar_13.png",
-      "Alt": "",
+      "Alt": "Список почтовых сервисов с поддержкой BIMI, включая Google и Yahoo",
       "Caption": "Сейчас BIMI поддерживают следующие почтовые сервисы: Google, Yahoo!, Fastmail и [другие](https://bimigroup.org/bimi-infographic/). Яндекс Почта и Mail.ru не поддерживают технологию BIMI"
     },
     {

@@ -155,7 +155,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_01.png",
-      "Alt": "",
+      "Alt": "Формула GMV: цена товара × количество проданных единиц",
       "Caption": "Формула расчета: GMV = Цена товара × Количество проданных единиц"
     },
     {
@@ -400,7 +400,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_02.png",
-      "Alt": "",
+      "Alt": "Формула AOV: общая выручка делённая на количество заказов",
       "Caption": "Формула расчета: AOV = Общая выручка / Количество заказов"
     },
     {
@@ -613,7 +613,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_03.png",
-      "Alt": "",
+      "Alt": "Формула маржи: разница выручки и себестоимости, делённая на выручку",
       "Caption": "Формула расчета: Маржа = (Выручка — Себестоимость) / Выручка × 100%"
     },
     {
@@ -811,7 +811,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_04.png",
-      "Alt": "",
+      "Alt": "Формула CPO: затраты на маркетинг делённые на количество заказов",
       "Caption": "Формула расчета: CPO = Затраты на маркетинг / Количество заказов"
     },
     {
@@ -1005,7 +1005,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_05.png",
-      "Alt": "",
+      "Alt": "Формула CRR: рекламные расходы к выручке от рекламы",
       "Caption": "Формула расчета: CRR = (Рекламные расходы / Выручка от рекламы) × 100%"
     },
     {
@@ -1210,7 +1210,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_06.png",
-      "Alt": "",
+      "Alt": "Формула Product Revenue: цена товара × количество продаж",
       "Caption": "Формула расчета: Product Revenue = Цена товара × Количество продаж"
     },
     {
@@ -1443,7 +1443,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_07.png",
-      "Alt": "",
+      "Alt": "Формула CR (конверсии): заказы делённые на посетителей",
       "Caption": "Формула расчета: CR = (Количество заказов / Количество посетителей) × 100%"
     },
     {
@@ -1668,7 +1668,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_08.png",
-      "Alt": "",
+      "Alt": "Формула SCAR (брошенные корзины): незавершённые покупки к корзинам",
       "Caption": "Формула расчета: SCAR = ((Корзины с товарами — Завершенные покупки) / Корзины с товарами) × 100%"
     },
     {
@@ -1873,7 +1873,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_09.png",
-      "Alt": "",
+      "Alt": "Формула BR (показатель отказов): одностраничные сессии к общему числу",
       "Caption": "Формула расчета: BR = (Одностраничные сессии / Общее количество сессий) × 100%"
     },
     {
@@ -2102,13 +2102,13 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_10.png",
-      "Alt": "",
+      "Alt": "Формула LTV (обобщённая): средний доход с клиента минус затраты на привлечение",
       "Caption": "Формула расчета обобщённая (чистый доход): Средний доход с клиента — Затраты на привлечение и удержание"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_11.png",
-      "Alt": "",
+      "Alt": "Формула LTV (операционная): AOV × частота покупок × период жизни клиента",
       "Caption": "Формула расчета операционная (брутто-выручка): LTV = AOV × Частота покупок × Период жизни клиента"
     },
     {
@@ -2371,7 +2371,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_12.png",
-      "Alt": "",
+      "Alt": "Формула RR (удержание): клиенты за период минус новые, делённые на начальных",
       "Caption": "Формула расчета: RR = ((Клиенты на конец периода — Новые клиенты) / Клиенты на начало периода) × 100%"
     },
     {
@@ -2609,7 +2609,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_13.png",
-      "Alt": "",
+      "Alt": "Формула RPR: повторные покупатели к общему числу клиентов",
       "Caption": "Формула расчета: RPR = (Клиенты с повторными покупками / Общее количество клиентов) × 100%"
     },
     {
@@ -2825,7 +2825,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_14.png",
-      "Alt": "",
+      "Alt": "Формула ARPU: общий доход делённый на активных пользователей",
       "Caption": "Формула расчета: ARPU = Общий доход / Количество активных пользователей"
     },
     {
@@ -3052,7 +3052,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_15.png",
-      "Alt": "",
+      "Alt": "Формула Total Traffic: сумма уникальных посетителей за период",
       "Caption": "Формула расчета: Total Traffic = сумма уникальных посетителей или сессий за период"
     },
     {
@@ -3257,7 +3257,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_16.png",
-      "Alt": "",
+      "Alt": "Формула CAC: маркетинговые расходы делённые на новых клиентов",
       "Caption": "CAC = Маркетинговые расходы / Количество новых клиентов"
     },
     {
@@ -3474,7 +3474,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_18.png",
-      "Alt": "",
+      "Alt": "Формула ROAS: доход от рекламы к затратам на рекламу",
       "Caption": "Формула расчета: ROAS = Доход от рекламы / Затраты на рекламу"
     },
     {
@@ -3685,7 +3685,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_19.png",
-      "Alt": "",
+      "Alt": "Формула CPC: затраты на рекламу делённые на количество кликов",
       "Caption": "Формула расчета: CPC = Затраты на рекламу / Количество кликов"
     },
     {
@@ -3907,7 +3907,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_20.png",
-      "Alt": "",
+      "Alt": "Пример анализа CTR по направлениям туристического агентства за месяц",
       "Caption": "Допустим, туристическое агентство анализирует CTR по направлениям за месяц."
     },
     {
@@ -4135,7 +4135,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_21.png",
-      "Alt": "",
+      "Alt": "Формула CPA: затраты на рекламу к числу целевых действий",
       "Caption": "Формула расчета: CPA = Затраты на рекламу / Количество целевых действий"
     },
     {
@@ -4384,7 +4384,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_22.png",
-      "Alt": "",
+      "Alt": "Формула DAU: количество уникальных активных пользователей за сутки",
       "Caption": "Значение DAU = Количество уникальных активных пользователей за сутки"
     },
     {
@@ -4553,7 +4553,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_23.png",
-      "Alt": "",
+      "Alt": "Формула WAU: количество уникальных активных пользователей за неделю",
       "Caption": "Значение WAU = Количество уникальных активных пользователей за 7 дней"
     },
     {
@@ -4704,7 +4704,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_24.png",
-      "Alt": "",
+      "Alt": "Формула MAU: количество уникальных активных пользователей за месяц",
       "Caption": "Значение MAU = Количество уникальных активных пользователей за месяц"
     },
     {
@@ -4868,7 +4868,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_25.png",
-      "Alt": "",
+      "Alt": "Формула ROMI: доход от маркетинга минус затраты, делённые на затраты",
       "Caption": "Формула расчета: ROMI = (Доход от маркетинга — Затраты на маркетинг) / Затраты на маркетинг × 100%"
     },
     {
@@ -5049,7 +5049,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_26.png",
-      "Alt": "",
+      "Alt": "Формула Return Rate: доля возвращённых заказов",
       "Caption": "Формула расчета: Return Rate (Процент возвратов)= (Количество возвращённых заказов / Общее количество заказов) × 100%"
     },
     {
@@ -5230,7 +5230,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kljuchevye-metriki-ecommerce-kotorye-vazhno-otslezhivat/formulas_27.png",
-      "Alt": "",
+      "Alt": "Формула Delivery Performance: доля заказов, доставленных вовремя",
       "Caption": "Формула расчета: Delivery Performance = (Количество доставленных вовремя заказов / Общее количество доставленных заказов) × 100%"
     },
     {

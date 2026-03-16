@@ -204,7 +204,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-qr-kod/QR-code_02-2048x1126-1.png",
-      "Alt": "",
+      "Alt": "Схема компонентов QR-кода: позиционные маркеры, модули данных и другие элементы",
       "Caption": "Ключевые компоненты, которые помогают сканирующему устройству быстро его считывать"
     },
     {
@@ -295,7 +295,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-qr-kod/QR-code_03-2048x867-1.png",
-      "Alt": "",
+      "Alt": "QR-код на банке сока «Сады Придонья» со ссылкой на видео о производстве",
       "Caption": "Код на банке сока «Сады Придонья» ведёт на видео, которое показывает покупателям, как производитель делает этот сок"
     },
     {
@@ -314,7 +314,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-qr-kod/QR-code_04-2048x909-1.png",
-      "Alt": "",
+      "Alt": "QR-коды на ценниках М.Видео с подробной информацией о товарах",
       "Caption": "На ценниках в магазине М.Видео размещены QR-коды, по которым можно подробно узнать о товаре"
     },
     {
@@ -333,7 +333,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-qr-kod/QR-code_05-2048x939-1.png",
-      "Alt": "",
+      "Alt": "QR-код в детской книге для доступа к дополнительным материалам",
       "Caption": "QR-код в детской книге «Новые удивительные приключения в стране Экономика»"
     },
     {
@@ -352,7 +352,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-qr-kod/QR-code_06-2048x955-1.png",
-      "Alt": "",
+      "Alt": "QR-код на туристической улице Владимира с информацией об объектах",
       "Caption": "QR-код с подробной информацией о туристической улице в городе Владимир"
     },
     {
@@ -371,7 +371,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-qr-kod/QR-code_07-2048x967-1.png",
-      "Alt": "",
+      "Alt": "QR-код на входном билете Третьяковской галереи",
       "Caption": "QR-код на билете в Третьяковскую галерею"
     },
     {
@@ -390,7 +390,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-qr-kod/QR-code_08-2048x863-1.png",
-      "Alt": "",
+      "Alt": "QR-код в ресторане Tanuki для цифрового меню, оплаты и отзывов",
       "Caption": "QR-код в ресторане Tanuki, с помощью которого можно посмотреть цифровое меню, позвать официанта, оплатить счёт, оставить отзыв и чаевые"
     },
     {
@@ -409,7 +409,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-qr-kod/QR-code_09-2048x975-1.png",
-      "Alt": "",
+      "Alt": "QR-код для оплаты на кассе супермаркета «Перекрёсток»",
       "Caption": "QR-код на оплату в супермаркете «Перекрёсток»"
     },
     {
@@ -428,7 +428,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-qr-kod/QR-code_10-2048x865-1.png",
-      "Alt": "",
+      "Alt": "QR-коды Wildberries для маркировки и отслеживания товаров",
       "Caption": "Wildberries использует QR-коды для отслеживания товаров"
     },
     {
@@ -447,7 +447,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-qr-kod/QR-code_11-2048x970-1.png",
-      "Alt": "",
+      "Alt": "QR-код для авторизации на портале Mos.ru",
       "Caption": "Войти на Mos.ru можно с помощью QR-кода"
     },
     {

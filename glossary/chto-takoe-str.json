@@ -531,7 +531,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-str/image-4.png",
-      "Alt": "",
+      "Alt": "Сравнение показателей STR двух вариантов рекламного объявления",
       "Caption": "Пример сравнения показателей STR в двух рекламных объявлениях"
     },
     {
@@ -559,7 +559,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-str/2025-09-02_13-42-34-1-1-1-2048x1458-1.jpg",
-      "Alt": "",
+      "Alt": "Динамика показателя STR до и после запуска акции",
       "Caption": "Пример сравнения показателей STR до запуска акции и после"
     },
     {
@@ -587,7 +587,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-str/image-5.png",
-      "Alt": "",
+      "Alt": "Изменение STR до и после оптимизации карточки товара",
       "Caption": "Пример сравнения показателей STR до оптимизации карточки товара и после"
     }
   ]

@@ -40,7 +40,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/push-uvedomleniya/Pushi1.webp",
-      "Alt": "",
+      "Alt": "Push-уведомления от различных приложений на экране смартфона",
       "Caption": "Пример push-уведомлений от приложений на смартфоне"
     },
     {
@@ -67,7 +67,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/push-uvedomleniya/Pushi2.webp",
-      "Alt": "",
+      "Alt": "Статистика Airship: доля пользователей Android и iOS, согласившихся на push-уведомления",
       "Caption": "Процент пользователей ОС Android и iOS, которые согласны получать пуши по данным Airship; синий — среднее количество, голубой — минимум, розовый — максимум"
     },
     {
@@ -82,7 +82,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/push-uvedomleniya/Pushi3.webp",
-      "Alt": "",
+      "Alt": "Сравнение push и email: OR выше на 50%, CTR в 7 раз лучше (данные E-goi)",
       "Caption": "Метрика OR у пушей выше на 50%, чем в email-канале, а CTR в 7 раз лучше, по данным E-goiКакие задачи бизнеса помогают решить push-уведомления"
     },
     {
