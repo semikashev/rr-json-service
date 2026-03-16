@@ -160,7 +160,7 @@
         {
           "_t": "Text",
           "Content": "Всего в боте используется 3 типа рекомендаций:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -193,7 +193,7 @@
         {
           "_t": "Text",
           "Content": "В зависимости от ситуации запускается одна из цепочек:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },

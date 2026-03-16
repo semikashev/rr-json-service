@@ -233,7 +233,7 @@
         {
           "_t": "Text",
           "Content": "Представьте:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -255,7 +255,7 @@
         {
           "_t": "Text",
           "Content": "[триггерных рассылках](https://retailrocket.ru/blog/cases/growth-hacking-v-triggernyih-pismah-internet-magazina-quelle-7-keysov/)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -269,7 +269,7 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -301,7 +301,7 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -333,7 +333,7 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -371,7 +371,7 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -389,7 +389,7 @@
         {
           "_t": "Text",
           "Content": "Обеспечьте максимальное удобство и скорость сайта:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -403,7 +403,7 @@
         {
           "_t": "Text",
           "Content": "Используйте социальное доказательство:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -417,7 +417,7 @@
         {
           "_t": "Text",
           "Content": "Внедряйте скидки и ограниченные по времени предложения:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -431,7 +431,7 @@
         {
           "_t": "Text",
           "Content": "Используйте персональные рекомендации:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -444,7 +444,12 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Провоцируйте эмоции:Используйте яркие изображения, создавайте эмоциональные описания товаров."
+          "Content": "Провоцируйте эмоции:",
+          "IsHighlight": true
+        },
+        {
+          "_t": "Text",
+          "Content": "Используйте яркие изображения, создавайте эмоциональные описания товаров."
         }
       ]
     }

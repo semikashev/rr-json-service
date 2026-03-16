@@ -176,7 +176,7 @@
         {
           "_t": "Text",
           "Content": "Увеличивать конверсию.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -196,7 +196,7 @@
         {
           "_t": "Text",
           "Content": "Повышать лояльность клиентов.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -231,7 +231,7 @@
         {
           "_t": "Text",
           "Content": "Привлекать новых клиентов.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -251,7 +251,7 @@
         {
           "_t": "Text",
           "Content": "Увеличивать частоту покупок.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -295,7 +295,7 @@
         {
           "_t": "Text",
           "Content": "Собирать отзывы, проводить исследования.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -321,7 +321,7 @@
         {
           "_t": "Text",
           "Content": "Собирать информацию для персонализации предложений.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -335,7 +335,7 @@
         {
           "_t": "Text",
           "Content": "Повышать мотивацию сотрудников.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -380,7 +380,7 @@
         {
           "_t": "Text",
           "Content": "эмоциональное вовлечение пользователей и создание у них ощущения достижений",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -931,7 +931,7 @@
         {
           "_t": "Text",
           "Content": "увеличить на 32% средний чек участника программы лояльности",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

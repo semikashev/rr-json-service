@@ -319,7 +319,7 @@
         {
           "_t": "Text",
           "Content": "Простая формула, быстрый расчёт.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -337,7 +337,7 @@
         {
           "_t": "Text",
           "Content": "Чёткий индикатор спроса.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -355,7 +355,7 @@
         {
           "_t": "Text",
           "Content": "Помогает управлять запасами.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -373,7 +373,7 @@
         {
           "_t": "Text",
           "Content": "Видна эффективность промо.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -391,7 +391,7 @@
         {
           "_t": "Text",
           "Content": "Можно сравнивать каналы.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -413,7 +413,7 @@
         {
           "_t": "Text",
           "Content": "Не учитывает прибыль.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -431,7 +431,7 @@
         {
           "_t": "Text",
           "Content": "Сильная зависимость от логистики.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -449,7 +449,7 @@
         {
           "_t": "Text",
           "Content": "Искажается из-за сезонности.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -467,7 +467,7 @@
         {
           "_t": "Text",
           "Content": "Не подходит для долгого цикла продаж.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -485,7 +485,7 @@
         {
           "_t": "Text",
           "Content": "Риск ложных выводов.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

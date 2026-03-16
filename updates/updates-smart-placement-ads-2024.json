@@ -57,7 +57,7 @@
         {
           "_t": "Text",
           "Content": "Приглашения в кабинет рекламодателя",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -71,7 +71,7 @@
         {
           "_t": "Text",
           "Content": "Расход бюджета",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -91,7 +91,7 @@
         {
           "_t": "Text",
           "Content": "Статусы реклам",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -111,7 +111,7 @@
         {
           "_t": "Text",
           "Content": "Управление порядком товаров",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -131,7 +131,7 @@
         {
           "_t": "Text",
           "Content": "Выбор периодов",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -151,7 +151,7 @@
         {
           "_t": "Text",
           "Content": "Страница статистики стала нагляднее",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -171,7 +171,7 @@
         {
           "_t": "Text",
           "Content": "Добавление в статистику CPM",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -191,7 +191,7 @@
         {
           "_t": "Text",
           "Content": "Уведомления о нехватке товаров",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

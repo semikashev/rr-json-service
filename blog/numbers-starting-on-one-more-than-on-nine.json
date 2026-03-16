@@ -166,7 +166,7 @@
         {
           "_t": "Text",
           "Content": "Чтобы стало понятнее:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

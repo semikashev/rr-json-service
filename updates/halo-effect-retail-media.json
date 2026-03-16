@@ -95,7 +95,7 @@
         {
           "_t": "Text",
           "Content": "Атрибуция медийных баннеров и товарных полок",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -109,7 +109,7 @@
         {
           "_t": "Text",
           "Content": "Учёт HALO-эффекта",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -183,7 +183,7 @@
         {
           "_t": "Text",
           "Content": "Результат",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -205,7 +205,7 @@
         {
           "_t": "Text",
           "Content": "13 января",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -214,7 +214,7 @@
         {
           "_t": "Text",
           "Content": "простой и удобной",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -245,7 +245,7 @@
         {
           "_t": "Text",
           "Content": "личном кабинете рекламодателя",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -254,7 +254,7 @@
         {
           "_t": "Text",
           "Content": "кода товарной категории",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -268,7 +268,7 @@
         {
           "_t": "Text",
           "Content": "Без указания кода кампания не будет отправлена на модерацию",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -305,7 +305,7 @@
         {
           "_t": "Text",
           "Content": "виджета службы поддержки",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -325,7 +325,7 @@
         {
           "_t": "Text",
           "Content": "Преимущества для рекламодателей",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -334,7 +334,7 @@
         {
           "_t": "Text",
           "Content": "Быстрое решение вопросов",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -348,7 +348,7 @@
         {
           "_t": "Text",
           "Content": "Преимущества для e-commerce площадок",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -357,7 +357,7 @@
         {
           "_t": "Text",
           "Content": "Одна настройка для всех",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

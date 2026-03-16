@@ -64,7 +64,7 @@
         {
           "_t": "Text",
           "Content": "Задачи, которые решает ИИ:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -109,7 +109,7 @@
         {
           "_t": "Text",
           "Content": "Инструменты:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -315,7 +315,7 @@
         {
           "_t": "Text",
           "Content": "Функциональность ИИ для видео:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -511,7 +511,7 @@
         {
           "_t": "Text",
           "Content": "Что учитывать:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -572,7 +572,7 @@
         {
           "_t": "Text",
           "Content": "Задачи, которые закрывают ИИ-инструменты:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -775,7 +775,7 @@
         {
           "_t": "Text",
           "Content": "Какие задачи решает:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -820,7 +820,7 @@
         {
           "_t": "Text",
           "Content": "Инструменты:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -941,7 +941,7 @@
         {
           "_t": "Text",
           "Content": "На что обращать внимание:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -962,7 +962,7 @@
         {
           "_t": "Text",
           "Content": "Пример",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1016,7 +1016,7 @@
         {
           "_t": "Text",
           "Content": "Возможности применения:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1065,7 +1065,7 @@
         {
           "_t": "Text",
           "Content": "Инструменты:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1179,7 +1179,7 @@
         {
           "_t": "Text",
           "Content": "На что обращать внимание:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1234,7 +1234,7 @@
         {
           "_t": "Text",
           "Content": "Юридические риски.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1248,7 +1248,7 @@
         {
           "_t": "Text",
           "Content": "Ошибки в визуале.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1277,7 +1277,7 @@
         {
           "_t": "Text",
           "Content": "Сложности с настройкой.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1299,7 +1299,7 @@
         {
           "_t": "Text",
           "Content": "Основные критерии:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1366,7 +1366,7 @@
         {
           "_t": "Text",
           "Content": "Что можно автоматизировать:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1399,7 +1399,7 @@
         {
           "_t": "Text",
           "Content": "Что нельзя заменить:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },

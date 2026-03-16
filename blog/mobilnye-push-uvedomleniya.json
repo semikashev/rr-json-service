@@ -538,7 +538,7 @@
         {
           "_t": "Text",
           "Content": "CTR (click-through rate):",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -588,7 +588,7 @@
         {
           "_t": "Text",
           "Content": "CR (conversion rate):",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -638,7 +638,7 @@
         {
           "_t": "Text",
           "Content": "Retention rate:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -688,7 +688,7 @@
         {
           "_t": "Text",
           "Content": "Opt-out rate:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

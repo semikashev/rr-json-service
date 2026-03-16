@@ -273,7 +273,7 @@
         {
           "_t": "Text",
           "Content": "1. Слишком много информации",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -282,7 +282,7 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -319,7 +319,7 @@
         {
           "_t": "Text",
           "Content": "2. Нужна сегментация базы",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -328,7 +328,7 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -359,7 +359,7 @@
         {
           "_t": "Text",
           "Content": "3. Много идей и задач",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -368,7 +368,7 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -405,7 +405,7 @@
         {
           "_t": "Text",
           "Content": "Когда одно письмо лучше цепочки",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

@@ -51,7 +51,7 @@
         {
           "_t": "Text",
           "Content": "CDP (Customer data platform)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -112,7 +112,7 @@
         {
           "_t": "Text",
           "Content": "Собрать данные о клиентах из разных источников",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -126,7 +126,7 @@
         {
           "_t": "Text",
           "Content": "Хранить данные о клиентах",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -140,7 +140,7 @@
         {
           "_t": "Text",
           "Content": "Анализировать данные о клиенте в одном месте",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -418,7 +418,7 @@
         {
           "_t": "Text",
           "Content": "Персонализировать предложение.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -432,7 +432,7 @@
         {
           "_t": "Text",
           "Content": "Повысить выручку и средний чек.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -446,7 +446,7 @@
         {
           "_t": "Text",
           "Content": "Увеличить конверсии.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -486,7 +486,7 @@
         {
           "_t": "Text",
           "Content": "Как работать над ошибкой:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -513,7 +513,7 @@
         {
           "_t": "Text",
           "Content": "Как работать над ошибкой:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -540,7 +540,7 @@
         {
           "_t": "Text",
           "Content": "Как работать над ошибкой:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

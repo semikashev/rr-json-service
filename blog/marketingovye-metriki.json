@@ -78,7 +78,7 @@
         {
           "_t": "Text",
           "Content": "CTR = (320 ÷ 10 000) × 100% = 3,2%",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -274,7 +274,7 @@
         {
           "_t": "Text",
           "Content": "CPC = 12 000 ÷ 1000 = 12 ₽ за клик",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -428,7 +428,7 @@
         {
           "_t": "Text",
           "Content": "RPC = 50 000 ÷ 500 = 100 ₽ на один клик",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -568,7 +568,7 @@
         {
           "_t": "Text",
           "Content": "CPM = (25 000 ÷ 500 000) × 1000 = 50 ₽",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -748,7 +748,7 @@
         {
           "_t": "Text",
           "Content": "CPA = 18 000 ÷ 90 = 200 ₽ за действие",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -906,7 +906,7 @@
         {
           "_t": "Text",
           "Content": "CPO = 30 000 ÷ 75 = 400 ₽",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1109,7 +1109,7 @@
         {
           "_t": "Text",
           "Content": "CR = (80 ÷ 1000) × 100% = 8%",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1267,7 +1267,7 @@
         {
           "_t": "Text",
           "Content": "LCR = (40 ÷ 200) × 100% = 20%",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1416,7 +1416,7 @@
         {
           "_t": "Text",
           "Content": "LPO = 150 ÷ 5 = 30 лидов на оффер",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1551,7 +1551,7 @@
         {
           "_t": "Text",
           "Content": "CAC = 300 000 ÷ 500 = 600 ₽",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1585,7 +1585,7 @@
         {
           "_t": "Text",
           "Content": "Пример",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1657,7 +1657,7 @@
         {
           "_t": "Text",
           "Content": "LTV > CAC минимум в 2–3 раза.",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1759,7 +1759,7 @@
         {
           "_t": "Text",
           "Content": "ROI = ((500 000 — 200 000) ÷ 200 000) × 100% = 150%",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1917,7 +1917,7 @@
         {
           "_t": "Text",
           "Content": "ROMI = ((250 000 — 100 000) ÷ 100 000) × 100% = 150%",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -2075,7 +2075,7 @@
         {
           "_t": "Text",
           "Content": "ROAS = (200 000 ÷ 50 000) × 100% = 400%",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -2267,7 +2267,7 @@
         {
           "_t": "Text",
           "Content": "AOV = 600 000 ÷ 200 = 3 000 ₽",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -2439,7 +2439,7 @@
         {
           "_t": "Text",
           "Content": "SV = 1 250 000",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2448,7 +2448,7 @@
         {
           "_t": "Text",
           "Content": "V = 500",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -2578,7 +2578,7 @@
         {
           "_t": "Text",
           "Content": "SOM = (200 ÷ 2000) × 100% = 10%",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -2708,7 +2708,7 @@
         {
           "_t": "Text",
           "Content": "ARPU = 200 000 ÷ 500 = 400 ₽",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -2875,7 +2875,7 @@
         {
           "_t": "Text",
           "Content": "NPS = 60 — 15 = 45",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -3025,7 +3025,7 @@
         {
           "_t": "Text",
           "Content": "ChR = (80 ÷ 1000) × 100% = 8%",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -3177,7 +3177,7 @@
         {
           "_t": "Text",
           "Content": "RR = (1 150 − 250) / 1 000 × 100% = 90%",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -3491,7 +3491,7 @@
         {
           "_t": "Text",
           "Content": "LTV = 30 000 ₽",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -3653,7 +3653,7 @@
         {
           "_t": "Text",
           "Content": "BA = (420 ÷ 1000) × 100% = 42%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -3806,7 +3806,7 @@
         {
           "_t": "Text",
           "Content": "Delivery Rate = (9700 ÷ 10000) × 100% = 97%",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -3929,7 +3929,7 @@
         {
           "_t": "Text",
           "Content": "OR = (3400 ÷ 9700) × 100% ≈ 35%",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -4058,7 +4058,7 @@
         {
           "_t": "Text",
           "Content": "Click Rate = (950 ÷ 9700) × 100% ≈ 9.8%",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -4155,7 +4155,7 @@
         {
           "_t": "Text",
           "Content": "CTOR (Click-to-Open Rate)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -4173,7 +4173,7 @@
         {
           "_t": "Text",
           "Content": "CTOR = 950 / 4000 * 100% = 23,8%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -4218,7 +4218,7 @@
         {
           "_t": "Text",
           "Content": "UR = (39 ÷ 9700) × 100% ≈ 0.4%",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },

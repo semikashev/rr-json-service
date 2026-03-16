@@ -260,7 +260,7 @@
         {
           "_t": "Text",
           "Content": "Growth-маркетолог",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -274,7 +274,7 @@
         {
           "_t": "Text",
           "Content": "Аналитик",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -288,7 +288,7 @@
         {
           "_t": "Text",
           "Content": "Продакт-менеджер (growth product manager)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -302,7 +302,7 @@
         {
           "_t": "Text",
           "Content": "Дизайнер (growth designer, UX/UI)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -316,7 +316,7 @@
         {
           "_t": "Text",
           "Content": "Разработчик",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

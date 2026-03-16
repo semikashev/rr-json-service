@@ -120,7 +120,7 @@
         {
           "_t": "Text",
           "Content": "естественному оттоку",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -138,7 +138,7 @@
         {
           "_t": "Text",
           "Content": "мотивированном оттоке",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -156,7 +156,7 @@
         {
           "_t": "Text",
           "Content": "скрытый churn rate",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -228,7 +228,7 @@
         {
           "_t": "Text",
           "Content": "Кейс Boombbar. Знакомимся с клиентом с помощью welcome-цепочки",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -325,7 +325,7 @@
         {
           "_t": "Text",
           "Content": "Кейс «Красного карандаша». Проводим NPS-опросы",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -381,7 +381,7 @@
         {
           "_t": "Text",
           "Content": "Кейс Tom Tailor. Предлагаем покупателям делиться впечатлениями о магазине",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -431,7 +431,7 @@
         {
           "_t": "Text",
           "Content": "Кейс «Румиком». Сегментируем клиентскую аудиторию и делаем релевантные предложения",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

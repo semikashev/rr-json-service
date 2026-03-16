@@ -109,7 +109,7 @@
         {
           "_t": "Text",
           "Content": "Cross Device Visitor (CDV)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

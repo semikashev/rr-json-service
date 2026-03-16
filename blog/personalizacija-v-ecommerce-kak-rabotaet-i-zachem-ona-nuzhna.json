@@ -99,7 +99,7 @@
         {
           "_t": "Text",
           "Content": "персонализируют",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -186,7 +186,7 @@
         {
           "_t": "Text",
           "Content": "1. Рост конверсии",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -195,7 +195,7 @@
         {
           "_t": "Text",
           "Content": "2. Увеличение среднего чека и выручки интернет-магазина",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -204,7 +204,7 @@
         {
           "_t": "Text",
           "Content": "3. Бонус для SEO",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -213,7 +213,7 @@
         {
           "_t": "Text",
           "Content": "4. Повышение лояльности аудитории",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -244,7 +244,7 @@
         {
           "_t": "Text",
           "Content": "составил",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -268,7 +268,7 @@
         {
           "_t": "Text",
           "Content": "получил",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -292,7 +292,7 @@
         {
           "_t": "Text",
           "Content": "принесла",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -316,7 +316,7 @@
         {
           "_t": "Text",
           "Content": "1. Анализ поведения на сайте",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -325,7 +325,7 @@
         {
           "_t": "Text",
           "Content": "Google Analytics.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -334,7 +334,7 @@
         {
           "_t": "Text",
           "Content": "2. История покупок",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -343,7 +343,7 @@
         {
           "_t": "Text",
           "Content": "CRM-системы",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -352,7 +352,7 @@
         {
           "_t": "Text",
           "Content": "3. Поисковые запросы",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -361,7 +361,7 @@
         {
           "_t": "Text",
           "Content": "внутренний поиск сайта.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -370,7 +370,7 @@
         {
           "_t": "Text",
           "Content": "4. Формы и опросы",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -379,7 +379,7 @@
         {
           "_t": "Text",
           "Content": "формы регистрации и опросы.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -388,7 +388,7 @@
         {
           "_t": "Text",
           "Content": "5. Куки и трекеры",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -397,7 +397,7 @@
         {
           "_t": "Text",
           "Content": "куки и трекеры на сайте.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -406,7 +406,7 @@
         {
           "_t": "Text",
           "Content": "6. Обратная связь",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -415,7 +415,7 @@
         {
           "_t": "Text",
           "Content": "платформы для отзывов и обратной связи.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

@@ -82,7 +82,7 @@
         {
           "_t": "Text",
           "Content": "Пример.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -162,7 +162,7 @@
         {
           "_t": "Text",
           "Content": "Продуктовые команды",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -176,7 +176,7 @@
         {
           "_t": "Text",
           "Content": "Маркетинг",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -190,7 +190,7 @@
         {
           "_t": "Text",
           "Content": "Менеджеры",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -275,7 +275,7 @@
         {
           "_t": "Text",
           "Content": "Пример.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

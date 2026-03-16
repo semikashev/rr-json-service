@@ -33,7 +33,7 @@
         {
           "_t": "Text",
           "Content": "QR-код",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -123,7 +123,7 @@
         {
           "_t": "Text",
           "Content": "Тихая область.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -137,7 +137,7 @@
         {
           "_t": "Text",
           "Content": "Поисковые узоры.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -151,7 +151,7 @@
         {
           "_t": "Text",
           "Content": "Узоры выравнивания.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -165,7 +165,7 @@
         {
           "_t": "Text",
           "Content": "Информация о версии.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -179,7 +179,7 @@
         {
           "_t": "Text",
           "Content": "Информация о формате.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -193,7 +193,7 @@
         {
           "_t": "Text",
           "Content": "Синхронизирующие узоры.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -226,7 +226,7 @@
         {
           "_t": "Text",
           "Content": "Статические",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -249,7 +249,7 @@
         {
           "_t": "Text",
           "Content": "Динамические",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -570,7 +570,7 @@
         {
           "_t": "Text",
           "Content": "Чем опасны QR-коды:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -602,7 +602,7 @@
         {
           "_t": "Text",
           "Content": "Советы по безопасному использованию QR-кодов:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

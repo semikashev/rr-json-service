@@ -177,7 +177,7 @@
         {
           "_t": "Text",
           "Content": "Оптовые скидки",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -221,7 +221,7 @@
         {
           "_t": "Text",
           "Content": "Сезонные скидки",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -268,7 +268,7 @@
         {
           "_t": "Text",
           "Content": "Скидки для постоянных клиентов.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -339,7 +339,7 @@
         {
           "_t": "Text",
           "Content": "Промокоды и акции",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -396,7 +396,7 @@
         {
           "_t": "Text",
           "Content": "1. Определить цели.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -419,7 +419,7 @@
         {
           "_t": "Text",
           "Content": "2. Рассчитать выгоду.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -442,7 +442,7 @@
         {
           "_t": "Text",
           "Content": "3. Сегментировать покупателей и выбрать акционные товары.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -525,7 +525,7 @@
         {
           "_t": "Text",
           "Content": "увеличила в 5 раз доход от товарных рекомендаций",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -551,7 +551,7 @@
         {
           "_t": "Text",
           "Content": "4. Выбрать удачный момент предложения скидки.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -587,7 +587,7 @@
         {
           "_t": "Text",
           "Content": "увеличить на 7,3% выручку в сложной сфере",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -640,7 +640,7 @@
         {
           "_t": "Text",
           "Content": "5. Персонализировать предложения.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

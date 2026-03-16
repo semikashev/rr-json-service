@@ -51,7 +51,7 @@
         {
           "_t": "Text",
           "Content": "1. Всеобщая асинхронность внешних библиотек, подключаемых к сайту",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -78,7 +78,7 @@
         {
           "_t": "Text",
           "Content": "2. Проблемы с делением трафика",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -87,7 +87,7 @@
         {
           "_t": "Text",
           "Content": "3. Кросс-браузерность",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

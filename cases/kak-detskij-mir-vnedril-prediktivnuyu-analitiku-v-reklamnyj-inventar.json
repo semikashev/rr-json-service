@@ -55,7 +55,7 @@
         {
           "_t": "Text",
           "Content": "Smart Placement Ads",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

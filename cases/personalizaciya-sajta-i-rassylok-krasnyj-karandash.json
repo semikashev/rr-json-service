@@ -490,7 +490,7 @@
         {
           "_t": "Text",
           "Content": "Email-маркетинг: структура канала",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -548,7 +548,7 @@
         {
           "_t": "Text",
           "Content": "Триггерные рассылки — главный драйвер эффективности",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -621,7 +621,7 @@
         {
           "_t": "Text",
           "Content": "Массовые рассылки — охват и вовлеченность",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -650,7 +650,7 @@
         {
           "_t": "Text",
           "Content": "Web-push — дополнительный канал возврата",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

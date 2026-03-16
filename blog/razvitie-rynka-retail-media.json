@@ -60,7 +60,7 @@
         {
           "_t": "Text",
           "Content": "Этап 1. Зарождение рынка.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -83,7 +83,7 @@
         {
           "_t": "Text",
           "Content": "Этап 2. Взрывной рост.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -97,7 +97,7 @@
         {
           "_t": "Text",
           "Content": "Этап 3. Уход зарубежных игроков.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -344,7 +344,7 @@
         {
           "_t": "Text",
           "Content": "Рост трафика.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -358,7 +358,7 @@
         {
           "_t": "Text",
           "Content": "Развитие in-store формата.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -372,7 +372,7 @@
         {
           "_t": "Text",
           "Content": "Выход новых игроков.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -386,7 +386,7 @@
         {
           "_t": "Text",
           "Content": "Увеличение инвестиций со стороны крупного бизнеса",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

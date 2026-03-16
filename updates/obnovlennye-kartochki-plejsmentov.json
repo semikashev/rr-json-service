@@ -33,7 +33,7 @@
         {
           "_t": "Text",
           "Content": "Как было раньше",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -62,7 +62,7 @@
         {
           "_t": "Text",
           "Content": "Что изменилось",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -142,7 +142,7 @@
         {
           "_t": "Text",
           "Content": "Настройка внешнего вида карточки",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -188,7 +188,7 @@
         {
           "_t": "Text",
           "Content": "Дополнительные изображения",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -217,7 +217,7 @@
         {
           "_t": "Text",
           "Content": "Markdown разметка расширенной товарной карточки",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -263,7 +263,7 @@
         {
           "_t": "Text",
           "Content": "Превью карточек",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

@@ -133,7 +133,7 @@
         {
           "_t": "Text",
           "Content": "Размеры штрафов за нарушение закона «О рекламе» (с апреля 2024 года)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -164,7 +164,7 @@
         {
           "_t": "Text",
           "Content": "ФАС штрафует за каждую жалобу отдельно.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -931,7 +931,7 @@
         {
           "_t": "Text",
           "Content": "1. Дата и время подписки",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -940,7 +940,7 @@
         {
           "_t": "Text",
           "Content": "2. Источник подписки",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -949,7 +949,7 @@
         {
           "_t": "Text",
           "Content": "3. Статус рассылки",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -963,7 +963,7 @@
         {
           "_t": "Text",
           "Content": "4. Подтверждение подписки (если есть Double Opt-In)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -977,7 +977,7 @@
         {
           "_t": "Text",
           "Content": "5. Ознакомление с политикой конфиденциальности",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -986,7 +986,7 @@
         {
           "_t": "Text",
           "Content": "6. Учёт отписавшихся",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

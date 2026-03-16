@@ -99,7 +99,7 @@
         {
           "_t": "Text",
           "Content": "Что даёт GMV бизнесу:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -168,7 +168,7 @@
         {
           "_t": "Text",
           "Content": "Категория:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -177,7 +177,7 @@
         {
           "_t": "Text",
           "Content": "Период:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -220,7 +220,7 @@
         {
           "_t": "Text",
           "Content": "GMV по категории «Электроника» за июль",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -267,7 +267,7 @@
         {
           "_t": "Text",
           "Content": "Эти данные можно взять из:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -306,7 +306,7 @@
         {
           "_t": "Text",
           "Content": "Связанные метрики:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -344,7 +344,7 @@
         {
           "_t": "Text",
           "Content": "Что даёт AOV бизнесу:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -413,7 +413,7 @@
         {
           "_t": "Text",
           "Content": "Период:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -462,7 +462,7 @@
         {
           "_t": "Text",
           "Content": "Общий AOV:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -471,7 +471,7 @@
         {
           "_t": "Text",
           "Content": "Эти данные можно взять из:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -510,7 +510,7 @@
         {
           "_t": "Text",
           "Content": "Связанные метрики:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -543,7 +543,7 @@
         {
           "_t": "Text",
           "Content": "Что даёт маржа бизнесу:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -626,7 +626,7 @@
         {
           "_t": "Text",
           "Content": "Период:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -680,7 +680,7 @@
         {
           "_t": "Text",
           "Content": "Общая маржа:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -689,7 +689,7 @@
         {
           "_t": "Text",
           "Content": "Эти данные можно взять из:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -728,7 +728,7 @@
         {
           "_t": "Text",
           "Content": "Связанные метрики:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -755,7 +755,7 @@
         {
           "_t": "Text",
           "Content": "Что даёт CPO бизнесу:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -824,7 +824,7 @@
         {
           "_t": "Text",
           "Content": "Период:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -879,7 +879,7 @@
         {
           "_t": "Text",
           "Content": "Средний CPO:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -888,7 +888,7 @@
         {
           "_t": "Text",
           "Content": "Эти данные можно взять из:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -927,7 +927,7 @@
         {
           "_t": "Text",
           "Content": "Связанные метрики:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1018,7 +1018,7 @@
         {
           "_t": "Text",
           "Content": "Период:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1073,7 +1073,7 @@
         {
           "_t": "Text",
           "Content": "Общий ДРР:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1082,7 +1082,7 @@
         {
           "_t": "Text",
           "Content": "Эти данные можно взять из:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1121,7 +1121,7 @@
         {
           "_t": "Text",
           "Content": "Связанные метрики:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1154,7 +1154,7 @@
         {
           "_t": "Text",
           "Content": "Что даёт Product Revenue бизнесу:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1223,7 +1223,7 @@
         {
           "_t": "Text",
           "Content": "Период:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1232,7 +1232,7 @@
         {
           "_t": "Text",
           "Content": "Категория:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1293,7 +1293,7 @@
         {
           "_t": "Text",
           "Content": "Общий доход по категории:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1302,7 +1302,7 @@
         {
           "_t": "Text",
           "Content": "Эти данные можно взять из:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1341,7 +1341,7 @@
         {
           "_t": "Text",
           "Content": "Связанные метрики:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1387,7 +1387,7 @@
         {
           "_t": "Text",
           "Content": "Что даёт конверсия бизнесу:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1456,7 +1456,7 @@
         {
           "_t": "Text",
           "Content": "Период:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1517,7 +1517,7 @@
         {
           "_t": "Text",
           "Content": "Общая конверсия:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1526,7 +1526,7 @@
         {
           "_t": "Text",
           "Content": "Эти данные можно взять из:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1569,7 +1569,7 @@
         {
           "_t": "Text",
           "Content": "Связанные метрики:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1612,7 +1612,7 @@
         {
           "_t": "Text",
           "Content": "Что даёт анализ брошенных корзин бизнесу:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1681,7 +1681,7 @@
         {
           "_t": "Text",
           "Content": "Период:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1740,7 +1740,7 @@
         {
           "_t": "Text",
           "Content": "Эти данные можно взять из:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1779,7 +1779,7 @@
         {
           "_t": "Text",
           "Content": "Связанные метрики:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1817,7 +1817,7 @@
         {
           "_t": "Text",
           "Content": "Что даёт Bounce Rate бизнесу:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1886,7 +1886,7 @@
         {
           "_t": "Text",
           "Content": "Период:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1947,7 +1947,7 @@
         {
           "_t": "Text",
           "Content": "Общий Bounce Rate:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1956,7 +1956,7 @@
         {
           "_t": "Text",
           "Content": "Эти данные можно взять из:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1995,7 +1995,7 @@
         {
           "_t": "Text",
           "Content": "Связанные метрики:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -2046,7 +2046,7 @@
         {
           "_t": "Text",
           "Content": "Что даёт LTV бизнесу:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -2121,7 +2121,7 @@
         {
           "_t": "Text",
           "Content": "Период анализа:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2175,7 +2175,7 @@
         {
           "_t": "Text",
           "Content": "Распределение клиентов по сегментам:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -2214,7 +2214,7 @@
         {
           "_t": "Text",
           "Content": "Средневзвешенный опреационный LTV:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2223,7 +2223,7 @@
         {
           "_t": "Text",
           "Content": "Эти данные можно взять из:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -2262,7 +2262,7 @@
         {
           "_t": "Text",
           "Content": "Связанные метрики:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -2305,7 +2305,7 @@
         {
           "_t": "Text",
           "Content": "Что даёт Retention Rate бизнесу:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -2389,7 +2389,7 @@
         {
           "_t": "Text",
           "Content": "Когорта:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2457,7 +2457,7 @@
         {
           "_t": "Text",
           "Content": "Кумулятивный Retention Rate за 6 месяцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2466,7 +2466,7 @@
         {
           "_t": "Text",
           "Content": "Эти данные можно взять из:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -2505,7 +2505,7 @@
         {
           "_t": "Text",
           "Content": "Связанные метрики:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -2553,7 +2553,7 @@
         {
           "_t": "Text",
           "Content": "Что даёт Repeat Purchase Rate бизнесу:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -2622,7 +2622,7 @@
         {
           "_t": "Text",
           "Content": "Период анализа:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2683,7 +2683,7 @@
         {
           "_t": "Text",
           "Content": "Общий Repeat Purchase Rate:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2692,7 +2692,7 @@
         {
           "_t": "Text",
           "Content": "Эти данные можно взять из:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -2731,7 +2731,7 @@
         {
           "_t": "Text",
           "Content": "Связанные метрики:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -2769,7 +2769,7 @@
         {
           "_t": "Text",
           "Content": "Что даёт ARPU бизнесу:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -2838,7 +2838,7 @@
         {
           "_t": "Text",
           "Content": "Период:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2892,7 +2892,7 @@
         {
           "_t": "Text",
           "Content": "Общий ARPU:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2901,7 +2901,7 @@
         {
           "_t": "Text",
           "Content": "Эти данные можно взять из:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -2940,7 +2940,7 @@
         {
           "_t": "Text",
           "Content": "Связанные метрики:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -2996,7 +2996,7 @@
         {
           "_t": "Text",
           "Content": "Что даёт Total Traffic бизнесу:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -3065,7 +3065,7 @@
         {
           "_t": "Text",
           "Content": "Период:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -3126,7 +3126,7 @@
         {
           "_t": "Text",
           "Content": "Общий трафик:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -3135,7 +3135,7 @@
         {
           "_t": "Text",
           "Content": "Эти данные можно взять из:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -3174,7 +3174,7 @@
         {
           "_t": "Text",
           "Content": "Связанные метрики:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -3201,7 +3201,7 @@
         {
           "_t": "Text",
           "Content": "Что даёт CAC бизнесу:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -3270,7 +3270,7 @@
         {
           "_t": "Text",
           "Content": "Период:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -3343,7 +3343,7 @@
         {
           "_t": "Text",
           "Content": "Средний CAC:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -3352,7 +3352,7 @@
         {
           "_t": "Text",
           "Content": "Эти данные можно взять из:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -3391,7 +3391,7 @@
         {
           "_t": "Text",
           "Content": "Связанные метрики:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -3418,7 +3418,7 @@
         {
           "_t": "Text",
           "Content": "Что даёт ROAS бизнесу:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -3487,7 +3487,7 @@
         {
           "_t": "Text",
           "Content": "Период:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -3554,7 +3554,7 @@
         {
           "_t": "Text",
           "Content": "Общий ROAS:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -3563,7 +3563,7 @@
         {
           "_t": "Text",
           "Content": "Эти данные можно взять из:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -3602,7 +3602,7 @@
         {
           "_t": "Text",
           "Content": "Связанные метрики:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -3629,7 +3629,7 @@
         {
           "_t": "Text",
           "Content": "Что даёт CPC бизнесу:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -3698,7 +3698,7 @@
         {
           "_t": "Text",
           "Content": "Период:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -3771,7 +3771,7 @@
         {
           "_t": "Text",
           "Content": "Средний CPC:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -3785,7 +3785,7 @@
         {
           "_t": "Text",
           "Content": "Данные для расчета CPC можно взять из:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -3824,7 +3824,7 @@
         {
           "_t": "Text",
           "Content": "Связанные метрики:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -3851,7 +3851,7 @@
         {
           "_t": "Text",
           "Content": "Что даёт CTR бизнесу:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -3920,7 +3920,7 @@
         {
           "_t": "Text",
           "Content": "Период:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -3999,7 +3999,7 @@
         {
           "_t": "Text",
           "Content": "Общий CTR:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -4013,7 +4013,7 @@
         {
           "_t": "Text",
           "Content": "Данные для расчета CTR можно взять из:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -4052,7 +4052,7 @@
         {
           "_t": "Text",
           "Content": "Связанные метрики:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -4079,7 +4079,7 @@
         {
           "_t": "Text",
           "Content": "Что даёт CPA бизнесу:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -4148,7 +4148,7 @@
         {
           "_t": "Text",
           "Content": "Период:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -4215,7 +4215,7 @@
         {
           "_t": "Text",
           "Content": "Анализ по эффективности:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -4248,7 +4248,7 @@
         {
           "_t": "Text",
           "Content": "Расчет рентабельности:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -4262,7 +4262,7 @@
         {
           "_t": "Text",
           "Content": "Данные для расчета CPA можно взять из:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -4301,7 +4301,7 @@
         {
           "_t": "Text",
           "Content": "Связанные метрики:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -4328,7 +4328,7 @@
         {
           "_t": "Text",
           "Content": "Что даёт DAU бизнесу:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -4393,7 +4393,7 @@
         {
           "_t": "Text",
           "Content": "Пример (DAU по неделе в июле 2025):",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -4448,7 +4448,7 @@
         {
           "_t": "Text",
           "Content": "Источники данных о DAU:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -4481,7 +4481,7 @@
         {
           "_t": "Text",
           "Content": "Связанные метрики:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -4508,7 +4508,7 @@
         {
           "_t": "Text",
           "Content": "Что даёт WAU бизнесу:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -4600,7 +4600,7 @@
         {
           "_t": "Text",
           "Content": "Источники данных о WAU :",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -4621,7 +4621,7 @@
         {
           "_t": "Text",
           "Content": "Связанные метрики:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -4648,7 +4648,7 @@
         {
           "_t": "Text",
           "Content": "Что даёт MAU бизнесу:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -4713,7 +4713,7 @@
         {
           "_t": "Text",
           "Content": "Пример (MAU по сегментам за июль 2025):",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -4752,7 +4752,7 @@
         {
           "_t": "Text",
           "Content": "Источники данных о MAU:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -4785,7 +4785,7 @@
         {
           "_t": "Text",
           "Content": "Связанные метрики:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -4812,7 +4812,7 @@
         {
           "_t": "Text",
           "Content": "Что даёт ROMI бизнесу:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -4877,7 +4877,7 @@
         {
           "_t": "Text",
           "Content": "Пример: ROMI по каналам за июль 2025",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -4920,7 +4920,7 @@
         {
           "_t": "Text",
           "Content": "Источники данных для расчета ROMI:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -4953,7 +4953,7 @@
         {
           "_t": "Text",
           "Content": "Связанные метрики:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -4993,7 +4993,7 @@
         {
           "_t": "Text",
           "Content": "Что даёт Return Rate бизнесу:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -5058,7 +5058,7 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -5110,7 +5110,7 @@
         {
           "_t": "Text",
           "Content": "Источники данных для расчета Return Rate:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -5143,7 +5143,7 @@
         {
           "_t": "Text",
           "Content": "Связанные метрики:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -5174,7 +5174,7 @@
         {
           "_t": "Text",
           "Content": "Что даёт Delivery Performance бизнесу:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -5239,7 +5239,7 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -5291,7 +5291,7 @@
         {
           "_t": "Text",
           "Content": "Источники данных для расчета Delivery Performance:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -5324,7 +5324,7 @@
         {
           "_t": "Text",
           "Content": "Связанные метрики:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },

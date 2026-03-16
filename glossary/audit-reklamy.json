@@ -138,7 +138,7 @@
         {
           "_t": "Text",
           "Content": "Экономия бюджета.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -152,7 +152,7 @@
         {
           "_t": "Text",
           "Content": "Рост эффективности.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -166,7 +166,7 @@
         {
           "_t": "Text",
           "Content": "Обнаружение ошибок",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -180,7 +180,7 @@
         {
           "_t": "Text",
           "Content": "Новые инсайты для креатива и стратегии.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -194,7 +194,7 @@
         {
           "_t": "Text",
           "Content": "Прозрачная отчётность.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -208,7 +208,7 @@
         {
           "_t": "Text",
           "Content": "Стратегическое планирование.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -244,7 +244,7 @@
         {
           "_t": "Text",
           "Content": "Перед стартом новой кампании.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -258,7 +258,7 @@
         {
           "_t": "Text",
           "Content": "При интеграции с агентством.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -272,7 +272,7 @@
         {
           "_t": "Text",
           "Content": "Регулярно по плану.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -286,7 +286,7 @@
         {
           "_t": "Text",
           "Content": "После запуска нового продукта или акции.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -300,7 +300,7 @@
         {
           "_t": "Text",
           "Content": "В ответ на ухудшение показателей.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -314,7 +314,7 @@
         {
           "_t": "Text",
           "Content": "Для масштабирования.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -374,7 +374,7 @@
         {
           "_t": "Text",
           "Content": ".",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

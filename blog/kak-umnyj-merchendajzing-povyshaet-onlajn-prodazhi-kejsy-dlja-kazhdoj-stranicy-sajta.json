@@ -37,7 +37,7 @@
         {
           "_t": "Text",
           "Content": "Как это работает на практике:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -262,7 +262,7 @@
         {
           "_t": "Text",
           "Content": "«КораллМикро»",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -305,7 +305,7 @@
         {
           "_t": "Text",
           "Content": "«220 Вольт»",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

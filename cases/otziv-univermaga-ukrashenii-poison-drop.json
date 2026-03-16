@@ -166,7 +166,7 @@
         {
           "_t": "Text",
           "Content": "На результаты повлияло сразу несколько факторов:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },

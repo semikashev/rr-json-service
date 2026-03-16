@@ -149,7 +149,7 @@
         {
           "_t": "Text",
           "Content": "CRM-системы.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -163,7 +163,7 @@
         {
           "_t": "Text",
           "Content": "Платформы для email-маркетинга.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

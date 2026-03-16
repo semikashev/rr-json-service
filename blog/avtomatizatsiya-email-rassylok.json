@@ -55,7 +55,7 @@
         {
           "_t": "Text",
           "Content": "универсальный инструмент,",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -82,7 +82,7 @@
         {
           "_t": "Text",
           "Content": "Они экономят время.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -105,7 +105,7 @@
         {
           "_t": "Text",
           "Content": "Увеличивают число касаний с клиентом.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -119,7 +119,7 @@
         {
           "_t": "Text",
           "Content": "Увеличивают выручку, снижают количество незавершённых заказов.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -142,7 +142,7 @@
         {
           "_t": "Text",
           "Content": "Сегментируют и персонализируют письма для повышения их эффективности.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -430,7 +430,7 @@
         {
           "_t": "Text",
           "Content": "предусмотреть столько сценариев рассылок, на сколько хватит фантазии маркетолога,",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -448,7 +448,7 @@
         {
           "_t": "Text",
           "Content": "серия поведенческих сценариев",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -471,7 +471,7 @@
         {
           "_t": "Text",
           "Content": "Примеры эффективных сценариев запуска автоматической рассылки от Retail Rocket Group:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -958,7 +958,7 @@
         {
           "_t": "Text",
           "Content": "• Delivery Rate (DR)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -982,7 +982,7 @@
         {
           "_t": "Text",
           "Content": "• Open Rate (OR)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1006,7 +1006,7 @@
         {
           "_t": "Text",
           "Content": "• Bounce Rate (BR)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1030,7 +1030,7 @@
         {
           "_t": "Text",
           "Content": "• Click-Through Rate (CTR)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1054,7 +1054,7 @@
         {
           "_t": "Text",
           "Content": "• Unsubscribe Rate (UR)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1113,7 +1113,7 @@
         {
           "_t": "Text",
           "Content": "Сценарий «Брошенный просмотр» был усилен Follow-up письмами:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

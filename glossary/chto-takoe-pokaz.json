@@ -314,7 +314,7 @@
         {
           "_t": "Text",
           "Content": "Простота измерения.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -332,7 +332,7 @@
         {
           "_t": "Text",
           "Content": "Широкий охват аудитории.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -350,7 +350,7 @@
         {
           "_t": "Text",
           "Content": "Быстрый рост узнаваемости.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -368,7 +368,7 @@
         {
           "_t": "Text",
           "Content": "Гибкость бюджета.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -386,7 +386,7 @@
         {
           "_t": "Text",
           "Content": "Основа для расчёта других метрик.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -404,7 +404,7 @@
         {
           "_t": "Text",
           "Content": "❌ Не гарантирует взаимодействия.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -418,7 +418,7 @@
         {
           "_t": "Text",
           "Content": "❌ Зависимость от формата.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -432,7 +432,7 @@
         {
           "_t": "Text",
           "Content": "❌ Риск рекламной слепоты.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -450,7 +450,7 @@
         {
           "_t": "Text",
           "Content": "Отсутствие прямой связи с продажами.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -464,7 +464,7 @@
         {
           "_t": "Text",
           "Content": "❌ Манипуляции со стороны площадок.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

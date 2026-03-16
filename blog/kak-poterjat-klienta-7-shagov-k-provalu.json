@@ -50,7 +50,7 @@
         {
           "_t": "Text",
           "Content": "14,5%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -59,7 +59,7 @@
         {
           "_t": "Text",
           "Content": "7,5%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -152,7 +152,7 @@
         {
           "_t": "Text",
           "Content": "80%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -161,7 +161,7 @@
         {
           "_t": "Text",
           "Content": "48%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -220,7 +220,7 @@
         {
           "_t": "Text",
           "Content": "52%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -229,7 +229,7 @@
         {
           "_t": "Text",
           "Content": "70%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -238,7 +238,7 @@
         {
           "_t": "Text",
           "Content": "69%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -288,7 +288,7 @@
         {
           "_t": "Text",
           "Content": "60%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -297,7 +297,7 @@
         {
           "_t": "Text",
           "Content": "74%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -319,7 +319,7 @@
         {
           "_t": "Text",
           "Content": "74%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -352,7 +352,7 @@
         {
           "_t": "Text",
           "Content": "92%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -402,7 +402,7 @@
         {
           "_t": "Text",
           "Content": "40%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -411,7 +411,7 @@
         {
           "_t": "Text",
           "Content": "8%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -456,7 +456,12 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Построить лояльность сложно, но удержать её ещё сложнее. Мы надеемся, что приведенные примеры и кейсы помогли вам найти новые идеи для улучшения сервиса. Меняться, особенно к лучшему, никогда не поздно. Обращайте особое внимание на отзывы клиентов, разговаривайте с ними — многие готовы делиться впечатлениями, основываясь на которые вы сможете постоянно совершенствовать бизнес. Инфоподдержка:seonews.ru"
+          "Content": "Построить лояльность сложно, но удержать её ещё сложнее. Мы надеемся, что приведенные примеры и кейсы помогли вам найти новые идеи для улучшения сервиса. Меняться, особенно к лучшему, никогда не поздно. Обращайте особое внимание на отзывы клиентов, разговаривайте с ними — многие готовы делиться впечатлениями, основываясь на которые вы сможете постоянно совершенствовать бизнес. Инфоподдержка:"
+        },
+        {
+          "_t": "Text",
+          "Content": "seonews.ru",
+          "IsHighlight": true
         }
       ]
     }

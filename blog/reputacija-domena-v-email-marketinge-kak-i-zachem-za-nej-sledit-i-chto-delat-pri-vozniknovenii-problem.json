@@ -37,7 +37,7 @@
         {
           "_t": "Text",
           "Content": "Как это работает на практике?",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -533,7 +533,7 @@
         {
           "_t": "Text",
           "Content": "Постмастеры",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -542,7 +542,7 @@
         {
           "_t": "Text",
           "Content": "Собственные инструменты",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -551,7 +551,7 @@
         {
           "_t": "Text",
           "Content": "Анализ отчётов DMARC",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -658,7 +658,7 @@
         {
           "_t": "Text",
           "Content": "4.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -672,7 +672,7 @@
         {
           "_t": "Text",
           "Content": "5.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -685,7 +685,12 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "6. Решения проблем включают удаление неактивных подписчиков, исправление ошибок аутентификации и сегментацию рассылок."
+          "Content": "6.",
+          "IsHighlight": true
+        },
+        {
+          "_t": "Text",
+          "Content": " Решения проблем включают удаление неактивных подписчиков, исправление ошибок аутентификации и сегментацию рассылок."
         }
       ]
     }

@@ -52,7 +52,7 @@
         {
           "_t": "Text",
           "Content": "RTB",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -116,7 +116,7 @@
         {
           "_t": "Text",
           "Content": "RTB (Real-Time Bidding)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -130,7 +130,7 @@
         {
           "_t": "Text",
           "Content": "Прямой байинг (Direct Buy)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -144,7 +144,7 @@
         {
           "_t": "Text",
           "Content": "Preferred Deals и Programmatic Guaranteed",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -351,7 +351,7 @@
         {
           "_t": "Text",
           "Content": "Снижение затрат",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -365,7 +365,7 @@
         {
           "_t": "Text",
           "Content": "Рост эффективности",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -379,7 +379,7 @@
         {
           "_t": "Text",
           "Content": "Гибкое управление ставками",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -393,7 +393,7 @@
         {
           "_t": "Text",
           "Content": "Прозрачность и аналитика",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -487,7 +487,7 @@
         {
           "_t": "Text",
           "Content": "Что это",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -496,7 +496,7 @@
         {
           "_t": "Text",
           "Content": "Зачем бизнесу",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -535,7 +535,7 @@
         {
           "_t": "Text",
           "Content": "Что это",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -544,7 +544,7 @@
         {
           "_t": "Text",
           "Content": "Зачем бизнесу",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -571,7 +571,7 @@
         {
           "_t": "Text",
           "Content": "Что это",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -580,7 +580,7 @@
         {
           "_t": "Text",
           "Content": "Зачем бизнесу",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

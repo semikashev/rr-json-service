@@ -303,7 +303,7 @@
         {
           "_t": "Text",
           "Content": "SPF",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -317,7 +317,7 @@
         {
           "_t": "Text",
           "Content": "DKIM",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -331,7 +331,7 @@
         {
           "_t": "Text",
           "Content": "DMARC",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -345,7 +345,7 @@
         {
           "_t": "Text",
           "Content": "Почему это важно?",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -354,7 +354,7 @@
         {
           "_t": "Text",
           "Content": "Что нужно сделать:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },

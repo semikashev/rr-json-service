@@ -125,7 +125,7 @@
         {
           "_t": "Text",
           "Content": "1. Финансовые сервисы.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -139,7 +139,7 @@
         {
           "_t": "Text",
           "Content": "2. Маркетинг и CRM.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -153,7 +153,7 @@
         {
           "_t": "Text",
           "Content": "3. E-commerce и онлайн-сервисы.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -167,7 +167,7 @@
         {
           "_t": "Text",
           "Content": "4. Социальные платформы и маркетплейсы.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -181,7 +181,7 @@
         {
           "_t": "Text",
           "Content": "5. Юридические процессы и документооборот.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -199,7 +199,7 @@
         {
           "_t": "Text",
           "Content": "1. Повышает качество базы.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -213,7 +213,7 @@
         {
           "_t": "Text",
           "Content": "2. Защищает от накрутки и фейков.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -227,7 +227,7 @@
         {
           "_t": "Text",
           "Content": "3. Упрощает регистрацию и вход.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -241,7 +241,7 @@
         {
           "_t": "Text",
           "Content": "4. Помогает выстраивать доверие.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -255,7 +255,7 @@
         {
           "_t": "Text",
           "Content": "5. Дает чище аналитику.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

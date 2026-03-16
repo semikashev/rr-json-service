@@ -33,7 +33,7 @@
         {
           "_t": "Text",
           "Content": "Маркетинговый план",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

@@ -255,7 +255,7 @@
         {
           "_t": "Text",
           "Content": "Быстрая оценка эффективности кампаний.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -273,7 +273,7 @@
         {
           "_t": "Text",
           "Content": "Возможность сравнивать каналы.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -291,7 +291,7 @@
         {
           "_t": "Text",
           "Content": "Отслеживание сезонности и трендов.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -313,7 +313,7 @@
         {
           "_t": "Text",
           "Content": "Не отражает качество аудитории.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -331,7 +331,7 @@
         {
           "_t": "Text",
           "Content": "Возможны искажения данных.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -349,7 +349,7 @@
         {
           "_t": "Text",
           "Content": "Метрика оторвана от выручки.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

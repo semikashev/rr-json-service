@@ -520,7 +520,7 @@
         {
           "_t": "Text",
           "Content": "13-14%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -529,7 +529,7 @@
         {
           "_t": "Text",
           "Content": "15%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -538,7 +538,7 @@
         {
           "_t": "Text",
           "Content": "3",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

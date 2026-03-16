@@ -116,7 +116,7 @@
         {
           "_t": "Text",
           "Content": "Внедрили три алгоритма рекомендаций:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },

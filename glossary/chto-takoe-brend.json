@@ -184,7 +184,7 @@
         {
           "_t": "Text",
           "Content": "Товарный знак",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -198,7 +198,7 @@
         {
           "_t": "Text",
           "Content": "Торговая марка",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -212,7 +212,7 @@
         {
           "_t": "Text",
           "Content": "Бренд",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -357,7 +357,7 @@
         {
           "_t": "Text",
           "Content": "Корпоративный бренд.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -390,7 +390,7 @@
         {
           "_t": "Text",
           "Content": "Товарный бренд.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -423,7 +423,7 @@
         {
           "_t": "Text",
           "Content": "Зонтичный бренд.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -456,7 +456,7 @@
         {
           "_t": "Text",
           "Content": "Суббренд.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -493,7 +493,7 @@
         {
           "_t": "Text",
           "Content": "Локальный бренд.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -517,7 +517,7 @@
         {
           "_t": "Text",
           "Content": "Национальный бренд.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -550,7 +550,7 @@
         {
           "_t": "Text",
           "Content": "Международный бренд.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -583,7 +583,7 @@
         {
           "_t": "Text",
           "Content": "Глобальный бренд.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -620,7 +620,7 @@
         {
           "_t": "Text",
           "Content": "Премиум-бренд.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -653,7 +653,7 @@
         {
           "_t": "Text",
           "Content": "Массовый бренд.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -686,7 +686,7 @@
         {
           "_t": "Text",
           "Content": "Эконом-бренд.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -719,7 +719,7 @@
         {
           "_t": "Text",
           "Content": "Премиум-масс.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

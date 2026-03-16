@@ -33,7 +33,7 @@
         {
           "_t": "Text",
           "Content": "Кегль",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

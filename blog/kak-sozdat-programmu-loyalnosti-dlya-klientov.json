@@ -37,7 +37,7 @@
         {
           "_t": "Text",
           "Content": "Плюсы программ лояльности:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -101,7 +101,7 @@
         {
           "_t": "Text",
           "Content": "Минусы программ лояльности",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -403,7 +403,7 @@
         {
           "_t": "Text",
           "Content": "Финансовые показывают",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -478,7 +478,7 @@
         {
           "_t": "Text",
           "Content": "Нефинансовые показывают,",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -584,7 +584,7 @@
         {
           "_t": "Text",
           "Content": "Отсутствие конкретной стратегии и целей.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -607,7 +607,7 @@
         {
           "_t": "Text",
           "Content": "Незнание целевой аудитории.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -630,7 +630,7 @@
         {
           "_t": "Text",
           "Content": "Недостаточное информирование.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -657,7 +657,7 @@
         {
           "_t": "Text",
           "Content": "Несоответствие ИT-инфраструктуры.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -680,7 +680,7 @@
         {
           "_t": "Text",
           "Content": "Отсутствие защиты данных.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -707,7 +707,7 @@
         {
           "_t": "Text",
           "Content": "Сложные условия программы.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -730,7 +730,7 @@
         {
           "_t": "Text",
           "Content": "Низкая ценность для клиентов.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

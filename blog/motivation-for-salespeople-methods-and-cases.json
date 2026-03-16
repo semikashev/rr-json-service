@@ -101,7 +101,7 @@
         {
           "_t": "Text",
           "Content": "Оклад",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -124,7 +124,7 @@
         {
           "_t": "Text",
           "Content": "Бонусы и премии",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -185,7 +185,7 @@
         {
           "_t": "Text",
           "Content": "Комиссионные",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -208,7 +208,7 @@
         {
           "_t": "Text",
           "Content": "Оплата обучения",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -246,7 +246,7 @@
         {
           "_t": "Text",
           "Content": "Программы страхования и социальные льготы",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -303,7 +303,7 @@
         {
           "_t": "Text",
           "Content": "Признание и благодарность",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -326,7 +326,7 @@
         {
           "_t": "Text",
           "Content": "Карьерный рост и развитие",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -358,7 +358,7 @@
         {
           "_t": "Text",
           "Content": "Комфортная рабочая атмосфера",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -396,7 +396,7 @@
         {
           "_t": "Text",
           "Content": "Гибкость и автономия",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -419,7 +419,7 @@
         {
           "_t": "Text",
           "Content": "Творческая свобода и инициатива",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -457,7 +457,7 @@
         {
           "_t": "Text",
           "Content": "Целостная корпоративная культура",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

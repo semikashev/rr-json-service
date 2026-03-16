@@ -320,7 +320,7 @@
         {
           "_t": "Text",
           "Content": "CTR на площадке составляет 1,31 %",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -350,7 +350,7 @@
         {
           "_t": "Text",
           "Content": "доходность рекламного направления увеличивается на 50% ежемесячно.",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },

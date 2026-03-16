@@ -73,7 +73,7 @@
         {
           "_t": "Text",
           "Content": "Например",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -127,7 +127,7 @@
         {
           "_t": "Text",
           "Content": "Прирост объёма продаж.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -145,7 +145,7 @@
         {
           "_t": "Text",
           "Content": "Конверсия",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -168,7 +168,7 @@
         {
           "_t": "Text",
           "Content": "Средний чек в период акции",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -191,7 +191,7 @@
         {
           "_t": "Text",
           "Content": "Return on Investment (ROI).",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -235,7 +235,7 @@
         {
           "_t": "Text",
           "Content": "Customer Lifetime Value (CLV).",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -258,7 +258,7 @@
         {
           "_t": "Text",
           "Content": "Стоимость привлечения клиента (CPA).",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

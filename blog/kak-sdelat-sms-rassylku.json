@@ -106,7 +106,7 @@
         {
           "_t": "Text",
           "Content": "Повысить вовлечённость:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -115,7 +115,7 @@
         {
           "_t": "Text",
           "Content": "Вернуть неактивных клиентов:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -137,7 +137,7 @@
         {
           "_t": "Text",
           "Content": "Анонсировать ограниченную акцию:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -153,7 +153,7 @@
         {
           "_t": "Text",
           "Content": "Добиться мгновенного отклика (например, при распродаже):",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -169,7 +169,7 @@
         {
           "_t": "Text",
           "Content": "Поддержать рекламные кампании:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -281,7 +281,7 @@
         {
           "_t": "Text",
           "Content": "Полезна:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -314,7 +314,7 @@
         {
           "_t": "Text",
           "Content": "Неэффективна:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -395,7 +395,7 @@
         {
           "_t": "Text",
           "Content": "Важно!",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -404,7 +404,7 @@
         {
           "_t": "Text",
           "Content": "Что нельзя делать:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -550,7 +550,7 @@
         {
           "_t": "Text",
           "Content": "Нет, покупать базы номеров запрещено",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -559,7 +559,7 @@
         {
           "_t": "Text",
           "Content": "от 10 000 до 75 000 ₽",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -568,7 +568,7 @@
         {
           "_t": "Text",
           "Content": "4% годового оборота",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

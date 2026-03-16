@@ -257,7 +257,7 @@
         {
           "_t": "Text",
           "Content": "Действия:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -266,7 +266,7 @@
         {
           "_t": "Text",
           "Content": "Цель клиента:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -275,7 +275,7 @@
         {
           "_t": "Text",
           "Content": "Цель бизнеса:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -299,7 +299,7 @@
         {
           "_t": "Text",
           "Content": "Действия:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -308,7 +308,7 @@
         {
           "_t": "Text",
           "Content": "Цель клиента:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -317,7 +317,7 @@
         {
           "_t": "Text",
           "Content": "Цель бизнеса:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -341,7 +341,7 @@
         {
           "_t": "Text",
           "Content": "Действия:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -350,7 +350,7 @@
         {
           "_t": "Text",
           "Content": "Цель клиента:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -359,7 +359,7 @@
         {
           "_t": "Text",
           "Content": "Цель бизнеса:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -377,7 +377,7 @@
         {
           "_t": "Text",
           "Content": "Действия:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -386,7 +386,7 @@
         {
           "_t": "Text",
           "Content": "Цель клиента:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -395,7 +395,7 @@
         {
           "_t": "Text",
           "Content": "Цель бизнеса:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -413,7 +413,7 @@
         {
           "_t": "Text",
           "Content": "Действия:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -422,7 +422,7 @@
         {
           "_t": "Text",
           "Content": "Цель клиента:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -431,7 +431,7 @@
         {
           "_t": "Text",
           "Content": "Цель бизнеса:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -449,7 +449,7 @@
         {
           "_t": "Text",
           "Content": "Действия:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -458,7 +458,7 @@
         {
           "_t": "Text",
           "Content": "Цель клиента:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -467,7 +467,7 @@
         {
           "_t": "Text",
           "Content": "Цель бизнеса:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -589,7 +589,7 @@
         {
           "_t": "Text",
           "Content": "— говорит эксперт по клиентскому опыту.",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -664,7 +664,7 @@
         {
           "_t": "Text",
           "Content": "Что именно собрать:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -673,7 +673,7 @@
         {
           "_t": "Text",
           "Content": "Поведенческие данные",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -682,7 +682,7 @@
         {
           "_t": "Text",
           "Content": "Качественные данные",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -691,7 +691,7 @@
         {
           "_t": "Text",
           "Content": "Опросы",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -700,7 +700,7 @@
         {
           "_t": "Text",
           "Content": "История обращений в поддержку",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -709,7 +709,7 @@
         {
           "_t": "Text",
           "Content": "Отзывы и комментарии",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -829,7 +829,7 @@
         {
           "_t": "Text",
           "Content": "Как понять, нужно ли делить этап или объединить?",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -869,7 +869,7 @@
         {
           "_t": "Text",
           "Content": "поделился эксперт по клиентскому опыту.",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1025,7 +1025,7 @@
         {
           "_t": "Text",
           "Content": "Google Sheets / Excel",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1048,7 +1048,7 @@
         {
           "_t": "Text",
           "Content": "Miro",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1071,7 +1071,7 @@
         {
           "_t": "Text",
           "Content": "UXPressia",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1080,7 +1080,7 @@
         {
           "_t": "Text",
           "Content": "Smaply",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1103,7 +1103,7 @@
         {
           "_t": "Text",
           "Content": "Figma",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1126,7 +1126,7 @@
         {
           "_t": "Text",
           "Content": "Canvanizer",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

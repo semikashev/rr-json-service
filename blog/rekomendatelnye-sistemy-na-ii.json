@@ -278,7 +278,7 @@
         {
           "_t": "Text",
           "Content": "Базовый уровень.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -292,7 +292,7 @@
         {
           "_t": "Text",
           "Content": "Продвинутый уровень.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -306,7 +306,7 @@
         {
           "_t": "Text",
           "Content": "Best-in-Class (Лучший в своем классе)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -320,7 +320,7 @@
         {
           "_t": "Text",
           "Content": "Инновационный уровень.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -360,7 +360,7 @@
         {
           "_t": "Text",
           "Content": "Собирает данные.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -369,7 +369,7 @@
         {
           "_t": "Text",
           "Content": "↓",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -378,7 +378,7 @@
         {
           "_t": "Text",
           "Content": "Строит матрицу взаимодействия.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -387,7 +387,7 @@
         {
           "_t": "Text",
           "Content": "↓",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -396,7 +396,7 @@
         {
           "_t": "Text",
           "Content": "Ищет схожести.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -405,7 +405,7 @@
         {
           "_t": "Text",
           "Content": "↓",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -414,7 +414,7 @@
         {
           "_t": "Text",
           "Content": "Выдаёт рекомендации.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -453,7 +453,7 @@
         {
           "_t": "Text",
           "Content": "Анализирует контент.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -462,7 +462,7 @@
         {
           "_t": "Text",
           "Content": "↓",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -471,7 +471,7 @@
         {
           "_t": "Text",
           "Content": "Изучает предпочтения пользователя.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -480,7 +480,7 @@
         {
           "_t": "Text",
           "Content": "↓",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -489,7 +489,7 @@
         {
           "_t": "Text",
           "Content": "Сопоставляет характеристики.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -498,7 +498,7 @@
         {
           "_t": "Text",
           "Content": "↓",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -507,7 +507,7 @@
         {
           "_t": "Text",
           "Content": "Рекомендует популярный контент для новых пользователей.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -596,7 +596,7 @@
         {
           "_t": "Text",
           "Content": "Холодный старт.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -642,7 +642,7 @@
         {
           "_t": "Text",
           "Content": "Регистрация и первые действия.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -665,7 +665,7 @@
         {
           "_t": "Text",
           "Content": "Просмотр категорий и товаров.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -688,7 +688,7 @@
         {
           "_t": "Text",
           "Content": "Добавление товаров в корзину.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -715,7 +715,7 @@
         {
           "_t": "Text",
           "Content": "Посещение сайта для конкретной покупки.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -738,7 +738,7 @@
         {
           "_t": "Text",
           "Content": "Навигация и окончательный выбор товара.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -761,7 +761,7 @@
         {
           "_t": "Text",
           "Content": "Покупка и оплата.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -792,7 +792,7 @@
         {
           "_t": "Text",
           "Content": "существуют этические вопросы и риски",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -810,7 +810,7 @@
         {
           "_t": "Text",
           "Content": "может подорвать доверие со стороны клиентов",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -828,7 +828,7 @@
         {
           "_t": "Text",
           "Content": "пользователи видят только узкий ассортимент предложений",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -846,7 +846,7 @@
         {
           "_t": "Text",
           "Content": "исходя из опыта и интересов пользователя",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -859,7 +859,16 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Таким образом, успешная рекомендательная система строит долгосрочные отношения с пользователями на основе доверия и прозрачности, предлагая разнообразие и уважая индивидуальные потребности каждого клиента. Это в конечном итоге приносит пользу не только самим пользователям, но и бизнесу, способствуя лояльности и росту продаж."
+          "Content": "Таким образом, "
+        },
+        {
+          "_t": "Text",
+          "Content": "успешная рекомендательная система строит долгосрочные отношения с пользователями на основе доверия и прозрачности",
+          "IsHighlight": true
+        },
+        {
+          "_t": "Text",
+          "Content": ", предлагая разнообразие и уважая индивидуальные потребности каждого клиента. Это в конечном итоге приносит пользу не только самим пользователям, но и бизнесу, способствуя лояльности и росту продаж."
         }
       ]
     }

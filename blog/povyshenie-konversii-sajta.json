@@ -56,7 +56,7 @@
         {
           "_t": "Text",
           "Content": "Примеры целевых действий:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -118,7 +118,7 @@
         {
           "_t": "Text",
           "Content": "Пример.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -265,7 +265,7 @@
         {
           "_t": "Text",
           "Content": "Отсутствие инкрементального анализа.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -385,7 +385,7 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -477,7 +477,7 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -575,7 +575,7 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -646,7 +646,7 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -736,7 +736,7 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -978,7 +978,7 @@
         {
           "_t": "Text",
           "Content": "Тексты:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1011,7 +1011,7 @@
         {
           "_t": "Text",
           "Content": "Фото и видео:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -1141,7 +1141,7 @@
         {
           "_t": "Text",
           "Content": "Что нужно сделать",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1155,7 +1155,7 @@
         {
           "_t": "Text",
           "Content": "Как проверить",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1169,7 +1169,7 @@
         {
           "_t": "Text",
           "Content": "Чек-лист",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1183,7 +1183,7 @@
         {
           "_t": "Text",
           "Content": "Ошибки",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1290,7 +1290,7 @@
         {
           "_t": "Text",
           "Content": "Что сделать",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1304,7 +1304,7 @@
         {
           "_t": "Text",
           "Content": "Как проверить",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1318,7 +1318,7 @@
         {
           "_t": "Text",
           "Content": "Чек-лист",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1332,7 +1332,7 @@
         {
           "_t": "Text",
           "Content": "Ошибки",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1430,7 +1430,7 @@
         {
           "_t": "Text",
           "Content": "Что сделать:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1444,7 +1444,7 @@
         {
           "_t": "Text",
           "Content": "Как проверить:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1458,7 +1458,7 @@
         {
           "_t": "Text",
           "Content": "Чек-лист:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1472,7 +1472,7 @@
         {
           "_t": "Text",
           "Content": "Ошибки:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1490,7 +1490,7 @@
         {
           "_t": "Text",
           "Content": "Что сделать:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1504,7 +1504,7 @@
         {
           "_t": "Text",
           "Content": "Как проверить:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1518,7 +1518,7 @@
         {
           "_t": "Text",
           "Content": "Чек-лист:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1532,7 +1532,7 @@
         {
           "_t": "Text",
           "Content": "Ошибки:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1559,7 +1559,7 @@
         {
           "_t": "Text",
           "Content": "Что сделать:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1573,7 +1573,7 @@
         {
           "_t": "Text",
           "Content": "Как проверить:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1587,7 +1587,7 @@
         {
           "_t": "Text",
           "Content": "Чек-лист:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1601,7 +1601,7 @@
         {
           "_t": "Text",
           "Content": "Ошибки:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1619,7 +1619,7 @@
         {
           "_t": "Text",
           "Content": "Что сделать:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1633,7 +1633,7 @@
         {
           "_t": "Text",
           "Content": "Как проверить:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1647,7 +1647,7 @@
         {
           "_t": "Text",
           "Content": "Чек-лист:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1661,7 +1661,7 @@
         {
           "_t": "Text",
           "Content": "Ошибки:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1679,7 +1679,7 @@
         {
           "_t": "Text",
           "Content": "Что сделать:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1693,7 +1693,7 @@
         {
           "_t": "Text",
           "Content": "Как проверить:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1707,7 +1707,7 @@
         {
           "_t": "Text",
           "Content": "Чек-лист:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1721,7 +1721,7 @@
         {
           "_t": "Text",
           "Content": "Ошибки:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1739,7 +1739,7 @@
         {
           "_t": "Text",
           "Content": "Что сделать:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1753,7 +1753,7 @@
         {
           "_t": "Text",
           "Content": "Как проверить:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1767,7 +1767,7 @@
         {
           "_t": "Text",
           "Content": "Чек-лист:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1781,7 +1781,7 @@
         {
           "_t": "Text",
           "Content": "Ошибки:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1799,7 +1799,7 @@
         {
           "_t": "Text",
           "Content": "Что сделать:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1813,7 +1813,7 @@
         {
           "_t": "Text",
           "Content": "Как проверить:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1827,7 +1827,7 @@
         {
           "_t": "Text",
           "Content": "Чек-лист:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1841,7 +1841,7 @@
         {
           "_t": "Text",
           "Content": "Ошибки:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1859,7 +1859,7 @@
         {
           "_t": "Text",
           "Content": "Что сделать:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1873,7 +1873,7 @@
         {
           "_t": "Text",
           "Content": "Как проверить:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1887,7 +1887,7 @@
         {
           "_t": "Text",
           "Content": "Чек-лист:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1901,7 +1901,7 @@
         {
           "_t": "Text",
           "Content": "Ошибки:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1919,7 +1919,7 @@
         {
           "_t": "Text",
           "Content": "Что сделать:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1933,7 +1933,7 @@
         {
           "_t": "Text",
           "Content": "Как проверить:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1947,7 +1947,7 @@
         {
           "_t": "Text",
           "Content": "Чек-лист:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1961,7 +1961,7 @@
         {
           "_t": "Text",
           "Content": "Ошибки:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1979,7 +1979,7 @@
         {
           "_t": "Text",
           "Content": "Что сделать:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1993,7 +1993,7 @@
         {
           "_t": "Text",
           "Content": "Как проверить:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2007,7 +2007,7 @@
         {
           "_t": "Text",
           "Content": "Чек-лист:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2021,7 +2021,7 @@
         {
           "_t": "Text",
           "Content": "Ошибки:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2066,7 +2066,7 @@
         {
           "_t": "Text",
           "Content": "Что сделать:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2080,7 +2080,7 @@
         {
           "_t": "Text",
           "Content": "Как проверить:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2094,7 +2094,7 @@
         {
           "_t": "Text",
           "Content": "Чек-лист:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2108,7 +2108,7 @@
         {
           "_t": "Text",
           "Content": "Ошибки:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2126,7 +2126,7 @@
         {
           "_t": "Text",
           "Content": "Что сделать:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2140,7 +2140,7 @@
         {
           "_t": "Text",
           "Content": "Как проверить:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2154,7 +2154,7 @@
         {
           "_t": "Text",
           "Content": "Чек-лист:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2168,7 +2168,7 @@
         {
           "_t": "Text",
           "Content": "Ошибки:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2186,7 +2186,7 @@
         {
           "_t": "Text",
           "Content": "Что сделать:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2200,7 +2200,7 @@
         {
           "_t": "Text",
           "Content": "Как проверить:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2214,7 +2214,7 @@
         {
           "_t": "Text",
           "Content": "Чек-лист:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2228,7 +2228,7 @@
         {
           "_t": "Text",
           "Content": "Ошибки:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2246,7 +2246,7 @@
         {
           "_t": "Text",
           "Content": "Что сделать:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2260,7 +2260,7 @@
         {
           "_t": "Text",
           "Content": "Как проверить:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2274,7 +2274,7 @@
         {
           "_t": "Text",
           "Content": "Чек-лист:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2288,7 +2288,7 @@
         {
           "_t": "Text",
           "Content": "Ошибки:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2306,7 +2306,7 @@
         {
           "_t": "Text",
           "Content": "Что сделать:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2320,7 +2320,7 @@
         {
           "_t": "Text",
           "Content": "Как проверить:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2334,7 +2334,7 @@
         {
           "_t": "Text",
           "Content": "Чек-лист:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2348,7 +2348,7 @@
         {
           "_t": "Text",
           "Content": "Ошибки:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2366,7 +2366,7 @@
         {
           "_t": "Text",
           "Content": "Что сделать:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2380,7 +2380,7 @@
         {
           "_t": "Text",
           "Content": "Как проверить:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2394,7 +2394,7 @@
         {
           "_t": "Text",
           "Content": "Чек-лист:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2408,7 +2408,7 @@
         {
           "_t": "Text",
           "Content": "Ошибки:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2426,7 +2426,7 @@
         {
           "_t": "Text",
           "Content": "Что сделать:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2440,7 +2440,7 @@
         {
           "_t": "Text",
           "Content": "Как проверить:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2454,7 +2454,7 @@
         {
           "_t": "Text",
           "Content": "Чек-лист:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2468,7 +2468,7 @@
         {
           "_t": "Text",
           "Content": "Ошибки:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2486,7 +2486,7 @@
         {
           "_t": "Text",
           "Content": "Что сделать:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2500,7 +2500,7 @@
         {
           "_t": "Text",
           "Content": "Как проверить:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2514,7 +2514,7 @@
         {
           "_t": "Text",
           "Content": "Чек-лист:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2528,7 +2528,7 @@
         {
           "_t": "Text",
           "Content": "Ошибки",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2783,7 +2783,7 @@
         {
           "_t": "Text",
           "Content": "Механика № 1. «Найти замену» для товаров, которых нет в наличии",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2806,7 +2806,7 @@
         {
           "_t": "Text",
           "Content": "Механика № 2. Персональные рекомендации в личном кабинете",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2824,7 +2824,7 @@
         {
           "_t": "Text",
           "Content": "Механика № 3. «Новинки» на главной",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

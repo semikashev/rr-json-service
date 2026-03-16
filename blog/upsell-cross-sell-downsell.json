@@ -791,7 +791,7 @@
         {
           "_t": "Text",
           "Content": "☝ Начинайте с апсейла.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -809,7 +809,7 @@
         {
           "_t": "Text",
           "Content": "После согласия переходите к кросс-сейлу.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -823,7 +823,7 @@
         {
           "_t": "Text",
           "Content": "☝ Используйте автоматизацию и персонализацию.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -837,7 +837,7 @@
         {
           "_t": "Text",
           "Content": "☝ Тестируйте и улучшайте сценарии.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

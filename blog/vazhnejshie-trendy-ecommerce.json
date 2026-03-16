@@ -65,7 +65,7 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -92,7 +92,7 @@
         {
           "_t": "Text",
           "Content": "голосовой поиск",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -141,7 +141,7 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -251,7 +251,7 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

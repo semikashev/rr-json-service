@@ -42,7 +42,7 @@
         {
           "_t": "Text",
           "Content": "Пример.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -113,7 +113,7 @@
         {
           "_t": "Text",
           "Content": "Пример.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -193,7 +193,7 @@
         {
           "_t": "Text",
           "Content": "Продуктовые команды",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -207,7 +207,7 @@
         {
           "_t": "Text",
           "Content": "Маркетинг",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -221,7 +221,7 @@
         {
           "_t": "Text",
           "Content": "Менеджеры",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -304,7 +304,7 @@
         {
           "_t": "Text",
           "Content": "Пример.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -390,7 +390,12 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Пример. Приложение для тренировок ввело “доступ на 7 дней” ко всем премиум-уровням. После окончания 20% пользователей оформили подписку. Раньше таких было только 8%."
+          "Content": "Пример.",
+          "IsHighlight": true
+        },
+        {
+          "_t": "Text",
+          "Content": " Приложение для тренировок ввело “доступ на 7 дней” ко всем премиум-уровням. После окончания 20% пользователей оформили подписку. Раньше таких было только 8%."
         }
       ]
     }

@@ -220,7 +220,7 @@
         {
           "_t": "Text",
           "Content": "Опросы",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -234,7 +234,7 @@
         {
           "_t": "Text",
           "Content": "Обратная связь",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -248,7 +248,7 @@
         {
           "_t": "Text",
           "Content": "Кастдев",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -318,7 +318,7 @@
         {
           "_t": "Text",
           "Content": "Шаблон гипотезы:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -327,7 +327,7 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

@@ -33,7 +33,7 @@
         {
           "_t": "Text",
           "Content": "Как было раньше",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -47,7 +47,7 @@
         {
           "_t": "Text",
           "Content": "Что изменилось",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -112,7 +112,7 @@
         {
           "_t": "Text",
           "Content": "Как было раньше",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -126,7 +126,7 @@
         {
           "_t": "Text",
           "Content": "Что изменилось",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -179,7 +179,7 @@
         {
           "_t": "Text",
           "Content": "Регистрация рекламодателя",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -233,7 +233,7 @@
         {
           "_t": "Text",
           "Content": "Регистрация рекламодателя в ОРД",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -279,7 +279,7 @@
         {
           "_t": "Text",
           "Content": "Пополнение баланса рекламодателя",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -322,7 +322,7 @@
         {
           "_t": "Text",
           "Content": "Получение истории пополнений баланса",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -365,7 +365,7 @@
         {
           "_t": "Text",
           "Content": "Получение актов об оказании услуг по размещению рекламы",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -383,7 +383,7 @@
         {
           "_t": "Text",
           "Content": "Как было раньше",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -397,7 +397,7 @@
         {
           "_t": "Text",
           "Content": "Что изменилось",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -470,7 +470,7 @@
         {
           "_t": "Text",
           "Content": "Как было раньше",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -484,7 +484,7 @@
         {
           "_t": "Text",
           "Content": "Что изменилось",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

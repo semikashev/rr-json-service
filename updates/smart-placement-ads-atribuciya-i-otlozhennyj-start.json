@@ -54,7 +54,7 @@
         {
           "_t": "Text",
           "Content": "Что изменилось",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -110,7 +110,7 @@
         {
           "_t": "Text",
           "Content": "Как настроить опцию атрибуции",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -155,7 +155,7 @@
         {
           "_t": "Text",
           "Content": "Что изменилось",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -239,7 +239,7 @@
         {
           "_t": "Text",
           "Content": "Как запустить кампанию с отложенным стартом",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -312,7 +312,7 @@
         {
           "_t": "Text",
           "Content": "Тестирование отложенной кампании",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

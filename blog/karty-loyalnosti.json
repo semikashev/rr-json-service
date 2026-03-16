@@ -403,7 +403,7 @@
         {
           "_t": "Text",
           "Content": "карт может быть несколько уровней",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -461,7 +461,7 @@
         {
           "_t": "Text",
           "Content": "действительно значимые привилегии",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -498,7 +498,7 @@
         {
           "_t": "Text",
           "Content": "Существуют разные форматы",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -512,7 +512,7 @@
         {
           "_t": "Text",
           "Content": "Пластиковая карта",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -526,7 +526,7 @@
         {
           "_t": "Text",
           "Content": "Электронная карта",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -553,7 +553,7 @@
         {
           "_t": "Text",
           "Content": "электронной карты Wallet",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -562,7 +562,7 @@
         {
           "_t": "Text",
           "Content": "все они хранятся в одном месте",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -634,7 +634,7 @@
         {
           "_t": "Text",
           "Content": "Зарегистрировать карту электронно и получить ярлык",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -643,7 +643,7 @@
         {
           "_t": "Text",
           "Content": "с приложением на рабочий стол смартфона",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

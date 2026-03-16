@@ -133,7 +133,7 @@
         {
           "_t": "Text",
           "Content": "Прокси–метрика",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

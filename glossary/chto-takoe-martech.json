@@ -530,7 +530,7 @@
         {
           "_t": "Text",
           "Content": "Автоматизация рекламы (AdTech)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -666,7 +666,7 @@
         {
           "_t": "Text",
           "Content": "CRM (customer relationship management)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

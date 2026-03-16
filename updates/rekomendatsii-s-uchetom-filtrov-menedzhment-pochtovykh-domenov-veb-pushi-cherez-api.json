@@ -130,7 +130,7 @@
         {
           "_t": "Text",
           "Content": "Улучшение доставляемости",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -144,7 +144,7 @@
         {
           "_t": "Text",
           "Content": "Сегментация рассылок",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -158,7 +158,7 @@
         {
           "_t": "Text",
           "Content": "Управление репутацией",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -172,7 +172,7 @@
         {
           "_t": "Text",
           "Content": "Отдельные домены для стран или регионов",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -203,7 +203,7 @@
         {
           "_t": "Text",
           "Content": "«Email-маркетинг»",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -212,7 +212,7 @@
         {
           "_t": "Text",
           "Content": "«Общие настройки»",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -221,7 +221,7 @@
         {
           "_t": "Text",
           "Content": "«Домены и адреса отправителей»",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -245,7 +245,7 @@
         {
           "_t": "Text",
           "Content": "«Добавить домен»",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -284,7 +284,7 @@
         {
           "_t": "Text",
           "Content": "«Проверить»",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -293,7 +293,7 @@
         {
           "_t": "Text",
           "Content": "«Верифицирован»",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -302,7 +302,7 @@
         {
           "_t": "Text",
           "Content": "«DKIM, SPF»",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -326,7 +326,7 @@
         {
           "_t": "Text",
           "Content": "«Добавить email»",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -335,7 +335,7 @@
         {
           "_t": "Text",
           "Content": "«Домены и адреса отправителей»",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

@@ -52,7 +52,7 @@
         {
           "_t": "Text",
           "Content": "DMP, Data management platform",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -70,7 +70,7 @@
         {
           "_t": "Text",
           "Content": "DMP помогает рекламодателям:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -97,7 +97,7 @@
         {
           "_t": "Text",
           "Content": "DMP помогает площадкам:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -317,7 +317,7 @@
         {
           "_t": "Text",
           "Content": "Этап 1. Собирает данные.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -331,7 +331,7 @@
         {
           "_t": "Text",
           "Content": "Этап 2. Создает анонимные профили.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -380,7 +380,7 @@
         {
           "_t": "Text",
           "Content": "Этап 3. Сегментирует посетителей по группам.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -406,7 +406,7 @@
         {
           "_t": "Text",
           "Content": "Этап 4. Обменивается данными с рекламными сетями и другими партнерами.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

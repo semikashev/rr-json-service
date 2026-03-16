@@ -64,7 +64,7 @@
         {
           "_t": "Text",
           "Content": "❌",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -137,7 +137,7 @@
         {
           "_t": "Text",
           "Content": "«Перекупщики».",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -151,7 +151,7 @@
         {
           "_t": "Text",
           "Content": "«Любители акций».",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -165,7 +165,7 @@
         {
           "_t": "Text",
           "Content": "«Внутренние мошенники».",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -179,7 +179,7 @@
         {
           "_t": "Text",
           "Content": "«Неумышленные мошенники».",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -392,7 +392,7 @@
         {
           "_t": "Text",
           "Content": "Отслеживание сессий и транзакций.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -406,7 +406,7 @@
         {
           "_t": "Text",
           "Content": "Анализ поведения пользователей.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -420,7 +420,7 @@
         {
           "_t": "Text",
           "Content": "Машинное обучение.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -434,7 +434,7 @@
         {
           "_t": "Text",
           "Content": "Антифрод политика.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

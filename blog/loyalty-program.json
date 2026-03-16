@@ -87,7 +87,7 @@
         {
           "_t": "Text",
           "Content": "Бизнес приносит стабильный доход.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -101,7 +101,7 @@
         {
           "_t": "Text",
           "Content": "Высококонкурентный рынок.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -115,7 +115,7 @@
         {
           "_t": "Text",
           "Content": "Высокая стоимость привлечения нового клиента.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -129,7 +129,7 @@
         {
           "_t": "Text",
           "Content": "Клиентская база от 1 тыс. контактов и более.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -204,7 +204,7 @@
         {
           "_t": "Text",
           "Content": "Бесплатные программы",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -240,7 +240,7 @@
         {
           "_t": "Text",
           "Content": "Платные программы",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -871,7 +871,7 @@
         {
           "_t": "Text",
           "Content": "Подсчитываем выручку.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -885,7 +885,7 @@
         {
           "_t": "Text",
           "Content": "Проводим ревизию клиентской базы.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -899,7 +899,7 @@
         {
           "_t": "Text",
           "Content": "Определяем уровень лояльности клиентов.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

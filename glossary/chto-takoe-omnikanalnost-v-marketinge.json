@@ -112,7 +112,7 @@
         {
           "_t": "Text",
           "Content": "Повышать лояльность клиентов.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -126,7 +126,7 @@
         {
           "_t": "Text",
           "Content": "Увеличивать конверсию.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -158,7 +158,7 @@
         {
           "_t": "Text",
           "Content": "Оптимизировать работу маркетинговых кампаний и автоматизировать процессы.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -276,7 +276,7 @@
         {
           "_t": "Text",
           "Content": "Кросс-канальность",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -290,7 +290,7 @@
         {
           "_t": "Text",
           "Content": "Омниканальность",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -326,7 +326,7 @@
         {
           "_t": "Text",
           "Content": "1. Аудит и подготовка IT-инфраструктуры.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -340,7 +340,7 @@
         {
           "_t": "Text",
           "Content": "2. Разработка персональной дорожной карты для бизнеса.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -354,7 +354,7 @@
         {
           "_t": "Text",
           "Content": "3. Интеграция данных из разных каналов.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -402,7 +402,7 @@
         {
           "_t": "Text",
           "Content": "1. NPS (Net Promoter Score)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -470,7 +470,7 @@
         {
           "_t": "Text",
           "Content": "2. CLV (Customer Lifetime Value).",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -535,7 +535,7 @@
         {
           "_t": "Text",
           "Content": "3. Конверсия через каналы.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

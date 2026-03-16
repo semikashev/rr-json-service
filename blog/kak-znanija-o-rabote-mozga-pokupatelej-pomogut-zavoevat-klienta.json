@@ -147,7 +147,7 @@
         {
           "_t": "Text",
           "Content": "10%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -156,7 +156,7 @@
         {
           "_t": "Text",
           "Content": "80%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -165,7 +165,7 @@
         {
           "_t": "Text",
           "Content": "20%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -188,7 +188,7 @@
         {
           "_t": "Text",
           "Content": "65%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -197,7 +197,7 @@
         {
           "_t": "Text",
           "Content": "93%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -255,7 +255,7 @@
         {
           "_t": "Text",
           "Content": "75%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -264,7 +264,7 @@
         {
           "_t": "Text",
           "Content": "68%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -284,7 +284,7 @@
         {
           "_t": "Text",
           "Content": "52%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -293,7 +293,7 @@
         {
           "_t": "Text",
           "Content": "142,7%.",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -317,7 +317,7 @@
         {
           "_t": "Text",
           "Content": "20%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -424,7 +424,7 @@
         {
           "_t": "Text",
           "Content": "87%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -448,7 +448,7 @@
         {
           "_t": "Text",
           "Content": "53%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -457,7 +457,7 @@
         {
           "_t": "Text",
           "Content": "13,7%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -481,7 +481,7 @@
         {
           "_t": "Text",
           "Content": "93%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -490,7 +490,7 @@
         {
           "_t": "Text",
           "Content": "90%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -499,7 +499,7 @@
         {
           "_t": "Text",
           "Content": "53%",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

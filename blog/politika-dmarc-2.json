@@ -184,7 +184,7 @@
         {
           "_t": "Text",
           "Content": "DMARC",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -237,7 +237,7 @@
         {
           "_t": "Text",
           "Content": "три варианта реагирования",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -552,7 +552,7 @@
         {
           "_t": "Text",
           "Content": "DMARC не заменяет SPF и DKIM",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -570,7 +570,7 @@
         {
           "_t": "Text",
           "Content": "alignment",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -584,7 +584,7 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -876,7 +876,7 @@
         {
           "_t": "Text",
           "Content": "Правильная последовательность внедрения:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -913,7 +913,7 @@
         {
           "_t": "Text",
           "Content": "pct (процент)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -940,7 +940,7 @@
         {
           "_t": "Text",
           "Content": "параметр sp",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -975,7 +975,7 @@
         {
           "_t": "Text",
           "Content": "Проверьте SPF-запись в DNS:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -998,7 +998,7 @@
         {
           "_t": "Text",
           "Content": "Проверьте DKIM-подпись.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1021,7 +1021,7 @@
         {
           "_t": "Text",
           "Content": "Протестируйте отправку писем.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1254,7 +1254,7 @@
         {
           "_t": "Text",
           "Content": "dmarcian.com",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1263,7 +1263,7 @@
         {
           "_t": "Text",
           "Content": "mxtoolbox.com",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1272,7 +1272,7 @@
         {
           "_t": "Text",
           "Content": "Google Admin Toolbox",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1367,7 +1367,7 @@
         {
           "_t": "Text",
           "Content": "политике quarantine",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1390,7 +1390,7 @@
         {
           "_t": "Text",
           "Content": "политике reject",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1417,7 +1417,7 @@
         {
           "_t": "Text",
           "Content": "Базовый мониторинг.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1518,7 +1518,7 @@
         {
           "_t": "Text",
           "Content": "Частичная защита.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1546,7 +1546,7 @@
         {
           "_t": "Text",
           "Content": "Строгая защита.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1574,7 +1574,7 @@
         {
           "_t": "Text",
           "Content": "Максимальные настройки защиты.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1637,7 +1637,7 @@
         {
           "_t": "Text",
           "Content": "Защищенный режим для поддоменов.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1688,7 +1688,7 @@
         {
           "_t": "Text",
           "Content": "Конфигурация для корпоративного сегмента.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1789,7 +1789,7 @@
         {
           "_t": "Text",
           "Content": "Настройка для сервиса рассылок.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1881,7 +1881,7 @@
         {
           "_t": "Text",
           "Content": "1. Версия протокола (v)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1890,7 +1890,7 @@
         {
           "_t": "Text",
           "Content": "2. Основная политика (p)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1931,7 +1931,7 @@
         {
           "_t": "Text",
           "Content": "Дополнительные параметры для расширенной настройки:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -2115,7 +2115,7 @@
         {
           "_t": "Text",
           "Content": "Мягкий режим (r).",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2129,7 +2129,7 @@
         {
           "_t": "Text",
           "Content": "Строгий режим (s).",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2221,7 +2221,7 @@
         {
           "_t": "Text",
           "Content": "Пример полной записи со всеми тегами:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -2308,7 +2308,7 @@
         {
           "_t": "Text",
           "Content": "Форензик-отчеты (RUF)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

@@ -82,7 +82,7 @@
         {
           "_t": "Text",
           "Content": "За 3 месяца кампании удалось достичь следующих показателей:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -208,7 +208,7 @@
         {
           "_t": "Text",
           "Content": "post-view",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -310,7 +310,7 @@
         {
           "_t": "Text",
           "Content": "Товарные полки на Лемана ПРО",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -384,7 +384,7 @@
         {
           "_t": "Text",
           "Content": "Таргетинг кампании",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -427,7 +427,7 @@
         {
           "_t": "Text",
           "Content": "Результаты первого флайта",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -532,7 +532,7 @@
         {
           "_t": "Text",
           "Content": "Результаты второго флайта",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -638,7 +638,7 @@
         {
           "_t": "Text",
           "Content": "Суммарные результаты за два флайта",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },

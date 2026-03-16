@@ -224,7 +224,7 @@
         {
           "_t": "Text",
           "Content": "Использовать персональные рекомендации на сайте",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -238,7 +238,7 @@
         {
           "_t": "Text",
           "Content": "Включать в стратегию работы с в e-mail каналом",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -324,7 +324,7 @@
         {
           "_t": "Text",
           "Content": "Использовать в других каналах каналах коммуникации",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

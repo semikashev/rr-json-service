@@ -29,7 +29,7 @@
         {
           "_t": "Text",
           "Content": "Вторая часть,",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -162,7 +162,7 @@
         {
           "_t": "Text",
           "Content": "Дата среза",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

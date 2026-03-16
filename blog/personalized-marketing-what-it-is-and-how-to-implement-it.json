@@ -430,7 +430,7 @@
         {
           "_t": "Text",
           "Content": "Каналы персонализированного маркетинга",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },

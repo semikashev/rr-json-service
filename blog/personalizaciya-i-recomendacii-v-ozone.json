@@ -134,7 +134,7 @@
         {
           "_t": "Text",
           "Content": "Машинное обучение.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

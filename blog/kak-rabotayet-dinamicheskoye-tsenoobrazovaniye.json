@@ -443,7 +443,7 @@
         {
           "_t": "Text",
           "Content": "Спрос.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -457,7 +457,7 @@
         {
           "_t": "Text",
           "Content": "Время покупки.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -471,7 +471,7 @@
         {
           "_t": "Text",
           "Content": "Время обслуживания.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -494,7 +494,7 @@
         {
           "_t": "Text",
           "Content": "Ценообразование по конкурентам.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -508,7 +508,7 @@
         {
           "_t": "Text",
           "Content": "Ценообразование по регионам.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -531,7 +531,7 @@
         {
           "_t": "Text",
           "Content": "Ценообразование по оборачиваемости товаров.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -545,7 +545,7 @@
         {
           "_t": "Text",
           "Content": "Ценообразование по товарным остаткам.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -581,7 +581,7 @@
         {
           "_t": "Text",
           "Content": "Сервис доставки «Яндекс Еда».",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -595,7 +595,7 @@
         {
           "_t": "Text",
           "Content": "Футбольный клуб «Зенит».",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -609,7 +609,7 @@
         {
           "_t": "Text",
           "Content": "Российские железные дороги.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -623,7 +623,7 @@
         {
           "_t": "Text",
           "Content": "Парк развлечений «Остров мечты».",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

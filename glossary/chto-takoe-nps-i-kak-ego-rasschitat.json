@@ -452,7 +452,7 @@
         {
           "_t": "Text",
           "Content": "Критики",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -470,7 +470,7 @@
         {
           "_t": "Text",
           "Content": "Нейтралы",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -488,7 +488,7 @@
         {
           "_t": "Text",
           "Content": "Сторонники",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -519,7 +519,7 @@
         {
           "_t": "Text",
           "Content": "10",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -575,7 +575,7 @@
         {
           "_t": "Text",
           "Content": "Примерная шкала NPS:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -584,7 +584,7 @@
         {
           "_t": "Text",
           "Content": "От –100 до 0:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -593,7 +593,7 @@
         {
           "_t": "Text",
           "Content": "От 0 до 30:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -602,7 +602,7 @@
         {
           "_t": "Text",
           "Content": "От 30 до 70:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -611,7 +611,7 @@
         {
           "_t": "Text",
           "Content": "От 70 до 100:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -620,7 +620,7 @@
         {
           "_t": "Text",
           "Content": "Важно:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

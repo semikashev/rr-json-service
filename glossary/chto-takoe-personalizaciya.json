@@ -33,7 +33,7 @@
         {
           "_t": "Text",
           "Content": "Персонализация",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -47,7 +47,7 @@
         {
           "_t": "Text",
           "Content": "Персонализация под интересы.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -67,7 +67,7 @@
         {
           "_t": "Text",
           "Content": "Персонализация под профиль.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -87,7 +87,7 @@
         {
           "_t": "Text",
           "Content": "Персонализация под предпочтения.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -495,7 +495,7 @@
         {
           "_t": "Text",
           "Content": "Товарные рекомендации.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -515,7 +515,7 @@
         {
           "_t": "Text",
           "Content": "Персональные акции.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -535,7 +535,7 @@
         {
           "_t": "Text",
           "Content": "Персональный контент.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -555,7 +555,7 @@
         {
           "_t": "Text",
           "Content": "Адаптация интерфейса.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -586,7 +586,7 @@
         {
           "_t": "Text",
           "Content": "Персонализация поисковой выдачи.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -629,7 +629,7 @@
         {
           "_t": "Text",
           "Content": "Программы лояльности.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -666,7 +666,7 @@
         {
           "_t": "Text",
           "Content": "Персонализированная реклама.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

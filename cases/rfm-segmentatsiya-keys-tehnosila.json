@@ -128,7 +128,7 @@
         {
           "_t": "Text",
           "Content": "Новички",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -142,7 +142,7 @@
         {
           "_t": "Text",
           "Content": "Дрейфующие",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -156,7 +156,7 @@
         {
           "_t": "Text",
           "Content": "Спящие",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -170,7 +170,7 @@
         {
           "_t": "Text",
           "Content": "Перспективные",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -184,7 +184,7 @@
         {
           "_t": "Text",
           "Content": "Лояльные",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -198,7 +198,7 @@
         {
           "_t": "Text",
           "Content": "В зоне риска",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -212,7 +212,7 @@
         {
           "_t": "Text",
           "Content": "В зоне потери",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -275,7 +275,7 @@
         {
           "_t": "Text",
           "Content": "Что включить в содержание письма",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -347,7 +347,7 @@
         {
           "_t": "Text",
           "Content": "Что включить в содержание письма",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -425,7 +425,7 @@
         {
           "_t": "Text",
           "Content": "Что включить в содержание письма",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -497,7 +497,7 @@
         {
           "_t": "Text",
           "Content": "Что включить в содержание письма",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -575,7 +575,7 @@
         {
           "_t": "Text",
           "Content": "Что включить в содержание письма",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -635,7 +635,7 @@
         {
           "_t": "Text",
           "Content": "Что включить в содержание письма",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -713,7 +713,7 @@
         {
           "_t": "Text",
           "Content": "Что включить в содержание письма",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -797,7 +797,7 @@
         {
           "_t": "Text",
           "Content": "Что включить в содержание письма",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

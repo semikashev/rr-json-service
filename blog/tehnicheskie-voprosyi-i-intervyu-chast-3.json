@@ -33,7 +33,7 @@
         {
           "_t": "Text",
           "Content": "Первый этап: Введение и снятие напряжения",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -51,7 +51,7 @@
         {
           "_t": "Text",
           "Content": "Второй этап: Технические вопросы",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -91,7 +91,7 @@
         {
           "_t": "Text",
           "Content": "Примеры технических заданий",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -114,7 +114,7 @@
         {
           "_t": "Text",
           "Content": "Переход от общих вопросов к более специфическим",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -154,7 +154,7 @@
         {
           "_t": "Text",
           "Content": "Дизайн и проектирование",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

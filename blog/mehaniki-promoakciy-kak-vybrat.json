@@ -52,7 +52,7 @@
         {
           "_t": "Text",
           "Content": "Механика промоакции",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -263,7 +263,7 @@
         {
           "_t": "Text",
           "Content": "Скидки.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -325,7 +325,7 @@
         {
           "_t": "Text",
           "Content": "Кэшбэк",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -343,7 +343,7 @@
         {
           "_t": "Text",
           "Content": "бонусы",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -352,7 +352,7 @@
         {
           "_t": "Text",
           "Content": "Конкурсы",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -432,7 +432,7 @@
         {
           "_t": "Text",
           "Content": "Розыгрыши.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -470,7 +470,7 @@
         {
           "_t": "Text",
           "Content": "Реферальные программы",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -526,7 +526,7 @@
         {
           "_t": "Text",
           "Content": "Образцы продукции, дегустации.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -574,7 +574,7 @@
         {
           "_t": "Text",
           "Content": "тестового периода",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -597,7 +597,7 @@
         {
           "_t": "Text",
           "Content": "NPS-механики",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -656,7 +656,7 @@
         {
           "_t": "Text",
           "Content": "Партнёрские механики.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -914,7 +914,7 @@
         {
           "_t": "Text",
           "Content": "автоматизация",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1042,7 +1042,7 @@
         {
           "_t": "Text",
           "Content": "Онлайн-инструменты",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1065,7 +1065,7 @@
         {
           "_t": "Text",
           "Content": "Оффлайн-продвижение",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1079,7 +1079,7 @@
         {
           "_t": "Text",
           "Content": "Инфлюенсеры и партнёры",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -1173,7 +1173,7 @@
         {
           "_t": "Text",
           "Content": "неочевидные выгоды от промоакции.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

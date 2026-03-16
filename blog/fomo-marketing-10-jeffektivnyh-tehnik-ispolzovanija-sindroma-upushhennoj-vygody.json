@@ -43,7 +43,7 @@
         {
           "_t": "Text",
           "Content": "FOMO",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

@@ -293,7 +293,7 @@
         {
           "_t": "Text",
           "Content": "✅ Скорость получения данных.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -307,7 +307,7 @@
         {
           "_t": "Text",
           "Content": "✅ Гибкость фильтрации.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -321,7 +321,7 @@
         {
           "_t": "Text",
           "Content": "✅ Привязка к KPI в реальном времени.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -339,7 +339,7 @@
         {
           "_t": "Text",
           "Content": "❌ Зависимость от навыков.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -353,7 +353,7 @@
         {
           "_t": "Text",
           "Content": "❌ Нагрузка на систему.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -367,7 +367,7 @@
         {
           "_t": "Text",
           "Content": "❌ Локальная точность, но не всегда полная картина.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

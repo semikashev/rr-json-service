@@ -39,7 +39,7 @@
         {
           "_t": "Text",
           "Content": "Практика рынка:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -48,7 +48,7 @@
         {
           "_t": "Text",
           "Content": "Информация к выпуску:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -57,7 +57,7 @@
         {
           "_t": "Text",
           "Content": "Подписаться на свежие выпуски:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -66,7 +66,7 @@
         {
           "_t": "Text",
           "Content": "Послушать и подписаться на PodFM.ru",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -75,7 +75,7 @@
         {
           "_t": "Text",
           "Content": "Текстовая версия выпуска:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -84,7 +84,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -93,7 +93,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -107,7 +107,7 @@
         {
           "_t": "Text",
           "Content": "Справка о компании:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -121,7 +121,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -135,7 +135,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -149,7 +149,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -163,7 +163,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -177,7 +177,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -191,7 +191,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -205,7 +205,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -219,7 +219,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -233,7 +233,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -247,7 +247,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -261,7 +261,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -270,7 +270,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -284,7 +284,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -307,7 +307,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -321,7 +321,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -335,7 +335,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -349,7 +349,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -363,7 +363,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -377,7 +377,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -391,7 +391,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -405,7 +405,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -419,7 +419,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -433,7 +433,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -447,7 +447,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -461,7 +461,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -475,7 +475,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -489,7 +489,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -503,7 +503,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -517,7 +517,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -531,7 +531,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -545,7 +545,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -559,7 +559,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -573,7 +573,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -587,7 +587,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -601,7 +601,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -615,7 +615,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -624,7 +624,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -638,7 +638,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -652,7 +652,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -666,7 +666,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -680,7 +680,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -694,7 +694,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -708,7 +708,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -722,7 +722,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -731,7 +731,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -745,7 +745,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -759,7 +759,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -773,7 +773,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -787,7 +787,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -801,7 +801,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -815,7 +815,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -829,7 +829,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -843,7 +843,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -857,7 +857,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -871,7 +871,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -885,7 +885,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -899,7 +899,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -913,7 +913,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -922,7 +922,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -936,7 +936,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -950,7 +950,7 @@
         {
           "_t": "Text",
           "Content": "Н. Хлебинский:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -964,7 +964,7 @@
         {
           "_t": "Text",
           "Content": "Г. Сибирцев:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -977,7 +977,12 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Н. Хлебинский:Скачать и послушать другие выпуски передачи можно в блоге команды Retail Rocket, на сайте PodFM.ru или в iTunes. Подписывайтесь, оценивайте и пишите вопросы в комментариях."
+          "Content": "Н. Хлебинский:",
+          "IsHighlight": true
+        },
+        {
+          "_t": "Text",
+          "Content": "Скачать и послушать другие выпуски передачи можно в блоге команды Retail Rocket, на сайте PodFM.ru или в iTunes. Подписывайтесь, оценивайте и пишите вопросы в комментариях."
         }
       ]
     }

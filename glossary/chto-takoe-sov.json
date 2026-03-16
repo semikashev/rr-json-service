@@ -225,7 +225,7 @@
         {
           "_t": "Text",
           "Content": "Ранний индикатор роста доли рынка",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -243,7 +243,7 @@
         {
           "_t": "Text",
           "Content": "Понимание конкурентной позиции",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -261,7 +261,7 @@
         {
           "_t": "Text",
           "Content": "Прямая связь с медиаэффективностью",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -283,7 +283,7 @@
         {
           "_t": "Text",
           "Content": "Не отражает качество контакта",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -301,7 +301,7 @@
         {
           "_t": "Text",
           "Content": "Зависимость от выбранных каналов",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -319,7 +319,7 @@
         {
           "_t": "Text",
           "Content": "Разные методики дают разные результаты",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

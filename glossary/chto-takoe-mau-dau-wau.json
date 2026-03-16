@@ -42,7 +42,7 @@
         {
           "_t": "Text",
           "Content": "DAU (Daily Active Users)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -56,7 +56,7 @@
         {
           "_t": "Text",
           "Content": "WAU (Weekly Active Users)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -70,7 +70,7 @@
         {
           "_t": "Text",
           "Content": "MAU (Monthly Active Users)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -103,7 +103,7 @@
         {
           "_t": "Text",
           "Content": "Оценить вовлечённость клиентов.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -117,7 +117,7 @@
         {
           "_t": "Text",
           "Content": "Отслеживать работу сайта или приложения.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -131,7 +131,7 @@
         {
           "_t": "Text",
           "Content": "Проверить эффект от новшеств и изменений.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -145,7 +145,7 @@
         {
           "_t": "Text",
           "Content": "Настраивать рекламу.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -159,7 +159,7 @@
         {
           "_t": "Text",
           "Content": "Прогнозировать доход.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -173,7 +173,7 @@
         {
           "_t": "Text",
           "Content": "Видеть тренды.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -187,7 +187,7 @@
         {
           "_t": "Text",
           "Content": "Следить за состоянием клиентской базы.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -201,7 +201,7 @@
         {
           "_t": "Text",
           "Content": "Сравнить себя с конкурентами.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -287,7 +287,7 @@
         {
           "_t": "Text",
           "Content": "Социальные сети.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -301,7 +301,7 @@
         {
           "_t": "Text",
           "Content": "Электронная коммерция.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -315,7 +315,7 @@
         {
           "_t": "Text",
           "Content": "Игровые приложения.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -329,7 +329,7 @@
         {
           "_t": "Text",
           "Content": "SaaS-приложения.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -530,7 +530,7 @@
         {
           "_t": "Text",
           "Content": "DAU, WAU и MAU рассматриваются как единственные показатели успешности бизнеса.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -544,7 +544,7 @@
         {
           "_t": "Text",
           "Content": "❌ Не учитываются внешние факторы, которые могут искажать цифры.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -696,7 +696,7 @@
         {
           "_t": "Text",
           "Content": "Используйте performance-маркетинг.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -710,7 +710,7 @@
         {
           "_t": "Text",
           "Content": "Проводите рекламные кампании.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -724,7 +724,7 @@
         {
           "_t": "Text",
           "Content": "Запускайте промо-акции.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -738,7 +738,7 @@
         {
           "_t": "Text",
           "Content": "Не пренебрегайте контент-маркетингом.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -752,7 +752,7 @@
         {
           "_t": "Text",
           "Content": "Запустите реферальную программу.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -766,7 +766,7 @@
         {
           "_t": "Text",
           "Content": "Создавайте клиентоцентричный продукт.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -780,7 +780,7 @@
         {
           "_t": "Text",
           "Content": "Используйте персонализацию.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -807,7 +807,16 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "👉 Как работает AI Personalization Engine ‍Оказывайте клиентам качественную поддержку.Служба поддержки, которая медленно отвечает на вопросы или неделями решает проблемы, вызывает раздражение пользователей. Хорошая служба поддержки оперативно оказывает помощь и одновременно собирает данные о том, что чаще всего вызывает сложности у покупателей. Эта ценная информация помогает бизнесу меняться к лучшему."
+          "Content": "👉 Как работает AI Personalization Engine ‍"
+        },
+        {
+          "_t": "Text",
+          "Content": "Оказывайте клиентам качественную поддержку.",
+          "IsHighlight": true
+        },
+        {
+          "_t": "Text",
+          "Content": "Служба поддержки, которая медленно отвечает на вопросы или неделями решает проблемы, вызывает раздражение пользователей. Хорошая служба поддержки оперативно оказывает помощь и одновременно собирает данные о том, что чаще всего вызывает сложности у покупателей. Эта ценная информация помогает бизнесу меняться к лучшему."
         }
       ]
     }

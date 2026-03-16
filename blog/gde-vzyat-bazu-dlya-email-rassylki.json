@@ -132,7 +132,7 @@
         {
           "_t": "Text",
           "Content": "Подписка на сайте",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -152,7 +152,7 @@
         {
           "_t": "Text",
           "Content": "Подписка при регистрации в личном кабинете.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -172,7 +172,7 @@
         {
           "_t": "Text",
           "Content": "Подписка при регистрации на курс.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -192,7 +192,7 @@
         {
           "_t": "Text",
           "Content": "Использование социальных сетей.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -212,7 +212,7 @@
         {
           "_t": "Text",
           "Content": "Конкурсы и акции.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -232,7 +232,7 @@
         {
           "_t": "Text",
           "Content": "Вебинары и онлайн-мероприятия.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -252,7 +252,7 @@
         {
           "_t": "Text",
           "Content": "Партнёрские программы.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -270,7 +270,7 @@
         {
           "_t": "Text",
           "Content": "Распространение листовок и визиток.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -284,7 +284,7 @@
         {
           "_t": "Text",
           "Content": "Сотрудничество с офлайн-магазинами.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -298,7 +298,7 @@
         {
           "_t": "Text",
           "Content": "Проведение мероприятий.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -312,7 +312,7 @@
         {
           "_t": "Text",
           "Content": "Доставка товаров.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

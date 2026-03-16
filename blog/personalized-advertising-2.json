@@ -461,7 +461,7 @@
         {
           "_t": "Text",
           "Content": "Продвижение запускается вручную.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -475,7 +475,7 @@
         {
           "_t": "Text",
           "Content": "AdTech-платформа Smart Placement Ads от Retail Rocket Group",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -489,7 +489,7 @@
         {
           "_t": "Text",
           "Content": "Нет таргетинга.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -503,7 +503,7 @@
         {
           "_t": "Text",
           "Content": "AdTech-платформа Smart Placement Ads от Retail Rocket Group",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -517,7 +517,7 @@
         {
           "_t": "Text",
           "Content": "Нет прозрачной аналитики.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -531,7 +531,7 @@
         {
           "_t": "Text",
           "Content": "AdTech-платформа Smart Placement Ads от Retail Rocket Group",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -545,7 +545,7 @@
         {
           "_t": "Text",
           "Content": "Финансово немасштабируемая модель.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -559,7 +559,7 @@
         {
           "_t": "Text",
           "Content": "AdTech-платформа Smart Placement Ads от Retail Rocket Group",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -573,7 +573,7 @@
         {
           "_t": "Text",
           "Content": "Дополнительная нагрузка по работе с операторами рекламных данных (ОРД).",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -587,7 +587,7 @@
         {
           "_t": "Text",
           "Content": "AdTech-платформа Smart Placement Ads от Retail Rocket Group",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -601,7 +601,7 @@
         {
           "_t": "Text",
           "Content": "Продвижение доступно только крупным организациям.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -615,7 +615,7 @@
         {
           "_t": "Text",
           "Content": "AdTech-платформа Smart Placement Ads от Retail Rocket Group",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

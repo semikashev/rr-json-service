@@ -708,7 +708,7 @@
         {
           "_t": "Text",
           "Content": "1. Разделить трафик 50 / 50",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -717,7 +717,7 @@
         {
           "_t": "Text",
           "Content": "Сложно:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -726,7 +726,7 @@
         {
           "_t": "Text",
           "Content": "Просто:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -735,7 +735,7 @@
         {
           "_t": "Text",
           "Content": "Цель на первом шаге:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -762,7 +762,7 @@
         {
           "_t": "Text",
           "Content": "2. Провести А/А-тест",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -776,7 +776,7 @@
         {
           "_t": "Text",
           "Content": "Цель на втором шаге:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -785,7 +785,7 @@
         {
           "_t": "Text",
           "Content": "3. Провести пост-тест анализ",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -818,7 +818,7 @@
         {
           "_t": "Text",
           "Content": "Цель на последнем шаге:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

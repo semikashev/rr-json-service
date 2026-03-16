@@ -114,7 +114,7 @@
         {
           "_t": "Text",
           "Content": "1.Улучшает пользовательский опыт (UX).",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -160,7 +160,7 @@
         {
           "_t": "Text",
           "Content": "2. Повышает поведенческие факторы.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -197,7 +197,7 @@
         {
           "_t": "Text",
           "Content": "3. Улучшает SEO.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -234,7 +234,7 @@
         {
           "_t": "Text",
           "Content": "4. Увеличивает конверсии.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

@@ -35,7 +35,7 @@
         {
           "_t": "Text",
           "Content": "Какие сложности с ней возникали",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -196,7 +196,7 @@
         {
           "_t": "Text",
           "Content": "Зарегистрируйтесь и попробуйте!",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -225,7 +225,7 @@
         {
           "_t": "Text",
           "Content": "Над обновлениями работали",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

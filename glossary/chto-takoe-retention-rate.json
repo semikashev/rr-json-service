@@ -33,7 +33,7 @@
         {
           "_t": "Text",
           "Content": "Retention Rate",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -56,7 +56,7 @@
         {
           "_t": "Text",
           "Content": "Причина 1.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -83,7 +83,7 @@
         {
           "_t": "Text",
           "Content": "Причина 2.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -126,7 +126,7 @@
         {
           "_t": "Text",
           "Content": "Когортный Retention Rate",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -237,7 +237,7 @@
         {
           "_t": "Text",
           "Content": "Day X Retention",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -280,7 +280,7 @@
         {
           "_t": "Text",
           "Content": "Weekly Retention",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -294,7 +294,7 @@
         {
           "_t": "Text",
           "Content": "Monthly Retention",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -515,7 +515,7 @@
         {
           "_t": "Text",
           "Content": "1. Плохой сервис.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -529,7 +529,7 @@
         {
           "_t": "Text",
           "Content": "2. Плохой онбординг.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -543,7 +543,7 @@
         {
           "_t": "Text",
           "Content": "3. Продукт не обновляется.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -557,7 +557,7 @@
         {
           "_t": "Text",
           "Content": "4. Бизнес повышает цены или тарифы.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -571,7 +571,7 @@
         {
           "_t": "Text",
           "Content": "5. Скрытые платежи.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -585,7 +585,7 @@
         {
           "_t": "Text",
           "Content": "6. Компания не вовлекает клиентов в использование продукта.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -599,7 +599,7 @@
         {
           "_t": "Text",
           "Content": "7. Низкая скорость и баги",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -629,7 +629,7 @@
         {
           "_t": "Text",
           "Content": "Способ 1.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -638,7 +638,7 @@
         {
           "_t": "Text",
           "Content": "Улучшить онбординг пользователя.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -652,7 +652,7 @@
         {
           "_t": "Text",
           "Content": "Способ 2. Напоминать о себе.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -691,7 +691,7 @@
         {
           "_t": "Text",
           "Content": "Способ 3. Внедрить игровые элементы —",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Link",
@@ -706,7 +706,7 @@
         {
           "_t": "Text",
           "Content": ".",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -735,7 +735,7 @@
         {
           "_t": "Text",
           "Content": "Способ 4. Персонализировать продукт.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -778,7 +778,7 @@
         {
           "_t": "Text",
           "Content": "Способ 5. Внедрить поддержку, которая решает проблемы клиентов.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -815,7 +815,7 @@
         {
           "_t": "Text",
           "Content": "Способ 6. Создать вокруг продукта комьюнити.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -829,7 +829,7 @@
         {
           "_t": "Text",
           "Content": "Способ 7. Регулярно обновлять продукт.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

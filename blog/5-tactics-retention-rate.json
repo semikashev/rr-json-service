@@ -29,7 +29,7 @@
         {
           "_t": "Text",
           "Content": "Retention rate (коэффициент удержания)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

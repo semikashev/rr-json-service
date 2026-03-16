@@ -461,7 +461,7 @@
         {
           "_t": "Text",
           "Content": "Транзакционные, или сервисные рассылки",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -511,7 +511,7 @@
         {
           "_t": "Text",
           "Content": "не предполагают обратного отклика",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -535,7 +535,7 @@
         {
           "_t": "Text",
           "Content": "реактивационные письма.",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -645,7 +645,7 @@
         {
           "_t": "Text",
           "Content": "Триггерные рассылки",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

@@ -174,7 +174,7 @@
         {
           "_t": "Text",
           "Content": "Как персонализировать страницу «Категории»",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -230,7 +230,7 @@
         {
           "_t": "Text",
           "Content": "Как персонализировать товарные карточки:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -272,7 +272,7 @@
         {
           "_t": "Text",
           "Content": "Как оптимизировать корзину:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -329,7 +329,7 @@
         {
           "_t": "Text",
           "Content": "Поиск товара.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -343,7 +343,7 @@
         {
           "_t": "Text",
           "Content": "Просмотр товара.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -357,7 +357,7 @@
         {
           "_t": "Text",
           "Content": "Повторные покупки.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -499,7 +499,7 @@
         {
           "_t": "Text",
           "Content": "Начните с персонализации витрины на главной странице.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -513,7 +513,7 @@
         {
           "_t": "Text",
           "Content": "Настройте индивидуальную выдачу на странице «Категории».",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -527,7 +527,7 @@
         {
           "_t": "Text",
           "Content": "Интегрируйте автоматический подбор образа на карточке товара.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -541,7 +541,7 @@
         {
           "_t": "Text",
           "Content": "Добавьте систему рекомендаций в корзину.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -555,7 +555,7 @@
         {
           "_t": "Text",
           "Content": "Продолжите коммуницировать с пользователем после покупки.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

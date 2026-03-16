@@ -132,7 +132,7 @@
         {
           "_t": "Text",
           "Content": "SEO-оптимизация.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -146,7 +146,7 @@
         {
           "_t": "Text",
           "Content": "Качественный контент-маркетинг.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -166,7 +166,7 @@
         {
           "_t": "Text",
           "Content": "Retail media-продвижение с помощью баннеров и товарных рекомендаций.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -195,7 +195,7 @@
         {
           "_t": "Text",
           "Content": "Поиск по товарам Яндекса.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -224,7 +224,7 @@
         {
           "_t": "Text",
           "Content": "Директ-маркетинг.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -238,7 +238,7 @@
         {
           "_t": "Text",
           "Content": "Инфлюенсер-маркетинг.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

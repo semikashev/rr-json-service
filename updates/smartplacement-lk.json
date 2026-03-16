@@ -76,7 +76,7 @@
         {
           "_t": "Text",
           "Content": "Узнать подробнее о Smart Placement",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },

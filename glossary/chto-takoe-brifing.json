@@ -164,7 +164,7 @@
         {
           "_t": "Text",
           "Content": "1. Описание задачи:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -197,7 +197,7 @@
         {
           "_t": "Text",
           "Content": "2. Цель проекта:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -224,7 +224,7 @@
         {
           "_t": "Text",
           "Content": "3. Целевая аудитория:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -269,7 +269,7 @@
         {
           "_t": "Text",
           "Content": "4. Контекст:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -314,7 +314,7 @@
         {
           "_t": "Text",
           "Content": "5. Ресурсы:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -365,7 +365,7 @@
         {
           "_t": "Text",
           "Content": "6. Сроки:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -404,7 +404,7 @@
         {
           "_t": "Text",
           "Content": "7. Критерии успеха:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -443,7 +443,7 @@
         {
           "_t": "Text",
           "Content": "8. Ограничения:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },
@@ -486,7 +486,7 @@
         {
           "_t": "Text",
           "Content": "Брифинг",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -495,7 +495,7 @@
         {
           "_t": "Text",
           "Content": "Бриф",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

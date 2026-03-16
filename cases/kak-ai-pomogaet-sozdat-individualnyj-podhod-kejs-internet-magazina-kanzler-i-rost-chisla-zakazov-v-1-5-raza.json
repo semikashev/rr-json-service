@@ -33,7 +33,7 @@
         {
           "_t": "Text",
           "Content": "Дано:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -51,7 +51,7 @@
         {
           "_t": "Text",
           "Content": "Решение:",
-          "IsBold": true
+          "IsHighlight": true
         }
       ]
     },

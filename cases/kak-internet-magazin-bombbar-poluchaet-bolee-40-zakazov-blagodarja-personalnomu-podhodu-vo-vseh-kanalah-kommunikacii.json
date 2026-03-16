@@ -62,7 +62,7 @@
         {
           "_t": "Text",
           "Content": "Главная",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -71,7 +71,7 @@
         {
           "_t": "Text",
           "Content": "задача",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -80,7 +80,7 @@
         {
           "_t": "Text",
           "Content": "Решение:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -743,7 +743,7 @@
         {
           "_t": "Text",
           "Content": "Гипотеза",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -763,7 +763,7 @@
         {
           "_t": "Text",
           "Content": "Результаты:",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

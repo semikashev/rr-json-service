@@ -24,7 +24,7 @@
         {
           "_t": "Text",
           "Content": "FMCG (Fast-Moving Consumer Goods — товары повседневного спроса)",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

@@ -60,7 +60,7 @@
         {
           "_t": "Text",
           "Content": "Цели продвижения",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -109,7 +109,7 @@
         {
           "_t": "Text",
           "Content": "Функции продвижения",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -265,7 +265,7 @@
         {
           "_t": "Text",
           "Content": "Реклама в СМИ",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -309,7 +309,7 @@
         {
           "_t": "Text",
           "Content": "Внешняя реклама",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -353,7 +353,7 @@
         {
           "_t": "Text",
           "Content": "Событийный маркетинг",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -405,7 +405,7 @@
         {
           "_t": "Text",
           "Content": "SMM",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -449,7 +449,7 @@
         {
           "_t": "Text",
           "Content": "SEO",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -493,7 +493,7 @@
         {
           "_t": "Text",
           "Content": "Контент-маркетинг",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -533,7 +533,7 @@
         {
           "_t": "Text",
           "Content": "Контекстная реклама",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -573,7 +573,7 @@
         {
           "_t": "Text",
           "Content": "Email-маркетинг",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -617,7 +617,7 @@
         {
           "_t": "Text",
           "Content": "Мобильный маркетинг",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

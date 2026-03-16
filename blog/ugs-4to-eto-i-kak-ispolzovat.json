@@ -208,7 +208,7 @@
         {
           "_t": "Text",
           "Content": "Блог-туры.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -222,7 +222,7 @@
         {
           "_t": "Text",
           "Content": "Предоставление товаров на обзор.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -236,7 +236,7 @@
         {
           "_t": "Text",
           "Content": "Тест-драйв.",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",

@@ -195,7 +195,7 @@
         {
           "_t": "Text",
           "Content": "Иллюстрации",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -215,7 +215,7 @@
         {
           "_t": "Text",
           "Content": "Тексты",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -238,7 +238,7 @@
         {
           "_t": "Text",
           "Content": "Аудио",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -252,7 +252,7 @@
         {
           "_t": "Text",
           "Content": "Видео",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -422,7 +422,7 @@
         {
           "_t": "Text",
           "Content": "Маркетплейсы",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -445,7 +445,7 @@
         {
           "_t": "Text",
           "Content": "Интернет-магазины",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -459,7 +459,7 @@
         {
           "_t": "Text",
           "Content": "Пищевая промышленность",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -479,7 +479,7 @@
         {
           "_t": "Text",
           "Content": "Фуд-ритейл",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -493,7 +493,7 @@
         {
           "_t": "Text",
           "Content": "Производство одежды",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -513,7 +513,7 @@
         {
           "_t": "Text",
           "Content": "Нейросети обрабатывают фото и генерят описания товаров для сайта и мобильного приложения",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -533,7 +533,7 @@
         {
           "_t": "Text",
           "Content": "Описание товаров",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -553,7 +553,7 @@
         {
           "_t": "Text",
           "Content": "Сервисы доставки",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -573,7 +573,7 @@
         {
           "_t": "Text",
           "Content": "Страхование",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
