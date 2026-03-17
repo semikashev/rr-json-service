@@ -186,6 +186,6 @@ python3 clean_articles.py cases/pizza-case.json --apply  # очистить од
 - **Event-файлы** — slug содержит URL-encoded кириллицу (`%d0%bd%d0%b0%d0%b7...`)
 - **4 статьи с пустым LeadText** — `tolko-po-soglasiju-...` (blog), `chto-takoe-fmcg`, `chto-takoe-ots`, `kross-kanalnost-na-praktike` (glossary)
 - **1 blog-статья без Label** — пустой массив
-- **3 статьи без автора** — `AuthorIdList` пустой
+- **3 кейса без блока авторов** — `AuthorIdList: []` у `case-b2b-personalizaciya-mir-instrumenta-retail-rocket`, `personalizaciya-sajta-i-rassylok-krasnyj-karandash`, `prodvizhenie-na-lemana-pro-retail-media-kejs`. Это новый формат кейса-подрядчика (2026): CTA-виджет встроен в тело статьи, эксперт RRG цитируется с фото в Quote-блоке. На сайте блок `rrposts-authors-list-item` (WordPress-плагин) для таких страниц не рендерится — источник истины. Остальные 21 кейс имеют `AuthorIdList` заполненным.
 - **EmphasisQuote** из v1 маппится на `Factoid` в новом формате
 - **proxy-metrics part-2 в blog/ вместо analytics/** — серия из 3 статей `proxy-metrics-v-e-commerce-part-{1,2,3}`: part-1 и part-3 имеют WP-категорию `analytics` (Label: `"Аналитика"`), но part-2 имеет категорию `blog` (Label: `"Теория и практика"`). Это расхождение в категоризации на стороне WordPress, данные точно отражают WP-категории.
