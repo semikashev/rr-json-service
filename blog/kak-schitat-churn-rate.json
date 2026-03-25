@@ -600,14 +600,8 @@
       ]
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-schitat-churn-rate/cdpimghero.webp",
-      "Alt": "cdpimghero",
-      "Caption": null
-    },
-    {
       "_t": "BigContentBg",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/cdpimghero.webp",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-schitat-churn-rate/cdpimghero.webp",
       "Alt": "cdpimghero",
       "Elements": [
         {
@@ -719,12 +713,6 @@
       "Caption": null
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-schitat-churn-rate/2-5.webp",
-      "Alt": "Создавайте механики с помощью drag-and-drop",
-      "Caption": null
-    },
-    {
       "_t": "SmallContentBg",
       "TitleElements": [
         {
@@ -748,12 +736,6 @@
           "Content": "Используйте когортные отчёты, дашборды, ML-модели прогнозирования churn. Это позволяет действовать до того, как клиент уйдёт."
         }
       ]
-    },
-    {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-schitat-churn-rate/img3-3.webp",
-      "Alt": "img3",
-      "Caption": null
     },
     {
       "_t": "SmallContentBg",
