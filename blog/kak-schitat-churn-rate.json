@@ -606,18 +606,15 @@
       "Caption": null
     },
     {
-      "_t": "Heading3",
-      "Title": "Узнайте, как создавать сегменты со скоростью 1 млн контактов в секунду и усиливать персонализацию CJM"
-    },
-    {
-      "_t": "CtaPrimaryBlock",
-      "TitleElements": [
+      "_t": "BigContentBg",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/cdpimghero.webp",
+      "Alt": "cdpimghero",
+      "Elements": [
         {
           "_t": "Text",
-          "Content": "Узнайте, какие сценарии управления лояльностью можно внедрить в вашем бизнесе"
+          "Content": "Узнайте, как создавать сегменты со скоростью 1 млн контактов в секунду и усиливать персонализацию CJM"
         }
       ],
-      "Elements": [],
       "BtnText": "Запросить демо",
       "BtnUrl": "https://retailrocket.ru/demo/"
     },
