@@ -114,20 +114,11 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "ARPU (Average Revenue Per User): что это и как считать метрику"
-        }
-      ]
-    },
-    {
-      "_t": "CtaSecondaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",
-          "Content": "Ценовая стратегия — это не про “поставить выше” или “дать скидку”. Это про то, как направить поведение пользователя и создать логичный шаг к более высокой цене."
+          "Content": "ARPU (Average Revenue Per User): что это и как считать метрику"
         }
       ],
       "Elements": [],

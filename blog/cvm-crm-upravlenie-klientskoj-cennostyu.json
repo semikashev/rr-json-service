@@ -242,16 +242,7 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Подробнее про тренды CVM-маркетинга в материале Direct Service →"
-        }
-      ]
-    },
-    {
-      "_t": "CtaSecondaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",

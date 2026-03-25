@@ -487,16 +487,7 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Узнайте, как adtech-платформа Retail Rocket Group помогает ритейлу и рекламодателям масштабировать бизнес"
-        }
-      ]
-    },
-    {
-      "_t": "CtaPrimaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",

@@ -112,16 +112,7 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Узнайте больше про инструмент роста GMV и монетизации трафика от Retail Rocket Group"
-        }
-      ]
-    },
-    {
-      "_t": "CtaPrimaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",

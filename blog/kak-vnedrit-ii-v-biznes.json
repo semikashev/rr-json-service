@@ -137,16 +137,7 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Как работает динамическое ценообразование"
-        }
-      ]
-    },
-    {
-      "_t": "CtaSecondaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",
@@ -327,16 +318,7 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Как ИИ применяется и работает в маркетинге"
-        }
-      ]
-    },
-    {
-      "_t": "CtaSecondaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",

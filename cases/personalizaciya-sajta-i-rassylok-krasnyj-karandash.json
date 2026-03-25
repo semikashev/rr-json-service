@@ -205,20 +205,11 @@
       "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalizaciya-sajta-i-rassylok-krasnyj-karandash/photo_2026-02-04-13.13.26-300x300.jpeg"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Запросите бесплатный аудит персонализации Мы проанализируем ваш сайт, оценим потенциальный эффект от внедрения рекомендаций и покажем, какие точки контакта дадут максимальную отдачу."
-        }
-      ]
-    },
-    {
-      "_t": "CtaPrimaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",
-          "Content": "Запросите бесплатный аудит персонализации"
+          "Content": "Запросите бесплатный аудит персонализации Мы проанализируем ваш сайт, оценим потенциальный эффект от внедрения рекомендаций и покажем, какие точки контакта дадут максимальную отдачу."
         }
       ],
       "Elements": [],
@@ -449,16 +440,7 @@
       "Caption": "Страница пустой корзины с рекомендациями «Хиты продаж» на сайте «Красный Карандаш»"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Узнайте подробнее, как работают алгоритмы рекомендаций Retail Rocket Group"
-        }
-      ]
-    },
-    {
-      "_t": "CtaSecondaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",
@@ -652,16 +634,7 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Подробнее о том, как запустить омниканальные коммуникации"
-        }
-      ]
-    },
-    {
-      "_t": "CtaSecondaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",

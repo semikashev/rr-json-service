@@ -224,20 +224,11 @@
       "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-ocenit-promo-akcii-i-uluchshit-rezultaty/Frame-2131327929-300x300.png"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Создавайте, тестируйте и запускайте промоакции любой сложности Полный контроль над промо — от идеи до теста и запуска на сайте, в приложении и на кассе"
-        }
-      ]
-    },
-    {
-      "_t": "CtaPrimaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",
-          "Content": "Создавайте, тестируйте и запускайте промоакции любой сложности"
+          "Content": "Создавайте, тестируйте и запускайте промоакции любой сложности Полный контроль над промо — от идеи до теста и запуска на сайте, в приложении и на кассе"
         }
       ],
       "Elements": [],
@@ -1003,20 +994,11 @@
       "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-ocenit-promo-akcii-i-uluchshit-rezultaty/Frame-2131327929-300x300.png"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Механики, которые в 5 раз увеличили доход от товарных рекомендаций История АШАН"
-        }
-      ]
-    },
-    {
-      "_t": "CtaSecondaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",
-          "Content": "Механики, которые в 5 раз увеличили доход от товарных рекомендаций"
+          "Content": "Механики, которые в 5 раз увеличили доход от товарных рекомендаций История АШАН"
         }
       ],
       "Elements": [],

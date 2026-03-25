@@ -284,16 +284,7 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Узнайте, как CDP от Retail Rocket Group поможет вашему бизнесу"
-        }
-      ]
-    },
-    {
-      "_t": "CtaPrimaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",

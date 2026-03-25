@@ -118,20 +118,11 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "ARPU (Average Revenue Per User): что это и как считать метрику"
-        }
-      ]
-    },
-    {
-      "_t": "CtaSecondaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",
-          "Content": "Гибкая линейка тарифов помогает захватить сразу несколько сегментов. Каждый пользователь видит план под свой бюджет и задачи."
+          "Content": "ARPU (Average Revenue Per User): что это и как считать метрику"
         }
       ],
       "Elements": [],

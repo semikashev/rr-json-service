@@ -169,20 +169,11 @@
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Узнайте, как работает adTech-платформа Smart Placement Ads в действии 🚀"
-        }
-      ]
-    },
-    {
-      "_t": "CtaSecondaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",
-          "Content": "Узнайте, как работает adTech-платформа Smart Placement Ads в действии 🚀"
+          "Content": "Узнайте, как работает adTech-платформа Smart Placement Ads в действии 🚀"
         }
       ],
       "Elements": [],

@@ -180,20 +180,11 @@
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Узнайте, как алгоритмы рекомендаций Retail Rocket Group помогают людям находить то, что им нужно"
-        }
-      ]
-    },
-    {
-      "_t": "CtaPrimaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",
-          "Content": "Узнайте, как алгоритмы рекомендаций Retail Rocket Group помогают людям находить то, что им нужно"
+          "Content": "Узнайте, как алгоритмы рекомендаций Retail Rocket Group помогают людям находить то, что им нужно"
         }
       ],
       "Elements": [],

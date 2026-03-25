@@ -289,25 +289,16 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
+      "_t": "SmallContentBg",
+      "TitleElements": [
         {
           "_t": "Text",
           "Content": "34 алгоритма рекомендаций от Retail Rocket Group, которые заменят опытного продавца-консультанта"
         }
-      ]
-    },
-    {
-      "_t": "CtaSecondaryBlock",
-      "TitleElements": [
-        {
-          "_t": "Text",
-          "Content": "Как получать доход от продажи таргетированных рекламных мест на сайте"
-        }
       ],
       "Elements": [],
       "BtnText": "Узнать подробности",
-      "BtnUrl": "https://smartplacementads.ru/"
+      "BtnUrl": "https://retailrocket.ru/personalization/"
     },
     {
       "_t": "Heading3",
@@ -323,20 +314,11 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Как получать доход от продажи таргетированных рекламных мест на сайте"
-        }
-      ]
-    },
-    {
-      "_t": "CtaSecondaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",
-          "Content": "Узнать подробности"
+          "Content": "Как получать доход от продажи таргетированных рекламных мест на сайте"
         }
       ],
       "Elements": [],

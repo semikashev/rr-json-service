@@ -510,25 +510,16 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
+      "_t": "SmallContentBg",
+      "TitleElements": [
         {
           "_t": "Text",
           "Content": "Узнайте, как работает adTech-платформа Smart Placement Ads в действии"
         }
-      ]
-    },
-    {
-      "_t": "CtaSecondaryBlock",
-      "TitleElements": [
-        {
-          "_t": "Text",
-          "Content": "Узнайте, как работает adTech-платформа Smart Placement Ads в действии"
-        }
       ],
       "Elements": [],
       "BtnText": "Получить предложение",
-      "BtnUrl": "https://smartplacementads.ru/?utm_source=rr&#038;utm_medium=blog&#038;utm_campaign=productupdates&#038;utm_content=link"
+      "BtnUrl": "https://smartplacementads.ru/?utm_source=rr&utm_medium=blog&utm_campaign=productupdates&utm_content=link"
     }
   ]
 }

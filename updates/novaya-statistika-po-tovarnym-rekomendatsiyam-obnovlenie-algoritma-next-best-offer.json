@@ -282,20 +282,11 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Узнайте, как алгоритмы Retail Rocket Group помогают людям находить то, что им нужно"
-        }
-      ]
-    },
-    {
-      "_t": "CtaSecondaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",
-          "Content": "Узнайте, как алгоритмы Retail Rocket Group помогают людям находить то, что им нужно"
+          "Content": "Узнайте, как алгоритмы Retail Rocket Group помогают людям находить то, что им нужно"
         }
       ],
       "Elements": [],

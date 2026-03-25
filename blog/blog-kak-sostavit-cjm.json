@@ -105,20 +105,11 @@
       "Caption": "Источник фото: https://www.five9.com/blog/9-best-real-life-customer-journey-map-examples"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "17+ сценариев для повышения конверсии на каждом этапе жизненного цикла клиента"
-        }
-      ]
-    },
-    {
-      "_t": "CtaPrimaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",
-          "Content": "17+ сценариев для повышения конверсии на каждом этапе жизненного цикла клиента"
+          "Content": "17+ сценариев для повышения конверсии на каждом этапе жизненного цикла клиента"
         }
       ],
       "Elements": [],

@@ -131,20 +131,11 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "ARPU (Average Revenue Per User): что это и как считать метрику"
-        }
-      ]
-    },
-    {
-      "_t": "CtaSecondaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",
-          "Content": "Freemium даёт эффект масштаба: тысячи неплатящих создают среду, в которой вырастают десятки платящих."
+          "Content": "ARPU (Average Revenue Per User): что это и как считать метрику"
         }
       ],
       "Elements": [],

@@ -105,20 +105,11 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "ARPU (Average Revenue Per User): что это и как считать метрику"
-        }
-      ]
-    },
-    {
-      "_t": "CtaSecondaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",
-          "Content": "Если команда не отслеживает длину платёжного цикла, она не поймёт, почему ARPU проседает. Это создаёт иллюзию падения, хотя выручка уже зафиксирована."
+          "Content": "ARPU (Average Revenue Per User): что это и как считать метрику"
         }
       ],
       "Elements": [],

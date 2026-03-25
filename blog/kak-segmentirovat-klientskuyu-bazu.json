@@ -90,20 +90,11 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Cozy Home в 2 раза снизила ДРР рекламных кампаний и повысила на 11% долю дохода с канала"
-        }
-      ]
-    },
-    {
-      "_t": "CtaSecondaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",
-          "Content": "Решение Retail Rocket помогло бизнесу сэкономить:"
+          "Content": "Cozy Home в 2 раза снизила ДРР рекламных кампаний и повысила на 11% долю дохода с канала"
         }
       ],
       "Elements": [],

@@ -105,20 +105,11 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "ARPU (Average Revenue Per User): что это и как считать метрику"
-        }
-      ]
-    },
-    {
-      "_t": "CtaSecondaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",
-          "Content": "Подписка раскрывает ценность продукта не за один сеанс. Она требует системной работы с удержанием, доверием и вовлечением."
+          "Content": "ARPU (Average Revenue Per User): что это и как считать метрику"
         }
       ],
       "Elements": [],

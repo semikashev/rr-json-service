@@ -122,15 +122,11 @@
       ]
     },
     {
-      "_t": "Heading3",
-      "Title": "Узнайте, как алгоритмы рекомендаций Retail Rocket Group помогают людям находить то, что им нужно"
-    },
-    {
-      "_t": "CtaPrimaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",
-          "Content": "Запросить демо"
+          "Content": "Узнайте, как алгоритмы рекомендаций Retail Rocket Group помогают людям находить то, что им нужно"
         }
       ],
       "Elements": [],

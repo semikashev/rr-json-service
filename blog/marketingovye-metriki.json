@@ -208,20 +208,11 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "CTR 1,31% и рост продаж ×8 за месяц ЛЭТУАЛЬ протестировал Smart Placement Ads от Retail Rocket Group. Предиктивные алгоритмы и персонализация дали CTR выше рынка — 1,31%, рост продаж в 8 раз и 100% ROI за квартал."
-        }
-      ]
-    },
-    {
-      "_t": "CtaSecondaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",
-          "Content": "CTR 1,31% и рост продаж ×8 за месяц"
+          "Content": "CTR 1,31% и рост продаж ×8 за месяц ЛЭТУАЛЬ протестировал Smart Placement Ads от Retail Rocket Group. Предиктивные алгоритмы и персонализация дали CTR выше рынка — 1,31%, рост продаж в 8 раз и 100% ROI за квартал."
         }
       ],
       "Elements": [],

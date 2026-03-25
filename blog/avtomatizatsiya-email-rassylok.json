@@ -151,26 +151,7 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Link",
-          "Href": "https://retailrocketgroup.ru/blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "— 96% опрошенных маркетологов считают, что персонализация повышает вероятность того, что покупатели станут постоянными клиентами; — 94% подтверждает, что персонализированный контент повышает продажи; — на 215% чаще маркетологи, использующие персонализацию, считают свою маркетинговую стратегию эффективной."
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " Интернет-магазин «Максидом» увеличил на 69% число заказов и на 22% — прибыль от email-коммуникаций благодаря автоматизации и персонализации на базе инструментов Retail Rocket Group."
-        }
-      ]
-    },
-    {
-      "_t": "CtaSecondaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",

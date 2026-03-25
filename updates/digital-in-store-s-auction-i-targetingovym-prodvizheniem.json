@@ -215,25 +215,16 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
+      "_t": "SmallContentBg",
+      "TitleElements": [
         {
           "_t": "Text",
           "Content": "Приглашаем на вебинар «Путь к прибыли: руководство по масштабированию Retail media на площадке»"
         }
-      ]
-    },
-    {
-      "_t": "CtaSecondaryBlock",
-      "TitleElements": [
-        {
-          "_t": "Text",
-          "Content": "Приглашаем на вебинар «Путь к прибыли: руководство по масштабированию Retail media на площадке»"
-        }
       ],
       "Elements": [],
       "BtnText": "Посмотреть",
-      "BtnUrl": "https://events.retailrocket.ru/3_09?utm_source=blog&#038;utm_medium=social&#038;utm_campaign=webinar030924&#038;utm_content=link&#038;utm_term=post2008"
+      "BtnUrl": "https://events.retailrocket.ru/3_09?utm_source=blog&utm_medium=social&utm_campaign=webinar030924&utm_content=link&utm_term=post2008"
     },
     {
       "_t": "Heading2",

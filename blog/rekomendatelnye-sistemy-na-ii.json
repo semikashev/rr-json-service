@@ -553,20 +553,11 @@
       "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/first-second-third-party-data-guide/Push-nots_80-300x300.png"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "34 алгоритма, которые заменят живого продавца консультанта Узнайте, как рекомендации Retail Rocket Group помогают людям находить то, что им нужно"
-        }
-      ]
-    },
-    {
-      "_t": "CtaSecondaryBlock",
+      "_t": "SmallContentBg",
       "TitleElements": [
         {
           "_t": "Text",
-          "Content": "Узнать"
+          "Content": "34 алгоритма, которые заменят живого продавца консультанта Узнайте, как рекомендации Retail Rocket Group помогают людям находить то, что им нужно"
         }
       ],
       "Elements": [],
