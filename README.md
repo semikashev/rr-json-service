@@ -42,8 +42,8 @@ analytics/        2 статьи — аналитические отчёты
 
 Rich-text — массивы inline-элементов `Text` и `Link` с boolean-флагами форматирования:
 
-- `IsHighlight` — маркерное выделение (зелёный `#DAFB9D` на сайте). Используется в Paragraph-блоках.
-- `IsBold` — обычный жирный. Используется только в OrderedList/UnorderedList.
+- `IsHighlight` — маркерное выделение (зелёный `#DAFB9D` на сайте). Используется в Paragraph-блоках и в списках из `icon-list.default` виджетов Elementor.
+- `IsBold` — обычный жирный. Используется в списках из `text-editor.default` виджетов.
 - `IsItalic`, `IsUnderline`, `IsStrike` и др. — определены в схеме.
 
 Boolean-флаги присутствуют только со значением `true`.
