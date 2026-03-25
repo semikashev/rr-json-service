@@ -364,7 +364,7 @@
           {
             "_t": "Text",
             "Content": "80%",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -379,7 +379,7 @@
           {
             "_t": "Text",
             "Content": "46%",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -394,7 +394,7 @@
           {
             "_t": "Text",
             "Content": "68%",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -405,7 +405,7 @@
           {
             "_t": "Text",
             "Content": "64%",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

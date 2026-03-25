@@ -148,7 +148,7 @@
           {
             "_t": "Text",
             "Content": "Посетитель оставил email",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -159,7 +159,7 @@
           {
             "_t": "Text",
             "Content": "Тип браузера",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -170,7 +170,7 @@
           {
             "_t": "Text",
             "Content": "Тип устройства",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -181,7 +181,7 @@
           {
             "_t": "Text",
             "Content": "Давность последнего посещения сайта",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -192,7 +192,7 @@
           {
             "_t": "Text",
             "Content": "Количество просмотренных разных товаров",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -203,7 +203,7 @@
           {
             "_t": "Text",
             "Content": "Длительность взаимодействия пользователя с сайтом в днях",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -214,7 +214,7 @@
           {
             "_t": "Text",
             "Content": "Количество запросов в поисковую систему сайта",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -225,7 +225,7 @@
           {
             "_t": "Text",
             "Content": "Количество добавленных в корзину товаров",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

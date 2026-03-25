@@ -340,7 +340,7 @@
           {
             "_t": "Text",
             "Content": "Купленные.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -373,7 +373,7 @@
           {
             "_t": "Text",
             "Content": "Полученные для других целей.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

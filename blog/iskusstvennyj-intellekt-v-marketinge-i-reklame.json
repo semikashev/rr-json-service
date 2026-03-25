@@ -612,7 +612,7 @@
           {
             "_t": "Text",
             "Content": "Неуникальный контент.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -656,7 +656,7 @@
           {
             "_t": "Text",
             "Content": "Сложно определить причину сбоя.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -718,7 +718,7 @@
           {
             "_t": "Text",
             "Content": "Новый уровень безопасности.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

@@ -102,7 +102,7 @@
           {
             "_t": "Text",
             "Content": "Midjourney",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -124,7 +124,7 @@
           {
             "_t": "Text",
             "Content": "BlueWillow, DALL-E",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -352,7 +352,7 @@
           {
             "_t": "Text",
             "Content": "Runway ML",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -363,7 +363,7 @@
           {
             "_t": "Text",
             "Content": "ElevenLabs",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -374,7 +374,7 @@
           {
             "_t": "Text",
             "Content": "Pika Labs, Descript, Synthesia",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -609,7 +609,7 @@
           {
             "_t": "Text",
             "Content": "Looka",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -631,7 +631,7 @@
           {
             "_t": "Text",
             "Content": "Uizard, Khroma, Brandmark",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -813,7 +813,7 @@
           {
             "_t": "Text",
             "Content": "ChatGPT",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -824,7 +824,7 @@
           {
             "_t": "Text",
             "Content": "Jasper",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -1069,7 +1069,7 @@
           {
             "_t": "Text",
             "Content": "Synthesia, Reface, Tokkingheads",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -1303,7 +1303,7 @@
           {
             "_t": "Text",
             "Content": "Экономия бюджета",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -1314,7 +1314,7 @@
           {
             "_t": "Text",
             "Content": "A/B-тесты",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -1325,7 +1325,7 @@
           {
             "_t": "Text",
             "Content": "Рост CTR",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -1449,7 +1449,7 @@
           {
             "_t": "Text",
             "Content": "Маркетологи",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -1460,7 +1460,7 @@
           {
             "_t": "Text",
             "Content": "Дизайнеры",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -1471,7 +1471,7 @@
           {
             "_t": "Text",
             "Content": "Контент-продюсеры",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -1482,7 +1482,7 @@
           {
             "_t": "Text",
             "Content": "IT/AI-специалисты",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

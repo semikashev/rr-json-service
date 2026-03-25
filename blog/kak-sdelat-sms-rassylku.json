@@ -525,7 +525,7 @@
           {
             "_t": "Text",
             "Content": "программах лояльности",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

@@ -259,7 +259,7 @@
           {
             "_t": "Text",
             "Content": "Запуск теста.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -270,7 +270,7 @@
           {
             "_t": "Text",
             "Content": "Остановка теста.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -281,7 +281,7 @@
           {
             "_t": "Text",
             "Content": "Оценка результатов.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

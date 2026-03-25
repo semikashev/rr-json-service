@@ -162,7 +162,7 @@
           {
             "_t": "Text",
             "Content": "Post-view",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -173,7 +173,7 @@
           {
             "_t": "Text",
             "Content": "Post-click",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -235,7 +235,7 @@
           {
             "_t": "Text",
             "Content": "Увеличение выручки",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -246,7 +246,7 @@
           {
             "_t": "Text",
             "Content": "Удержание рентабельности",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -257,7 +257,7 @@
           {
             "_t": "Text",
             "Content": "Широкий охват ассортимента",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -268,7 +268,7 @@
           {
             "_t": "Text",
             "Content": "Конкурентное присутствие",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -279,7 +279,7 @@
           {
             "_t": "Text",
             "Content": "Привлечение новой аудитории",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -477,7 +477,7 @@
           {
             "_t": "Text",
             "Content": "Расширение плейсментов",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -488,7 +488,7 @@
           {
             "_t": "Text",
             "Content": "Усиление присутствия в мобильном приложении",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -499,7 +499,7 @@
           {
             "_t": "Text",
             "Content": "Поднятие в листинге",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -510,7 +510,7 @@
           {
             "_t": "Text",
             "Content": "Страница «Спасибо за заказ»",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -676,7 +676,7 @@
           {
             "_t": "Text",
             "Content": "Производители и дистрибьюторы сезонных товаров",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -687,7 +687,7 @@
           {
             "_t": "Text",
             "Content": "Бренды с широкой товарной матрицей на маркетплейсах",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -698,7 +698,7 @@
           {
             "_t": "Text",
             "Content": "Компании, выходящие на Лемана ПРО или усиливающие присутствие",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -709,7 +709,7 @@
           {
             "_t": "Text",
             "Content": "Бренды с высоким средним чеком",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -738,7 +738,7 @@
           {
             "_t": "Text",
             "Content": "Используйте все доступные форматы",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -749,7 +749,7 @@
           {
             "_t": "Text",
             "Content": "Сопровождайте пользователя на всем пути",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -760,7 +760,7 @@
           {
             "_t": "Text",
             "Content": "Удерживайте 3–5 позиций в каждой товарной полке",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -771,7 +771,7 @@
           {
             "_t": "Text",
             "Content": "Добавляйте скидки и промокоды",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -782,7 +782,7 @@
           {
             "_t": "Text",
             "Content": "Тестируйте кросс-категории поэтапно",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -793,7 +793,7 @@
           {
             "_t": "Text",
             "Content": "Чем дольше продвижение — тем лучше результат",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

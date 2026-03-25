@@ -96,7 +96,7 @@
           {
             "_t": "Text",
             "Content": "Увеличивают вовлечённость.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -107,7 +107,7 @@
           {
             "_t": "Text",
             "Content": "Улучшают удержание клиентов.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -138,7 +138,7 @@
           {
             "_t": "Text",
             "Content": "Риск раздражения.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -160,7 +160,7 @@
           {
             "_t": "Text",
             "Content": "Ограничение по объёму.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -201,7 +201,7 @@
           {
             "_t": "Text",
             "Content": "Apple Push Notification Service (APNs)",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -300,7 +300,7 @@
           {
             "_t": "Text",
             "Content": "Краткость.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -311,7 +311,7 @@
           {
             "_t": "Text",
             "Content": "Ясность.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -322,7 +322,7 @@
           {
             "_t": "Text",
             "Content": "Привлекательность.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -333,7 +333,7 @@
           {
             "_t": "Text",
             "Content": "Персонализация.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -449,7 +449,7 @@
           {
             "_t": "Text",
             "Content": "Анализ активности пользователей.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -460,7 +460,7 @@
           {
             "_t": "Text",
             "Content": "Учёт часовых поясов.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -471,7 +471,7 @@
           {
             "_t": "Text",
             "Content": "Сегментация аудитории.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

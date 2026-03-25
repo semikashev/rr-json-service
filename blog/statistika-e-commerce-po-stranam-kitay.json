@@ -109,7 +109,7 @@
           {
             "_t": "Text",
             "Content": "Проникновение смартфонов",
-            "IsBold": true
+            "IsHighlight": true
           }
         ]
       ]
@@ -138,7 +138,7 @@
           {
             "_t": "Text",
             "Content": "Интернет покупатели",
-            "IsBold": true
+            "IsHighlight": true
           }
         ]
       ]
@@ -173,7 +173,7 @@
           {
             "_t": "Text",
             "Content": "Продажи через интернет",
-            "IsBold": true
+            "IsHighlight": true
           }
         ]
       ]
@@ -208,7 +208,7 @@
           {
             "_t": "Text",
             "Content": "Проникновение электронной коммерции",
-            "IsBold": true
+            "IsHighlight": true
           }
         ]
       ]
@@ -237,7 +237,7 @@
           {
             "_t": "Text",
             "Content": "Мобильная коммерция",
-            "IsBold": true
+            "IsHighlight": true
           }
         ]
       ]
@@ -266,7 +266,7 @@
           {
             "_t": "Text",
             "Content": "Трансграничные возможности электронной коммерции",
-            "IsBold": true
+            "IsHighlight": true
           }
         ]
       ]

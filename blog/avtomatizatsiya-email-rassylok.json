@@ -482,7 +482,7 @@
           {
             "_t": "Text",
             "Content": "«Брошенная корзина»:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -493,7 +493,7 @@
           {
             "_t": "Text",
             "Content": "«Брошенный просмотр категории»:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -504,7 +504,7 @@
           {
             "_t": "Text",
             "Content": "«Брошенный просмотр»:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -515,7 +515,7 @@
           {
             "_t": "Text",
             "Content": "«Брошенный поисковый запрос»:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -526,7 +526,7 @@
           {
             "_t": "Text",
             "Content": "«Сопутствующие товары к заказу»:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -537,7 +537,7 @@
           {
             "_t": "Text",
             "Content": "«Уведомление о снижении цены на просмотренные товары»:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -548,7 +548,7 @@
           {
             "_t": "Text",
             "Content": "«Уведомление о снижении цены на товары в брошенной корзине»:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -559,7 +559,7 @@
           {
             "_t": "Text",
             "Content": "«Подписка на снижение цены»:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -570,7 +570,7 @@
           {
             "_t": "Text",
             "Content": "«Прогноз следующей наиболее вероятной покупки (Next Best Offer)»:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -581,7 +581,7 @@
           {
             "_t": "Text",
             "Content": "«Реактивация уснувших пользователей»:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -592,7 +592,7 @@
           {
             "_t": "Text",
             "Content": "«Ретаргетинг просмотренных товаров не в наличии»:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -603,7 +603,7 @@
           {
             "_t": "Text",
             "Content": "«Уведомление о возврате товара в продажу»:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -614,7 +614,7 @@
           {
             "_t": "Text",
             "Content": "«Письмо с альтернативами отсутствующему товару»:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -625,7 +625,7 @@
           {
             "_t": "Text",
             "Content": "«Рекомендации товаров регулярного спроса»:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -636,7 +636,7 @@
           {
             "_t": "Text",
             "Content": "«Письмо с сопутствующими товарами к заказу, сделанному в розничном магазине»:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -647,7 +647,7 @@
           {
             "_t": "Text",
             "Content": "«Прогноз следующей наиболее вероятной покупки (Next Best Offer) к заказу, сделанному в розничном магазине»:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -658,7 +658,7 @@
           {
             "_t": "Text",
             "Content": "«Рекомендации товаров регулярного спроса к заказу, сделанному в розничном магазине»:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

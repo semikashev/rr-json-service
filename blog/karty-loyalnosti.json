@@ -583,7 +583,7 @@
           {
             "_t": "Text",
             "Content": "Оформить бумажную анкету",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

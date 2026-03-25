@@ -114,7 +114,7 @@
           {
             "_t": "Text",
             "Content": "Монетизация трафика.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -125,7 +125,7 @@
           {
             "_t": "Text",
             "Content": "Улучшение пользовательского опыта.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -136,7 +136,7 @@
           {
             "_t": "Text",
             "Content": "Конкурентное преимущество.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -241,7 +241,7 @@
           {
             "_t": "Text",
             "Content": "Как это работает.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -252,7 +252,7 @@
           {
             "_t": "Text",
             "Content": "Пример.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

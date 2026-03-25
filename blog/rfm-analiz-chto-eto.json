@@ -169,7 +169,7 @@
           {
             "_t": "Text",
             "Content": "Давность (Recency).",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -180,7 +180,7 @@
           {
             "_t": "Text",
             "Content": "Частота (Frequency).",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -191,7 +191,7 @@
           {
             "_t": "Text",
             "Content": "Сумма трат (Monetary).",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -750,7 +750,7 @@
           {
             "_t": "Text",
             "Content": "CRM-системы (Bitrix24, amoCRM, RetailCRM)",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -761,7 +761,7 @@
           {
             "_t": "Text",
             "Content": "Специализированные сервисы (Mindbox, Mindbox RFM, Unisender RFM)",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

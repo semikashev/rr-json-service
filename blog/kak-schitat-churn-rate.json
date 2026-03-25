@@ -303,7 +303,7 @@
           {
             "_t": "Text",
             "Content": "Месячный churn",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -314,7 +314,7 @@
           {
             "_t": "Text",
             "Content": "Квартальный churn",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -325,7 +325,7 @@
           {
             "_t": "Text",
             "Content": "Годовой churn",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

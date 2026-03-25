@@ -98,7 +98,7 @@
           {
             "_t": "Text",
             "Content": "Для поставщиков:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -109,7 +109,7 @@
           {
             "_t": "Text",
             "Content": "Для покупателей:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

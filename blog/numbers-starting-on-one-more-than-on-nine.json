@@ -317,7 +317,7 @@
           {
             "_t": "Text",
             "Content": "Бухгалтерские записи:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -328,7 +328,7 @@
           {
             "_t": "Text",
             "Content": "Налоговые декларации:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -339,7 +339,7 @@
           {
             "_t": "Text",
             "Content": "Биржевые показатели:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -350,7 +350,7 @@
           {
             "_t": "Text",
             "Content": "Микроэкономические данные:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -394,7 +394,7 @@
           {
             "_t": "Text",
             "Content": "Численность населения:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -405,7 +405,7 @@
           {
             "_t": "Text",
             "Content": "Площади географических объектов:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -471,7 +471,7 @@
           {
             "_t": "Text",
             "Content": "Гидрологические данные:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -482,7 +482,7 @@
           {
             "_t": "Text",
             "Content": "Геологические измерения:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -493,7 +493,7 @@
           {
             "_t": "Text",
             "Content": "Астрономические величины:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -561,7 +561,7 @@
           {
             "_t": "Text",
             "Content": "Телефонные номера:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -572,7 +572,7 @@
           {
             "_t": "Text",
             "Content": "Персональные идентификаторы:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -583,7 +583,7 @@
           {
             "_t": "Text",
             "Content": "Почтовые индексы:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -594,7 +594,7 @@
           {
             "_t": "Text",
             "Content": "Даты:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -605,7 +605,7 @@
           {
             "_t": "Text",
             "Content": "Лотерейные номера:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -634,7 +634,7 @@
           {
             "_t": "Text",
             "Content": "Узкий диапазон значений:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -645,7 +645,7 @@
           {
             "_t": "Text",
             "Content": "Наличие минимальных или максимальных значений:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -656,7 +656,7 @@
           {
             "_t": "Text",
             "Content": "Присвоенные номера:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -667,7 +667,7 @@
           {
             "_t": "Text",
             "Content": "Психологически сформированные числа:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -678,7 +678,7 @@
           {
             "_t": "Text",
             "Content": "Очень малые выборки:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -707,7 +707,7 @@
           {
             "_t": "Text",
             "Content": "Случайные числа:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -718,7 +718,7 @@
           {
             "_t": "Text",
             "Content": "Придуманные людьми числа:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -740,7 +740,7 @@
           {
             "_t": "Text",
             "Content": "Симулированные данные:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

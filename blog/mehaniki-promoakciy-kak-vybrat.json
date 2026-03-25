@@ -1107,7 +1107,7 @@
           {
             "_t": "Text",
             "Content": "Количество участников.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -1154,7 +1154,7 @@
           {
             "_t": "Text",
             "Content": "Прирост продаж.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

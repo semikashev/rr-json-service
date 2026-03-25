@@ -443,7 +443,7 @@
           {
             "_t": "Text",
             "Content": "Разница ценности.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -503,7 +503,7 @@
           {
             "_t": "Text",
             "Content": "Ограниченное предложение.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -514,7 +514,7 @@
           {
             "_t": "Text",
             "Content": "Персонализированные рекомендации.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -525,7 +525,7 @@
           {
             "_t": "Text",
             "Content": "Эмоциональное вовлечение и социальное доказательство.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -536,7 +536,7 @@
           {
             "_t": "Text",
             "Content": "Простое решение.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -565,7 +565,7 @@
           {
             "_t": "Text",
             "Content": "Логика комплектов (bundle-логика).",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -635,7 +635,7 @@
           {
             "_t": "Text",
             "Content": "Персонализированные рекомендации.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -646,7 +646,7 @@
           {
             "_t": "Text",
             "Content": "Время и место предложения.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -657,7 +657,7 @@
           {
             "_t": "Text",
             "Content": "Эмоциональное вовлечение и социальное доказательство.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -668,7 +668,7 @@
           {
             "_t": "Text",
             "Content": "Демонстрация пользы и ценности.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -697,7 +697,7 @@
           {
             "_t": "Text",
             "Content": "Введение базовых и эконом-версий.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -708,7 +708,7 @@
           {
             "_t": "Text",
             "Content": "Рассрочка или специальные условия оплаты.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -719,7 +719,7 @@
           {
             "_t": "Text",
             "Content": "Ограниченное по времени предложение.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -730,7 +730,7 @@
           {
             "_t": "Text",
             "Content": "Разделение услуг и продажа отдельными частями.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -1174,7 +1174,7 @@
           {
             "_t": "Text",
             "Content": "Низкая конверсия →",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -1208,7 +1208,7 @@
           {
             "_t": "Text",
             "Content": "Рост отказов и жалоб →",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -1233,7 +1233,7 @@
           {
             "_t": "Text",
             "Content": "Отсутствие роста среднего чека →",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -1267,7 +1267,7 @@
           {
             "_t": "Text",
             "Content": "Длительный или запутанный путь клиента →",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

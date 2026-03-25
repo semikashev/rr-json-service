@@ -337,7 +337,7 @@
           {
             "_t": "Text",
             "Content": "Планирует маркетинговый бюджет.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -348,7 +348,7 @@
           {
             "_t": "Text",
             "Content": "Оптимизирует ассортимент.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -359,7 +359,7 @@
           {
             "_t": "Text",
             "Content": "Настраивает персонализацию.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -370,7 +370,7 @@
           {
             "_t": "Text",
             "Content": "Сегментирует клиентскую базу.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -536,7 +536,7 @@
           {
             "_t": "Text",
             "Content": "Оценивает прибыльность товаров.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -561,7 +561,7 @@
           {
             "_t": "Text",
             "Content": "Контролирует ценообразование.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -572,7 +572,7 @@
           {
             "_t": "Text",
             "Content": "Планирует рекламный бюджет.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -583,7 +583,7 @@
           {
             "_t": "Text",
             "Content": "Оптимизирует ассортимент.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -748,7 +748,7 @@
           {
             "_t": "Text",
             "Content": "Оценивает эффективность каналов.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -759,7 +759,7 @@
           {
             "_t": "Text",
             "Content": "Планирует рекламный бюджет.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -770,7 +770,7 @@
           {
             "_t": "Text",
             "Content": "Контролирует масштабирование.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -942,7 +942,7 @@
           {
             "_t": "Text",
             "Content": "Контролирует рентабельность рекламы.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -953,7 +953,7 @@
           {
             "_t": "Text",
             "Content": "Сравнивает эффективность кампаний.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -964,7 +964,7 @@
           {
             "_t": "Text",
             "Content": "Планирует масштабирование.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -975,7 +975,7 @@
           {
             "_t": "Text",
             "Content": "Оценивает сезонные колебания.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -1147,7 +1147,7 @@
           {
             "_t": "Text",
             "Content": "Оптимизирует ассортимент.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -1158,7 +1158,7 @@
           {
             "_t": "Text",
             "Content": "Планирует маркетинговую стратегию.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -1169,7 +1169,7 @@
           {
             "_t": "Text",
             "Content": "Управляет складскими запасами.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -1380,7 +1380,7 @@
           {
             "_t": "Text",
             "Content": "Оценивает качество трафика.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -1402,7 +1402,7 @@
           {
             "_t": "Text",
             "Content": "Планирует масштабирование.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -1413,7 +1413,7 @@
           {
             "_t": "Text",
             "Content": "Оптимизирует каналы привлечения.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -1616,7 +1616,7 @@
           {
             "_t": "Text",
             "Content": "Восстанавливает потерянные продажи.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -1638,7 +1638,7 @@
           {
             "_t": "Text",
             "Content": "Тестирует гипотезы улучшения.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -1810,7 +1810,7 @@
           {
             "_t": "Text",
             "Content": "Оценивает качество посадочных страниц.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -1832,7 +1832,7 @@
           {
             "_t": "Text",
             "Content": "Анализирует техническую производительность.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -1843,7 +1843,7 @@
           {
             "_t": "Text",
             "Content": "Сегментирует источники трафика.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -2039,7 +2039,7 @@
           {
             "_t": "Text",
             "Content": "Планирует маркетинговый бюджет.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -2050,7 +2050,7 @@
           {
             "_t": "Text",
             "Content": "Сегментирует клиентскую базу.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -2061,7 +2061,7 @@
           {
             "_t": "Text",
             "Content": "Оценивает эффективность каналов",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -2072,7 +2072,7 @@
           {
             "_t": "Text",
             "Content": "Прогнозирует выручку.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -2298,7 +2298,7 @@
           {
             "_t": "Text",
             "Content": "Оценивает лояльность клиентов.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -2309,7 +2309,7 @@
           {
             "_t": "Text",
             "Content": "Планирует развитие продукта.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Link",
@@ -2330,7 +2330,7 @@
           {
             "_t": "Text",
             "Content": "Прогнозирует выручку.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -2341,7 +2341,7 @@
           {
             "_t": "Text",
             "Content": "Сравнивает эффективность каналов.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -2557,7 +2557,7 @@
           {
             "_t": "Text",
             "Content": "Планирует маркетинговую стратегию.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -2568,7 +2568,7 @@
           {
             "_t": "Text",
             "Content": "Сегментирует клиентскую базу.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -2579,7 +2579,7 @@
           {
             "_t": "Text",
             "Content": "Прогнозирует стабильность бизнеса.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -2762,7 +2762,7 @@
           {
             "_t": "Text",
             "Content": "Измеряет эффективность монетизации.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -2773,7 +2773,7 @@
           {
             "_t": "Text",
             "Content": "Планирует развитие продуктовой линейки.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -2795,7 +2795,7 @@
           {
             "_t": "Text",
             "Content": "Оценивает эффект изменений.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -3000,7 +3000,7 @@
           {
             "_t": "Text",
             "Content": "Планирует рекламные бюджеты.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -3022,7 +3022,7 @@
           {
             "_t": "Text",
             "Content": "Прогнозирует потенциальные продажи.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -3194,7 +3194,7 @@
           {
             "_t": "Text",
             "Content": "Сравнивает эффективность каналов привлечения.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -3205,7 +3205,7 @@
           {
             "_t": "Text",
             "Content": "Рассчитывает окупаемость маркетинга.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -3216,7 +3216,7 @@
           {
             "_t": "Text",
             "Content": "Планирует масштабирование.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -3227,7 +3227,7 @@
           {
             "_t": "Text",
             "Content": "Оптимизирует воронку продаж.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -3411,7 +3411,7 @@
           {
             "_t": "Text",
             "Content": "Измеряет прибыльность рекламы.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -3422,7 +3422,7 @@
           {
             "_t": "Text",
             "Content": "Сравнивает эффективность кампаний.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -3433,7 +3433,7 @@
           {
             "_t": "Text",
             "Content": "Оптимизирует ставки и таргетинг.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -3444,7 +3444,7 @@
           {
             "_t": "Text",
             "Content": "Планирует рекламные бюджеты.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -3622,7 +3622,7 @@
           {
             "_t": "Text",
             "Content": "Контролирует стоимость трафика.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -3633,7 +3633,7 @@
           {
             "_t": "Text",
             "Content": "Сравнивает конкурентоспособность.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -3644,7 +3644,7 @@
           {
             "_t": "Text",
             "Content": "Планирует рекламные бюджеты.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -3655,7 +3655,7 @@
           {
             "_t": "Text",
             "Content": "Оптимизирует ключевые слова.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -3844,7 +3844,7 @@
           {
             "_t": "Text",
             "Content": "Измеряет привлекательность объявлений.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -3866,7 +3866,7 @@
           {
             "_t": "Text",
             "Content": "Сравнивает эффективность креативов.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -3877,7 +3877,7 @@
           {
             "_t": "Text",
             "Content": "Оптимизирует таргетинг.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -4072,7 +4072,7 @@
           {
             "_t": "Text",
             "Content": "Измеряет реальную эффективность рекламы.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -4094,7 +4094,7 @@
           {
             "_t": "Text",
             "Content": "Планирует маркетинговые бюджеты.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -4105,7 +4105,7 @@
           {
             "_t": "Text",
             "Content": "Оптимизирует воронку продаж.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -4321,7 +4321,7 @@
           {
             "_t": "Text",
             "Content": "Оценивает краткосрочную активность.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -4332,7 +4332,7 @@
           {
             "_t": "Text",
             "Content": "Отслеживает влияние маркетинга.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -4343,7 +4343,7 @@
           {
             "_t": "Text",
             "Content": "Служит базой для расчёта конверсий.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -4354,7 +4354,7 @@
           {
             "_t": "Text",
             "Content": "Формирует основу для анализа Retention.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -4501,7 +4501,7 @@
           {
             "_t": "Text",
             "Content": "Сглаживает краткосрочные колебания.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -4512,7 +4512,7 @@
           {
             "_t": "Text",
             "Content": "Позволяет оценивать когорты.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -4523,7 +4523,7 @@
           {
             "_t": "Text",
             "Content": "Служит опорой для роста Retention Rate.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -4641,7 +4641,7 @@
           {
             "_t": "Text",
             "Content": "Показывает общий охват продукта.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -4652,7 +4652,7 @@
           {
             "_t": "Text",
             "Content": "Служит верхней точкой воронки.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -4805,7 +4805,7 @@
           {
             "_t": "Text",
             "Content": "Определяет эффективность каналов.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -4816,7 +4816,7 @@
           {
             "_t": "Text",
             "Content": "Оправдывает инвестиции в маркетинг.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -4827,7 +4827,7 @@
           {
             "_t": "Text",
             "Content": "Сигнализирует о неэффективности.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -4838,7 +4838,7 @@
           {
             "_t": "Text",
             "Content": "Используется для сравнения стратегий.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -4986,7 +4986,7 @@
           {
             "_t": "Text",
             "Content": "Снижает потери.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -4997,7 +4997,7 @@
           {
             "_t": "Text",
             "Content": "Помогает выявить проблемные товары.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -5019,7 +5019,7 @@
           {
             "_t": "Text",
             "Content": "Оценивает влияние описаний.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -5167,7 +5167,7 @@
           {
             "_t": "Text",
             "Content": "Улучшает лояльность.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -5178,7 +5178,7 @@
           {
             "_t": "Text",
             "Content": "Снижает количество обращений.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -5189,7 +5189,7 @@
           {
             "_t": "Text",
             "Content": "Оптимизирует логистику.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

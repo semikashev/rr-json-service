@@ -43,7 +43,7 @@
           {
             "_t": "Text",
             "Content": "Номинал карты",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -54,7 +54,7 @@
           {
             "_t": "Text",
             "Content": "Способы погашения",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -65,7 +65,7 @@
           {
             "_t": "Text",
             "Content": "Генератор уникальных кодов",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -76,7 +76,7 @@
           {
             "_t": "Text",
             "Content": "Срок действия карты",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -87,7 +87,7 @@
           {
             "_t": "Text",
             "Content": "Уведомления клиентам",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -98,7 +98,7 @@
           {
             "_t": "Text",
             "Content": "Управление картами",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

@@ -101,7 +101,7 @@
           {
             "_t": "Text",
             "Content": "1484,7% ROI",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -112,7 +112,7 @@
           {
             "_t": "Text",
             "Content": "+16,3% к AOV",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -123,7 +123,7 @@
           {
             "_t": "Text",
             "Content": "19,95%",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -283,7 +283,7 @@
           {
             "_t": "Text",
             "Content": "Автоматизированной",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -294,7 +294,7 @@
           {
             "_t": "Text",
             "Content": "Измеримой",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -305,7 +305,7 @@
           {
             "_t": "Text",
             "Content": "Масштабируемой",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -316,7 +316,7 @@
           {
             "_t": "Text",
             "Content": "Омниканальной",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -367,7 +367,7 @@
           {
             "_t": "Text",
             "Content": "Карточка товара",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -378,7 +378,7 @@
           {
             "_t": "Text",
             "Content": "Категория товаров",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -389,7 +389,7 @@
           {
             "_t": "Text",
             "Content": "Главная страница",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -400,7 +400,7 @@
           {
             "_t": "Text",
             "Content": "Корзина",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -411,7 +411,7 @@
           {
             "_t": "Text",
             "Content": "Пустая корзина",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -422,7 +422,7 @@
           {
             "_t": "Text",
             "Content": "Личный кабинет, избранное, страница 404, блог",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -433,7 +433,7 @@
           {
             "_t": "Text",
             "Content": "Страница успешного заказа",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -593,7 +593,7 @@
           {
             "_t": "Text",
             "Content": "Next Best Offer",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

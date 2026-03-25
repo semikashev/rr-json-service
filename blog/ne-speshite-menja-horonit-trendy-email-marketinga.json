@@ -525,7 +525,7 @@
           {
             "_t": "Text",
             "Content": "Постоянно улучшайте сценарии.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -567,7 +567,7 @@
           {
             "_t": "Text",
             "Content": "Вовлекайте через игру.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -578,7 +578,7 @@
           {
             "_t": "Text",
             "Content": "Делайте игры простыми.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -589,7 +589,7 @@
           {
             "_t": "Text",
             "Content": "Пусть клиенты сами распространяют ваш контент.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -631,7 +631,7 @@
           {
             "_t": "Text",
             "Content": "Добавьте интерактив.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -642,7 +642,7 @@
           {
             "_t": "Text",
             "Content": "Пишите лично для клиента.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

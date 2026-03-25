@@ -367,7 +367,7 @@
           {
             "_t": "Text",
             "Content": "Описание метрик",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -378,7 +378,7 @@
           {
             "_t": "Text",
             "Content": "Точность аналитики",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

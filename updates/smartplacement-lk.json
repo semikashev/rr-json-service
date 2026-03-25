@@ -30,7 +30,7 @@
           {
             "_t": "Text",
             "Content": "Ритейл-площадки",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -41,7 +41,7 @@
           {
             "_t": "Text",
             "Content": "Рекламодатели",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -52,7 +52,7 @@
           {
             "_t": "Text",
             "Content": "Рекламные агентства",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

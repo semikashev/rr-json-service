@@ -132,7 +132,7 @@
           {
             "_t": "Text",
             "Content": "Гибкость",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -143,7 +143,7 @@
           {
             "_t": "Text",
             "Content": "Точность",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -154,7 +154,7 @@
           {
             "_t": "Text",
             "Content": "Экономия времени",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -165,7 +165,7 @@
           {
             "_t": "Text",
             "Content": "Масштабируемость",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -176,7 +176,7 @@
           {
             "_t": "Text",
             "Content": "Простота использования",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -187,7 +187,7 @@
           {
             "_t": "Text",
             "Content": "Автосегментация",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

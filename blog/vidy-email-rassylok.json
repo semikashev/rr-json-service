@@ -43,7 +43,7 @@
           {
             "_t": "Text",
             "Content": "Увеличивать продажи:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -54,7 +54,7 @@
           {
             "_t": "Text",
             "Content": "Привлекать новых клиентов:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -76,7 +76,7 @@
           {
             "_t": "Text",
             "Content": "Собирать обратную связь:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -98,7 +98,7 @@
           {
             "_t": "Text",
             "Content": "Информировать о важных событиях:",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

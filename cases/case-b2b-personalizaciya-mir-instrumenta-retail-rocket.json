@@ -435,7 +435,7 @@
           {
             "_t": "Text",
             "Content": "Поиск",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -446,7 +446,7 @@
           {
             "_t": "Text",
             "Content": "Сопутствующие товары",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -457,7 +457,7 @@
           {
             "_t": "Text",
             "Content": "Аксессуары",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",

@@ -491,7 +491,7 @@
           {
             "_t": "Text",
             "Content": "Установите таймеры для акций",
-            "IsBold": true
+            "IsHighlight": true
           }
         ]
       ]
@@ -517,7 +517,7 @@
           {
             "_t": "Text",
             "Content": "Добавьте социальное доказательство",
-            "IsBold": true
+            "IsHighlight": true
           }
         ]
       ]
@@ -543,7 +543,7 @@
           {
             "_t": "Text",
             "Content": "Запускайте краткосрочные спецпредложения",
-            "IsBold": true
+            "IsHighlight": true
           }
         ]
       ]
@@ -595,7 +595,7 @@
           {
             "_t": "Text",
             "Content": "Тестируйте цепляющие темы писем",
-            "IsBold": true
+            "IsHighlight": true
           }
         ]
       ]
@@ -621,7 +621,7 @@
           {
             "_t": "Text",
             "Content": "Создавайте лимитированные коллекции",
-            "IsBold": true
+            "IsHighlight": true
           }
         ]
       ]
@@ -673,7 +673,7 @@
           {
             "_t": "Text",
             "Content": "Поощряйте клиентов делиться контентом",
-            "IsBold": true
+            "IsHighlight": true
           }
         ]
       ]

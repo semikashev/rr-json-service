@@ -525,7 +525,7 @@
           {
             "_t": "Text",
             "Content": "Завершение",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -602,7 +602,7 @@
           {
             "_t": "Text",
             "Content": "Профессиональные мероприятия.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -613,7 +613,7 @@
           {
             "_t": "Text",
             "Content": "Своя база.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -635,7 +635,7 @@
           {
             "_t": "Text",
             "Content": "Платные рекрутеры.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
@@ -677,7 +677,7 @@
           {
             "_t": "Text",
             "Content": "Случайные люди вне вашей аудитории.",
-            "IsBold": true
+            "IsHighlight": true
           },
           {
             "_t": "Text",
