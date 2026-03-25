@@ -38,7 +38,14 @@ analytics/        2 статьи — аналитические отчёты
 }
 ```
 
-Типы блоков: `Paragraph`, `Heading2`–`Heading4`, `Image`, `Video`, `UnorderedList`, `OrderedList`, `Table`, `Quote`, `Factoid`, `Formula`, `CtaPrimaryBlock`, `CtaSecondaryBlock`.
+Типы блоков: `Paragraph`, `Heading2`–`Heading6`, `Image`, `Video`, `UnorderedList`, `OrderedList`, `Table`, `Quote`, `Factoid`, `Formula`, `CtaPrimaryBlock`, `CtaSecondaryBlock`, `BigContentBg`, `SmallContentBg`, `Carousel`.
+
+### Промо-блоки с фоном
+
+- **BigContentBg** — промо-контейнер с фоновым изображением, заголовком и CTA-кнопкой. Поля: `ImageUrl`, `Alt`, `Elements`, `BtnText`, `BtnUrl`. (1 блок)
+- **SmallContentBg** — промо-контейнер без изображения, с заголовком и CTA-кнопкой. Поля: `TitleElements`, `Elements`, `BtnText`, `BtnUrl`. (78 блоков)
+
+Детектируются в WordPress HTML по контейнерам с `background_background: classic` в `data-settings`.
 
 Rich-text — массивы inline-элементов `Text` и `Link` с boolean-флагами форматирования:
 
@@ -59,7 +66,9 @@ Boolean-флаги присутствуют только со значением
 |---|---|
 | [`SCHEMA.md`](SCHEMA.md) | Полная спецификация BlogArticle JSON Schema |
 | `_mapping.json` | slug → {section, id, url} для всех 265 статей |
+| `_image_mapping_cdn.json` | WP URL → CDN URL для 1538 изображений |
 | `_leadtext_issues.json` | 4 статьи с пустым LeadText после очистки |
+| `_unpatched_content_bg.json` | 19 SmallContentBg, не запатченных автоматически |
 
 ## Очистка данных
 
