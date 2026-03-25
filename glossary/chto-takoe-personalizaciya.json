@@ -3,15 +3,8 @@
   "Label": [
     "Словарь"
   ],
-  "Letter": "П",
   "Title": "Что такое персонализация и как она помогает бизнесу",
-  "PublishDate": {
-    "$date": "2025-03-18T10:23:00"
-  },
-  "ImageUrl": null,
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Персонализация: что это такое и как она работает, страница 2",
   "LeadText": [
     {
       "Elements": [
@@ -22,7 +15,13 @@
       ]
     }
   ],
-  "MetaTitle": "Персонализация: что это такое и как она работает, страница 2",
+  "PublishDate": {
+    "$date": "2025-03-18T10:23:00"
+  },
+  "Letter": "П",
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "ContentBlockList": [
     {
       "_t": "Heading2",

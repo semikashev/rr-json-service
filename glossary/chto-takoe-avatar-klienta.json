@@ -3,15 +3,8 @@
   "Label": [
     "Словарь"
   ],
-  "Letter": "А",
   "Title": "Что такое Аватар клиента",
-  "PublishDate": {
-    "$date": "2025-03-20T15:39:00"
-  },
-  "ImageUrl": null,
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Аватар клиента: что это такое простыми словами и примеры, страница 2",
   "LeadText": [
     {
       "Elements": [
@@ -22,7 +15,13 @@
       ]
     }
   ],
-  "MetaTitle": "Аватар клиента: что это такое простыми словами и примеры, страница 2",
+  "PublishDate": {
+    "$date": "2025-03-20T15:39:00"
+  },
+  "Letter": "А",
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "ContentBlockList": [
     {
       "_t": "Heading2",

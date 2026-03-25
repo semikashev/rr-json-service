@@ -3,15 +3,8 @@
   "Label": [
     "Словарь"
   ],
-  "Letter": "П",
   "Title": "Что такое портрет клиента и как его составить",
-  "PublishDate": {
-    "$date": "2025-04-09T14:04:00"
-  },
-  "ImageUrl": null,
-  "AuthorIdList": [
-    "natalia-kazmina"
-  ],
+  "MetaTitle": "Портрет клиента: что это и как его составить, страница 2",
   "LeadText": [
     {
       "Elements": [
@@ -22,7 +15,13 @@
       ]
     }
   ],
-  "MetaTitle": "Портрет клиента: что это и как его составить, страница 2",
+  "PublishDate": {
+    "$date": "2025-04-09T14:04:00"
+  },
+  "Letter": "П",
+  "AuthorIdList": [
+    "natalia-kazmina"
+  ],
   "ContentBlockList": [
     {
       "_t": "Heading2",

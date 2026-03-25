@@ -3,15 +3,8 @@
   "Label": [
     "Словарь"
   ],
-  "Letter": "А",
   "Title": "AdTech: что это и как работают рекламные технологии",
-  "PublishDate": {
-    "$date": "2025-01-01T09:50:00"
-  },
-  "ImageUrl": null,
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "AdTech: что это такое, как работает и зачем нужно в 2025 году, страница 2",
   "LeadText": [
     {
       "Elements": [
@@ -22,7 +15,13 @@
       ]
     }
   ],
-  "MetaTitle": "AdTech: что это такое, как работает и зачем нужно в 2025 году, страница 2",
+  "PublishDate": {
+    "$date": "2025-01-01T09:50:00"
+  },
+  "Letter": "А",
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "ContentBlockList": [
     {
       "_t": "Heading2",

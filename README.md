@@ -72,6 +72,23 @@ Boolean-флаги присутствуют только со значением
    - Удаление Gravatar-аватарок, навигационных ссылок, мусорных маркеров
    - Удаление trailing-блоков «Похожие кейсы/статьи» (карточки-ссылки на другие материалы)
 
+## Целевые MongoDB-схемы
+
+JSON-файлы должны соответствовать MongoDB JSON Schema из репозитория:
+
+[`gl.retailrocket.ru/sandbox/landing`](https://gl.retailrocket.ru/sandbox/landing/-/tree/master/Migrations) → папка `Migrations/`:
+
+| Файл схемы | Секция |
+|---|---|
+| `blogArticles.schema.json` | blog/ |
+| `analyticsArticles.schema.json` | analytics/ |
+| `casesArticles.schema.json` | cases/ |
+| `glossaryArticles.schema.json` | glossary/ |
+| `newsArticles.schema.json` | news/ |
+| `updatesArticles.schema.json` | updates/ |
+
+**Известные расхождения**: `Industry` в cases — у нас массив, в схеме `string|null`. Запрошено расширение схемы до `array|null`.
+
 ## Источник данных
 
 Данные сконвертированы из WordPress-экспорта (v1 JSON) и обогащены через WP REST API (авторы, SEO-метаданные, категории). Скрипты конвертации (`convert.py`, `enrich.py`, `clean_articles.py`) находятся локально и не коммитятся — см. [`CLAUDE.md`](CLAUDE.md) для деталей.

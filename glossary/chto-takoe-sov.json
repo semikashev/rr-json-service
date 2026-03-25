@@ -3,15 +3,8 @@
   "Label": [
     "Словарь"
   ],
-  "Letter": "С",
   "Title": "Что такое SOV (Share of Voice) и его применение в маркетинге",
-  "PublishDate": {
-    "$date": "2025-08-28T10:59:00"
-  },
-  "ImageUrl": null,
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Что такое SOV (Share of Voice): определение, примеры и применение в маркетинге",
   "LeadText": [
     {
       "Elements": [
@@ -22,7 +15,13 @@
       ]
     }
   ],
-  "MetaTitle": "Что такое SOV (Share of Voice): определение, примеры и применение в маркетинге",
+  "PublishDate": {
+    "$date": "2025-08-28T10:59:00"
+  },
+  "Letter": "С",
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "ContentBlockList": [
     {
       "_t": "Heading2",

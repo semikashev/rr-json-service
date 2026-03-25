@@ -3,15 +3,8 @@
   "Label": [
     "Словарь"
   ],
-  "Letter": "Д",
   "Title": "DCO в рекламе: как динамическая оптимизация креативов изменяет подходы в рекламе",
-  "PublishDate": {
-    "$date": "2025-06-14T10:31:00"
-  },
-  "ImageUrl": null,
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "DCO в рекламе: как динамическая оптимизация креативов изменяет подходы в рекламе, страница 2",
   "LeadText": [
     {
       "Elements": [
@@ -22,7 +15,13 @@
       ]
     }
   ],
-  "MetaTitle": "DCO в рекламе: как динамическая оптимизация креативов изменяет подходы в рекламе, страница 2",
+  "PublishDate": {
+    "$date": "2025-06-14T10:31:00"
+  },
+  "Letter": "Д",
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "ContentBlockList": [
     {
       "_t": "Heading2",

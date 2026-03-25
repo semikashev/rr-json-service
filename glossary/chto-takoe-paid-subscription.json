@@ -3,15 +3,8 @@
   "Label": [
     "Словарь"
   ],
-  "Letter": "П",
   "Title": "Что такое платная подписка (Subscription)",
-  "PublishDate": {
-    "$date": "2025-07-29T09:53:00"
-  },
-  "ImageUrl": null,
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Что такое платная подписка (Subscription)",
   "LeadText": [
     {
       "Elements": [
@@ -22,7 +15,13 @@
       ]
     }
   ],
-  "MetaTitle": "Что такое платная подписка (Subscription)",
+  "PublishDate": {
+    "$date": "2025-07-29T09:53:00"
+  },
+  "Letter": "П",
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "ContentBlockList": [
     {
       "_t": "Heading2",

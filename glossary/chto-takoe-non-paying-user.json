@@ -3,15 +3,8 @@
   "Label": [
     "Словарь"
   ],
-  "Letter": "Н",
   "Title": "Что такое неплатящий пользователь (Non-Paying User)",
-  "PublishDate": {
-    "$date": "2025-07-29T22:22:00"
-  },
-  "ImageUrl": null,
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Что такое неплатящий пользователь (Non-Paying User)",
   "LeadText": [
     {
       "Elements": [
@@ -22,7 +15,13 @@
       ]
     }
   ],
-  "MetaTitle": "Что такое неплатящий пользователь (Non-Paying User)",
+  "PublishDate": {
+    "$date": "2025-07-29T22:22:00"
+  },
+  "Letter": "Н",
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "ContentBlockList": [
     {
       "_t": "Heading2",

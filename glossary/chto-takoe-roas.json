@@ -3,15 +3,8 @@
   "Label": [
     "Словарь"
   ],
-  "Letter": "Р",
   "Title": "ROAS (Return on Ad Spend): формула расчета показателя",
-  "PublishDate": {
-    "$date": "2025-07-16T10:49:00"
-  },
-  "ImageUrl": null,
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "ROAS (Return on Ad Spend): что это такое и как рассчитать",
   "LeadText": [
     {
       "Elements": [
@@ -22,7 +15,13 @@
       ]
     }
   ],
-  "MetaTitle": "ROAS (Return on Ad Spend): что это такое и как рассчитать",
+  "PublishDate": {
+    "$date": "2025-07-16T10:49:00"
+  },
+  "Letter": "Р",
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "ContentBlockList": [
     {
       "_t": "Heading2",

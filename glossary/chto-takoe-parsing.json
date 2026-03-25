@@ -3,15 +3,8 @@
   "Label": [
     "Словарь"
   ],
-  "Letter": "П",
   "Title": "Что такое парсинг",
-  "PublishDate": {
-    "$date": "2025-06-22T12:15:00"
-  },
-  "ImageUrl": null,
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Парсинг: что это такое, виды, примеры использования, страница 2",
   "LeadText": [
     {
       "Elements": [
@@ -22,7 +15,13 @@
       ]
     }
   ],
-  "MetaTitle": "Парсинг: что это такое, виды, примеры использования, страница 2",
+  "PublishDate": {
+    "$date": "2025-06-22T12:15:00"
+  },
+  "Letter": "П",
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "ContentBlockList": [
     {
       "_t": "Heading2",

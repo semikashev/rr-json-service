@@ -3,15 +3,8 @@
   "Label": [
     "Словарь"
   ],
-  "Letter": "М",
   "Title": "DAU, WAU и MAU: что это и как считать метрики",
-  "PublishDate": {
-    "$date": "2025-04-09T14:59:00"
-  },
-  "ImageUrl": null,
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "DAU, MAU и WAU: что это такое и как работают метрики, страница 2",
   "LeadText": [
     {
       "Elements": [
@@ -22,7 +15,13 @@
       ]
     }
   ],
-  "MetaTitle": "DAU, MAU и WAU: что это такое и как работают метрики, страница 2",
+  "PublishDate": {
+    "$date": "2025-04-09T14:59:00"
+  },
+  "Letter": "М",
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "ContentBlockList": [
     {
       "_t": "Heading2",

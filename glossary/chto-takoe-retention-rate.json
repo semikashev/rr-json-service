@@ -3,15 +3,8 @@
   "Label": [
     "Словарь"
   ],
-  "Letter": "Р",
   "Title": "Retention Rate (коэффициент удержания клиентов): что это и как посчитать",
-  "PublishDate": {
-    "$date": "2025-04-25T12:20:00"
-  },
-  "ImageUrl": null,
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Retention Rate: формула коэффициента удержания клиентов, страница 2",
   "LeadText": [
     {
       "Elements": [
@@ -22,7 +15,13 @@
       ]
     }
   ],
-  "MetaTitle": "Retention Rate: формула коэффициента удержания клиентов, страница 2",
+  "PublishDate": {
+    "$date": "2025-04-25T12:20:00"
+  },
+  "Letter": "Р",
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "ContentBlockList": [
     {
       "_t": "Heading2",

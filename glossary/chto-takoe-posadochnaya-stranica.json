@@ -3,15 +3,8 @@
   "Label": [
     "Словарь"
   ],
-  "Letter": "П",
   "Title": "Что такое посадочная страница и её применение в маркетинге",
-  "PublishDate": {
-    "$date": "2025-09-03T11:17:00"
-  },
-  "ImageUrl": null,
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Что такое посадочная страница: определение, примеры и применение в маркетинге",
   "LeadText": [
     {
       "Elements": [
@@ -22,7 +15,13 @@
       ]
     }
   ],
-  "MetaTitle": "Что такое посадочная страница: определение, примеры и применение в маркетинге",
+  "PublishDate": {
+    "$date": "2025-09-03T11:17:00"
+  },
+  "Letter": "П",
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "ContentBlockList": [
     {
       "_t": "Paragraph",

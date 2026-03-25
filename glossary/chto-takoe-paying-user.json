@@ -3,15 +3,8 @@
   "Label": [
     "Словарь"
   ],
-  "Letter": "П",
   "Title": "Что такое платящий пользователь (Paying User)",
-  "PublishDate": {
-    "$date": "2025-07-29T20:20:00"
-  },
-  "ImageUrl": null,
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Что такое платящий пользователь (Paying User)",
   "LeadText": [
     {
       "Elements": [
@@ -22,7 +15,13 @@
       ]
     }
   ],
-  "MetaTitle": "Что такое платящий пользователь (Paying User)",
+  "PublishDate": {
+    "$date": "2025-07-29T20:20:00"
+  },
+  "Letter": "П",
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "ContentBlockList": [
     {
       "_t": "Heading2",

@@ -3,15 +3,8 @@
   "Label": [
     "Словарь"
   ],
-  "Letter": "А",
   "Title": "Аутсорс (Outsourcing): что это такое и зачем нужен",
-  "PublishDate": {
-    "$date": "2025-06-29T16:36:00"
-  },
-  "ImageUrl": null,
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Аутсорс (Outsourcing): что это такое и зачем нужен",
   "LeadText": [
     {
       "Elements": [
@@ -22,7 +15,13 @@
       ]
     }
   ],
-  "MetaTitle": "Аутсорс (Outsourcing): что это такое и зачем нужен",
+  "PublishDate": {
+    "$date": "2025-06-29T16:36:00"
+  },
+  "Letter": "А",
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "ContentBlockList": [
     {
       "_t": "Heading2",

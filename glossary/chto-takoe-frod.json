@@ -3,15 +3,8 @@
   "Label": [
     "Словарь"
   ],
-  "Letter": "Ф",
   "Title": "Что такое фрод и как защитить бизнес от мошенников",
-  "PublishDate": {
-    "$date": "2025-04-25T12:28:00"
-  },
-  "ImageUrl": null,
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Фрод и фрод-мониторинг: что это такое, как работает и зачем нужен бизнесу, страница 2",
   "LeadText": [
     {
       "Elements": [
@@ -22,7 +15,13 @@
       ]
     }
   ],
-  "MetaTitle": "Фрод и фрод-мониторинг: что это такое, как работает и зачем нужен бизнесу, страница 2",
+  "PublishDate": {
+    "$date": "2025-04-25T12:28:00"
+  },
+  "Letter": "Ф",
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "ContentBlockList": [
     {
       "_t": "Heading2",

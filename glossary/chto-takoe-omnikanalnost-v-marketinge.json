@@ -3,15 +3,8 @@
   "Label": [
     "Словарь"
   ],
-  "Letter": "О",
   "Title": "Что такое омниканальность в маркетинге",
-  "PublishDate": {
-    "$date": "2024-10-22T09:55:00"
-  },
-  "ImageUrl": null,
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Что такое омниканальность в маркетинге и как она работает, страница 3",
   "LeadText": [
     {
       "Elements": [
@@ -22,7 +15,13 @@
       ]
     }
   ],
-  "MetaTitle": "Что такое омниканальность в маркетинге и как она работает, страница 3",
+  "PublishDate": {
+    "$date": "2024-10-22T09:55:00"
+  },
+  "Letter": "О",
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "ContentBlockList": [
     {
       "_t": "Paragraph",

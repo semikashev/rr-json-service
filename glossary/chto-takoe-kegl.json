@@ -3,15 +3,8 @@
   "Label": [
     "Словарь"
   ],
-  "Letter": "К",
   "Title": "Что такое Кегль",
-  "PublishDate": {
-    "$date": "2025-05-29T11:49:00"
-  },
-  "ImageUrl": null,
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Что такое кегль: как работает размер шрифта и на что он влияет, страница 2",
   "LeadText": [
     {
       "Elements": [
@@ -22,7 +15,13 @@
       ]
     }
   ],
-  "MetaTitle": "Что такое кегль: как работает размер шрифта и на что он влияет, страница 2",
+  "PublishDate": {
+    "$date": "2025-05-29T11:49:00"
+  },
+  "Letter": "К",
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "ContentBlockList": [
     {
       "_t": "Heading2",

@@ -3,15 +3,8 @@
   "Label": [
     "Словарь"
   ],
-  "Letter": "А",
   "Title": "Что такое Аудит рекламы",
-  "PublishDate": {
-    "$date": "2025-05-26T12:58:00"
-  },
-  "ImageUrl": null,
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Аудит рекламы: что это такое и как его проводить, страница 2",
   "LeadText": [
     {
       "Elements": [
@@ -22,7 +15,13 @@
       ]
     }
   ],
-  "MetaTitle": "Аудит рекламы: что это такое и как его проводить, страница 2",
+  "PublishDate": {
+    "$date": "2025-05-26T12:58:00"
+  },
+  "Letter": "А",
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "ContentBlockList": [
     {
       "_t": "Paragraph",

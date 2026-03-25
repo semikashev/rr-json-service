@@ -3,15 +3,8 @@
   "Label": [
     "Словарь"
   ],
-  "Letter": "Т",
   "Title": "Что такое Теневой бан",
-  "PublishDate": {
-    "$date": "2025-06-22T21:24:00"
-  },
-  "ImageUrl": null,
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Теневой бан: что это такое, за что дают и как выйти",
   "LeadText": [
     {
       "Elements": [
@@ -22,7 +15,13 @@
       ]
     }
   ],
-  "MetaTitle": "Теневой бан: что это такое, за что дают и как выйти",
+  "PublishDate": {
+    "$date": "2025-06-22T21:24:00"
+  },
+  "Letter": "Т",
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "ContentBlockList": [
     {
       "_t": "Heading2",

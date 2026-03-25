@@ -3,17 +3,16 @@
   "Label": [
     "Словарь"
   ],
-  "Letter": "О",
   "Title": "Что такое OTS (Opportunity To See)",
+  "MetaTitle": "Что такое OTS (Opportunity To See), страница 2",
+  "LeadText": [],
   "PublishDate": {
     "$date": "2025-06-18T14:47:00"
   },
-  "ImageUrl": null,
+  "Letter": "О",
   "AuthorIdList": [
     "kirill-morozov"
   ],
-  "LeadText": [],
-  "MetaTitle": "Что такое OTS (Opportunity To See), страница 2",
   "ContentBlockList": [
     {
       "_t": "Heading2",

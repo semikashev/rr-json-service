@@ -9,28 +9,30 @@
 
 Каждый JSON-файл — одна статья. PascalCase, `_t` — discriminator.
 
-### Общие поля (все секции)
+Целевые MongoDB-схемы: [`gl.retailrocket.ru/sandbox/landing`](https://gl.retailrocket.ru/sandbox/landing/-/tree/master/Migrations) → `Migrations/*.schema.json`
+
+### Общие поля (blog, analytics, news, updates)
 
 ```
 Slug            string          URL-slug статьи
 Label           string[]        WP-категории (может быть несколько, или пустой для pages/events)
 Title           string          Заголовок (H1)
+MetaTitle       string          SEO-заголовок
+LeadText        Paragraph[]     Вводный абзац из WP excerpt (может быть пустой)
 PublishDate     {$date: string} MongoDB Extended JSON
 ImageUrl        string|null     Обложка (CDN URL или null)
 AuthorIdList    string[]        Slug-и авторов (может быть пустой)
-LeadText        Paragraph[]     Вводный абзац из WP excerpt (может быть пустой)
-MetaTitle       string          SEO-заголовок
 ContentBlockList Block[]        Тело статьи
 ```
 
 ### Дополнительные поля по секциям
 
-- **glossary/** → `Letter` (string): буква алфавита. Источник: WP-таксономия `alphabet_letter`.
-- **cases/** → `Industry` (string[]): индустрия клиента. Источник: WP-таксономия `case_industry`. 10 значений: DIY, FMCG, HoReCa, Ритейл, Бьюти, Детские товары, Искусство, Образование, Строительство, 18+.
+- **glossary/** → `Letter` (string, required): буква алфавита. Источник: WP-таксономия `alphabet_letter`. **Нет поля ImageUrl** (в отличие от других секций).
+- **cases/** → `Industry` (string[]|null): индустрия клиента. Источник: WP-таксономия `case_industry`. 10 значений: DIY, FMCG, HoReCa, Ритейл, Бьюти, Детские товары, Искусство, Образование, Строительство, 18+. `AuthorIdList` может быть `null` (для кейсов-подрядчиков).
 
 ### Типы блоков ContentBlockList
 
-`Paragraph`, `Heading2`, `Heading3`, `Heading4`, `Image`, `UnorderedList`, `OrderedList`, `Table`, `Quote`, `Factoid`, `Formula`, `CtaPrimaryBlock`, `CtaSecondaryBlock`.
+`Paragraph`, `Heading2`–`Heading6`, `Image`, `Video`, `UnorderedList`, `OrderedList`, `Table`, `Quote`, `Factoid`, `Formula`, `CtaPrimaryBlock`, `CtaSecondaryBlock`, `BigContentBg`, `SmallContentBg`, `Carousel`.
 
 ### Rich-text элементы
 
