@@ -24,15 +24,6 @@
   "MetaTitle": "Открыта регистрация на девятую конференцию Retention Day – Retail Rocket Group",
   "ContentBlockList": [
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "19 сентября Retail Rocket Group проводит очередную конференцию Retention Day 9. Мероприятие пройдет в гибридном формате: онлайн и офлайн, собирая лучших экспертов индустрии и лидеров мнений, чтобы обсудить ключевые тренды в e-commerce, Retail Media и персонализации. В программе Retention Day 9:"
-        }
-      ]
-    },
-    {
       "_t": "UnorderedList",
       "Items": [
         [

@@ -29,29 +29,6 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "По данным "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-value-of-getting-personalization-right-or-wrong-is-multiplying",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "исследований McKinsey"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": ", персонализация увеличивает выручку e-commerce на 10–15% и повышает эффективность маркетинговых расходов на 10–30%. Виджеты — один из главных инструментов такой персонализации. Но не все виджеты одинаково полезны."
-        }
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
           "Content": "Золотой стандарт — рекомендательные блоки на сайте и виджеты в поиске, дополняемые таргетированными рекламными плейсментами Retail Media. Они напрямую влияют на выручку, конверсию (CR), средний чек (AOV), глубину просмотра и возвраты пользователей."
         }
       ]
