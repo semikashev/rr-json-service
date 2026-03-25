@@ -28,7 +28,7 @@ ContentBlockList Block[]        Тело статьи
 ### Дополнительные поля по секциям
 
 - **glossary/** → `Letter` (string, required): буква алфавита. Источник: WP-таксономия `alphabet_letter`. **Нет поля ImageUrl** (в отличие от других секций).
-- **cases/** → `Industry` (string[]|null): индустрия клиента. Источник: WP-таксономия `case_industry`. 10 значений: DIY, FMCG, HoReCa, Ритейл, Бьюти, Детские товары, Искусство, Образование, Строительство, 18+. `AuthorIdList` может быть `null` (для кейсов-подрядчиков).
+- **cases/** → `IndustryList` (string[]|null): индустрия клиента. Источник: WP-таксономия `case_industry`. 10 значений: DIY, FMCG, HoReCa, Ритейл, Бьюти, Детские товары, Искусство, Образование, Строительство, 18+. `AuthorIdList` может быть `null` (для кейсов-подрядчиков).
 
 ### Типы блоков ContentBlockList
 
@@ -179,7 +179,7 @@ done
 # 4. Очистка
 python3 clean_articles.py --apply
 
-# 5. Обогащение (Industry, Letter и т.д.) — отдельными скриптами
+# 5. Обогащение (IndustryList, Letter и т.д.) — отдельными скриптами
 ```
 
 **Внимание:** после шага 1 файлы в корневых папках будут в v1 формате. Шаги 2–3 возвращают их в v2. Не коммитить между шагами.
@@ -198,7 +198,7 @@ python3 clean_articles.py --apply
 
 - **4 статьи с пустым LeadText** — `tolko-po-soglasiju-...` (blog), `chto-takoe-fmcg`, `chto-takoe-ots`, `kross-kanalnost-na-praktike` (glossary)
 - **3 кейса без AuthorIdList** — новый формат кейса-подрядчика (2026), на сайте блок авторов не рендерится
-- **2 кейса без Industry** — `podrygka-online`, `rfm-segmentatsiya-keys-tehnosila` (не заполнено в WP)
+- **2 кейса без IndustryList** — `podrygka-online`, `rfm-segmentatsiya-keys-tehnosila` (не заполнено в WP)
 - **proxy-metrics part-2 в blog/ вместо analytics/** — расхождение в WP-категоризации, данные точно отражают WP
 - **WP API `IncompleteRead`** — retry + `per_page=20`
 - **Видео URL** — всегда embed-формат: `https://www.youtube.com/embed/VIDEO_ID`
