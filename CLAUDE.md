@@ -1,28 +1,54 @@
 # Инструкции для агента
 
-## Обзор проекта
+## Обзор
 
-Репозиторий содержит 265 статей с сайта retailrocket.ru, сконвертированных из WordPress-экспорта (v1) в формат **BlogArticle JSON Schema**. Схема описана в `SCHEMA.md`.
+Репозиторий — **265 статей** с сайта retailrocket.ru в формате **BlogArticle JSON Schema**.
+8 секций: `blog/`(125), `glossary/`(42), `updates/`(30), `cases/`(24), `news/`(21), `pages/`(18), `events/`(3), `analytics/`(2).
 
-Статьи распределены по 8 секциям-папкам: `blog/`, `analytics/`, `glossary/`, `cases/`, `news/`, `updates/`, `pages/`, `events/`.
+## Целевая схема
 
-## Архитектура данных
+Каждый JSON-файл — одна статья. PascalCase, `_t` — discriminator.
 
-### Формат файлов
+### Общие поля (все секции)
 
-- Каждый JSON-файл — одна статья в формате BlogArticle
-- PascalCase для всех полей
-- `_t` — discriminator-поле на каждом блоке и inline-элементе
-- Rich-text: массивы `Text`/`Link` элементов с boolean-флагами форматирования (`IsHighlight`, `IsBold`, `IsItalic` и т.д.)
-- Boolean-флаги присутствуют ТОЛЬКО когда `true` (опущены если `false`)
-- `IsHighlight` — маркерное выделение (зелёный цвет `#DAFB9D` на сайте), используется в Paragraph-блоках
-- `IsBold` — обычный жирный, используется только в OrderedList/UnorderedList
+```
+Slug            string          URL-slug статьи
+Label           string[]        WP-категории (может быть несколько, или пустой для pages/events)
+Title           string          Заголовок (H1)
+PublishDate     {$date: string} MongoDB Extended JSON
+ImageUrl        string|null     Обложка (CDN URL или null)
+AuthorIdList    string[]        Slug-и авторов (может быть пустой)
+LeadText        Paragraph[]     Вводный абзац из WP excerpt (может быть пустой)
+MetaTitle       string          SEO-заголовок
+ContentBlockList Block[]        Тело статьи
+```
+
+### Дополнительные поля по секциям
+
+- **glossary/** → `Letter` (string): буква алфавита. Источник: WP-таксономия `alphabet_letter`.
+- **cases/** → `Industry` (string[]): индустрия клиента. Источник: WP-таксономия `case_industry`. 10 значений: DIY, FMCG, HoReCa, Ритейл, Бьюти, Детские товары, Искусство, Образование, Строительство, 18+.
+
+### Типы блоков ContentBlockList
+
+`Paragraph`, `Heading2`, `Heading3`, `Heading4`, `Image`, `UnorderedList`, `OrderedList`, `Table`, `Quote`, `Factoid`, `Formula`, `CtaPrimaryBlock`, `CtaSecondaryBlock`.
+
+### Rich-text элементы
+
+Массивы `Text` и `Link` с boolean-флагами (присутствуют ТОЛЬКО когда `true`):
+
+| Флаг | Значение | Где встречается |
+|---|---|---|
+| `IsHighlight` | Маркерное выделение (зелёный `#DAFB9D`) | Paragraph, списки из `icon-list.default` |
+| `IsBold` | Обычный жирный | Списки из `text-editor.default` |
+| `IsItalic`, `IsUnderline`, `IsStrike` | Курсив, подчёркивание, зачёркивание | Везде |
+
+**Важно:** `IsHighlight` и `IsBold` — разные вещи. На сайте CSS-правило `.elementor-heading-title b, .elementor-icon-list-text b, .rr-table-cell b { color: #DAFB9D }` делает bold зелёным в трёх контекстах: Paragraph (heading.default), icon-list, кастомные таблицы. В обычных списках (text-editor.default) bold остаётся жирным.
 
 ### Labels (метки)
 
-Источник — **категории WordPress** (НЕ теги). Маппинг:
+Источник — **категории WordPress** (НЕ теги):
 
-| WP-категория (slug) | Отображаемое имя |
+| WP-категория | Отображаемое имя |
 |---|---|
 | `blog` | Теория и практика |
 | `glossary` | Словарь |
@@ -34,158 +60,143 @@
 | `retail-media-360` | Retail Media 360 |
 | `next-gen-comms` | Next-Gen comms |
 
-- У статьи может быть **несколько меток** (например, `["CX & Loyalty", "Теория и практика"]`)
-- Pages и events имеют пустой `Label: []`
+У статьи может быть несколько меток. Pages и events — `Label: []`.
 
-### Вспомогательные файлы
+## Актуальные скрипты-обработчики
 
-| Файл | Описание | В git |
-|---|---|---|
-| `SCHEMA.md` | Полная спецификация BlogArticle JSON Schema | Да |
-| `_mapping.json` | slug → {section, id, url} для всех 265 статей | Да |
-| `_image_mapping.json` | original URL → relative path для всех 1538 изображений | Да |
-| `_leadtext_issues.json` | 4 статьи с пустым LeadText после очистки | Да |
-| `convert.py` | Конвертер v1 → BlogArticle | Нет (.gitignore) |
-| `enrich.py` | Обогащение из WP REST API | Нет (.gitignore) |
-| `download_images.py` | Скачивание изображений из JSON-статей | Нет (.gitignore) |
-| `clean_articles.py` | Чистильщик BlogArticle от мусорных блоков WP | Нет (.gitignore) |
-| `_enrichment.json` | Кеш обогащения (авторы, SEO, категории) | Нет (.gitignore) |
-| `_image_errors.json` | Ошибки скачивания изображений (если есть) | Нет (.gitignore) |
-| `images/` | Скачанные изображения (1538 файлов, ~454 МБ) | Нет (.gitignore) |
-| `output/` | Промежуточный вывод конвертера | Нет (.gitignore) |
+Все скрипты — Python 3 stdlib, без внешних зависимостей (кроме экспортера: beautifulsoup4 + lxml).
 
-## Скрипты конвертации
+### 1. Экспортер: `../export_retailrocket.py`
 
-### convert.py
+Скачивает HTML из WP REST API → парсит BeautifulSoup → выдаёт v1 JSON (плоские блоки с Markdown-разметкой).
 
-Конвертер из v1-формата в BlogArticle. Только stdlib Python 3.
+**Фильтрация шаблонного мусора** — по `data-widget_type`:
+
+```python
+_SKIP_WIDGET_TYPES = {
+    "theme-post-excerpt.default",          # дубль LeadText
+    "rrposts-authors-list-item.default",   # блок автора (уже в AuthorIdList)
+    "rrposts_back_to_category.default",    # навигация «← Вернуться назад»
+    "post-info.default",                   # лейблы категорий
+    "clients_widget.default",             # декоративный marquee
+    "counter.default",                    # JS-анимация
+    "team-slider.default",               # фото-marquee
+    "steps_slider.default",              # слайдер шагов
+    "pricing-form-v2.default",           # форма
+    "rr-form-builder.default",           # лид-форма
+}
+```
+
+### 2. Конвертер: `convert.py` (в retailrocket-json/)
+
+v1 JSON → BlogArticle (v2). Читает из корневых папок, пишет в `output/`.
 
 Ключевые функции:
-- `clean_excerpt()` — очистка LeadText от мусора (навигация, авторство, оглавления)
-- `normalize_youtube_url()` — приведение YouTube URL к embed-формату
-- `_strip_leading_garbage()` — удаление мусора с начала ContentBlockList (лейбл категории, дубль LeadText, авторский блок, gravatar, навигация)
-- `_clean_content_blocks()` — пост-обработка: удаление/обрезка параграфов с «Содержание статьи/видео», «Авторы статьи», «Похожие статьи»
-- `_strip_trailing_garbage()` — удаление gravatar-аватарок и авторских блоков с конца (формат B)
-- `_bold_to_highlight()` — замена `IsBold` → `IsHighlight` в Paragraph (на сайте bold в heading.default = зелёный маркер)
-- Gravatar-URL в `ImageUrl` верхнего уровня обнуляется (`null`)
-- HTML entities (`&nbsp;`, `&mdash;` и т.д.) декодируются через `html.unescape()`
+- `clean_excerpt()` — очистка LeadText (навигация, авторство, оглавления)
+- `_strip_leading_garbage()` — удаление мусора с начала ContentBlockList
+- `_strip_trailing_garbage()` — удаление мусора с конца
+- `_clean_content_blocks()` — обрезка параграфов с мусорными маркерами
+- `_bold_to_highlight()` — `IsBold → IsHighlight` в Paragraph
+- LeadText дубликат: **prefix-match** (не строгое `==`, т.к. WP обрезает excerpt)
+- Авторский параграф: regex на 6 авторов (Казьмина, Морозов, Криеву, Тимохин, Козлова, Давыдова)
 
-Пропускаемые блоки v1: `heading_1` (дублирует Title), `carousel`, `ImageCaption`, `contents` (оглавление).
+### 3. Клинер: `clean_articles.py` (в retailrocket-json/)
 
-### enrich.py
+Чистит BlogArticle JSON файлы **in-place** (без v1 исходников). Идемпотентный.
 
-Обогащение через WP REST API (публичный, без авторизации). Только stdlib + `urllib`.
+```bash
+python3 clean_articles.py              # dry-run
+python3 clean_articles.py --apply      # применить
+python3 clean_articles.py cases/slug.json --apply  # один файл
+```
 
-- `fetch_json()` / `fetch_json_with_headers()` — HTTP-запросы с retry (3 попытки, 2 сек задержка)
-- `load_categories()` — загрузка категорий WP
-- `per_page=20` (уменьшено с 100 из-за `IncompleteRead` ошибок)
+Что чистит:
+- Дубликат LeadText (prefix-match)
+- Авторский параграф (6 авторов)
+- Gravatar-аватарки
+- Навигационные ссылки «Читать далее →»
+- Мусорные маркеры («Содержание статьи», «Авторы статьи», «Похожие статьи»)
+- Trailing-блоки «Похожие кейсы/статьи» (≥2 карточек-ссылок на retailrocket.ru)
+- `IsBold → IsHighlight` в Paragraph
+- Декодирование HTML entities
 
-## Правила при внесении изменений
+### 4. Обогащение: `enrich.py` (в retailrocket-json/)
 
-### Что коммитить
+WP REST API → `_enrichment.json` (авторы, SEO, категории, quote-авторы).
+
+### 5. Изображения: `download_images.py` (в retailrocket-json/)
+
+Скачивает изображения из JSON-статей → `images/`, маппинг в `_image_mapping.json`.
+
+## Стратегии решения типовых задач
+
+### Добавление нового поля из WordPress
+
+1. Определить источник: WP-таксономия (`wp/v2/<taxonomy>?post=ID`), поле поста, или данные из HTML
+2. Загрузить все значения через WP REST API
+3. Добавить поле в JSON-файлы (после `Label` для section-specific полей)
+4. Обновить `convert.py` для будущих конвертаций
+5. Обновить `README.md` и `CLAUDE.md`
+
+### Очистка мусорных блоков
+
+**Два уровня фильтрации:**
+
+1. **Экспортер** (структурный) — если у мусора есть уникальный `data-widget_type`, добавить его в `_SKIP_WIDGET_TYPES`. Это самый надёжный способ.
+2. **Клинер** (текстовый) — если мусор приходит из `text-editor.default` (тот же виджет, что и полезный контент), используем текстовые эвристики в `clean_articles.py`.
+
+Порядок: сначала проверить структуру WP HTML, затем — текстовые паттерны.
+
+### Исправление IsHighlight / IsBold
+
+CSS-правило определяет контекст:
+
+```css
+.elementor-heading-title b { color: #DAFB9D }   /* Paragraph → IsHighlight */
+.elementor-icon-list-text b { color: #DAFB9D }   /* icon-list → IsHighlight */
+.rr-table-cell b { color: #DAFB9D }              /* rr-table → IsHighlight */
+/* text-editor.default <b> → IsBold (обычный жирный) */
+```
+
+Для патча существующих файлов: загрузить HTML из WP API, найти bold-тексты внутри `icon-list.default` виджетов, сопоставить с JSON и заменить `IsBold → IsHighlight`.
+
+### Полная переконвертация
+
+```bash
+# 1. Экспорт v1 (перезаписывает JSON-файлы в корневых папках)
+cd .. && python3 export_retailrocket.py
+
+# 2. Конвертация v1 → v2 (пишет в output/)
+cd retailrocket-json && python3 convert.py
+
+# 3. Копирование v2 обратно
+for s in blog analytics glossary cases news updates pages events; do
+  cp output/$s/*.json $s/ 2>/dev/null
+done
+
+# 4. Очистка
+python3 clean_articles.py --apply
+
+# 5. Обогащение (Industry, Letter и т.д.) — отдельными скриптами
+```
+
+**Внимание:** после шага 1 файлы в корневых папках будут в v1 формате. Шаги 2–3 возвращают их в v2. Не коммитить между шагами.
+
+## Что коммитить
 
 - JSON-файлы статей (все 8 папок)
-- `SCHEMA.md`
-- `_mapping.json`
-- `_image_mapping.json`
-- `_leadtext_issues.json`
-- `README.md`, `CLAUDE.md`
+- `SCHEMA.md`, `README.md`, `CLAUDE.md`
+- `_mapping.json`, `_image_mapping.json`, `_leadtext_issues.json`
 
-### Что НЕ коммитить
+## Что НЕ коммитить
 
-Всё перечисленное в `.gitignore`: скрипты (`convert.py`, `enrich.py`, `download_images.py`), кеши (`_enrichment.json`), промежуточные файлы (`output/`), изображения (`images/`), архивы.
-
-### Очистка LeadText
-
-При правке LeadText удалять:
-- `← Вернуться назад`
-- `Читать далее →`
-- `[…]`
-- Строки авторства (имя + должность)
-- Всё после `Содержание статьи` / `Содержание видео`
-
-Если после очистки текст пуст — `LeadText: []`, добавить запись в `_leadtext_issues.json`.
-
-### Очистка ContentBlockList
-
-В ContentBlockList должно быть **только тело статьи**. Удалять:
-
-**С начала (в порядке проверки):**
-- UnorderedList с лейблом WP-категории (1 item, текст = название категории)
-- Paragraph-дубликат LeadText (нормализованное сравнение, ё→е)
-- Paragraph с именем автора + должностью (regex-паттерн)
-- Image с Gravatar-аватаркой (Alt = "Picture of ...")
-- Paragraph со ссылкой «Читать далее →» (навигация glossary)
-
-**Внутри текста (обрезка/удаление):**
-- Блоки оглавления (`contents` в v1)
-- Параграфы с «Содержание статьи» / «Содержание видео»
-- Параграфы с «Авторы статьи» (обрезка до маркера)
-- Параграфы с «Похожие статьи» (обрезка до маркера)
-
-**С конца:**
-- Gravatar-аватарки (Image с Alt = "Picture of ...")
-- Авторские параграфы (формат B — новый WP-шаблон)
-
-### Видео URL
-
-Всегда в embed-формате: `https://www.youtube.com/embed/VIDEO_ID`
-
-### download_images.py
-
-Скачивание всех изображений из JSON-статей. Python 3, stdlib + `urllib`.
-
-- Извлекает URL из трёх полей: `ImageUrl` (top-level обложка + Image-блоки), `AuthorImageUrl` (Quote-блоки)
-- 3 источника: `retailrocket.ru` (~1445 URL), `gallery.retailrocket.net` (88), `secure.gravatar.com` (5)
-- Транслитерация кириллицы в именах файлов (встроенная таблица, без зависимостей)
-- Gravatar URL: декодирование HTML entities (`&#038;` → `&`), имя файла `gravatar-{hash[:12]}-s{size}.jpg`
-- Дедупликация: один URL → одна копия в папке первой встретившейся статьи
-- Скачивание: чанками по 64KB, проверка `Content-Length`, retry 3x с задержкой 2 сек
-- Параллельность: `ThreadPoolExecutor` (по умолчанию 10 потоков)
-- Результат: `images/{section}/{slug}/{filename}`, маппинг в `_image_mapping.json`
-
-```bash
-python3 download_images.py              # скачать все 1538 изображений
-python3 download_images.py --dry-run    # только собрать URL и сохранить маппинг
-python3 download_images.py --retry-errors  # повторить только неудачные из _image_errors.json
-python3 download_images.py --workers 5  # ограничить число потоков
-```
-
-### Перезапуск конвертации
-
-```bash
-# 1. Обогатить данные из WP API
-python3 enrich.py
-
-# 2. Сконвертировать все статьи
-python3 convert.py
-
-# 3. Скопировать из output/ в корневые папки
-# (convert.py пишет в output/{section}/{slug}.json)
-
-# 4. Скачать изображения
-python3 download_images.py
-```
-
-### Очистка уже сконвертированных статей
-
-`clean_articles.py` чистит BlogArticle JSON файлы in-place (без необходимости v1 исходников).
-
-```bash
-python3 clean_articles.py              # dry-run — показать что будет удалено
-python3 clean_articles.py --apply      # применить все изменения
-python3 clean_articles.py cases/pizza-case.json --apply  # очистить один файл
-```
-
-Скрипт идемпотентен — повторный запуск не меняет уже очищенные файлы.
+Всё в `.gitignore`: скрипты (`convert.py`, `enrich.py`, `clean_articles.py`, `download_images.py`), кеши (`_enrichment.json`, `_alt_vision_cache.json`), промежуточные файлы (`output/`), изображения (`images/`), `.env`.
 
 ## Известные особенности
 
-- **WP API `IncompleteRead`** — при больших ответах. Решается retry + `per_page=20`
-- **HTML entities в категориях** — `html.unescape()` обязателен (напр. `CX &amp; Loyalty`)
-- **Event-файлы** — slug содержит URL-encoded кириллицу (`%d0%bd%d0%b0%d0%b7...`)
 - **4 статьи с пустым LeadText** — `tolko-po-soglasiju-...` (blog), `chto-takoe-fmcg`, `chto-takoe-ots`, `kross-kanalnost-na-praktike` (glossary)
-- **1 blog-статья без Label** — пустой массив
-- **3 кейса без блока авторов** — `AuthorIdList: []` у `case-b2b-personalizaciya-mir-instrumenta-retail-rocket`, `personalizaciya-sajta-i-rassylok-krasnyj-karandash`, `prodvizhenie-na-lemana-pro-retail-media-kejs`. Это новый формат кейса-подрядчика (2026): CTA-виджет встроен в тело статьи, эксперт RRG цитируется с фото в Quote-блоке. На сайте блок `rrposts-authors-list-item` (WordPress-плагин) для таких страниц не рендерится — источник истины. Остальные 21 кейс имеют `AuthorIdList` заполненным.
-- **EmphasisQuote** из v1 маппится на `Factoid` в новом формате
-- **proxy-metrics part-2 в blog/ вместо analytics/** — серия из 3 статей `proxy-metrics-v-e-commerce-part-{1,2,3}`: part-1 и part-3 имеют WP-категорию `analytics` (Label: `"Аналитика"`), но part-2 имеет категорию `blog` (Label: `"Теория и практика"`). Это расхождение в категоризации на стороне WordPress, данные точно отражают WP-категории.
+- **3 кейса без AuthorIdList** — новый формат кейса-подрядчика (2026), на сайте блок авторов не рендерится
+- **2 кейса без Industry** — `podrygka-online`, `rfm-segmentatsiya-keys-tehnosila` (не заполнено в WP)
+- **proxy-metrics part-2 в blog/ вместо analytics/** — расхождение в WP-категоризации, данные точно отражают WP
+- **WP API `IncompleteRead`** — retry + `per_page=20`
+- **Видео URL** — всегда embed-формат: `https://www.youtube.com/embed/VIDEO_ID`
