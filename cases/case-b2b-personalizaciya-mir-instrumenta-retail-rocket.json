@@ -654,58 +654,6 @@
           "Content": ". В компаниях с филиальной структурой и legacy-системами на 1С самая сложная часть — собрать базу воедино. Это инвестиция времени, но она окупается."
         }
       ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Рост среднего чека за счет релевантности",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": ". Блоки рекомендаций помогают увеличивать сумму заказа за счет релевантных товаров, а не агрессивных продаж. В B2B это особенно ценно: менеджеры физически не могут охватить весь ассортимент. Похожие кейсы "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/cases/personalizaciya-sajta-i-rassylok-krasnyj-karandash/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кейсы +21,9 % выручки с помощью персонализации сайта и рассылок. Кейс «Красный Карандаш» Кирилл Морозов 05.02.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/cases/kak-intimshop-uvelichil-vyruchku-blagodarya-personalizacii/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кейсы Как IntimShop увеличил выручку благодаря персонализации блога и email-маркетинга Кирилл Морозов 26.09.2024"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/cases/kak-mehaniki-uvelichili-dohod-ot-tovarnyh-rekomendatsiy-v-5-raz-case-aushan/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кейсы Какие механики увеличивают доход от товарных рекомендаций: кейс АШАН Кирилл Морозов 21.08.2024"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

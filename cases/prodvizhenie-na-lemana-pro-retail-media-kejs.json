@@ -797,53 +797,6 @@
           }
         ]
       ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Похожие кейсы "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/cases/kak-detskij-mir-vnedril-prediktivnuyu-analitiku-v-reklamnyj-inventar/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кейсы Искусственный интеллект на маркетплейсе. Как «Детский мир» внедрил предиктивную аналитику в рекламный инвентарь Кирилл Морозов 27.08.2025"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/cases/pyat-instrumentov-prodvizheniya-detskih-tovarov-na-marketplejsah/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кейсы Пять инструментов продвижения детских товаров на маркетплейсах Кирилл Морозов 29.06.2025"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/cases/kak-sozdat-spros-na-novye-tovary/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Кейсы Кейс Pharmacosmetica и Smart Placement: как создать спрос на новые товары Наталья Казьмина 29.06.2025"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
