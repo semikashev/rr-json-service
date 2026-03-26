@@ -884,8 +884,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Результат"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Результат"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
