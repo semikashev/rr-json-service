@@ -499,7 +499,7 @@
         {
           "_t": "Text",
           "Content": "увеличила в 5 раз доход от товарных рекомендаций",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
@@ -557,7 +557,7 @@
         {
           "_t": "Text",
           "Content": "увеличить на 7,3% выручку в сложной сфере",
-          "IsBold": true
+          "IsHighlight": true
         },
         {
           "_t": "Text",
