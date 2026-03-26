@@ -538,7 +538,12 @@
           "Content": "Платформа SailPlay"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Возвращает клиентов автоматически"
+        }
+      ],
       "BtnText": "Узнать о продукте",
       "BtnUrl": "https://sailplay.ru/"
     }

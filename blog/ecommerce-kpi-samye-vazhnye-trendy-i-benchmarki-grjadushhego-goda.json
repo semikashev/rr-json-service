@@ -250,7 +250,12 @@
           "Content": "+6,4% к выручке благодаря рекомендациям в корзине"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Petrovich.ru добавил персональные рекомендации товаров прямо на страницу корзины. Конверсия выросла на 2,19%, средний чек — на 4,12%, выручка — на 6,4%."
+        }
+      ],
       "BtnText": "Читать кейс",
       "BtnUrl": "https://retailrocket.ru/cases/personalizirovannii-podhod-k-reklame-keis-petrovicha/"
     },
@@ -378,7 +383,12 @@
           "Content": "Рост дохода на 12% после внедрения персональных рекомендаций"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Интернет-магазин Siebel Juweliers установил персональные товарные рекомендации Retail Rocket на всех ключевых страницах. Результат — +12% к выручке и +18,3% к количеству заказов."
+        }
+      ],
       "BtnText": "Читать кейс",
       "BtnUrl": "https://retailrocket.ru/blog/cases/kejs-personalizacii-siebel-juweliers/"
     },

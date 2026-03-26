@@ -215,7 +215,12 @@
           "Content": "CTR 1,31% и рост продаж ×8 за месяц"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "ЛЭТУАЛЬ протестировал Smart Placement Ads от Retail Rocket Group. Предиктивные алгоритмы и персонализация дали CTR выше рынка — 1,31%, рост продаж в 8 раз и 100% ROI за квартал."
+        }
+      ],
       "BtnText": "Читать кейс",
       "BtnUrl": "https://retailrocket.ru/cases/retail-media-letual-roi-100-za-3-mesyatsa/"
     },

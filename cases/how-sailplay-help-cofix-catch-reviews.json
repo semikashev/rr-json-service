@@ -281,7 +281,12 @@
           "Content": "Хотите так же?"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Расскажем, как возможности платформы для автоматизации маркетинга Sailplay помогут вашему бизнесу."
+        }
+      ],
       "BtnText": "Запросить демо",
       "BtnUrl": "https://retailrocket.ru/demo/"
     }

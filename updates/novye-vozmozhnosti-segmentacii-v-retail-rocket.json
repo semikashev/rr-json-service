@@ -301,7 +301,12 @@
           "Content": "Каждый контакт — шаг к покупке"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Узнайте, как использовать все возможности Retail Rocket для роста выручки, среднего чека и LTV покупателя."
+        }
+      ],
       "BtnText": "Запросить демо",
       "BtnUrl": "https://retailrocket.ru/demo/"
     },

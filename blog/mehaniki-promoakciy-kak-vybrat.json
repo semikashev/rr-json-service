@@ -231,7 +231,12 @@
           "Content": "Создавайте, тестируйте и запускайте промоакции любой сложности"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Полный контроль над промо — от идеи до теста и запуска на сайте, в приложении и на кассе"
+        }
+      ],
       "BtnText": "Записаться на демо",
       "BtnUrl": "https://retailrocket.ru/demo/"
     },
@@ -1001,7 +1006,12 @@
           "Content": "Механики, которые в 5 раз увеличили доход от товарных рекомендаций История АШАН"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "История АШАН"
+        }
+      ],
       "BtnText": "Прочитать кейс",
       "BtnUrl": "https://retailrocket.ru/cases/kak-mehaniki-uvelichili-dohod-ot-tovarnyh-rekomendatsiy-v-5-raz-case-aushan/"
     },

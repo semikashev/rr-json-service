@@ -420,7 +420,12 @@
           "Content": "Не знаете, как превратить магазин в Retail Media площадку?"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Команда экспертов Retail Rocket Group поможет составить стратегию и план возврата инвестиций"
+        }
+      ],
       "BtnText": "Запросить демо",
       "BtnUrl": "https://retailrocket.ru/demo/"
     },
