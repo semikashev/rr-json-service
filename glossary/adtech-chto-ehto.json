@@ -4,7 +4,12 @@
     "Словарь"
   ],
   "Title": "AdTech: что это и как работают рекламные технологии",
-  "MetaTitle": "AdTech: что это такое, как работает и зачем нужно в 2025 году, страница 2",
+  "PublishDate": {
+    "$date": "2025-01-01T09:50:00"
+  },
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "LeadText": [
     {
       "Elements": [
@@ -15,13 +20,7 @@
       ]
     }
   ],
-  "PublishDate": {
-    "$date": "2025-01-01T09:50:00"
-  },
-  "Letter": "А",
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "AdTech: что это такое, как работает и зачем нужно в 2025 году, страница 2",
   "ContentBlockList": [
     {
       "_t": "Heading2",
@@ -119,7 +118,12 @@
           "Content": "Узнайте больше про инструмент роста GMV и монетизации трафика от Retail Rocket Group"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Запросить демо",
       "BtnUrl": "https://retailrocket.ru/demo/"
     },
@@ -135,10 +139,15 @@
               "Content": "Узнать больше об AdTech-платформе Smart Placement"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
         {
           "_t": "Text",
-          "Content": " Как работает алгоритмическая реклама?"
+          "Content": "Как работает алгоритмическая реклама?"
         }
       ]
     },
@@ -285,7 +294,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/adtech-chto-ehto/AdTech.png",
-      "Alt": "Схема алгоритмической рекламы: взаимодействие DSP, Ad Exchange и SSP",
+      "Alt": "",
       "Caption": "Алгоритмическая реклама задействует сразу три инструмента AdTech: DSP, Ad Exchange и SSP"
     },
     {
@@ -638,6 +647,58 @@
           }
         ]
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "Letter": "А"
 }

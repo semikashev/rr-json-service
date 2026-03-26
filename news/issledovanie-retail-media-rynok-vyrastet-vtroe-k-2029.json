@@ -153,21 +153,8 @@
       ]
     },
     {
-      "_t": "UnorderedList",
-      "Items": [
-        [
-          {
-            "_t": "Link",
-            "Href": "https://retailrocket.ru/news/",
-            "Elements": [
-              {
-                "_t": "Text",
-                "Content": "Новости"
-              }
-            ]
-          }
-        ]
-      ]
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
   ]
 }

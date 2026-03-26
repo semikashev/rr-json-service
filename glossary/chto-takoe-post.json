@@ -4,7 +4,12 @@
     "Словарь"
   ],
   "Title": "Что такое Пост и его применение в маркетинге",
-  "MetaTitle": "Что такое пост: определение, примеры и применение в маркетинге",
+  "PublishDate": {
+    "$date": "2025-09-02T11:55:00"
+  },
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "LeadText": [
     {
       "Elements": [
@@ -15,13 +20,7 @@
       ]
     }
   ],
-  "PublishDate": {
-    "$date": "2025-09-02T11:55:00"
-  },
-  "Letter": "П",
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Что такое пост: определение, примеры и применение в маркетинге",
   "ContentBlockList": [
     {
       "_t": "Heading2",
@@ -37,13 +36,12 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Источник: Словарь Hootsuite’s Glossary of Social Media Terms Ключевые факты:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Источник: Словарь Hootsuite’s Glossary of Social Media Terms"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Ключевые факты:"
     },
     {
       "_t": "UnorderedList",
@@ -164,13 +162,8 @@
       "Title": "📊 Методологические оговорки"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Для анализа различают:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Для анализа различают:"
     },
     {
       "_t": "UnorderedList",
@@ -234,7 +227,16 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Если маркетолог считает постом любую активность, метрики искажены. Невозможно оценить эффективность формата и понять, какие публикации приносят лиды, а какие — только лайки. Когда понятие «пост» определено точно, данные становятся сопоставимыми. Это даёт возможность прогнозировать результат. Вот наглядный пример."
+          "Content": "Если маркетолог считает постом любую активность, метрики искажены. Невозможно оценить эффективность формата и понять, какие публикации приносят лиды, а какие — только лайки. Когда понятие «пост» определено точно, данные становятся сопоставимыми. Это даёт возможность прогнозировать результат."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Вот наглядный пример."
         }
       ]
     },
@@ -248,13 +250,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Иначе говоря, пост влияет на ключевые показатели маркетолога:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Иначе говоря, пост влияет на ключевые показатели маркетолога:"
     },
     {
       "_t": "UnorderedList",
@@ -416,7 +413,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-post/IMG_2034-768x1150.jpg",
-      "Alt": "Таргетированная реклама онлайн-курса ВКонтакте",
+      "Alt": "",
       "Caption": "Пример таргетированной рекламы онлайн-курса от в VK"
     },
     {
@@ -435,7 +432,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-post/IMG_2035-768x1304.jpg",
-      "Alt": "Нативная реклама продукта в публикации фитнес-блога",
+      "Alt": "",
       "Caption": "Пример нативной рекламы в фитнес-блоге"
     },
     {
@@ -454,7 +451,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-post/2025-09-02_15-59-22-1-1-2048x1467-1-768x550.jpg",
-      "Alt": "Статья в корпоративном блоге мебельного магазина",
+      "Alt": "",
       "Caption": "Пример статьи в корпоративном блоге мебельного магазина"
     },
     {
@@ -473,7 +470,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-post/2025-09-02_16-07-44-1-2048x1324-1-768x497.jpg",
-      "Alt": "Рекламный баннер ретаргетинга от интернет-магазина одежды",
+      "Alt": "",
       "Caption": "Пример ретаргетинга от интернет-магазина одежды"
     },
     {
@@ -492,8 +489,60 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-post/IMG_2036-768x1189.jpg",
-      "Alt": "Анонс мастер-класса в публикации ВКонтакте",
+      "Alt": "",
       "Caption": "Пример анонса мастер-класса опубликованного в VK"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "Letter": "П"
 }

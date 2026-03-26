@@ -4,7 +4,12 @@
     "Словарь"
   ],
   "Title": "Что такое NPS и как его рассчитать",
-  "MetaTitle": "Что такое NPS (индекс лояльности клиентов) и как его рассчитать, страница 2",
+  "PublishDate": {
+    "$date": "2025-02-14T10:33:00"
+  },
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "LeadText": [
     {
       "Elements": [
@@ -15,13 +20,7 @@
       ]
     }
   ],
-  "PublishDate": {
-    "$date": "2025-02-14T10:33:00"
-  },
-  "Letter": "Н",
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Что такое NPS (индекс лояльности клиентов) и как его рассчитать, страница 2",
   "ContentBlockList": [
     {
       "_t": "Heading2",
@@ -82,13 +81,8 @@
       "Title": "Зачем нужен NPS"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "С помощью NPS бизнес может:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "С помощью NPS бизнес может:"
     },
     {
       "_t": "UnorderedList",
@@ -342,13 +336,8 @@
       "Title": "Шаг 3. Проводим опрос"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Классическое NPS-исследование состоит из одного вопроса, вариации которого могут выглядеть так:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Классическое NPS-исследование состоит из одного вопроса, вариации которого могут выглядеть так:"
     },
     {
       "_t": "UnorderedList",
@@ -379,7 +368,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-nps-i-kak-ego-rasschitat/NPS_01.png",
-      "Alt": "NPS-опрос Lamoda, отправляемый клиентам после покупки",
+      "Alt": "",
       "Caption": "Компания Lamoda проводит исследование NPS по следам свежих покупок"
     },
     {
@@ -394,7 +383,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-nps-i-kak-ego-rasschitat/NPS_02.png",
-      "Alt": "Шкала NPS со смайлами, отображающими степень удовлетворённости клиента",
+      "Alt": "",
       "Caption": "Каждый смайлик — разная степень удовлетворённости клиента: от высокой и до самой низкой"
     },
     {
@@ -426,7 +415,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-nps-i-kak-ego-rasschitat/NPS_03.png",
-      "Alt": "NPS-опрос с числовой оценкой и открытым вопросом для комментария",
+      "Alt": "",
       "Caption": "Этот NPS-опрос предлагает покупателю поставить оценку, а затем оставить комментарий в открытой форме"
     },
     {
@@ -530,7 +519,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-nps-i-kak-ego-rasschitat/NPS_04.png",
-      "Alt": "Формула NPS с пояснением категорий: критики, нейтралы, сторонники.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -538,13 +527,8 @@
       "Title": "Шаг 6. Анализируем результат"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Как оценить показатель NPS:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Как оценить показатель NPS:"
     },
     {
       "_t": "UnorderedList",
@@ -566,7 +550,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-nps-i-kak-ego-rasschitat/NPS_05.png",
-      "Alt": "Шкала NPS с различными уровнями удовлетворенности клиентов: плохо, удовлетворительно, хорошо, отлично.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -658,13 +642,13 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-nps-i-kak-ego-rasschitat/NPS_06.png",
-      "Alt": "Диаграмма среднего NPS в B2C-секторах: страхование, финансы, ритейл и другие.",
+      "Alt": "",
       "Caption": null
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-nps-i-kak-ego-rasschitat/NPS_07.png",
-      "Alt": "Инфографика: средний NPS в B2B для разных сфер услуг.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -718,6 +702,58 @@
           "Content": "Да. eNPS (Employee Net Promoter Score) показывает уровень удовлетворённости и лояльности коллектива. Этот показатель помогает развивать корпоративную культуру и снижать текучесть кадров. Если растёт число недовольных сотрудников, это сигнал, что компания может столкнуться с оттоком персонала и дополнительными затратами на поиск и обучение новых специалистов."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "Letter": "Н"
 }

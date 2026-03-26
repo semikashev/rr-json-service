@@ -4,7 +4,12 @@
     "Словарь"
   ],
   "Title": "Что такое MarTech: как технологии меняют маркетинг",
-  "MetaTitle": "Что такое MarTech и как с ним работать: в 2025 году, страница 2",
+  "PublishDate": {
+    "$date": "2025-01-24T22:09:00"
+  },
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "LeadText": [
     {
       "Elements": [
@@ -15,13 +20,7 @@
       ]
     }
   ],
-  "PublishDate": {
-    "$date": "2025-01-24T22:09:00"
-  },
-  "Letter": "М",
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Что такое MarTech и как с ним работать: в 2025 году, страница 2",
   "ContentBlockList": [
     {
       "_t": "Heading2",
@@ -46,13 +45,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Примеры популярных маркетинговых технологий и задач, которые они помогают решать:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Примеры популярных маркетинговых технологий и задач, которые они помогают решать:"
     },
     {
       "_t": "UnorderedList",
@@ -74,13 +68,13 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-martech/MarTech_01.png",
-      "Alt": "Скриншот консолидированного профиля клиента в CDP Retail Rocket Group",
+      "Alt": "",
       "Caption": "Консолидированный профиль клиента в CDP Retail Rocket Group"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-martech/MarTech_02.png",
-      "Alt": "Интерфейс гибкой фильтрации клиентских данных в CDP Retail Rocket Group",
+      "Alt": "",
       "Caption": "Гибкая фильтрация в платформе клиентских данных (CDP) Retail Rocket Group"
     },
     {
@@ -97,7 +91,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-martech/MarTech_03.png",
-      "Alt": "Скриншот дашборда Google Analytics для анализа поведения пользователей",
+      "Alt": "",
       "Caption": "Сервис Google Analytics для отслеживания поведения пользователей на сайтах и в приложениях"
     },
     {
@@ -141,7 +135,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-martech/MarTech_04.png",
-      "Alt": "Диаграмма роста рынка MarTech-решений",
+      "Alt": "",
       "Caption": "Такой мощный рост связан с высокой эффективностью маркетинговых технологий и широким спектром задач, которые они помогают решать"
     },
     {
@@ -171,18 +165,13 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Настройка сценариев коммуникации помогает непрерывно и эффективно взаимодействовать с клиентами без привлечения большого числа сотрудников:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Настройка сценариев коммуникации помогает непрерывно и эффективно взаимодействовать с клиентами без привлечения большого числа сотрудников:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-martech/MarTech_06.png",
-      "Alt": "Карта высококонверсионных коммуникаций Retail Rocket Group для бренда TOM TAILOR",
+      "Alt": "",
       "Caption": "Пример карты высококонверсионных коммуникаций с клиентами от Retail Rocket Group для TOM TAILOR"
     },
     {
@@ -233,7 +222,12 @@
           "Content": "Как сеть пиццерий на 32% увеличила средний чек клиентов"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Читать кейс",
       "BtnUrl": "https://retailrocket.ru/cases/pizza-case-kak-uvelichit-srednij-chek-na-32-s-pomoshchyu-5-triggerov/"
     },
@@ -251,18 +245,13 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Например, запускать разные варианты email-рассылок и сравнивать конверсию от разных тем/заголовков/инфографики и содержания письма:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Например, запускать разные варианты email-рассылок и сравнивать конверсию от разных тем/заголовков/инфографики и содержания письма:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-martech/MarTech_07.png",
-      "Alt": "Результаты A/B-тестирования персонализированных рассылок TOM TAILOR",
+      "Alt": "",
       "Caption": "Итоги тестирования персонализированных рассылок от Retail Rocket Group у бренда TOM TAILOR"
     },
     {
@@ -348,17 +337,12 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-martech/MarTech_08.png",
-      "Alt": "Программа мероприятия в приложении EventRocks",
+      "Alt": "",
       "Caption": "Пример программы мероприятия в приложении EventRocks"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "MarTech ускоряет все бизнес-процессы. Он помогает компаниям:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "MarTech ускоряет все бизнес-процессы. Он помогает компаниям:"
     },
     {
       "_t": "UnorderedList",
@@ -432,17 +416,12 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-martech/MarTech_09.png",
-      "Alt": "Карта MarTech-ландшафта от chiefmartec с тысячами маркетинговых инструментов",
+      "Alt": "",
       "Caption": "Карта MarTech — визуализация многообразия маркетинговых технологий по версии chiefmartec"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Самые популярные направления MarTech:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Самые популярные направления MarTech:"
     },
     {
       "_t": "Heading3",
@@ -478,7 +457,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-martech/MarTech_10.png",
-      "Alt": "Скриншот чат-бота для анализа конкурентов на маркетплейсе Wildberries",
+      "Alt": "",
       "Caption": "Пример чат-бота, который помогает собирать и анализировать информацию о конкурентах на Wildberries"
     },
     {
@@ -498,7 +477,12 @@
           "Content": "Как платформа Sailplay помогла собрать 150 000 отзывов за 6 месяцев"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Читать кейс",
       "BtnUrl": "https://retailrocket.ru/cases/how-sailplay-help-cofix-catch-reviews/"
     },
@@ -521,13 +505,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "К автоматизированным рекламным технологиям относятся, например:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "К автоматизированным рекламным технологиям относятся, например:"
     },
     {
       "_t": "UnorderedList",
@@ -571,13 +550,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "AdTech позволяет:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "AdTech позволяет:"
     },
     {
       "_t": "UnorderedList",
@@ -657,13 +631,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "CRM-системы помогают автоматизировать рутину, например:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "CRM-системы помогают автоматизировать рутину, например:"
     },
     {
       "_t": "UnorderedList",
@@ -703,7 +672,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-martech/MarTech_11.png",
-      "Alt": "Воронка сделок отдела продаж в CRM-системе amoCRM",
+      "Alt": "",
       "Caption": "Структура сделок отдела продаж из популярной CRM-системы amoCRM"
     },
     {
@@ -740,7 +709,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-martech/MarTech_12.png",
-      "Alt": "Скриншот AI-генератора описаний товаров с ключевыми словами в MPSTATS",
+      "Alt": "",
       "Caption": "Пример AI-генератора описаний с подбором ключевых слов от сервиса MPSTATS"
     },
     {
@@ -755,7 +724,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-martech/MarTech_13.png",
-      "Alt": "Интерфейс приложения Upscayl для повышения качества изображений",
+      "Alt": "",
       "Caption": "Приложение Upscayl помогает улучшить качество изображений"
     },
     {
@@ -801,7 +770,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-martech/MarTech_14.png",
-      "Alt": "Массовая email-рассылка IntimShop с промокодом на скидку",
+      "Alt": "",
       "Caption": "Пример массовой рассылки с промокодом на скидку от IntimShop"
     },
     {
@@ -838,7 +807,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-martech/MarTech_15.png",
-      "Alt": "Интерфейс no-code конструктора Tilda для создания сайтов",
+      "Alt": "",
       "Caption": "No-code-конструктор Tilda для создания сайта с помощью шаблонов"
     },
     {
@@ -960,7 +929,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-martech/MarTech_16.png",
-      "Alt": "Скриншот нейросети «Шедеврум» от Яндекса для генерации контента",
+      "Alt": "",
       "Caption": "Нейросеть «Шедеврум» от Яндекса, с помощью которой можно создавать контент для бизнеса"
     },
     {
@@ -1052,13 +1021,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Сейчас нейросети стали привычным инструментом бизнеса. С их помощью:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Сейчас нейросети стали привычным инструментом бизнеса. С их помощью:"
     },
     {
       "_t": "UnorderedList",
@@ -1157,6 +1121,58 @@
           "Content": "Именно такие прикладные маркетинговые технологии позволят завоевывать конкурентное преимущество на рынке и эффективно взаимодействовать с аудиторией."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "Letter": "М"
 }

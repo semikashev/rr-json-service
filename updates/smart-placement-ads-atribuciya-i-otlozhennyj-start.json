@@ -121,7 +121,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/smart-placement-ads-atribuciya-i-otlozhennyj-start/unnamed-2.webp",
-      "Alt": "Скриншот настроек атрибуции заказов в интерфейсе Smart Placement Ads, маркетинговые кампании.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -150,18 +150,12 @@
       "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rtb-reklama/Capture-2025-10-30-191705-300x300.webp"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Что изменилось",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": ". На странице Рекламные кампании теперь доступны: → Сроки проведения:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Что изменилось. На странице Рекламные кампании теперь доступны:"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "→ Сроки проведения:"
     },
     {
       "_t": "UnorderedList",
@@ -181,13 +175,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "→ Статус кампании:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "→ Статус кампании:"
     },
     {
       "_t": "UnorderedList",
@@ -230,22 +219,12 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/smart-placement-ads-atribuciya-i-otlozhennyj-start/unnamed-1.webp",
-      "Alt": "Скриншот интерфейса управления маркетинговыми кампаниями на платформе AdTech.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Как запустить кампанию с отложенным стартом",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": ":"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Как запустить кампанию с отложенным стартом:"
     },
     {
       "_t": "OrderedList",
@@ -307,23 +286,13 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Тестирование отложенной кампании",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": ". После одобрения отложенной кампании модератором, рекламу можно заранее протестировать ↓"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Тестирование отложенной кампании. После одобрения отложенной кампании модератором, рекламу можно заранее протестировать ↓"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/smart-placement-ads-atribuciya-i-otlozhennyj-start/unnamed.webp",
-      "Alt": "Интерфейс маркетинговой кампании с кнопками управления в Smart Placement Ads.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -384,6 +353,14 @@
           "Content": "Чтобы получить доступ к статистике, запросите доступ у своего персонального менеджера. После этого в личном кабинете будет доступна статистика за любой период — в том числе, в расширенном формате .xlsx."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
   ]
 }

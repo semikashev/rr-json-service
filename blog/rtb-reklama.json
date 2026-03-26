@@ -54,7 +54,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rtb-reklama/Capture-2025-10-30-191209.webp",
-      "Alt": "Схема процесса RTB в e-commerce: взаимодействие рекламодателей и платформ данных.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -177,13 +177,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Когда RTB лучше:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Когда RTB лучше:"
     },
     {
       "_t": "UnorderedList",
@@ -221,13 +216,8 @@
       "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rtb-reklama/Capture-2025-10-30-191705-300x300.webp"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Когда RTB хуже:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Когда RTB хуже:"
     },
     {
       "_t": "UnorderedList",
@@ -437,7 +427,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rtb-reklama/Capture-2025-10-30-192357.webp",
-      "Alt": "Графический рекламный баннер для размещения на страницах сайта или приложения",
+      "Alt": "",
       "Caption": "Пример графического баннера, который можно использовать на любых страницах сайта или мобильного приложения"
     },
     {
@@ -456,7 +446,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rtb-reklama/Capture-2025-10-30-192700.webp",
-      "Alt": "Схема RTB-процесса с участием DSP, SSP и пользовательских данных в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -494,7 +484,12 @@
           "Content": "Узнайте, как adtech-платформа Retail Rocket Group помогает ритейлу и рекламодателям масштабировать бизнес"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Запросить демо",
       "BtnUrl": "https://retailrocket.ru/demo/"
     },
@@ -599,7 +594,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rtb-reklama/Capture-2025-10-30-193506.webp",
-      "Alt": "Схема процесса RTB в e-commerce с акцентом на аналитику и покупки трафика.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -633,13 +628,8 @@
       "Title": "3. Решение DSP"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Каждая DSP анализирует запрос:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Каждая DSP анализирует запрос:"
     },
     {
       "_t": "UnorderedList",
@@ -770,13 +760,8 @@
       "Title": "Реальные примеры использования RTB"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "RTB широко используется в performance-маркетинге и при масштабировании охвата. Примеры из разных отраслей:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "RTB широко используется в performance-маркетинге и при масштабировании охвата. Примеры из разных отраслей:"
     },
     {
       "_t": "Heading3",
@@ -805,9 +790,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Решение: интеграция данных в BigQuery, формирование пользовательских сессий, предиктивная сегментация и запуск ретаргетинга по сегментам. Результаты:"
+          "Content": "Решение: интеграция данных в BigQuery, формирование пользовательских сессий, предиктивная сегментация и запуск ретаргетинга по сегментам."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Результаты:"
     },
     {
       "_t": "UnorderedList",
@@ -833,13 +822,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Что повторить:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Что повторить:"
     },
     {
       "_t": "UnorderedList",
@@ -878,13 +862,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Подключение к RTB-аукционам осуществляется через специализированные платформы. Они делятся на три группы:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Подключение к RTB-аукционам осуществляется через специализированные платформы. Они делятся на три группы:"
     },
     {
       "_t": "UnorderedList",
@@ -919,13 +898,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Рекламодателю важно контролировать не только цену показов, но и то, как они конвертируются в целевые действия. Чаще всего используют:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Рекламодателю важно контролировать не только цену показов, но и то, как они конвертируются в целевые действия. Чаще всего используют:"
     },
     {
       "_t": "UnorderedList",
@@ -973,19 +947,17 @@
       "Latex": "CPM = \\frac{Расход}{Показы} \\times 1000"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rtb-reklama/blog-rtb-reklama-cpm.png",
-      "Alt": "Схема расчета показателя CPM для RTB-рекламы в e-commerce",
-      "Caption": null
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Что выбрать: RTB или Programmatic Direct? Разница заключается в модели покупки:"
+          "Content": "Что выбрать: RTB или Programmatic Direct?"
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Разница заключается в модели покупки:"
     },
     {
       "_t": "UnorderedList",
@@ -1009,7 +981,16 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Выбор подхода зависит от целей бизнеса, доступного бюджета и потребности в контроле размещений. Какие риски могут возникнуть при RTB?"
+          "Content": "Выбор подхода зависит от целей бизнеса, доступного бюджета и потребности в контроле размещений."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Какие риски могут возникнуть при RTB?"
         }
       ]
     },
@@ -1041,7 +1022,16 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Что влияет на цену в RTB-аукционе? Стоимость показа динамична и зависит от множества факторов, например, от уровня конкуренции в выбранной нише.При грамотной оптимизации можно удерживать стоимость клика или лида на целевом уровне даже при росте спроса."
+          "Content": "Что влияет на цену в RTB-аукционе?"
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Стоимость показа динамична и зависит от множества факторов, например, от уровня конкуренции в выбранной нише.При грамотной оптимизации можно удерживать стоимость клика или лида на целевом уровне даже при росте спроса."
         }
       ]
     },
@@ -1060,6 +1050,57 @@
         {
           "_t": "Text",
           "Content": "Базовую кампанию возможно запустить самостоятельно, используя интерфейс DSP. Однако для работы с атрибуцией, динамическими креативами, сложными аудиториями и данными из DMP требуется опыт."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

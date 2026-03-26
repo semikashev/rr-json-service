@@ -28,6 +28,15 @@
       "Elements": [
         {
           "_t": "Text",
+          "Content": "А ведь столько интересных фишек можно применить в email-маркетинге, если продумать стратегию и использовать возможности персонализации, автоматизации и динамического контента."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
           "Content": "Платформа Retail Rocket — единый центр управления email-маркетингом для ритейла, включающий в себя привычные массовые рассылки, любые триггерные сценарии, сервисные/транзакционные письма и мощную систему сегментации и аналитики. Платформа разработана с учетом специфики онлайн-ритейла, полностью покрывает потребности интернет-магазина и включает в себя все передовые технологии персонализации, обеспечивая более высокий результат, чем другие платформы."
         }
       ]
@@ -198,18 +207,13 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Например, интернет-магазин ТВОЕ сортирует блоки с мужской и женской коллекциями в зависимости от интереса пользователя:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Например, интернет-магазин ТВОЕ сортирует блоки с мужской и женской коллекциями в зависимости от интереса пользователя:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/povedencheskaja-personalizacija-v-email-marketinge-4-sposoba-stat-blizhe-k-podpischiku/retailrocket_tvoe.png",
-      "Alt": "Схема персонализированной email-рассылки с AI рекомендациями для сайта одежды.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -246,7 +250,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/povedencheskaja-personalizacija-v-email-marketinge-4-sposoba-stat-blizhe-k-podpischiku/retailrocket_westland_1.png",
-      "Alt": "Интерфейс онлайн-магазина с AI персонализацией при выборе размера одежды.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -261,7 +265,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/povedencheskaja-personalizacija-v-email-marketinge-4-sposoba-stat-blizhe-k-podpischiku/retailrocket_westland_2.png",
-      "Alt": "Пример персонализации рассылки с указанием размеров в интернет-магазине.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -296,18 +300,13 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Например, так выглядят автоматизированные email-кампании с новинками ассортимента интернет-магазина Sneakerhead:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Например, так выглядят автоматизированные email-кампании с новинками ассортимента интернет-магазина Sneakerhead:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/povedencheskaja-personalizacija-v-email-marketinge-4-sposoba-stat-blizhe-k-podpischiku/retailrocket_sneakerhead.png",
-      "Alt": "Динамическое обновление баннера для e-mail рассылки, AI персонализация.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -327,7 +326,12 @@
           "Content": "Кейс «Ситилинк»: рост количества заказов по email-рассылкам на 13,48% без усилий со стороны маркетолога"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Читать",
       "BtnUrl": "https://retailrocket.ru/blog/cases/case-citilink/"
     },
@@ -376,7 +380,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/povedencheskaja-personalizacija-v-email-marketinge-4-sposoba-stat-blizhe-k-podpischiku/retailrocket_technostudiya.png",
-      "Alt": "Пример персонализированной email-рассылки с AI рекомендациями товаров в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -472,6 +476,57 @@
             "Content": ". Указывайте в теме и тексте письма интересные клиенту категории, чтобы повысить открываемость и вовлеченность."
           }
         ]
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
       ]
     }
   ]

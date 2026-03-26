@@ -37,28 +37,18 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Новая панель информации, на которой видны онлайн- и офлайн-показатели магазина: заказы, выручка и средний чек по всем заказам:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Новая панель информации, на которой видны онлайн- и офлайн-показатели магазина: заказы, выручка и средний чек по всем заказам:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/novyj-dashbord-retail-rocket-vliyanie-rekomendaciy-i-kommunikaciy/RRG-1-Recommendations-1-scaled-1.webp",
-      "Alt": "Скриншот дашборда Retail Rocket, анализ влияния рекомендаций на выручку.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "После общей статистики продаж за выбранный период в кабинете Retail Rocket показываются два отдельных дашборда:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "После общей статистики продаж за выбранный период в кабинете Retail Rocket показываются два отдельных дашборда:"
     },
     {
       "_t": "UnorderedList",
@@ -78,13 +68,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Они позволяют бизнесу сразу увидеть вклад каждого инструмента в ключевые показатели и оперативно принимать решения:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Они позволяют бизнесу сразу увидеть вклад каждого инструмента в ключевые показатели и оперативно принимать решения:"
     },
     {
       "_t": "UnorderedList",
@@ -123,13 +108,8 @@
       "Title": "Дашборд по рекомендациям"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "В личном кабинете Retail Rocket можно отследить динамику влияния товарных рекомендаций по основным параметрам:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "В личном кабинете Retail Rocket можно отследить динамику влияния товарных рекомендаций по основным параметрам:"
     },
     {
       "_t": "UnorderedList",
@@ -167,13 +147,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Метрики можно анализировать отдельно по онлайн- и офлайн-покупкам. Для оценки доступны две модели атрибуции:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Метрики можно анализировать отдельно по онлайн- и офлайн-покупкам. Для оценки доступны две модели атрибуции:"
     },
     {
       "_t": "UnorderedList",
@@ -193,13 +168,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Особое внимание стоит обратить на показатели:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Особое внимание стоит обратить на показатели:"
     },
     {
       "_t": "UnorderedList",
@@ -254,7 +224,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/novyj-dashbord-retail-rocket-vliyanie-rekomendaciy-i-kommunikaciy/RRG-Rekomendatsii-2-2048x1142-1.webp",
-      "Alt": "Дашборд с графиками влияния алгоритмов рекомендаций на выручку.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -328,23 +298,23 @@
           "Content": "Как Retail Rocket решил проблему кросс-девайсных рекомендаций"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Читать статью",
       "BtnUrl": "https://retailrocket.ru/updates/kak-retail-rocket-reshil-problemu-kross-devaisnih-rekomendacii/"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Метрики по каждому типу коммуникации можно просматривать по онлайн- и офлайн-покупкам:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Метрики по каждому типу коммуникации можно просматривать по онлайн- и офлайн-покупкам:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/novyj-dashbord-retail-rocket-vliyanie-rekomendaciy-i-kommunikaciy/Komunikatsii-3-scaled-1.webp",
-      "Alt": "Дашборд с графиком и таблицей персонализации рекомендаций и коммуникаций.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -358,7 +328,7 @@
           {
             "_t": "Text",
             "Content": "Описание метрик",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -369,7 +339,7 @@
           {
             "_t": "Text",
             "Content": "Точность аналитики",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -377,6 +347,14 @@
           }
         ]
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
   ]
 }

@@ -193,7 +193,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/fomo-marketing-10-jeffektivnyh-tehnik-ispolzovanija-sindroma-upushhennoj-vygody/Capture-2025-10-29-192256.webp",
-      "Alt": "Скриншот финальной распродажи с акцией на сайте интернет-магазина.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -221,7 +221,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/fomo-marketing-10-jeffektivnyh-tehnik-ispolzovanija-sindroma-upushhennoj-vygody/Capture-2025-10-29-192503.png",
-      "Alt": "Пример использования социального доказательства в email-рассылке",
+      "Alt": "",
       "Caption": "Использовать принцип социального доказательства можно как на сайте, так и других каналах коммуникации, например email-рассылках"
     },
     {
@@ -249,7 +249,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/fomo-marketing-10-jeffektivnyh-tehnik-ispolzovanija-sindroma-upushhennoj-vygody/Capture-2025-10-29-192617.png",
-      "Alt": "Скриншот промоакции с бонусом при покупке офисной бумаги, пример FOMO-маркетинга.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -277,7 +277,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/fomo-marketing-10-jeffektivnyh-tehnik-ispolzovanija-sindroma-upushhennoj-vygody/Capture-2025-10-29-192853.png",
-      "Alt": "Скидка 20% на комплект техники Bosch, персонализация в ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -309,7 +309,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/fomo-marketing-10-jeffektivnyh-tehnik-ispolzovanija-sindroma-upushhennoj-vygody/Capture-2025-10-29-192759.png",
-      "Alt": "Email «Брошенная корзина» от Olant-shop, увеличивший CTR на 20%",
+      "Alt": "",
       "Caption": "С помощью правильно подобранной темы письма интернет-магазин детских товаров Olant-shop увеличил CTR триггерного сценария «Брошенная корзина» на 20%"
     },
     {
@@ -326,18 +326,13 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Многие считают, что такой прием – прерогатива люксовых брендов или сегмента fashion, но на самом деле за примером далеко ходить не надо:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Многие считают, что такой прием – прерогатива люксовых брендов или сегмента fashion, но на самом деле за примером далеко ходить не надо:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/fomo-marketing-10-jeffektivnyh-tehnik-ispolzovanija-sindroma-upushhennoj-vygody/Capture-2025-10-29-193153.webp",
-      "Alt": "Реклама Lays с элементами омниканального маркетинга и акцентом на эксклюзивность.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -387,7 +382,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/fomo-marketing-10-jeffektivnyh-tehnik-ispolzovanija-sindroma-upushhennoj-vygody/Capture-2025-10-29-193231.webp",
-      "Alt": "Женщина с кофейным стаканчиком Starbucks на фоне городского пейзажа.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -422,18 +417,13 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Для того, чтобы подчеркнуть дефицит, можно, например, показать какое количество товара осталось на складе:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Для того, чтобы подчеркнуть дефицит, можно, например, показать какое количество товара осталось на складе:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/fomo-marketing-10-jeffektivnyh-tehnik-ispolzovanija-sindroma-upushhennoj-vygody/Capture-2025-10-29-193351.webp",
-      "Alt": "Скриншот товара с индикатором ограниченного наличия для FOMO-маркетинга в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -461,7 +451,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/fomo-marketing-10-jeffektivnyh-tehnik-ispolzovanija-sindroma-upushhennoj-vygody/Capture-2025-10-29-193455.webp",
-      "Alt": "Скриншот предложения маркетинга с призом за публикацию в соцсетях.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -524,6 +514,57 @@
           "Ограничьте срок действия подарков и промо-кодов",
           "Промо-код на скидку действует только 24 часа после подписки на рассылку, что мотивирует использовать его как можно скорее."
         ]
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
       ]
     }
   ]

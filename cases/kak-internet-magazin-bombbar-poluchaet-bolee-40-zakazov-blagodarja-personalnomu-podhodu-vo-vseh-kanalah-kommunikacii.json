@@ -3,9 +3,6 @@
   "Label": [
     "Кейсы"
   ],
-  "IndustryList": [
-    "FMCG"
-  ],
   "Title": "Рост заказов благодаря персонализации",
   "PublishDate": {
     "$date": "2020-12-24T15:39:00"
@@ -56,7 +53,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-internet-magazin-bombbar-poluchaet-bolee-40-zakazov-blagodarja-personalnomu-podhodu-vo-vseh-kanalah-kommunikacii/bombbar_retailrocket.webp",
-      "Alt": "Упаковки печенья Chika в праздничной обстановке на ярмарке, AI в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -64,30 +61,20 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Главная",
-          "IsHighlight": true
-        },
+          "Content": "Главная задача — предложить клиентам индивидуальный подход во всех каналах коммуникации в зависимости от их поведения и интересов."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Решение:"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
         {
           "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Text",
-          "Content": "задача",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " — предложить клиентам индивидуальный подход во всех каналах коммуникации в зависимости от их поведения и интересов. "
-        },
-        {
-          "_t": "Text",
-          "Content": "Решение:",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Использовать возможности искусственного интеллекта для того, чтобы адаптировать контент во всех каналах коммуникации для каждого клиента с учетом его интересов и предпочтений."
+          "Content": "Использовать возможности искусственного интеллекта для того, чтобы адаптировать контент во всех каналах коммуникации для каждого клиента с учетом его интересов и предпочтений."
         }
       ]
     },
@@ -98,7 +85,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-internet-magazin-bombbar-poluchaet-bolee-40-zakazov-blagodarja-personalnomu-podhodu-vo-vseh-kanalah-kommunikacii/rezultaty.webp",
-      "Alt": "Результаты роста заказов через персонализацию в e-commerce и блоки рекомендаций",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -169,13 +156,8 @@
       "Title": "Решение Retail Rocket"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Адаптировать контент во всех каналах коммуникации для каждого клиента с учетом его интересов и предпочтений. Для этого мы:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Адаптировать контент во всех каналах коммуникации для каждого клиента с учетом его интересов и предпочтений. Для этого мы:"
     },
     {
       "_t": "UnorderedList",
@@ -318,7 +300,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-internet-magazin-bombbar-poluchaet-bolee-40-zakazov-blagodarja-personalnomu-podhodu-vo-vseh-kanalah-kommunikacii/bombbar_retailrocket_online_1.webp",
-      "Alt": "Интерфейс интернет-магазина с блоком персональных AI рекомендаций для товаров",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -337,7 +319,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-internet-magazin-bombbar-poluchaet-bolee-40-zakazov-blagodarja-personalnomu-podhodu-vo-vseh-kanalah-kommunikacii/bombbar_retailrocket_online_2.webp",
-      "Alt": "Интерфейс блока товарных рекомендаций с автоматизацией персонализации товаров.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -356,7 +338,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-internet-magazin-bombbar-poluchaet-bolee-40-zakazov-blagodarja-personalnomu-podhodu-vo-vseh-kanalah-kommunikacii/bombbar_retailrocket_3.webp",
-      "Alt": "Интерфейс интернет-магазина с AI рекомендациями и персонализированными товарами",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -375,7 +357,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-internet-magazin-bombbar-poluchaet-bolee-40-zakazov-blagodarja-personalnomu-podhodu-vo-vseh-kanalah-kommunikacii/bombbar_retailrocket_online_4.webp",
-      "Alt": "Скриншот интернет-магазина с блоком AI рекомендаций и хитами продаж.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -407,7 +389,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-internet-magazin-bombbar-poluchaet-bolee-40-zakazov-blagodarja-personalnomu-podhodu-vo-vseh-kanalah-kommunikacii/bombbar_retailrocket_push_5.webp",
-      "Alt": "Push-уведомление акции интернет-магазина с персонализацией предложения от Bombbar.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -426,7 +408,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-internet-magazin-bombbar-poluchaet-bolee-40-zakazov-blagodarja-personalnomu-podhodu-vo-vseh-kanalah-kommunikacii/bombbar_retailrocket_6.webp",
-      "Alt": "Пример push-уведомления о новинке с использованием автоматизации персонализации",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -467,7 +449,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-internet-magazin-bombbar-poluchaet-bolee-40-zakazov-blagodarja-personalnomu-podhodu-vo-vseh-kanalah-kommunikacii/bombbar_retailrocket_7.webp",
-      "Alt": "Пример email-рассылки с персонализированными AI рекомендациями для интернет-магазина",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -495,7 +477,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-internet-magazin-bombbar-poluchaet-bolee-40-zakazov-blagodarja-personalnomu-podhodu-vo-vseh-kanalah-kommunikacii/bombbar_retailrocket_8.webp",
-      "Alt": "Пример e-mail рассылки для сегментации клиентов с использованием AI в e-commerce",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -521,13 +503,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "На текущий момент в интернет-магазине Bombbar запущено 12 триггерных сценариев, среди которых:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "На текущий момент в интернет-магазине Bombbar запущено 12 триггерных сценариев, среди которых:"
     },
     {
       "_t": "UnorderedList",
@@ -571,18 +548,13 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Так в интернет-магазине Bombbar выглядит карта поведенческих триггеров:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Так в интернет-магазине Bombbar выглядит карта поведенческих триггеров:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-internet-magazin-bombbar-poluchaet-bolee-40-zakazov-blagodarja-personalnomu-podhodu-vo-vseh-kanalah-kommunikacii/bombbar_retailrocket_8-1.webp",
-      "Alt": "Воронка продаж с автоматизацией персонализации и AI рекомендациями для e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -610,7 +582,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-internet-magazin-bombbar-poluchaet-bolee-40-zakazov-blagodarja-personalnomu-podhodu-vo-vseh-kanalah-kommunikacii/bombbar_retailrocket_9.jpg",
-      "Alt": "Пример welcome-письма интернет-магазина с товарами и блоком рекомендаций.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -625,7 +597,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-internet-magazin-bombbar-poluchaet-bolee-40-zakazov-blagodarja-personalnomu-podhodu-vo-vseh-kanalah-kommunikacii/bombbar_retailrocket_10.webp",
-      "Alt": "Пример письма для подписчиков магазина Bombbar, автоматизация персонализации.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -640,7 +612,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-internet-magazin-bombbar-poluchaet-bolee-40-zakazov-blagodarja-personalnomu-podhodu-vo-vseh-kanalah-kommunikacii/bombbar_retailrocket_11.webp",
-      "Alt": "Пример письма с AI рекомендациями и блоком популярности для Bombbar.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -659,7 +631,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-internet-magazin-bombbar-poluchaet-bolee-40-zakazov-blagodarja-personalnomu-podhodu-vo-vseh-kanalah-kommunikacii/bombbar_retailrocket_12.webp",
-      "Alt": "Пример письма с персонализированными рекомендациями и брошенной корзиной в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -678,7 +650,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-internet-magazin-bombbar-poluchaet-bolee-40-zakazov-blagodarja-personalnomu-podhodu-vo-vseh-kanalah-kommunikacii/bombbar_retailrocket_13-1.webp",
-      "Alt": "Шаблон письма с AI рекомендациями для интернет-магазина Bombbar.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -697,7 +669,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-internet-magazin-bombbar-poluchaet-bolee-40-zakazov-blagodarja-personalnomu-podhodu-vo-vseh-kanalah-kommunikacii/bombbar_retailrocket_14.webp",
-      "Alt": "Пример персонализированного письма с AI рекомендациями для клиента магазина Bombbar",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -716,7 +688,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-internet-magazin-bombbar-poluchaet-bolee-40-zakazov-blagodarja-personalnomu-podhodu-vo-vseh-kanalah-kommunikacii/bombbar_retailrocket_15.webp",
-      "Alt": "Пример письма с AI рекомендациями для персонализированных покупок в интернет-магазине.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -741,49 +713,52 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Социальное доказательство — мощный инструмент маркетолога. Когда пользователь видит, что не одинок в своем выборе, у него остается меньше сомнений на пути к покупке. Однако применять этот инструмент в триггерных письмах следует осторожно: сначала нужно убедиться, что реакция аудитории будет позитивной. "
-        },
-        {
-          "_t": "Text",
-          "Content": "Гипотеза",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Добавление в товарную карточку блока рекомендаций элемента «Нравится N% покупателей» в сценарий «Брошенная корзина» мотивирует пользователя зайти на сайт и совершить заказ."
+          "Content": "Социальное доказательство — мощный инструмент маркетолога. Когда пользователь видит, что не одинок в своем выборе, у него остается меньше сомнений на пути к покупке. Однако применять этот инструмент в триггерных письмах следует осторожно: сначала нужно убедиться, что реакция аудитории будет позитивной."
         }
       ]
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-internet-magazin-bombbar-poluchaet-bolee-40-zakazov-blagodarja-personalnomu-podhodu-vo-vseh-kanalah-kommunikacii/bombbar_retailrocket_trigger_16.webp",
-      "Alt": "Сравнение сегментов А и B для автоматизации персонализации с ростом CTR 15,1%.",
-      "Caption": null
+      "_t": "Heading2",
+      "Title": "Гипотеза"
     },
     {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Результаты:",
-          "IsHighlight": true
-        },
+          "Content": "Добавление в товарную карточку блока рекомендаций элемента «Нравится N% покупателей» в сценарий «Брошенная корзина» мотивирует пользователя зайти на сайт и совершить заказ."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-internet-magazin-bombbar-poluchaet-bolee-40-zakazov-blagodarja-personalnomu-podhodu-vo-vseh-kanalah-kommunikacii/bombbar_retailrocket_trigger_16.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Результаты:"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
         {
           "_t": "Text",
-          "Content": " Добавление в товарную карточку блока рекомендаций элемента «Нравится N% покупателей» увеличивает CTR на 15,1%. Статистическая достоверность результатов теста 96,7%."
+          "Content": "Добавление в товарную карточку блока рекомендаций элемента «Нравится N% покупателей» увеличивает CTR на 15,1%. Статистическая достоверность результатов теста 96,7%."
         }
       ]
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-internet-magazin-bombbar-poluchaet-bolee-40-zakazov-blagodarja-personalnomu-podhodu-vo-vseh-kanalah-kommunikacii/tablica-testa.webp",
-      "Alt": "Интерфейс с анализом конверсии и шансом победы, персонализация в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-internet-magazin-bombbar-poluchaet-bolee-40-zakazov-blagodarja-personalnomu-podhodu-vo-vseh-kanalah-kommunikacii/grafik_di.webp",
-      "Alt": "График плотности вероятности, иллюстрирующий персонализацию в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -846,6 +821,17 @@
       "Author": "Кирилл",
       "AuthorPosition": "Менеджер Retail Rocket Group",
       "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-ai-pomogaet-sozdat-individualnyj-podhod-kejs-internet-magazina-kanzler-i-rost-chisla-zakazov-v-1-5-raza/4343444444-300x300-1.webp"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
+  ],
+  "IndustryList": [
+    "FMCG"
   ]
 }

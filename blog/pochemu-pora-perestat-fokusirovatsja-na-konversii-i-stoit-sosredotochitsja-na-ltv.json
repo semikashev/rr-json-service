@@ -24,6 +24,15 @@
   "MetaTitle": "Почему пора перестать фокусироваться на конверсии и стоит сосредоточиться на LTV – Retail Rocket Group, страница 5",
   "ContentBlockList": [
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Сотни интернет-магазинов определяют результативность бизнес-решений значением конверсии и практически не уделяют внимания другим не менее важным показателям. В этой статье мы подробно расскажем о метриках, которые необходимо учитывать, чтобы улучшить покупательский опыт и увеличить выручку."
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Фокус на LTV"
     },
@@ -71,7 +80,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pochemu-pora-perestat-fokusirovatsja-na-konversii-i-stoit-sosredotochitsja-na-ltv/image8-3.png",
-      "Alt": "Формула расчета пожизненной ценности клиента в e-commerce маркетинге.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -130,7 +139,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pochemu-pora-perestat-fokusirovatsja-na-konversii-i-stoit-sosredotochitsja-na-ltv/image3-1.png",
-      "Alt": "Действия для получения бесплатной доставки в e-commerce и ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -149,7 +158,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pochemu-pora-perestat-fokusirovatsja-na-konversii-i-stoit-sosredotochitsja-na-ltv/image2-2.png",
-      "Alt": "Скриншот акции для персонализации в e-commerce с кодом скидки 300 рублей.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -177,7 +186,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pochemu-pora-perestat-fokusirovatsja-na-konversii-i-stoit-sosredotochitsja-na-ltv/image6-2.png",
-      "Alt": "Главная страница интернет-магазина с блоками персональных товарных рекомендаций.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -218,7 +227,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pochemu-pora-perestat-fokusirovatsja-na-konversii-i-stoit-sosredotochitsja-na-ltv/image10-1.png",
-      "Alt": "Кэшбэк на покупку Apple с iPhone X, промо предложение в ритейле",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -246,7 +255,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pochemu-pora-perestat-fokusirovatsja-na-konversii-i-stoit-sosredotochitsja-na-ltv/image7.png",
-      "Alt": "Письмо с персонализированными рекомендациями для увеличения LTV в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -274,7 +283,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pochemu-pora-perestat-fokusirovatsja-na-konversii-i-stoit-sosredotochitsja-na-ltv/image9-3.png",
-      "Alt": "Три версии email-рассылки для сегментов «Собаки», «Кошки» и «Грызуны» в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -324,7 +333,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pochemu-pora-perestat-fokusirovatsja-na-konversii-i-stoit-sosredotochitsja-na-ltv/image4.png",
-      "Alt": "Скриншот обсуждения товаров на сайте с отзывами и комментариями.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -361,7 +370,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pochemu-pora-perestat-fokusirovatsja-na-konversii-i-stoit-sosredotochitsja-na-ltv/image5-1-1.png",
-      "Alt": "Матрица сегментации клиентов для увеличения LTV в e-commerce",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -385,7 +394,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pochemu-pora-perestat-fokusirovatsja-na-konversii-i-stoit-sosredotochitsja-na-ltv/image1-1.png",
-      "Alt": "Пример письма с персонализацией в e-commerce для увеличения LTV.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -398,6 +407,57 @@
         {
           "_t": "Text",
           "Content": "Тестируйте различные варианты увеличения метрик, влияющих на LTV, чтобы найти уникальную стратегию для своего магазина и добиться существенных результатов. Работа с LTV — длинный и непростой, но необходимый процесс. Бренды плотно вошли в нашу жизнь и постепенно цена уходит на второй план, уступая комфорту и качеству обслуживания. Помните о клиенте и клиент всегда будет помнить о вас!"
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

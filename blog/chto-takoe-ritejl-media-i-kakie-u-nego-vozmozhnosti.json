@@ -24,6 +24,15 @@
   "MetaTitle": "Что такое ритейл медиа и какие у него возможности",
   "ContentBlockList": [
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что это за новое направление рекламы и почему оно так быстро развивается, разбираемся в статье."
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Что такое ритейл медиа и какие у него возможности"
     },
@@ -50,13 +59,8 @@
       "Title": "Какие рекламные возможности предоставляют ритейл медиа"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Спектр возможностей ритейл медиа включает следующие форматы:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Спектр возможностей ритейл медиа включает следующие форматы:"
     },
     {
       "_t": "UnorderedList",
@@ -99,7 +103,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/chto-takoe-ritejl-media-i-kakie-u-nego-vozmozhnosti/code_block0ASmart_Pl.png",
-      "Alt": "Рекламные возможности в ритейл медиа: спонсорство, рекомендации, медийная реклама, брендинг, рассылки.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -282,7 +286,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/chto-takoe-ritejl-media-i-kakie-u-nego-vozmozhnosti/Smart_Placement_1.png",
-      "Alt": "Рост расходов на Retail Media в digital с 2019 по 2024 год",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -306,7 +310,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/chto-takoe-ritejl-media-i-kakie-u-nego-vozmozhnosti/Smart_Placement_2.png",
-      "Alt": "Рост расходов на Retail Media в России: 2021-2023, прогнозы и данные.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -339,7 +343,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/chto-takoe-ritejl-media-i-kakie-u-nego-vozmozhnosti/6.png.webp",
-      "Alt": "Схема работы ритейл медиа платформы с персонализацией в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -388,6 +392,57 @@
         {
           "_t": "Text",
           "Content": "Внедрение AI в retail media. В retail media активно интегрируют технологии машинного обучения в рекомендательные алгоритмы. Искусственный интеллект собирает информацию о поведение пользователей на сайте и в мобильном приложении, что позволяет рекламодателям таргетироваться на готовую к покупке аудиторию, а онлайн-площадкам оптимизировать процесс размещения рекламы."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

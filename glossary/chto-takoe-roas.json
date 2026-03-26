@@ -4,7 +4,12 @@
     "Словарь"
   ],
   "Title": "ROAS (Return on Ad Spend): формула расчета показателя",
-  "MetaTitle": "ROAS (Return on Ad Spend): что это такое и как рассчитать",
+  "PublishDate": {
+    "$date": "2025-07-16T10:49:00"
+  },
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "LeadText": [
     {
       "Elements": [
@@ -15,13 +20,7 @@
       ]
     }
   ],
-  "PublishDate": {
-    "$date": "2025-07-16T10:49:00"
-  },
-  "Letter": "Р",
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "ROAS (Return on Ad Spend): что это такое и как рассчитать",
   "ContentBlockList": [
     {
       "_t": "Heading2",
@@ -32,28 +31,30 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "ROAS (Return on Advertising Spend) — это показатель эффективности рекламы. Он показывает, сколько дохода приносит каждый рубль, вложенный в рекламную кампанию. Формула простая:"
+          "Content": "ROAS (Return on Advertising Spend) — это показатель эффективности рекламы. Он показывает, сколько дохода приносит каждый рубль, вложенный в рекламную кампанию."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Формула простая:"
     },
     {
       "_t": "Formula",
       "Latex": "ROAS = \\frac{доход, полученный от рекламы}{расходы на рекламу} \\times 100\\%"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-roas/glossary-chto-takoe-roas-roas.png",
-      "Alt": "Схема формулы расчета ROAS с выделенными элементами.",
-      "Caption": null
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Например, если вы вложили 10 000 ₽, а заработали 50 000 ₽, ROAS = 5. Это значит: каждый рубль рекламы вернул пять рублей выручки. Или иначе: чистая выручка — 40 000 ₽ (если не считать прочие затраты). ROAS нужен, чтобы:"
+          "Content": "Например, если вы вложили 10 000 ₽, а заработали 50 000 ₽, ROAS = 5. Это значит: каждый рубль рекламы вернул пять рублей выручки. Или иначе: чистая выручка — 40 000 ₽ (если не считать прочие затраты)."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "ROAS нужен, чтобы:"
     },
     {
       "_t": "UnorderedList",
@@ -224,18 +225,13 @@
       "Title": "Как рассчитать ROAS: формула и нюансы"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Базовая формула такая:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Базовая формула такая:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-roas/ROAS.png",
-      "Alt": "Формула расчета ROAS: доходы от рекламы деленные на расходы, умноженные на 100%.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -500,7 +496,7 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsHighlight": true
+          "IsItalic": true
         },
         {
           "_t": "Text",
@@ -676,6 +672,58 @@
           "Content": "ROAS показывает, сколько рублей выручки приносит каждый рубль рекламных затрат. Если считать метрику правильно — с учётом возвратов, всех расходов и сегментов — она быстро подсказывает, какие кампании тянут прибыль вверх, а какие сжигают бюджет. Высокий ROAS помогает смело масштабировать удачные каналы, низкий — вовремя менять креатив, таргетинг или посадочные страницы. Сравнивайте ROAS с LTV, CAC и ROI, чтобы видеть полную картину ─ тогда реклама станет предсказуемым инвест-инструментом, а не экспериментом на ощупь."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "Letter": "Р"
 }

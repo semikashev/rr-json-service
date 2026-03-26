@@ -97,7 +97,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/ritejl-klassa-ljuks-kak-vpechatlit-klienta-v-onlajne/image2.png",
-      "Alt": "Интерфейс сайта с сумками, онлайн-продвижение люксового бренда в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -125,7 +125,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/ritejl-klassa-ljuks-kak-vpechatlit-klienta-v-onlajne/image1.png",
-      "Alt": "Интерфейс интернет-магазина с товаром от бренда Balenciaga, e-commerce платформа.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -162,7 +162,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/ritejl-klassa-ljuks-kak-vpechatlit-klienta-v-onlajne/image4.png",
-      "Alt": "Механизм Rolex Day-Date 40, пример инноваций в премиум сегменте.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -194,7 +194,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/ritejl-klassa-ljuks-kak-vpechatlit-klienta-v-onlajne/image6.png",
-      "Alt": "Внедрение товарных рекомендаций на странице категории для повышения конверсии и выручки.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -218,7 +218,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/ritejl-klassa-ljuks-kak-vpechatlit-klienta-v-onlajne/image3.png",
-      "Alt": "Подарочный набор люксовых аксессуаров с брендом Jimmy Choo.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -255,7 +255,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/ritejl-klassa-ljuks-kak-vpechatlit-klienta-v-onlajne/image5.png",
-      "Alt": "Скриншот интерфейса сайта с платком Modernisme Tropical, Hermès.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -268,6 +268,57 @@
         {
           "_t": "Text",
           "Content": "✅ Делайте сайт удобным: Покупатель должен легко находить нужную информацию и тратить время на шопинг, а не на поиски. Люксовые клиенты не прощают ошибок в юзабилити. Упрощайте навигацию и делайте дизайн привлекательным. ✅ Показывайте товары в деталях: Размещайте фото, где видно каждую строчку и каждую деталь. Делайте качественные съемки, чтобы покупатель смог рассмотреть товар, как вживую. Люксовые бренды тратят на это большие деньги, потому что детали важны. ✅ Рассказывайте об уникальных свойствах: Опишите, чем ваш бренд отличается от других: редкие материалы, ручная работа, инновации. Говорите просто и конкретно — покажите, почему ваш товар стоит внимания. ✅ Подстраивайте сайт под клиента: Делайте персональные рекомендации и подборки на основе интересов клиента. Сайт должен сам предлагать нужное. Это создает эффект заботы и поднимает конверсию. ✅ Выводите сервис на новый уровень: Обучайте консультантов разбираться в моде и продукции. Курьеры должны быть вежливыми и аккуратными. Упаковка должна впечатлять: она создает первое впечатление о бренде. ✅ Рассказывайте истории бренда: Поделитесь историей бренда, расскажите о мастерах и традициях. Покажите, как создаются вещи. Это помогает клиентам погрузиться в атмосферу и почувствовать связь с брендом."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

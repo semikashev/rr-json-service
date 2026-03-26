@@ -24,6 +24,19 @@
   "MetaTitle": "Growth-маркетинг: что такое маркетинг роста и как он работает",
   "ContentBlockList": [
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Growth-маркетинг — это постоянные эксперименты на основе данных. Команда не просто делает рекламу, а ищет новые способы привлечь, удержать и вернуть клиентов. Всё измеряется: что сработало — масштабируют, что не сработало — убирают."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Пример growth-маркетинга"
+    },
+    {
       "_t": "UnorderedList",
       "Items": [
         [
@@ -123,7 +136,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/growth-marketing/AD_4nXdkotz7B_RY6Zfr4zTAnAFdbznLWW4HBDhzuGIRT39ZY2P4dmZquhulURPEekhNWUIQz3KCyQ0pLlo8ZcRvwsniEX87El9pXsGXhBa6t1jniJc1ccSeT7p2r52aj94yQfYyA2Jp.png",
-      "Alt": "Сравнение подходов: Growth-hacking и Growth-маркетинг для увеличения пользователей.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -336,7 +349,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/growth-marketing/Group-1-1.png",
-      "Alt": "Инфографика о ролях в growth-маркетинге для улучшения бизнес-процессов.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -369,7 +382,12 @@
           "Content": "Как придумать и проверить гипотезу в маркетинге"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Читать статью",
       "BtnUrl": "https://retailrocket.ru/blog/marketing-gipotety-test/"
     },
@@ -670,6 +688,57 @@
             "Content": "Growth-маркетинг помогает расти за счёт новых и возвращённых клиентов даже в жёсткой конкуренции."
           }
         ]
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
       ]
     }
   ]

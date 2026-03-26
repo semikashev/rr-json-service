@@ -39,7 +39,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-znanija-o-rabote-mozga-pokupatelej-pomogut-zavoevat-klienta/1.png",
-      "Alt": "Процесс принятия решения в мозге: намерение, анализ, покупка, обратная связь.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -54,7 +54,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-znanija-o-rabote-mozga-pokupatelej-pomogut-zavoevat-klienta/2.png",
-      "Alt": "Инфографика о различиях между осознанным и спонтанным покупателем.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -100,7 +100,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-znanija-o-rabote-mozga-pokupatelej-pomogut-zavoevat-klienta/3.png",
-      "Alt": "Инфографика о типах покупателей и влиянии мозговых механизмов на покупки.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -115,7 +115,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-znanija-o-rabote-mozga-pokupatelej-pomogut-zavoevat-klienta/4.png",
-      "Alt": "Инфографика о типах покупателей и влиянии эмоций на импульсивные покупки",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -130,7 +130,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-znanija-o-rabote-mozga-pokupatelej-pomogut-zavoevat-klienta/5.png",
-      "Alt": "Пример блока товарных рекомендаций и персонализации в e-commerce на сайте.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -142,34 +142,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Что влияет на принятие решений? Люди помнят "
-        },
-        {
-          "_t": "Text",
-          "Content": "10%",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " того, что услышали, "
-        },
-        {
-          "_t": "Text",
-          "Content": "80%",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " того, что увидели и "
-        },
-        {
-          "_t": "Text",
-          "Content": "20%",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " того, что прочли."
+          "Content": "Что влияет на принятие решений? Люди помнят 10% того, что услышали, 80% того, что увидели и 20% того, что прочли."
         }
       ]
     },
@@ -208,7 +181,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-znanija-o-rabote-mozga-pokupatelej-pomogut-zavoevat-klienta/6.png",
-      "Alt": "Инфографика о влиянии визуальной информации и цвета на восприятие и бренд.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -227,7 +200,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-znanija-o-rabote-mozga-pokupatelej-pomogut-zavoevat-klienta/7.png",
-      "Alt": "Инфографика влияния цветов на поведение онлайн-покупателей в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -242,7 +215,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-znanija-o-rabote-mozga-pokupatelej-pomogut-zavoevat-klienta/8.png",
-      "Alt": "Инфографика о влиянии цвета на поведение покупателей в ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -275,7 +248,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-znanija-o-rabote-mozga-pokupatelej-pomogut-zavoevat-klienta/9.png",
-      "Alt": "Инфографика о влиянии вывесок на решения покупателей в ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -300,7 +273,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-znanija-o-rabote-mozga-pokupatelej-pomogut-zavoevat-klienta/10.png",
-      "Alt": "Письмо с персонализированными скидками и рекомендациями в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -337,7 +310,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-znanija-o-rabote-mozga-pokupatelej-pomogut-zavoevat-klienta/11.png",
-      "Alt": "Инфографика: влияние музыки на поведение покупателей в ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -345,13 +318,8 @@
       "Title": "Специфика интернет-магазинов: главные факторы, влияющие на онлайн-покупки"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "В онлайне на пользователя действует множество мотиваторов и демотиваторов, которые в рознице не играют никакой роли:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "В онлайне на пользователя действует множество мотиваторов и демотиваторов, которые в рознице не играют никакой роли:"
     },
     {
       "_t": "UnorderedList",
@@ -364,7 +332,7 @@
           {
             "_t": "Text",
             "Content": "80%",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -379,7 +347,7 @@
           {
             "_t": "Text",
             "Content": "46%",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -394,7 +362,7 @@
           {
             "_t": "Text",
             "Content": "68%",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -405,7 +373,7 @@
           {
             "_t": "Text",
             "Content": "64%",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -419,23 +387,14 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Впрочем, цена всё ещё самый важный фактор при совершении покупки в интернет магазинов для "
-        },
-        {
-          "_t": "Text",
-          "Content": "87%",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " покупателей."
+          "Content": "Впрочем, цена всё ещё самый важный фактор при совершении покупки в интернет магазинов для 87% покупателей."
         }
       ]
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-znanija-o-rabote-mozga-pokupatelej-pomogut-zavoevat-klienta/12.png",
-      "Alt": "Факторы, влияющие на решения онлайн-покупателей: инфографика о ценах и доставке",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -468,7 +427,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-znanija-o-rabote-mozga-pokupatelej-pomogut-zavoevat-klienta/13.gif",
-      "Alt": "Сравнение сегментов A и B в персонализации в e-commerce с конверсией +13,7%",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -510,7 +469,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-znanija-o-rabote-mozga-pokupatelej-pomogut-zavoevat-klienta/14.png",
-      "Alt": "Инфографика об опыте покупателей и SEO-оптимизации в e-commerce и ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -529,7 +488,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-znanija-o-rabote-mozga-pokupatelej-pomogut-zavoevat-klienta/15.png",
-      "Alt": "Инфографика о тактиках мотивации покупателей в магазинах NikeTown и Victoria's Secret.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -553,7 +512,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-znanija-o-rabote-mozga-pokupatelej-pomogut-zavoevat-klienta/16.png",
-      "Alt": "Инфографика о применении знаний о мозге для привлечения клиентов в ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -566,6 +525,57 @@
         {
           "_t": "Text",
           "Content": "✅ Разделите фазы принятия решений: сначала человек хочет, потом изучает, покупает и дает обратную связь. Пример: клиент читает отзывы перед покупкой. ✅ Понимание мозга покупателей: осознанным — товары комплектами, спонтанным — яркие скидки. Пример: эко-сумки для осознанных. ✅ Узнайте типы покупателей: охотники за скидками, исследователи, импульсивные, лоялисты. Пример: скидки привлекают охотников в Черную Пятницу. ✅ Улучшите визуал: цвет, оформление, баннеры, витрины. Пример: черный и золото для премиум-товаров. ✅ Подберите музыку: под товар и настроение. Пример: классика для вина, поп-музыка для детских магазинов. ✅ Упростите онлайн-покупки: удобный сайт, быстрая доставка, персонализация. Пример: рекомендации на странице поиска. ✅ Внедряйте фишки брендов: ароматы, визуал, тактильные триггеры. Пример: Apple создает желание прикоснуться к товару."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

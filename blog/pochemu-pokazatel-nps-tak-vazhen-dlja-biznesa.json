@@ -24,6 +24,15 @@
   "MetaTitle": "Почему показатель NPS так важен для бизнеса – Retail Rocket, страница 6",
   "ContentBlockList": [
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Рассказываем, почему этот показатель так важен, и как его использовать на практике."
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Что такое NPS"
     },
@@ -77,13 +86,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Далее пул респондентов, участвующих в определении NPS, делится на 3 части в зависимости от поставленной оценки:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Далее пул респондентов, участвующих в определении NPS, делится на 3 части в зависимости от поставленной оценки:"
     },
     {
       "_t": "UnorderedList",
@@ -111,7 +115,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pochemu-pokazatel-nps-tak-vazhen-dlja-biznesa/pasted-image-0-43.png",
-      "Alt": "Инфографика о значении и сегментации NPS для бизнеса в ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -126,7 +130,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pochemu-pokazatel-nps-tak-vazhen-dlja-biznesa/formula.png",
-      "Alt": "Формула расчета NPS с учетом отзывов в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -134,7 +138,16 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Полученный показатель можно сравнить со средним значением по рынку, чтобы оценить, насколько вы опережаете конкурентов или уступаете им. Однако на данный момент обширная статистика собрана только по западным рынкам. Почему NPS, а не что-то еще?"
+          "Content": "Полученный показатель можно сравнить со средним значением по рынку, чтобы оценить, насколько вы опережаете конкурентов или уступаете им. Однако на данный момент обширная статистика собрана только по западным рынкам."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Почему NPS, а не что-то еще?"
         }
       ]
     },
@@ -150,7 +163,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pochemu-pokazatel-nps-tak-vazhen-dlja-biznesa/pasted-image-0-44.png",
-      "Alt": "Диаграмма популярности KPI, включая NPS, в e-commerce и ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -174,7 +187,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pochemu-pokazatel-nps-tak-vazhen-dlja-biznesa/pasted-image-0-45.png",
-      "Alt": "Инфографика о важности постоянных покупателей и повторных покупок в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -193,7 +206,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pochemu-pokazatel-nps-tak-vazhen-dlja-biznesa/retail-rocket-p44444.jpg",
-      "Alt": "График изменения NPS платформы Retail Rocket с AI рекомендациями за 6 месяцев.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -219,14 +232,23 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Другой пример: клиент поставил негативную оценку без какого-либо комментария. С ним связался руководитель клиентского сервиса для того, чтобы выяснить, что пошло не так, и чем он может помочь. Оказалось, что клиент не заметил в интерфейсе личного кабинета одну из базовых фичей и расстроился, решив, что ее нет. Для клиента провели дополнительное обучение, его оценка изменилась на положительную, а интерфейс после этого был доработан. Словом, мир вокруг стал значительно лучше 🙂 К формированию NPS мы подходим максимально самокритично: как правило, письма получают несколько сотрудников компании-партнера, а в зачет идет самая низкая из поставленных ими оценок."
+          "Content": "Другой пример: клиент поставил негативную оценку без какого-либо комментария. С ним связался руководитель клиентского сервиса для того, чтобы выяснить, что пошло не так, и чем он может помочь. Оказалось, что клиент не заметил в интерфейсе личного кабинета одну из базовых фичей и расстроился, решив, что ее нет. Для клиента провели дополнительное обучение, его оценка изменилась на положительную, а интерфейс после этого был доработан. Словом, мир вокруг стал значительно лучше 🙂"
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "К формированию NPS мы подходим максимально самокритично: как правило, письма получают несколько сотрудников компании-партнера, а в зачет идет самая низкая из поставленных ими оценок."
         }
       ]
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pochemu-pokazatel-nps-tak-vazhen-dlja-biznesa/pasted-image-0-47.png",
-      "Alt": "Пример NPS-письма от Retail Rocket для оценки качества сервиса через персонализацию в ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -250,7 +272,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pochemu-pokazatel-nps-tak-vazhen-dlja-biznesa/pasted-image-0-48.png",
-      "Alt": "Пример NPS-письма от Retail Rocket для оценки качества сервиса клиентами.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -265,7 +287,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pochemu-pokazatel-nps-tak-vazhen-dlja-biznesa/pasted-image-0-48-1.png",
-      "Alt": "Пример NPS-письма от Retail Rocket с оценкой сервиса и приветствием.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -280,7 +302,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pochemu-pokazatel-nps-tak-vazhen-dlja-biznesa/cmjaci7m5ry-1024x508-1.jpg",
-      "Alt": "Офис с сотрудниками и стенд с графиками NPS, важными для бизнеса.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -320,6 +342,57 @@
         {
           "_t": "Text",
           "Content": "Что касается Retail Rocket, то за 2019 год мы смогли улучшить средний показатель NPS в 3 раза. Спасибо нашим клиентам за высокую оценку! Будем стараться еще сильнее. Уверены, что в 2020-м году вы еще больше будете довольны платформой. Нам есть, чем вас удивить 🙂"
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

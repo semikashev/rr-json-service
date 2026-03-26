@@ -41,9 +41,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Динамическое ценообразование — это явление, с которым мы регулярно сталкиваемся в повседневной жизни. Каждый из нас видел динамичные цены, когда пытался вызвать такси, чтобы уехать на работу в утренний час пик, или купить авиабилет в родной город в разгар летних отпусков. Чем выше спрос, тем выше будет стоимость, и наоборот — в периоды низкого спроса цена привлекательнее для покупателя. Принципы динамического ценообразования:"
+          "Content": "Динамическое ценообразование — это явление, с которым мы регулярно сталкиваемся в повседневной жизни. Каждый из нас видел динамичные цены, когда пытался вызвать такси, чтобы уехать на работу в утренний час пик, или купить авиабилет в родной город в разгар летних отпусков. Чем выше спрос, тем выше будет стоимость, и наоборот — в периоды низкого спроса цена привлекательнее для покупателя."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Принципы динамического ценообразования:"
     },
     {
       "_t": "OrderedList",
@@ -84,13 +88,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Алгоритмы динамического ценообразования используют такие данные, как:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Алгоритмы динамического ценообразования используют такие данные, как:"
     },
     {
       "_t": "UnorderedList",
@@ -157,7 +156,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-rabotayet-dinamicheskoye-tsenoobrazovaniye/1_dynamic-pricing-1-scaled.png",
-      "Alt": "Схема ценовых точек при динамическом ценообразовании",
+      "Alt": "",
       "Caption": "При динамическом ценообразовании у бизнеса есть несколько ценовых точек, которые помогают получать прибыль в разных ситуациях"
     },
     {
@@ -183,13 +182,8 @@
       "Title": "Кому подходит динамическое ценообразование"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Этот подход к установке цен широко используется в таких ситуациях:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Этот подход к установке цен широко используется в таких ситуациях:"
     },
     {
       "_t": "UnorderedList",
@@ -270,13 +264,8 @@
       "Title": "Модели динамического ценообразования"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Современный бизнес использует две модели динамического ценообразования:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Современный бизнес использует две модели динамического ценообразования:"
     },
     {
       "_t": "Paragraph",
@@ -301,13 +290,8 @@
       "Title": "Методы динамического ценообразования"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Динамическая цена назначается на основе пяти факторов:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Динамическая цена назначается на основе пяти факторов:"
     },
     {
       "_t": "OrderedList",
@@ -354,22 +338,12 @@
       ]
     },
     {
+      "_t": "Heading2",
+      "Title": "[✔️ уже сегментировали клиентов: например, с помощью программы лояльности;](https://retailrocket.ru/blog/loyalty-program/)"
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/loyalty-program/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "✔️ уже сегментировали клиентов: например, с помощью программы лояльности;"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
         {
           "_t": "Link",
           "Href": "https://retailrocket.ru/blog/loyalty-program/",
@@ -379,67 +353,28 @@
               "Content": "✔️ имеют базу клиентов, где каждый обладает своими предпочтениями в отношении цен: одни делают только недорогие покупки, а другие приобретают товары класса люкс;"
             }
           ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/loyalty-program/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "✔️ работают на рынке с рекомендованной розничной ценой: например, торгуют бытовой техникой или автомобилями."
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/loyalty-program/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "👉 Узнать больше об управлении лояльностью клиентов с продуктами Retail Rocket"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/loyalty-program/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "👉 Как управлять данными о клиентах с Data Warehouse"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/loyalty-program/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "👉 Как сегментировать клиентскую базу с Customer Intelligence Platform"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "[✔️ работают на рынке с рекомендованной розничной ценой: например, торгуют бытовой техникой или автомобилями.](https://retailrocket.ru/blog/loyalty-program/)"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "[👉 Узнать больше об управлении лояльностью клиентов с продуктами Retail Rocket](https://retailrocket.ru/blog/loyalty-program/)"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "[👉 Как управлять данными о клиентах с Data Warehouse](https://retailrocket.ru/blog/loyalty-program/)"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "[👉 Как сегментировать клиентскую базу с Customer Intelligence Platform](https://retailrocket.ru/blog/loyalty-program/)"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
         {
           "_t": "Text",
           "Content": "Спрос.",
@@ -649,6 +584,57 @@
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-rabotayet-dinamicheskoye-tsenoobrazovaniye/2_dynamic-pricing-1-scaled.png",
       "Alt": "Преимущества и недостатки динамического ценообразования",
       "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

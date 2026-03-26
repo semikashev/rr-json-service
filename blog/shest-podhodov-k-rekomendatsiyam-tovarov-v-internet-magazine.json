@@ -24,6 +24,15 @@
   "MetaTitle": "6 подходов к товарным рекомендациями в интернет-магазине – Retail Rocket, страница 6",
   "ContentBlockList": [
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Товарные рекомендации — это когда магазин подсказывает вам, что купить. Вы заходите за новым телефоном, а система сразу предлагает чехол или зарядку. Магазин анализирует, что вы уже покупали или смотрели, и на основе этого подбирает товары, которые вам могут понадобиться. Он не ждет, пока вы сами найдете нужное, а активно предлагает подходящие варианты. Так вы экономите время и получаете то, что вам действительно нужно, а магазин получает больше продаж. Всё просто и удобно."
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Почему товарные рекомендации важны"
     },
@@ -124,7 +133,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/shest-podhodov-k-rekomendatsiyam-tovarov-v-internet-magazine/asos.jpg",
-      "Alt": "Скриншот интерфейса товарных рекомендаций с использованием AI в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -175,7 +184,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/shest-podhodov-k-rekomendatsiyam-tovarov-v-internet-magazine/3.jpg",
-      "Alt": "Пример товарных рекомендаций в e-commerce с персонализацией продукции.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -221,7 +230,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/shest-podhodov-k-rekomendatsiyam-tovarov-v-internet-magazine/bf.jpg",
-      "Alt": "Интерфейс выбора характеристик для персонализации в e-commerce, включая рост и вес.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -276,7 +285,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/shest-podhodov-k-rekomendatsiyam-tovarov-v-internet-magazine/hits.jpg",
-      "Alt": "Витрина интернет-магазина с товарами Ben Sherman: обувь, сумка, одежда.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -322,7 +331,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/shest-podhodov-k-rekomendatsiyam-tovarov-v-internet-magazine/amazon.jpg",
-      "Alt": "Часто покупают вместе: продуктовая рекомендация на Amazon, персонализация в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -373,7 +382,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/shest-podhodov-k-rekomendatsiyam-tovarov-v-internet-magazine/4.jpg",
-      "Alt": "Рекомендации товаров в интернет-магазине: наушники, подушка, планшет Kindle, цены",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -401,7 +410,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/shest-podhodov-k-rekomendatsiyam-tovarov-v-internet-magazine/rnow.jpg",
-      "Alt": "Интерфейс рекомендаций товаров в реальном времени для персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -514,6 +523,57 @@
         {
           "_t": "Text",
           "Content": "По материалам Econsultancy."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

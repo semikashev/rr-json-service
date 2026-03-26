@@ -32,12 +32,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Как было раньше",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": ". Карточки плейсментов состояли из названия и стандартных обложек, где товарная полка была выделена синим."
+          "Content": "Как было раньше. Карточки плейсментов состояли из названия и стандартных обложек, где товарная полка была выделена синим."
         }
       ]
     },
@@ -53,7 +48,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/obnovlennye-kartochki-plejsmentov/image-11.webp",
-      "Alt": "Интерфейс обновленных карточек плейсментов на платформе Smart Placement Ads.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -105,22 +100,17 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/obnovlennye-kartochki-plejsmentov/image-12.webp",
-      "Alt": "Интерфейс обновленных плейсментов в AdTech-платформе Smart Placement Ads.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "↑ Кликнув на один из плейсментов, можно увидеть расширенное описание, требования рекламе и место размещения, которое выделено фиолетовым"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "↑ Кликнув на один из плейсментов, можно увидеть расширенное описание, требования рекламе и место размещения, которое выделено фиолетовым"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/obnovlennye-kartochki-plejsmentov/image-13.webp",
-      "Alt": "Интерфейс платформы Smart Placement Ads с улучшенными инструментами брендирования.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -137,18 +127,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Настройка внешнего вида карточки",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": ". У e-com площадок появилась возможность:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Настройка внешнего вида карточки. У e-com площадок появилась возможность:"
     },
     {
       "_t": "UnorderedList",
@@ -168,18 +148,13 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "↑ После заполнения карточки поддерживаемые типы контента, а также и страница или экран плейсмента подставляются автоматически"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "↑ После заполнения карточки поддерживаемые типы контента, а также и страница или экран плейсмента подставляются автоматически"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/obnovlennye-kartochki-plejsmentov/image-14.webp",
-      "Alt": "Интерфейс настройки карточек плейсментов для персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -197,33 +172,18 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "↑ Блоки дополнительных изображений и расширенного описания в личном кабинете e-com площадки"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "↑ Блоки дополнительных изображений и расширенного описания в личном кабинете e-com площадки"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/obnovlennye-kartochki-plejsmentov/image-15.webp",
-      "Alt": "Интерфейс загрузки и редактирования изображений в AdTech-платформе для персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Markdown разметка расширенной товарной карточки",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": ". Теперь описание расширенной товарной карточки:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Markdown разметка расширенной товарной карточки. Теперь описание расширенной товарной карточки:"
     },
     {
       "_t": "UnorderedList",
@@ -254,7 +214,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/obnovlennye-kartochki-plejsmentov/image-16.webp",
-      "Alt": "Интерфейс настройки брендирования в AdTech-платформе Smart Placement Ads для персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -272,19 +232,22 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "↑ Превью расширенной карточки, которую можно открыть через кнопку «Открыть для предпросмотра»"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "↑ Превью расширенной карточки, которую можно открыть через кнопку «Открыть для предпросмотра»"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/obnovlennye-kartochki-plejsmentov/image-17.webp",
-      "Alt": "Интерфейс обновленных карточек плейсментов в AdTech-платформе Smart Placement Ads.",
+      "Alt": "",
       "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
   ]
 }

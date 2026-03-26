@@ -33,15 +33,6 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Наталья Казьмина CMO Retail Rocket Group"
-        }
-      ]
-    },
-    {
       "_t": "Heading2",
       "Title": "Исследования незаконченных покупок"
     },
@@ -107,7 +98,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/issledovanie-broshennyih-korzin/Why-People-Abandon-Their-Carts-Retail-Edition-page-1.png",
-      "Alt": "Инфографика о причинах отказа от покупок в онлайн-корзинах различных товаров.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -115,7 +106,16 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Почему покупатели уходят? Опросы пользователей, исследования «брошенных» корзин и аналитика историй посещения интернет-ресурсов позволяют назвать шесть основных причин, почему человек, находясь на страницах интернет-магазина, выбирает товар, а затем покидает сайт, не нажав на кнопку «Оплатить»:"
+          "Content": "Почему покупатели уходят?"
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Опросы пользователей, исследования «брошенных» корзин и аналитика историй посещения интернет-ресурсов позволяют назвать шесть основных причин, почему человек, находясь на страницах интернет-магазина, выбирает товар, а затем покидает сайт, не нажав на кнопку «Оплатить»:"
         }
       ]
     },
@@ -163,7 +163,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/issledovanie-broshennyih-korzin/Why-People-Abandon-Their-Carts-Retail-Edition-page-2.png",
-      "Alt": "Инфографика причин, почему пользователи оставляют корзины в интернет-магазинах",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -195,7 +195,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/issledovanie-broshennyih-korzin/retail_infographic-broshennyiy-prosmotr.png",
-      "Alt": "Инфографика о конверсии email-писем для разных категорий товаров в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -259,7 +259,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/issledovanie-broshennyih-korzin/Why-People-Abandon-Their-Carts-Retail-Edition-page-3.png",
-      "Alt": "Инфографика: как улучшить опыт покупок и снизить количество брошенных корзин.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -287,7 +287,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/issledovanie-broshennyih-korzin/retail_infographic-broshennaya-korzina.png",
-      "Alt": "Инфографика: конверсия писем для «брошенной корзины» по категориям товаров.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -296,6 +296,57 @@
         {
           "_t": "Text",
           "Content": "Брошенная корзина — еще не повод бить тревогу, но и закрывать глаза на эту ситуацию не стоит. Работая над улучшением интернет-магазина и внедряя автоматизированные e-mail рассылки, можно значительно снизить количество пользователей, уходящих из магазина без покупки."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

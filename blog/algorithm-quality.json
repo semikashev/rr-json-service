@@ -26,7 +26,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/algorithm-quality/unnamed-3.png",
-      "Alt": "Схема: семь критериев для разработки системы товарных рекомендаций.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -72,7 +72,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/algorithm-quality/srs_10.png",
-      "Alt": "Схема разработки системы рекомендаций с акцентом на алгоритмы и интеграции.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -102,13 +102,8 @@
       "Title": "1. Эффективность — рекомендации способствуют решению задачи покупателя"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Рекомендации должны помогать покупателям магазина эффективно выполнять их задачи. В качестве примера таких задач можно назвать:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Рекомендации должны помогать покупателям магазина эффективно выполнять их задачи. В качестве примера таких задач можно назвать:"
     },
     {
       "_t": "UnorderedList",
@@ -134,13 +129,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Что, в свою очередь, обеспечивает:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Что, в свою очередь, обеспечивает:"
     },
     {
       "_t": "UnorderedList",
@@ -168,7 +158,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/algorithm-quality/srs_20.png",
-      "Alt": "Схема стадии поиска и выбора товаров с товарными рекомендациями на сайте.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -183,7 +173,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/algorithm-quality/srs_30.png",
-      "Alt": "Сравнение товарных рекомендаций: неэффективные и эффективные подходы для e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -229,7 +219,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/algorithm-quality/srs_40.png",
-      "Alt": "Пример интерфейса с товарными рекомендациями и альтернативами для улучшения покупок.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -275,7 +265,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/algorithm-quality/srs_50.png",
-      "Alt": "Сравнение эффективности умных товарных рекомендаций на интерфейсе.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -321,7 +311,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/algorithm-quality/srs_60.png",
-      "Alt": "Интерфейс с AI рекомендациями товаров по интересам пользователей на сайте.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -340,7 +330,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/algorithm-quality/srs_70.png",
-      "Alt": "График популярности товаров: хиты продаж и долгий хвост для товарных рекомендаций.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -355,7 +345,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/algorithm-quality/srs_80.png",
-      "Alt": "Сравнение эффективности товарных рекомендаций: ограниченные vs. разнообразные предложения.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -370,7 +360,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/algorithm-quality/cpc_91.png",
-      "Alt": "График зависимости вероятности возврата от числа просмотренных товаров, товарные рекомендации.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -416,7 +406,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/algorithm-quality/srs_100.png",
-      "Alt": "Сравнение товарных рекомендаций: отсутствующие и доступные товары в онлайн-магазине.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -462,7 +452,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/algorithm-quality/srs_110.png",
-      "Alt": "Схема товарных рекомендаций на сайте, выделена региональная доступность товаров.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -482,7 +472,12 @@
           "Content": "Узнайте, как рекомендации Retail Rocket Group помогают людям находить то, что им нужно"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Узнать больше",
       "BtnUrl": "https://retailrocket.ru/algorithms/"
     },
@@ -502,7 +497,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/algorithm-quality/srs_120.png",
-      "Alt": "Радарная диаграмма: критерии разработки системы товарных рекомендаций сайта.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -517,7 +512,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/algorithm-quality/srs_130.png",
-      "Alt": "Диаграмма факторов эффективности системы товарных рекомендаций на сайте.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -532,7 +527,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/algorithm-quality/srs_140.png",
-      "Alt": "График товарных рекомендаций: охват, покрытие и их свойства.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -556,7 +551,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/algorithm-quality/srs_150.png",
-      "Alt": "3D-схема роста объема вычислений для товарных рекомендаций в ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -573,13 +568,8 @@
       "Title": "Как проверить качество системы рекомендаций"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Мы предлагаем ряд простых проверок на нарушение свойств рекомендаций:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Мы предлагаем ряд простых проверок на нарушение свойств рекомендаций:"
     },
     {
       "_t": "UnorderedList",
@@ -627,13 +617,8 @@
       "Title": "Основные выводы"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Чтобы система рекомендаций работала на результат, нужно сделать несколько конкретных шагов:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Чтобы система рекомендаций работала на результат, нужно сделать несколько конкретных шагов:"
     },
     {
       "_t": "OrderedList",
@@ -715,6 +700,57 @@
             "Content": ". Если в его регионе товар недоступен, не показывайте его. Предложите то, что он может получить быстро и без проблем."
           }
         ]
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
       ]
     }
   ]

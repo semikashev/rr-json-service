@@ -20,5 +20,727 @@
     }
   ],
   "MetaTitle": "Retail Rocket Group — единый центр управления маркетингом",
-  "ContentBlockList": []
+  "ContentBlockList": [
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/Group-4.png",
+      "Alt": "AI & ML Технологии",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "AI & ML Технологии"
+        }
+      ]
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Узнать стоимость"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Узнать стоимость",
+      "BtnUrl": "https://retailrocket.ru/pricing/"
+    },
+    {
+      "_t": "CtaPrimaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Записаться на демо"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Записаться на демо",
+      "BtnUrl": "https://retailrocket.ru/demo/"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/11/Frame-2131328131-копия_converted-1.avif",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/11/Frame-2131328131sdsdsd232_converted.avif",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Live CDP"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Retail Media"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Коммуникации"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Рекомендации"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Умный поиск"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Лояльность"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Промоакции"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Live CDP"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Ускорьте бизнес-процессы с помощью live-данных о поведении и предпочтениях клиентов"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Скорость сегментации клиентской базы — 1 млн контактов в секунду"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Единые клиентские профили 360° с тегами и атрибутами"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Гибкие методы интеграции и передачи данных"
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Узнать стоимость"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Узнать стоимость",
+      "BtnUrl": "https://retailrocket.ru/pricing/"
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Подробнее про Live CDP"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Подробнее про Live CDP",
+      "BtnUrl": "https://retailrocket.ru/cdp/"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/11/CDP-for-carousel_converted.avif",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Retail Мedia"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Получайте дополнительный доход с помощью нативной рекламы на всех этапах CJM"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Рекламный инвентарь для сайта, приложения и офлайн-магазина"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Гибкие условия таргетинга в реальном времени по интересам и поведению посетителей"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Аналитика в атрибуции post-click и post-view"
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Узнать стоимость"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Узнать стоимость",
+      "BtnUrl": "https://retailrocket.ru/pricing/"
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Узнать больше про Retail media"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Узнать больше про Retail media",
+      "BtnUrl": "https://retailrocket.ru/retail-media/"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/11/Retail-Media-for-carousel_converted.avif",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Омниканальные коммуникации"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Персонализируйте каждое касание с клиентом — от e-mail до push и мессенджеров"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "17 триггерных сценариев на основе поведения клиентов"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "WYSIWYG-редактор"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Омниканальность: e-mail, SMS, WhatsApp, push, чат-боты и уведомления в «Кошельке»"
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Узнать стоимость"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Узнать стоимость",
+      "BtnUrl": "https://retailrocket.ru/pricing/"
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Подробнее про Коммуникации"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Подробнее про Коммуникации",
+      "BtnUrl": "https://retailrocket.ru/automation/"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/11/Comms-for-the-carousel_converted.avif",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Рекомендательные системы"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Увеличивайте конверсии с помощью персонализированных AI- и ML-рекомендаций на всем пути клиента"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "35+ высокоточных алгоритмов для любых сценариев"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Онлайн-, офлайн-, мобильные и email-рекомендации"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Мгновенная синхронизация с базами данных товаров любого масштаба"
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Узнать стоимость"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Узнать стоимость",
+      "BtnUrl": "https://retailrocket.ru/pricing/"
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Подробнее про Рекомендации"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Подробнее про Рекомендации",
+      "BtnUrl": "https://retailrocket.ru/personalization/"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/11/Recommendations-for-the-carousel_converted.avif",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Умный поиск на базе ИИ"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Помогайте клиентам быстрее находить нужное — и покупок станет больше"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Учет абстракций, синонимов и опечаток при вводе запроса"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Понимание разных языков и раскладок клавиатуры"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Персонализация SERP"
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Узнать стоимость"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Узнать стоимость",
+      "BtnUrl": "https://retailrocket.ru/pricing/"
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Подробнее про Поиск"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Подробнее про Поиск",
+      "BtnUrl": "https://retailrocket.ru/ai-search/"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/11/Smart-Search-image-for-the-carousel_converted.avif",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Управление лояльностью"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Удерживайте клиентов с помощью персонализированных бонусов и геймификации"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Настраиваемые уровни и статусы участия в программе лояльности"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Гибкие правила бонусов в no-code-конструкторе"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Управление подарками, реферальные программы и игровые механики"
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Узнать стоимость"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Узнать стоимость",
+      "BtnUrl": "https://retailrocket.ru/pricing/"
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Подробнее про Лояльность"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Подробнее про Лояльность",
+      "BtnUrl": "https://retailrocket.ru/loyalty-program/"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/11/Loyalty-for-carousel-2_converted.avif",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Промоакции"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Повышайте частоту покупок с помощью таргетированных акций и гибкого ценообразования"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Конструктор no-code для создания промоакций: купонов, ваучеров, подарочных карт, комплектов и многого другого"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Инструменты для защиты от фрода"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Виртуальный терминал для тестирования акций"
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Узнать стоимость"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Узнать стоимость",
+      "BtnUrl": "https://retailrocket.ru/pricing/"
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Подробнее про Промоакции"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Подробнее про Промоакции",
+      "BtnUrl": "https://retailrocket.ru/promo-marketing/"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/11/Promo-for-carousel_converted.avif",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/sailpay.svg",
+      "Alt": "Service Logo #2",
+      "Caption": null
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/retail-rocket.svg",
+      "Alt": "Service Logo #1",
+      "Caption": null
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/Smart-Placement-Ads.svg",
+      "Alt": "Service Logo #3",
+      "Caption": null
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Узнать больше"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Узнать больше",
+      "BtnUrl": "https://retailrocket.ru/about/"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/icon-main1.svg",
+      "Alt": "icon-main1",
+      "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "1000+ клиентов используют наши решения по всему миру"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/elementor/thumbs/Group-2087326986-rb7j4xima84cmpavma13vlpcznv7yucdhdb9ekm66o.png",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "200+ инженеров, аналитиков, CSM и консультантов по интеграции"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/elementor/thumbs/Group-2087326987-rb7j58sok8jsi0uhsewmpiuw4abmj7l5ix535w5g40.png",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "12+ лет опыта в разработке и внедрении маркетинговых стратегий"
+    },
+    {
+      "_t": "CtaPrimaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Записаться на консультацию с экспертом"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Записаться на консультацию с экспертом",
+      "BtnUrl": "https://retailrocket.ru/demo/"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "снижение CAC"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Благодаря росту конверсий на сайте и в приложении на каждом этапе CJM."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "увеличение конверсии"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Благодаря умному поиску товаров и рекомендациям на базе AI и ML."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "рост CLTV"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "За счет персонализации клиентского опыта и эффективного управления лояльностью."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Обсудим цели и задачи вашего бизнеса и предложим способы увеличить выручку на текущей базе клиентов"
+    },
+    {
+      "_t": "CtaPrimaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Записаться на демо"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Записаться на демо",
+      "BtnUrl": "https://retailrocket.ru/demo/"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/Group-2087327027.svg",
+      "Alt": "Safety First",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Safety First"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/Group-2087327033.png",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Развиваем информационную безопасность Наша технология проходит аттестацию по требованиям ФСТЭК России."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/wp-content/uploads/2025/10/FSTEC-03-09-2025.pdf",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "Аттестат соответствия"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/Group-2131328084.png",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Аккредитованная IT-компания Retail Media от Retail Rocket Group входит в реестр аккредитованных IT-компаний Минцифры."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://www.gosuslugi.ru/itorgs",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "Проверить аккредитацию"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/Group-2131328085.png",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Соблюдаем закон № 152-ФЗ «О персональных данных» Ежегодно проходим независимый аудит на соответствие требованиям законодательства."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/wp-content/uploads/2025/10/fz152-audit.pdf",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "Результаты аудита"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/Group-2131328086.png",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Внесены в реестр Роскомнадзора Включены в реестр операторов персональных данных, обрабатываем информацию согласно закону."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://pd.rkn.gov.ru/operators-registry/operators-list/?id=77-23-142437",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "Реестр операторов"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Узнать стоимость"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Узнать стоимость",
+      "BtnUrl": "https://retailrocket.ru/pricing/"
+    },
+    {
+      "_t": "CtaPrimaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Записаться на демо"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Записаться на демо",
+      "BtnUrl": "https://retailrocket.ru/demo/"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/footerimage.webp",
+      "Alt": "",
+      "Caption": null
+    }
+  ]
 }

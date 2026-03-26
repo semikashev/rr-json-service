@@ -39,7 +39,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/obratite-vnimanie-kakie-infopovody-mozhet-ispolzovat-internet-magazin-v-rassylkah/pasted-image-0-27.png",
-      "Alt": "Инфографика с ключевыми приоритетами в стратегии email-маркетинга на 2020 год.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -167,7 +167,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/obratite-vnimanie-kakie-infopovody-mozhet-ispolzovat-internet-magazin-v-rassylkah/unnamed-3.png",
-      "Alt": "Пример email-рассылки с AI персонализацией и рекомендациями товаров для животных.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -204,7 +204,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/obratite-vnimanie-kakie-infopovody-mozhet-ispolzovat-internet-magazin-v-rassylkah/email_rumikom.png",
-      "Alt": "Email-рассылка интернет-магазина с AI персонализацией и рекомендациями для клиентов.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -241,7 +241,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/obratite-vnimanie-kakie-infopovody-mozhet-ispolzovat-internet-magazin-v-rassylkah/email_tomtailor_new.png",
-      "Alt": "Email-рассылка интернет-магазина Tom Tailor с AI персонализацией и баннером.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -278,7 +278,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/obratite-vnimanie-kakie-infopovody-mozhet-ispolzovat-internet-magazin-v-rassylkah/email_food52.png",
-      "Alt": "Пример письма с предложениями продуктов и отзывами клиентов от Food52.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -306,13 +306,13 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/obratite-vnimanie-kakie-infopovody-mozhet-ispolzovat-internet-magazin-v-rassylkah/email_beardbrand_1.png",
-      "Alt": "Пример email-рассылки Beardbrand с возможностями AI в маркетинге.",
+      "Alt": "",
       "Caption": null
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/obratite-vnimanie-kakie-infopovody-mozhet-ispolzovat-internet-magazin-v-rassylkah/email_beardbrand_2.png",
-      "Alt": "Пример email-рассылки от Beardbrand с креативным текстом и фото клиента.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -349,7 +349,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/obratite-vnimanie-kakie-infopovody-mozhet-ispolzovat-internet-magazin-v-rassylkah/email_onona_new.png",
-      "Alt": "Email-рассылка интернет-магазина с тестом и товарами, AI персонализация.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -617,6 +617,57 @@
         {
           "_t": "Text",
           "Content": "Фантазируйте, экспериментируйте и будьте всегда на связи со своими клиентами!"
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

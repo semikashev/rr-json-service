@@ -24,6 +24,15 @@
   "MetaTitle": "Что такое гибкая система скидок и как она работает, страница 3",
   "ContentBlockList": [
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "В этой статье мы расскажем, зачем нужна гибкая система бизнесу и как её настроить, чтобы удержать клиентов и увеличить продажи."
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Зачем нужна гибкая система скидок"
     },
@@ -43,7 +52,7 @@
           {
             "_t": "Text",
             "Content": "Удерживать клиентов",
-            "IsHighlight": true
+            "IsBold": true
           }
         ]
       ]
@@ -64,7 +73,7 @@
           {
             "_t": "Text",
             "Content": "Увеличивать средний чек",
-            "IsHighlight": true
+            "IsBold": true
           }
         ]
       ]
@@ -85,7 +94,7 @@
           {
             "_t": "Text",
             "Content": "Стимулировать повторные покупки",
-            "IsHighlight": true
+            "IsBold": true
           }
         ]
       ]
@@ -137,12 +146,12 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Скидки по программе лояльности.",
+          "Content": "Скидки по программе лоя",
           "IsHighlight": true
         },
         {
           "_t": "Text",
-          "Content": " Клиенты накапливают баллы или бонусы, которые можно обменять на скидки. Стимулируют повторные покупки и улучшают удержание клиентов."
+          "Content": "льности.****Клиенты накапливают баллы или бонусы, которые можно обменять на скидки. Стимулируют повторные покупки и улучшают удержание клиентов."
         }
       ]
     },
@@ -189,7 +198,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/chto-takoye-gibkaya-sistema-skidok-i-kak-ona-rabotayet/flexible_discounts4.jpg",
-      "Alt": "Акция 2=1 от TanukiFamily с ограниченным временем действия",
+      "Alt": "пример скидки",
       "Caption": "Сеть ресторанов TanukiFamily сделала акцию 2=1, которая действует только два дня с 20:00 до 22:00"
     },
     {
@@ -209,7 +218,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/chto-takoye-gibkaya-sistema-skidok-i-kak-ona-rabotayet/flexible_discounts5.jpg",
-      "Alt": "Акция «Ив Роше» ко дню знаний со скидками и подарком при покупке",
+      "Alt": "пример скидки",
       "Caption": "«Ив Роше» сделала скидки ко дню знаний и дарит подарок при покупке от 1990 рублей"
     },
     {
@@ -218,7 +227,7 @@
         {
           "_t": "Text",
           "Content": "Скидки для новых клиентов.",
-          "IsHighlight": true
+          "IsItalic": true
         },
         {
           "_t": "Text",
@@ -229,7 +238,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/chto-takoye-gibkaya-sistema-skidok-i-kak-ona-rabotayet/flexible_discounts6.jpg",
-      "Alt": "Скидка «Золотого яблока» до 2000 рублей для новых пользователей интернет-магазина",
+      "Alt": "пример скидки",
       "Caption": "«Золотое яблоко» даёт новым пользователям интернет-магазина скидку до 2 000 рублей"
     },
     {
@@ -249,7 +258,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/chto-takoye-gibkaya-sistema-skidok-i-kak-ona-rabotayet/flexible_discounts7.jpg",
-      "Alt": "Уведомление Lamoda о скидке на товар в брошенной корзине",
+      "Alt": "",
       "Caption": "Lamoda сообщает о скидке на товар добавленный в корзине и призывает его купить"
     },
     {
@@ -274,12 +283,12 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Сбор и анализ данных.",
+          "Content": "С",
           "IsHighlight": true
         },
         {
           "_t": "Text",
-          "Content": " Начните с анализа покупательского поведения ваших клиентов. Исследуйте историю покупок, частоту, средний чек, предпочтительные категории и временные паттерны покупок."
+          "Content": "бор и анализ данных.****Начните с анализа покупательского поведения ваших клиентов. Исследуйте историю покупок, частоту, средний чек, предпочтительные категории и временные паттерны покупок."
         }
       ]
     },
@@ -381,7 +390,7 @@
         {
           "_t": "Text",
           "Content": "Интеграция с CRM.",
-          "IsHighlight": true
+          "IsItalic": true
         },
         {
           "_t": "Text",
@@ -413,7 +422,7 @@
         {
           "_t": "Text",
           "Content": "Анализ обратной связи.",
-          "IsHighlight": true
+          "IsItalic": true
         },
         {
           "_t": "Text",
@@ -441,11 +450,62 @@
         {
           "_t": "Text",
           "Content": "Регулярное тестирование.",
-          "IsHighlight": true
+          "IsItalic": true
         },
         {
           "_t": "Text",
           "Content": "Проверяйте новые идеи и подходы к скидкам, чтобы найти наилучшие методы взаимодействия с клиентами."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

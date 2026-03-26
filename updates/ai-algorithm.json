@@ -41,18 +41,13 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Пример работы алгоритма, который распознает поисковый запрос и предлагает релевантные товары:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Пример работы алгоритма, который распознает поисковый запрос и предлагает релевантные товары:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/ai-algorithm/02-2048x1099-1.webp",
-      "Alt": "Поисковая строка и блоки рекомендаций на сайте e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -123,13 +118,21 @@
         {
           "_t": "Text",
           "Content": "Оставьте заявку",
-          "IsHighlight": true
+          "IsItalic": true
         },
         {
           "_t": "Text",
           "Content": "на демо, чтобы увидеть возможности алгоритма."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
   ]
 }

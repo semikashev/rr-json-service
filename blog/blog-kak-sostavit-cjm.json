@@ -46,13 +46,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Ключевые особенности карты пути клиента:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Ключевые особенности карты пути клиента:"
     },
     {
       "_t": "UnorderedList",
@@ -99,6 +94,12 @@
       ]
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/blog-kak-sostavit-cjm/unnamed.png",
+      "Alt": "",
+      "Caption": "Источник фото: https://www.five9.com/blog/9-best-real-life-customer-journey-map-examples"
+    },
+    {
       "_t": "SmallContentBg",
       "TitleElements": [
         {
@@ -106,7 +107,12 @@
           "Content": "17+ сценариев для повышения конверсии на каждом этапе жизненного цикла клиента"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Оставить заявку",
       "BtnUrl": "https://retailrocket.ru/demo/"
     },
@@ -253,7 +259,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/blog-kak-sostavit-cjm/unnamed-1.png",
-      "Alt": "Пошаговая схема CJM с экранами мобильного приложения для МТС.",
+      "Alt": "",
       "Caption": "Источник: https://probusiness.io/special_project/11734-ozhidaniya-polzovateley-rastut-nuzhno-sootvetstvovat-mts-delitsya-opytom-ispolzovaniya-cjm-dlya-biznesa.html"
     },
     {
@@ -295,7 +301,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/blog-kak-sostavit-cjm/unnamed-1-1.png",
-      "Alt": "Карта путешествия клиента S7 Airlines с этапами и взаимодействиями.",
+      "Alt": "",
       "Caption": "Источник: https://miro.com/app/board/o9J_ky1F_TM=/"
     },
     {
@@ -451,9 +457,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Классическая CJM выглядит как таблица с несколькими строками и колонками. В строках — этапы пути, в колонках — действия клиента, его цели, эмоции, проблемы, точки касания, ожидания и ответы бизнеса. Пример структуры:"
+          "Content": "Классическая CJM выглядит как таблица с несколькими строками и колонками. В строках — этапы пути, в колонках — действия клиента, его цели, эмоции, проблемы, точки касания, ожидания и ответы бизнеса."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Пример структуры:"
     },
     {
       "_t": "Table",
@@ -517,7 +527,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/blog-kak-sostavit-cjm/unnamed-1-2.png",
-      "Alt": "Карта пути клиента при покупках в интернете с этапами и эмоциями.",
+      "Alt": "",
       "Caption": "Источник: https://www.justinmind.com/ux-design/user-journey-map"
     },
     {
@@ -718,7 +728,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/blog-kak-sostavit-cjm/unnamed-2.png",
-      "Alt": "Иллюстрация важности сегментации при построении карты пути клиента (CJM)",
+      "Alt": "",
       "Caption": "Сегментация — критичный этап. Без неё карта будет слишком общей и не покажет ключевых различий в мотивации"
     },
     {
@@ -735,13 +745,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Обычно выделяют 4–7 этапов. Пример классической структуры:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Обычно выделяют 4–7 этапов. Пример классической структуры:"
     },
     {
       "_t": "OrderedList",
@@ -795,8 +800,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Как понять, нужно ли делить этап или объединить?",
-          "IsHighlight": true
+          "Content": "Как понять, нужно ли делить этап или объединить?"
         }
       ]
     },
@@ -888,16 +892,24 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Находим места, где клиент тормозит, уходит или нервничает. Примеры:"
+          "Content": "Находим места, где клиент тормозит, уходит или нервничает."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Примеры:"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "— Сложная форма оплаты — Слишком много звонков после регистрации — Неточности в условиях возврата"
     },
     {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "— Сложная форма оплаты — Слишком много звонков после регистрации — Неточности в условиях возврата Используйте данные поддержки, метрики отказов и жалобы из отзывов. Это зоны с наибольшим потенциалом для роста."
+          "Content": "Используйте данные поддержки, метрики отказов и жалобы из отзывов. Это зоны с наибольшим потенциалом для роста."
         }
       ]
     },
@@ -926,7 +938,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/blog-kak-sostavit-cjm/unnamed-3.png",
-      "Alt": "Шаблон CJM с этапами пути клиента и действиями пользователей.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -991,12 +1003,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Google Sheets / Excel",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": "— быстро, удобно, бесплатно. Идеально для MVP."
+          "Content": "Google Sheets / Excel— быстро, удобно, бесплатно. Идеально для MVP."
         }
       ]
     },
@@ -1014,12 +1021,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Miro",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": "— визуализация CJM в команде, удобно для презентаций."
+          "Content": "Miro— визуализация CJM в команде, удобно для презентаций."
         }
       ]
     },
@@ -1069,12 +1071,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Figma",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " — для дизайнерских CJM и работы с UI/UX."
+          "Content": "Figma — для дизайнерских CJM и работы с UI/UX."
         }
       ]
     },
@@ -1092,12 +1089,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Canvanizer",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": "— понятный инструмент, подходит для новичков."
+          "Content": "Canvanizer— понятный инструмент, подходит для новичков."
         }
       ]
     },
@@ -1171,6 +1163,57 @@
           "Показывает слабые места: где теряется клиент, где проседает путь",
           "Прозрачность воронки, точечные доработки и рост метрик"
         ]
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
       ]
     }
   ]

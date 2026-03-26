@@ -57,7 +57,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/personalizatsiya-v-amazon-ozon-i-dostavka-ru/image02.png",
-      "Alt": "Скриншот блока рекомендаций на Amazon с аудиокнигами и ценами.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -94,7 +94,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/personalizatsiya-v-amazon-ozon-i-dostavka-ru/ozon-1.png",
-      "Alt": "Скриншот Ozon.ru с блоком персонализированных рекомендаций и скидками.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -109,7 +109,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/personalizatsiya-v-amazon-ozon-i-dostavka-ru/ozon-2.png",
-      "Alt": "Скриншот блока рекомендаций на сайте Ozon.ru с персонализированными предложениями.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -167,6 +167,57 @@
         {
           "_t": "Text",
           "Content": "Персонализировать главную страницу интернет-магазина может любой клиент Retail Rocket! Наши персональные рекомендации рассчитываются в реальном времени на основе всей истории поведения пользователя. Регистрация в сервисе открыта, месяц на тестирование — бесплатно, а базовая настройка системы займет 20-30 минут даже у младшего IT-специалиста."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

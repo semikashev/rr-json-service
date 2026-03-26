@@ -48,17 +48,12 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/rasshirennaya-analitika-uchet-ostatkov-v-smart-placement-ads/updatesmp_10_2.gif",
-      "Alt": "Интерфейс аналитики кампаний в платформе Smart Placement Ads для e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Каждую рекламную кампанию можно проанализировать по следующим метрикам:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Каждую рекламную кампанию можно проанализировать по следующим метрикам:"
     },
     {
       "_t": "Table",
@@ -108,7 +103,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/rasshirennaya-analitika-uchet-ostatkov-v-smart-placement-ads/updatesmp_20.webp",
-      "Alt": "Интерфейс статистики кампании в платформе для аналитики клиентских данных.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -118,17 +113,22 @@
           "_t": "Text",
           "Content": "Продажи товара считаются связанными с рекламой, если покупка произошла в течение 24 часов после клика по карточке товара, и это был последний рекламный блок, с которым взаимодействовал посетитель. Если покупатель кликнул по одному товару, а купил другой из той же группы (например, ту же модель, но в другом цвете или размере), то покупка также атрибутируется на рекламу.",
           "IsHighlight": true
-        },
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
         {
           "_t": "Text",
-          "Content": " ​​После интеграции рекламного кабинета онлайн-площадка получает возможность отслеживать эффективность каждой запущенной рекламы в реальном времени. В кабинете доступны статусы и настройки каждой рекламной кампании, а также статистика по показам и доходу."
+          "Content": "​​После интеграции рекламного кабинета онлайн-площадка получает возможность отслеживать эффективность каждой запущенной рекламы в реальном времени. В кабинете доступны статусы и настройки каждой рекламной кампании, а также статистика по показам и доходу."
         }
       ]
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/rasshirennaya-analitika-uchet-ostatkov-v-smart-placement-ads/update_30.webp",
-      "Alt": "Интерфейс аналитики и учёта остатков в платформе Smart Placement Ads.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -156,7 +156,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/rasshirennaya-analitika-uchet-ostatkov-v-smart-placement-ads/updatesmp_40_1.gif",
-      "Alt": "Интерфейс платформы Smart Placement Ads для управления рекламными местами и аналитики.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -191,6 +191,14 @@
           }
         ]
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
   ]
 }

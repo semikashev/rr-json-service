@@ -3,7 +3,6 @@
   "Label": [
     "Кейсы"
   ],
-  "IndustryList": null,
   "Title": "Как заголовок блока рекомендаций может поднять выручку и конверсию? Кейс «Подружка»: о небольших, но важных деталях",
   "PublishDate": {
     "$date": "2019-07-30T10:52:00"
@@ -40,7 +39,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/podrygka-online/image6-1.webp",
-      "Alt": "Розничный магазин косметики «Подружка»",
+      "Alt": "",
       "Caption": "Розничный магазин «Подружка»"
     },
     {
@@ -116,33 +115,23 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Первому сегменту показывались два блока: персональные рекомендации (сверху) и хиты продаж (ниже):"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Первому сегменту показывались два блока: персональные рекомендации (сверху) и хиты продаж (ниже):"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/podrygka-online/retailrocket_podrigka_1_1.webp",
-      "Alt": "Интерфейс блока персонализированных рекомендаций интернет-магазина «Подружка» с использованием AI в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Второму сегменту также показывались два блока, но в обратном порядке: хиты продаж сверху, а персональные рекомендации ниже:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Второму сегменту также показывались два блока, но в обратном порядке: хиты продаж сверху, а персональные рекомендации ниже:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/podrygka-online/retailrocket_podrigka_1_2.webp",
-      "Alt": "Инфографика с блоком персональных рекомендаций на сайте интернет-магазина Подружка.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -159,13 +148,8 @@
       "Title": "Результаты"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "По итогам тестирования были получены следующие результаты:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "По итогам тестирования были получены следующие результаты:"
     },
     {
       "_t": "Table",
@@ -228,42 +212,23 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Статистическая достоверность результатов теста равна "
-        },
-        {
-          "_t": "Text",
-          "Content": "96,6%",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": ":"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Статистическая достоверность результатов теста равна 96,6%:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/podrygka-online/screenshot-ap2.int_.retailrocket.ru-8891-2019-09-04-09-46-35-465.webp",
-      "Alt": "Скриншот интерфейса анализа конверсии с блоком рекомендаций и вероятностью выбора.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "График пересечения плотностей вероятности:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "График пересечения плотностей вероятности:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/podrygka-online/screenshot-ap2.int_.retailrocket.ru-8891-2019-09-04-09-47-19-811.webp",
-      "Alt": "Графики плотности вероятности, сравнение эффективности блоков рекомендаций.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -289,57 +254,37 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Было проведено A/B-тестирование, где все пользователи делились случайным образом на 3 сегмента:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Было проведено A/B-тестирование, где все пользователи делились случайным образом на 3 сегмента:"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Первому сегменту показывался блок рекомендаций с заголовком «Наши покупатели выбирают»:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Первому сегменту показывался блок рекомендаций с заголовком «Наши покупатели выбирают»:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/podrygka-online/retailrocket_podrigka_2_1.webp",
-      "Alt": "Персонализация блока рекомендаций на сайте «Подружка» с хитами продаж.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Второму сегменту показывался блок рекомендаций с заголовком «Рекомендуем»:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Второму сегменту показывался блок рекомендаций с заголовком «Рекомендуем»:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/podrygka-online/retailrocket_podrigka_2_2.webp",
-      "Alt": "Интерфейс интернет-магазина с блоком рекомендаций и персонализированными предложениями.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Третьему сегменту показывался блок рекомендаций с заголовком «Самое популярное». Он выступал в качестве контрольной группы:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Третьему сегменту показывался блок рекомендаций с заголовком «Самое популярное». Он выступал в качестве контрольной группы:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/podrygka-online/retailrocket_podrigka_2_3.webp",
-      "Alt": "Скриншот персонализированного блока рекомендаций на сайте интернет-магазина «Подружка",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -347,13 +292,8 @@
       "Title": "Результаты"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "По итогам тестирования были получены следующие результаты:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "По итогам тестирования были получены следующие результаты:"
     },
     {
       "_t": "Table",
@@ -416,42 +356,23 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Статистическая вероятность равна "
-        },
-        {
-          "_t": "Text",
-          "Content": "95%",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": ":"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Статистическая вероятность равна 95%:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/podrygka-online/screenshot-ap2.int_.retailrocket.ru-8891-2019-09-04-09-38-02-253.webp",
-      "Alt": "Таблица данных: эффективность блоков рекомендаций на сайте с шансами и ценами.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "График пересечения плотностей вероятности:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "График пересечения плотностей вероятности:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/podrygka-online/screenshot-ap2.int_.retailrocket.ru-8891-2019-09-04-09-38-55-164.webp",
-      "Alt": "График плотности вероятности для алгоритмов рекомендаций в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -477,42 +398,27 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Мы провели исследование с использованием механики A/B-тестирования. Все посетители сайта случайным образом делились на 3 сегмента:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Мы провели исследование с использованием механики A/B-тестирования. Все посетители сайта случайным образом делились на 3 сегмента:"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Первому сегменту показывались хиты продаж в категории:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Первому сегменту показывались хиты продаж в категории:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/podrygka-online/retailrocket_podrigka_3_1.webp",
-      "Alt": "Персонализация и блок рекомендаций на сайте интернет-магазина «Подружка",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Второму сегменту показывались персонализированные хиты продаж категории:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Второму сегменту показывались персонализированные хиты продаж категории:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/podrygka-online/retailrocket_podrigka_3_2.webp",
-      "Alt": "Интерфейс интернет-магазина с персонализированными блоками рекомендаций на сайте для повышения конверсии.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -529,13 +435,8 @@
       "Title": "Результаты"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "По итогам тестирования были получены следующие результаты:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "По итогам тестирования были получены следующие результаты:"
     },
     {
       "_t": "Table",
@@ -598,42 +499,23 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Статистическая вероятность равна "
-        },
-        {
-          "_t": "Text",
-          "Content": "88%",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": ":"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Статистическая вероятность равна 88%:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/podrygka-online/screenshot-ap2.int_.retailrocket.ru-8891-2019-09-04-09-41-44-360.webp",
-      "Alt": "Скриншот интерфейса с алгоритмом рекомендаций и шансами конверсии.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "График пересечения плотностей вероятности:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "График пересечения плотностей вероятности:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/podrygka-online/screenshot-ap2.int_.retailrocket.ru-8891-2019-09-04-09-42-28-386.webp",
-      "Alt": "График сравнения плотности вероятности для блоков рекомендаций на сайте",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -659,33 +541,23 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Первому сегменту показывалась товарная подборка, где клик по слайдеру полностью менял товары в подборке:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Первому сегменту показывалась товарная подборка, где клик по слайдеру полностью менял товары в подборке:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/podrygka-online/retailrocket_podrigka_4_1.webp",
-      "Alt": "Персонализация страницы интернет-магазина с помощью слайдера рекомендаций.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Второму сегменту показывался блок рекомендаций без слайдера:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Второму сегменту показывался блок рекомендаций без слайдера:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/podrygka-online/retailrocket_podrigka_4_2.webp",
-      "Alt": "Персонализированный блок рекомендаций на сайте интернет-магазина «Подружка» без слайдера.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -700,7 +572,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/podrygka-online/retailrocket_podrigka_4_3.webp",
-      "Alt": "Персонализация страницы категории с использованием алгоритмов рекомендаций в интернет-магазине",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -708,13 +580,8 @@
       "Title": "Результаты"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "По итогам тестирования были получены следующие результаты:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "По итогам тестирования были получены следующие результаты:"
     },
     {
       "_t": "Table",
@@ -786,42 +653,23 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Статистическая вероятность равна "
-        },
-        {
-          "_t": "Text",
-          "Content": "88%",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": ":"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Статистическая вероятность равна 88%:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/podrygka-online/screenshot-ap2.int_.retailrocket.ru-8891-2019-09-04-09-44-08-301.webp",
-      "Alt": "Данные об успешности блоков рекомендаций с шансами клика и стоимостью.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "График пересечения плотностей вероятности:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "График пересечения плотностей вероятности:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/podrygka-online/screenshot-ap2.int_.retailrocket.ru-8891-2019-09-04-09-45-01-980.webp",
-      "Alt": "График плотности вероятности для блока рекомендаций с персонализацией.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -851,6 +699,15 @@
       "Author": "Наталья",
       "AuthorPosition": "Менеджер проекта, Retail Rocket",
       "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/podrygka-online/3.webp"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
-  ]
+  ],
+  "IndustryList": null
 }

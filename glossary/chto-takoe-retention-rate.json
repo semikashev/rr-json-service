@@ -4,7 +4,12 @@
     "Словарь"
   ],
   "Title": "Retention Rate (коэффициент удержания клиентов): что это и как посчитать",
-  "MetaTitle": "Retention Rate: формула коэффициента удержания клиентов, страница 2",
+  "PublishDate": {
+    "$date": "2025-04-25T12:20:00"
+  },
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "LeadText": [
     {
       "Elements": [
@@ -15,13 +20,7 @@
       ]
     }
   ],
-  "PublishDate": {
-    "$date": "2025-04-25T12:20:00"
-  },
-  "Letter": "Р",
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Retention Rate: формула коэффициента удержания клиентов, страница 2",
   "ContentBlockList": [
     {
       "_t": "Heading2",
@@ -163,17 +162,12 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-retention-rate/1745500026913.jpg",
-      "Alt": "Формула расчёта когортного коэффициента удержания клиентов в ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Разберём составляющую формулы:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Разберём составляющую формулы:"
     },
     {
       "_t": "UnorderedList",
@@ -193,13 +187,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Рассчитаем Retention Rate на выдуманном примере:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Рассчитаем Retention Rate на выдуманном примере:"
     },
     {
       "_t": "Table",
@@ -271,7 +260,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-retention-rate/1745500101141.jpg",
-      "Alt": "Уведомление с напоминанием о продолжении уроков, иллюстрирующее удержание клиентов.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -307,13 +296,8 @@
       "Title": "Способ 2. Использовать формулу Rolling Retention Rate"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Rolling Retention или плавающий ретеншн — показатель, который считают для трех задач:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Rolling Retention или плавающий ретеншн — показатель, который считают для трех задач:"
     },
     {
       "_t": "UnorderedList",
@@ -339,28 +323,18 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Рассчитать Rolling Retention Rate можно по этой формуле:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Рассчитать Rolling Retention Rate можно по этой формуле:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-retention-rate/1745500125260.jpg",
-      "Alt": "Формула расчёта коэффициента удержания клиентов в ритейле и e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Разберем составляющую формулы:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Разберем составляющую формулы:"
     },
     {
       "_t": "UnorderedList",
@@ -386,13 +360,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Рассчитаем Rolling Retention Rate на выдуманном примере:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Рассчитаем Rolling Retention Rate на выдуманном примере:"
     },
     {
       "_t": "Table",
@@ -433,13 +402,8 @@
       "Title": "Способ 1. Сравнивать коэффициент в динамике"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Для этого рассчитать коэффициент удержания клиентов бизнеса в разные периоды. Например, от квартала к кварталу или от года к году:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Для этого рассчитать коэффициент удержания клиентов бизнеса в разные периоды. Например, от квартала к кварталу или от года к году:"
     },
     {
       "_t": "UnorderedList",
@@ -493,7 +457,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-retention-rate/1745500153814.jpg",
-      "Alt": "График средних показателей Retention по отраслям, акцент на удержании клиентов.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -682,7 +646,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-retention-rate/unnamed-4_upscayl_4x_upscayl-standard-4x-1.png",
-      "Alt": "Интерфейс настройки омниканальной кампании с выбором каналов и методов отправки сообщений.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -726,7 +690,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-retention-rate/unnamed-5_upscayl_4x_upscayl-standard-4x-1.png",
-      "Alt": "Скриншот интерфейса управления подарками с сегментацией клиентов.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -769,7 +733,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-retention-rate/unnamed-6_upscayl_2x_upscayl-standard-4x.png",
-      "Alt": "Сравнение интерфейсов мобильного приложения и веб-сайта для e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -898,13 +862,8 @@
       "Title": "MAU, WAU, DAU"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Метрики, которые показывают как часто клиенты заходят в приложение:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Метрики, которые показывают как часто клиенты заходят в приложение:"
     },
     {
       "_t": "UnorderedList",
@@ -997,6 +956,58 @@
           }
         ]
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "Letter": "Р"
 }

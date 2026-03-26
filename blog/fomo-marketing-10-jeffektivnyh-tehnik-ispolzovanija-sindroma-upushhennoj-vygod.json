@@ -24,6 +24,15 @@
   "MetaTitle": "FOMO-маркетинг: 10 эффективных техник использования синдрома упущенной выгоды – Retail Rocket, страница 6",
   "ContentBlockList": [
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Сегодня мы раскроем секреты FOMO-маркетинга, которые помогут значительно расширить аудиторию даже с учетом самого сложного сегментирования."
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Что такое FOMO"
     },
@@ -174,7 +183,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/fomo-marketing-10-jeffektivnyh-tehnik-ispolzovanija-sindroma-upushhennoj-vygod/1.png",
-      "Alt": "Скриншот распродажи на Wildberries с акцией до 93% на всё.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -211,7 +220,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/fomo-marketing-10-jeffektivnyh-tehnik-ispolzovanija-sindroma-upushhennoj-vygod/2.png",
-      "Alt": "Скриншот интернет-магазина с индикатором популярности товара в режиме реального времени.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -226,7 +235,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/fomo-marketing-10-jeffektivnyh-tehnik-ispolzovanija-sindroma-upushhennoj-vygod/3.png",
-      "Alt": "Сравнение карточек товара с FOMO-элементами в e-commerce, конверсия +60,5%",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -254,7 +263,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/fomo-marketing-10-jeffektivnyh-tehnik-ispolzovanija-sindroma-upushhennoj-vygod/4.png",
-      "Alt": "Акция на сайте: подарок при покупке офисной бумаги в интернет-магазине.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -282,7 +291,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/fomo-marketing-10-jeffektivnyh-tehnik-ispolzovanija-sindroma-upushhennoj-vygod/5.png",
-      "Alt": "Акция на скидку 20% при покупке кухонной техники Bosch, омниканальный маркетинг.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -319,7 +328,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/fomo-marketing-10-jeffektivnyh-tehnik-ispolzovanija-sindroma-upushhennoj-vygod/6.png",
-      "Alt": "Сравнение тем писем для email маркетинга с повышением CTR на 20%",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -336,18 +345,13 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Многие считают, что такой прием — прерогатива люксовых брендов или сегмента fashion, но на самом деле за примером далеко ходить не надо:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Многие считают, что такой прием — прерогатива люксовых брендов или сегмента fashion, но на самом деле за примером далеко ходить не надо:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/fomo-marketing-10-jeffektivnyh-tehnik-ispolzovanija-sindroma-upushhennoj-vygod/7.jpg",
-      "Alt": "Реклама Lay's с эксклюзивным вкусом, созданная в партнерстве с Олгой Бузовой.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -435,18 +439,13 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Для того, чтобы подчеркнуть дефицит, можно, например, показать какое количество товара осталось на складе:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Для того, чтобы подчеркнуть дефицит, можно, например, показать какое количество товара осталось на складе:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/fomo-marketing-10-jeffektivnyh-tehnik-ispolzovanija-sindroma-upushhennoj-vygod/10.png",
-      "Alt": "Скриншот страницы покупки электрокамина с числом доступных товаров и скидкой.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -491,7 +490,7 @@
           {
             "_t": "Text",
             "Content": "Установите таймеры для акций",
-            "IsHighlight": true
+            "IsBold": true
           }
         ]
       ]
@@ -517,7 +516,7 @@
           {
             "_t": "Text",
             "Content": "Добавьте социальное доказательство",
-            "IsHighlight": true
+            "IsBold": true
           }
         ]
       ]
@@ -528,7 +527,7 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsHighlight": true
+          "IsItalic": true
         },
         {
           "_t": "Text",
@@ -543,7 +542,7 @@
           {
             "_t": "Text",
             "Content": "Запускайте краткосрочные спецпредложения",
-            "IsHighlight": true
+            "IsBold": true
           }
         ]
       ]
@@ -553,12 +552,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Пример:",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Бесплатная доставка при заказе до полуночи — такой призыв мотивирует покупателей завершить покупку прямо сейчас."
+          "Content": "Пример: Бесплатная доставка при заказе до полуночи — такой призыв мотивирует покупателей завершить покупку прямо сейчас."
         }
       ]
     },
@@ -580,7 +574,7 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsHighlight": true
+          "IsItalic": true
         },
         {
           "_t": "Text",
@@ -595,7 +589,7 @@
           {
             "_t": "Text",
             "Content": "Тестируйте цепляющие темы писем",
-            "IsHighlight": true
+            "IsBold": true
           }
         ]
       ]
@@ -605,12 +599,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Пример:",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Тема письма «Только сегодня: 50% на все товары» увеличивает открываемость и конверсию, заставляя клиентов действовать немедленно."
+          "Content": "Пример: Тема письма «Только сегодня: 50% на все товары» увеличивает открываемость и конверсию, заставляя клиентов действовать немедленно."
         }
       ]
     },
@@ -621,7 +610,7 @@
           {
             "_t": "Text",
             "Content": "Создавайте лимитированные коллекции",
-            "IsHighlight": true
+            "IsBold": true
           }
         ]
       ]
@@ -658,7 +647,7 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsHighlight": true
+          "IsItalic": true
         },
         {
           "_t": "Text",
@@ -673,7 +662,7 @@
           {
             "_t": "Text",
             "Content": "Поощряйте клиентов делиться контентом",
-            "IsHighlight": true
+            "IsBold": true
           }
         ]
       ]
@@ -684,7 +673,7 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsHighlight": true
+          "IsItalic": true
         },
         {
           "_t": "Text",
@@ -710,7 +699,7 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsHighlight": true
+          "IsItalic": true
         },
         {
           "_t": "Text",
@@ -736,11 +725,62 @@
         {
           "_t": "Text",
           "Content": "Пример:",
-          "IsHighlight": true
+          "IsItalic": true
         },
         {
           "_t": "Text",
           "Content": "Промо-код на скидку действует только 24 часа после подписки на рассылку, что мотивирует использовать его как можно скорее."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

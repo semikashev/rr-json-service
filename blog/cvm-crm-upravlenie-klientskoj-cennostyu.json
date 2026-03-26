@@ -34,15 +34,6 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-        }
-      ]
-    },
-    {
       "_t": "Heading2",
       "Title": "Что такое CVM"
     },
@@ -71,7 +62,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/cvm-crm-upravlenie-klientskoj-cennostyu/RRG-1-Image-2596.png",
-      "Alt": "Фотографии экспертов — участников качественного исследования Direct Service",
+      "Alt": "",
       "Caption": "Эксперты, которые принимали участие в качественном исследовании Direct Service"
     },
     {
@@ -203,7 +194,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/cvm-crm-upravlenie-klientskoj-cennostyu/RRG-1-Figma-Image-2597.png",
-      "Alt": "Схема: персонализация в CVM направлена на максимизацию прибыли от клиента",
+      "Alt": "",
       "Caption": "Персонализация в CVM всегда подчинена цели максимизировать прибыль от клиента, а не просто «порадовать» его"
     },
     {
@@ -249,7 +240,12 @@
           "Content": "Подробнее про тренды CVM-маркетинга в материале Direct Service →"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Скачать исследование",
       "BtnUrl": "https://drive.google.com/file/d/1x4cNU8fNVGqBNx71ZoW_Lg9mQCXSg499/view?usp=sharing"
     },
@@ -393,6 +389,57 @@
         {
           "_t": "Text",
           "Content": "CVM не «убивает» CRM, а выстраивает над ним стратегический ярус. Это переход от «сколько писем мы отправили» к «сколько прибыли мы заработали на конкретных клиентах». Дорога туда лежит через чистые данные и единую архитектуру, дисциплину измерений, фокус на приложении и новых точках контакта, бережную персонализацию и реалистичное внедрение ИИ с контролем качества. Начните с пилотов, докажите эффект в деньгах — и масштабируйте."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

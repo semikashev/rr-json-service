@@ -57,7 +57,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/rekomendatsii-s-uchetom-filtrov-menedzhment-pochtovykh-domenov-veb-pushi-cherez-api/updatedomens_60.png",
-      "Alt": "Интерфейс фильтрации с товарными рекомендациями на основе поиска красных платьев",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -65,13 +65,8 @@
       "Title": "Управляйте почтовыми доменами и повышайте доставляемость email-рассылок"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Добавили возможность самостоятельного управлять почтовыми доменами в кабинете платформы управления лояльностью. Теперь можно:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Добавили возможность самостоятельного управлять почтовыми доменами в кабинете платформы управления лояльностью. Теперь можно:"
     },
     {
       "_t": "UnorderedList",
@@ -108,7 +103,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/rekomendatsii-s-uchetom-filtrov-menedzhment-pochtovykh-domenov-veb-pushi-cherez-api/updatedomens_10.png",
-      "Alt": "Интерфейс управления почтовыми доменами с верификацией через DKIM и SPF.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -202,26 +197,8 @@
         },
         {
           "_t": "Text",
-          "Content": "«Email-маркетинг»",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " вместо пункта "
-        },
-        {
-          "_t": "Text",
-          "Content": "«Общие настройки»",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": "появится новый пункт "
-        },
-        {
-          "_t": "Text",
-          "Content": "«Домены и адреса отправителей»",
-          "IsHighlight": true
+          "Content": "«Email-маркетинг» вместо пункта «Общие настройки»появится новый пункт «Домены и адреса отправителей»",
+          "IsItalic": true
         },
         {
           "_t": "Text",
@@ -232,7 +209,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/rekomendatsii-s-uchetom-filtrov-menedzhment-pochtovykh-domenov-veb-pushi-cherez-api/updatedomens_20.png",
-      "Alt": "Скриншот интерфейса управления почтовыми доменами и рассылками в Retail Rocket.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -256,7 +233,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/rekomendatsii-s-uchetom-filtrov-menedzhment-pochtovykh-domenov-veb-pushi-cherez-api/updatedomens_30.png",
-      "Alt": "Интерфейс добавления домена для управления почтовыми доменами.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -271,7 +248,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/rekomendatsii-s-uchetom-filtrov-menedzhment-pochtovykh-domenov-veb-pushi-cherez-api/updatedomens_40.png",
-      "Alt": "Интерфейс настройки DKIM, SPF и DMARC для управления почтовыми доменами.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -313,7 +290,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/rekomendatsii-s-uchetom-filtrov-menedzhment-pochtovykh-domenov-veb-pushi-cherez-api/updatedomens_50.png",
-      "Alt": "Интерфейс управления доменами с настройками DKIM и SPF для почтовых отправителей.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -346,7 +323,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/rekomendatsii-s-uchetom-filtrov-menedzhment-pochtovykh-domenov-veb-pushi-cherez-api/updatedomens_10-1.png",
-      "Alt": "Интерфейс управления почтовыми доменами с возможностью верификации и добавления доменов.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -361,6 +338,14 @@
           "Content": "Добавили возможность интегрировать веб-пуши через API, а не только через JS SDK. Это поможет использовать веб-пуши в любых системах и создавать более гибкие и эффективные маркетинговые кампании. Чтобы подключить веб-пуши, оставьте заявку по адресу integration@retalrocket.io."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
   ]
 }

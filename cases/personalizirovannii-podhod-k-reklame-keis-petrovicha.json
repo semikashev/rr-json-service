@@ -3,9 +3,6 @@
   "Label": [
     "Кейсы"
   ],
-  "IndustryList": [
-    "DIY"
-  ],
   "Title": "Как с помощью продвижения двух продуктов повысить товарооборот всего бренда: кейс СТД «Петрович»",
   "PublishDate": {
     "$date": "2022-08-29T17:01:00"
@@ -79,7 +76,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalizirovannii-podhod-k-reklame-keis-petrovicha/1-3.webp",
-      "Alt": "Баннер с продуктами и высокой рентабельностью; персонализация в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -96,14 +93,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Пилотные рекламные кампании, которые проводились в 2021-м и 2022-м годах, показали, что инструмент:",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Пилотные рекламные кампании, которые проводились в 2021-м и 2022-м годах, показали, что инструмент:"
     },
     {
       "_t": "UnorderedList",
@@ -134,7 +125,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalizirovannii-podhod-k-reklame-keis-petrovicha/1614289574-1.png",
-      "Alt": "Персонализированная полка в e-commerce с товарами СТД «Петрович» на сайте.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -162,18 +153,12 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalizirovannii-podhod-k-reklame-keis-petrovicha/3.webp",
-      "Alt": "Изображение интернет-магазина СТД «Петрович», демонстрирующее два строительных продукта бренда KM.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "В ходе рекламной кампании было важно проверить:",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "В ходе рекламной кампании было важно проверить:"
     },
     {
       "_t": "UnorderedList",
@@ -201,7 +186,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalizirovannii-podhod-k-reklame-keis-petrovicha/1614289592.webp",
-      "Alt": "Рост KPI в e-commerce: показы, выручка, ROMI.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -233,7 +218,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalizirovannii-podhod-k-reklame-keis-petrovicha/1614289571-1.webp",
-      "Alt": "Скриншот персонализированной полки в e-commerce на сайте СТД «Петрович».",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -252,7 +237,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalizirovannii-podhod-k-reklame-keis-petrovicha/1614289590.webp",
-      "Alt": "Интерфейс интернет-магазина с персонализированной полкой для продвижения продуктов в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -271,7 +256,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalizirovannii-podhod-k-reklame-keis-petrovicha/1614289572-1-1.webp",
-      "Alt": "Скриншот персонализированной полки товаров на сайте СТД «Петрович», AI в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -288,13 +273,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Эффективность подтвердилась целевыми метриками по всей воронке — охваты, клики, переходы, выручка. Результат даже превзошел ожидания:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Эффективность подтвердилась целевыми метриками по всей воронке — охваты, клики, переходы, выручка. Результат даже превзошел ожидания:"
     },
     {
       "_t": "UnorderedList",
@@ -316,7 +296,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalizirovannii-podhod-k-reklame-keis-petrovicha/1614289591.webp",
-      "Alt": "Диаграмма: выручка превышает рекламный бюджет в 26 раз.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -364,6 +344,17 @@
       "Author": "Ольга Касикова",
       "AuthorPosition": "Руководитель CRM-коммуникаций ООО «СТД Петрович»",
       "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalizirovannii-podhod-k-reklame-keis-petrovicha/Olga_Kasikova-300x300.webp"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
+  ],
+  "IndustryList": [
+    "DIY"
   ]
 }

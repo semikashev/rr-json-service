@@ -20,5 +20,507 @@
     }
   ],
   "MetaTitle": "Интеграция Retail Rocket Group",
-  "ContentBlockList": []
+  "ContentBlockList": [
+    {
+      "_t": "Heading2",
+      "Title": "Интеграция с популярными CMS"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Внедряем решения через готовые модули — без дополнительных затрат времени и ресурсов на разработку."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/Frame-2087326787.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Узнать больше"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Узнать больше",
+      "BtnUrl": "https://retailrocket.ru/demo/"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Индивидуальный процесс интеграции"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Проводим внедрение с учетом особенностей бизнеса. Поможем на каждом этапе — от анализа требований до запуска."
+        }
+      ]
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Узнать больше"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Узнать больше",
+      "BtnUrl": "https://retailrocket.ru/demo/"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Woocommerce Magento Shopify Google Tag Manager Prestashop Shopware"
+        }
+      ]
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Модуль Product API"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Помогает ускорить обновление товарной базы без использования YML-файла — передает данные о товарах и категориях в момент, когда пользователь изучает карточки товаров."
+        }
+      ]
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Модуль трекинг-кодов"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Отслеживает поведение на сайте, например взаимодействие с товарами и категориями, — чтобы предложить пользователям релевантные рекомендации товаров."
+        }
+      ]
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Модуль виджетов"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Помогает размещать виджеты рекомендаций на сайте через drag’n’drop-конструктор."
+        }
+      ]
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Модуль XML"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Генерирует файл с базой товаров — помогает отслеживать поведение пользователей, выводить рекомендации в блоках на сайте и письмах, поддерживать актуальные цены и наличие товаров в каталоге."
+        }
+      ]
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Модуль трекинг-кодов"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Отслеживает поведение на сайте, например взаимодействие с товарами и категориями, — чтобы предложить пользователям релевантные рекомендации товаров."
+        }
+      ]
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Модуль виджетов"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Помогает размещать виджеты рекомендаций на сайте через класс или id элемента, после которого нужно разместить блок с рекомендациями."
+        }
+      ]
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Модуль Product API"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Помогает ускорить обновление товарной базы без использования YML-файла — передает данные о товарах и категориях в момент, когда пользователь изучает карточки товаров."
+        }
+      ]
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Модуль трекинг-кодов"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Отслеживает поведение на сайте, например взаимодействие с товарами и категориями, — чтобы предложить пользователям релевантные рекомендации товаров."
+        }
+      ]
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Модуль виджетов"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Помогает размещать виджеты рекомендаций на сайте через drag’n’drop-конструктор."
+        }
+      ]
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Модуль XML"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Генерирует файл с базой товаров — помогает отслеживать поведение пользователей, выводить рекомендации в блоках на сайте и письмах, поддерживать актуальные цены и наличие товаров в каталоге."
+        }
+      ]
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Модуль трекинг-кодов"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Отслеживает поведение на сайте, например взаимодействие с товарами и категориями, — чтобы предложить пользователям релевантные рекомендации товаров."
+        }
+      ]
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Модуль виджетов"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Помогает размещать виджеты рекомендаций на сайте через класс или id элемента, после которого нужно разместить блок с рекомендациями."
+        }
+      ]
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Модуль Product API"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Помогает ускорить обновление товарной базы без использования YML-файла — передает данные о товарах и категориях в момент, когда пользователь изучает карточки товаров."
+        }
+      ]
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Модуль трекинг-кодов"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Отслеживает поведение на сайте, например взаимодействие с товарами и категориями, — чтобы предложить пользователям релевантные рекомендации товаров."
+        }
+      ]
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Модуль виджетов"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Помогает размещать виджеты рекомендаций на сайте через drag’n’drop-конструктор."
+        }
+      ]
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Модуль Product API"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Помогает ускорить обновление товарной базы без использования YML-файла — передает данные о товарах и категориях в момент, когда пользователь изучает карточки товаров."
+        }
+      ]
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Модуль трекинг-кодов"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Отслеживает поведение на сайте, например взаимодействие с товарами и категориями, — чтобы предложить пользователям релевантные рекомендации товаров."
+        }
+      ]
+    },
+    {
+      "_t": "Heading3",
+      "Title": "Модуль виджетов"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Помогает размещать виджеты рекомендаций на сайте через drag’n’drop-конструктор."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/1-10.svg",
+      "Alt": "Roadmap",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Roadmap Default gray line Animated gradient line"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/2-10.svg",
+      "Alt": "Техзадание",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Техзадание Default gray line Animated gradient line"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/3-8.svg",
+      "Alt": "Передача<br>данных",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Передача данных Default gray line Animated gradient line"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/4-10.svg",
+      "Alt": "Интеграция<br>DNS",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Интеграция DNS Default gray line Animated gradient line"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/5-6.svg",
+      "Alt": "Проверка<br>системы",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Проверка системы Default gray line Animated gradient line"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/6-6.svg",
+      "Alt": "Запуск",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Запуск"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/integr1-1024x903.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Быстрый старт без глубоких настроек"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Интеграция «клиент — сервер»"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Устанавливаем функции JavaScript на страницах сайта партнера."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/Vector-1.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Каждые 2 часа"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Обеспечиваем непрерывную синхронизацию базы товаров."
+        }
+      ]
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Документация JavaScript SDK"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Документация JavaScript SDK",
+      "BtnUrl": "https://docs.retailrocket.ru/reference/general-concepts-of-integration"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Гибкое решение для партнеров уровня enterprise"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Интеграция «сервер — сервер»"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Для прямого соединения между серверами со скоростью обработки запроса до 100 мс."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/Vector-1.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "В реальном времени"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Обеспечиваем непрерывную синхронизацию базы товаров."
+        }
+      ]
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Документация API"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Документация API",
+      "BtnUrl": "https://docs.retailrocket.ru/reference/general-concepts-of-integration"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/integr2-1024x903.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Свяжитесь с нами, чтобы узнать больше об интеграции продуктов и технологиях Retail Rocket Group"
+    }
+  ]
 }

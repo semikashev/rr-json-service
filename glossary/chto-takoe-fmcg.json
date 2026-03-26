@@ -4,15 +4,14 @@
     "Словарь"
   ],
   "Title": "Что такое FMCG (Fast-Moving Consumer Goods)",
-  "MetaTitle": "FMCG (Fast-Moving Consumer Goods): что это такое, примеры и особенности",
-  "LeadText": [],
   "PublishDate": {
     "$date": "2025-06-22T13:25:00"
   },
-  "Letter": "Ф",
   "AuthorIdList": [
     "kirill-morozov"
   ],
+  "LeadText": [],
+  "MetaTitle": "FMCG (Fast-Moving Consumer Goods): что это такое, примеры и особенности",
   "ContentBlockList": [
     {
       "_t": "Heading2",
@@ -211,13 +210,8 @@
       "Title": "Продукты питания"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Сюда входят товары ежедневного потребления:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Сюда входят товары ежедневного потребления:"
     },
     {
       "_t": "UnorderedList",
@@ -262,13 +256,8 @@
       "Title": "Бытовая химия"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Эта категория строит стабильный оборот на повторных покупках:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Эта категория строит стабильный оборот на повторных покупках:"
     },
     {
       "_t": "UnorderedList",
@@ -307,13 +296,8 @@
       "Title": "Косметика и парфюмерия"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "В эту группу входят:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "В эту группу входят:"
     },
     {
       "_t": "UnorderedList",
@@ -352,13 +336,8 @@
       "Title": "Предметы личной гигиены"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Категория с высокой оборачиваемостью:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Категория с высокой оборачиваемостью:"
     },
     {
       "_t": "UnorderedList",
@@ -403,13 +382,8 @@
       "Title": "Расходные материалы"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Это сопутствующие товары:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Это сопутствующие товары:"
     },
     {
       "_t": "UnorderedList",
@@ -507,6 +481,39 @@
           "Content": "Продажи FMCG легко стимулировать грамотными промоакциями. Скидки, временные предложения, упаковки «бери больше — плати меньше», подарочные наборы, выгодное размещение у кассы — всё это даёт быстрый прирост продаж. Например, акция «второй товар в подарок» способна увеличить объём реализации на 20–40% за считанные недели."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-fmcg/gravatar-9e85f900d7b7-s300.jpg",
+      "Alt": "Picture of Кирилл Морозов",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Кирилл Морозов Более 15 лет в редактуре и контенте, ранее работал с B2B SaaS, e-commerce и корпоративными медиа. Пишу о технологиях, ритейле и цифровом маркетинге понятным языком."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Нет доступных постов"
+        }
+      ]
     }
-  ]
+  ],
+  "Letter": "Ф"
 }

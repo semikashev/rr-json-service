@@ -24,6 +24,15 @@
   "MetaTitle": "Автоматизация email-рассылок: экспертный гайд для бизнеса, страница 3",
   "ContentBlockList": [
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "В статье рассказали, какие задачи можно решать с помощью автоматических рассылок писем, и на реальных кейсах рассмотрели эффективные сценарии запуска."
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Что такое автоматизированная рассылка писем и кому она нужна"
     },
@@ -146,7 +155,26 @@
         },
         {
           "_t": "Text",
-          "Content": " Автоматические платформы на основе искусственного интеллекта и Big data изучают действия покупателей и формируют персонализированные коммуникации с учётом особенностей каждой группы клиентов. Так получаются эффективные предложения, которые чаще обычных приводят к покупке. Согласно исследованию Hubspot:"
+          "Content": " Автоматические платформы на основе искусственного интеллекта и Big data изучают действия покупателей и формируют персонализированные коммуникации с учётом особенностей каждой группы клиентов. Так получаются эффективные предложения, которые чаще обычных приводят к покупке."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Согласно исследованию Hubspot:"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocketgroup.ru/blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "— 96% опрошенных маркетологов считают, что персонализация повышает вероятность того, что покупатели станут постоянными клиентами; — 94% подтверждает, что персонализированный контент повышает продажи; — на 215% чаще маркетологи, использующие персонализацию, считают свою маркетинговую стратегию эффективной."
+            }
+          ]
         }
       ]
     },
@@ -158,7 +186,12 @@
           "Content": "Интернет-магазин «Максидом» увеличил на 69% число заказов и на 22% — прибыль от email-коммуникаций благодаря автоматизации и персонализации на базе инструментов Retail Rocket Group."
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Читать кейс",
       "BtnUrl": "https://retailrocketgroup.ru/blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/"
     },
@@ -174,11 +207,12 @@
               "Content": "Возвращают покупателей, которые стали неактивны. Например, если покупатель забыл о существовании компании, чтобы вернуть его активность можно настроить автоматическую рассылку, которая отправится через заданное количество дней/месяцев от последней покупки."
             }
           ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
         {
           "_t": "Link",
           "Href": "https://retailrocketgroup.ru/blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/",
@@ -188,11 +222,12 @@
               "Content": "Улучшают сервис без нагрузки на техподдержку. Можно отправлять автоматические оповещения при регистрации на сайте, оформлении или оплате заказа, приближении срока окончания подписки и так далее."
             }
           ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
         {
           "_t": "Link",
           "Href": "https://retailrocketgroup.ru/blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/",
@@ -210,13 +245,8 @@
       "Title": "Как сделать автоматическую рассылку"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Чтобы создать автоматическую рассылку писем, нужно:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Чтобы создать автоматическую рассылку писем, нужно:"
     },
     {
       "_t": "OrderedList",
@@ -282,13 +312,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Целями автоматизированной email-рассылки могут быть:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Целями автоматизированной email-рассылки могут быть:"
     },
     {
       "_t": "UnorderedList",
@@ -331,7 +356,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/avtomatizatsiya-email-rassylok/mailing_automation1.jpg",
-      "Alt": "Фрагмент дорожной карты событий для автоматических email-рассылок",
+      "Alt": "",
       "Caption": "Фрагмент дорожной карты событий, которые охватывают автоматические рассылки"
     },
     {
@@ -374,13 +399,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Рассылка в день рождения клиента также может быть настроена по простому или более сложным сценариям, например:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Рассылка в день рождения клиента также может быть настроена по простому или более сложным сценариям, например:"
     },
     {
       "_t": "Table",
@@ -398,7 +418,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/avtomatizatsiya-email-rassylok/mailing_automation2.jpg",
-      "Alt": "Три варианта автоматизированной рассылки «Мир Корма» с учётом истории заказов клиентов",
+      "Alt": "",
       "Caption": "Пример 3 вариантов автоматизированной рассылки с усложнённым сценарием для тех, кто давно не совершал покупок в магазине «Мир Корма», с учётом истории заказов клиентов"
     },
     {
@@ -447,14 +467,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Примеры эффективных сценариев запуска автоматической рассылки от Retail Rocket Group:",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Примеры эффективных сценариев запуска автоматической рассылки от Retail Rocket Group:"
     },
     {
       "_t": "UnorderedList",
@@ -463,7 +477,7 @@
           {
             "_t": "Text",
             "Content": "«Брошенная корзина»:",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -474,7 +488,7 @@
           {
             "_t": "Text",
             "Content": "«Брошенный просмотр категории»:",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -485,7 +499,7 @@
           {
             "_t": "Text",
             "Content": "«Брошенный просмотр»:",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -496,7 +510,7 @@
           {
             "_t": "Text",
             "Content": "«Брошенный поисковый запрос»:",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -507,7 +521,7 @@
           {
             "_t": "Text",
             "Content": "«Сопутствующие товары к заказу»:",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -518,7 +532,7 @@
           {
             "_t": "Text",
             "Content": "«Уведомление о снижении цены на просмотренные товары»:",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -529,7 +543,7 @@
           {
             "_t": "Text",
             "Content": "«Уведомление о снижении цены на товары в брошенной корзине»:",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -540,7 +554,7 @@
           {
             "_t": "Text",
             "Content": "«Подписка на снижение цены»:",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -551,7 +565,7 @@
           {
             "_t": "Text",
             "Content": "«Прогноз следующей наиболее вероятной покупки (Next Best Offer)»:",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -562,7 +576,7 @@
           {
             "_t": "Text",
             "Content": "«Реактивация уснувших пользователей»:",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -573,7 +587,7 @@
           {
             "_t": "Text",
             "Content": "«Ретаргетинг просмотренных товаров не в наличии»:",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -584,7 +598,7 @@
           {
             "_t": "Text",
             "Content": "«Уведомление о возврате товара в продажу»:",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -595,7 +609,7 @@
           {
             "_t": "Text",
             "Content": "«Письмо с альтернативами отсутствующему товару»:",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -606,7 +620,7 @@
           {
             "_t": "Text",
             "Content": "«Рекомендации товаров регулярного спроса»:",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -617,7 +631,7 @@
           {
             "_t": "Text",
             "Content": "«Письмо с сопутствующими товарами к заказу, сделанному в розничном магазине»:",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -628,7 +642,7 @@
           {
             "_t": "Text",
             "Content": "«Прогноз следующей наиболее вероятной покупки (Next Best Offer) к заказу, сделанному в розничном магазине»:",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -639,7 +653,7 @@
           {
             "_t": "Text",
             "Content": "«Рекомендации товаров регулярного спроса к заказу, сделанному в розничном магазине»:",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -651,7 +665,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/avtomatizatsiya-email-rassylok/mailing_automation3.jpg",
-      "Alt": "Фрагмент карты сценариев брошенной корзины и просмотра категорий от Retail Rocket Group",
+      "Alt": "",
       "Caption": "Фрагмент карты сценариев «Брошенная корзина» и «Брошенный просмотр категорий» от Retail Rocket Group"
     },
     {
@@ -666,17 +680,22 @@
               "Content": "Лайфхак: чтобы увеличить отклик от автоматических рассылок можно настроить Follow-up — цепочки писем, которые придут, если получатель не отреагировал на первое письмо сценария."
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
         {
           "_t": "Text",
-          "Content": " Опыт Retail Rocket Group показывает, что конверсия в заказы у писем-напоминаний зачастую выше, чем у первых рассылок, так как в плотном информационном потоке клиент может пропустить даже важные сообщения. В этом случае цепочки Follow-up писем помогут напомнить о компании и побудить его к активности."
+          "Content": "Опыт Retail Rocket Group показывает, что конверсия в заказы у писем-напоминаний зачастую выше, чем у первых рассылок, так как в плотном информационном потоке клиент может пропустить даже важные сообщения. В этом случае цепочки Follow-up писем помогут напомнить о компании и побудить его к активности."
         }
       ]
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/avtomatizatsiya-email-rassylok/mailing_automation4.jpg",
-      "Alt": "Схема преимуществ Follow-up рассылок",
+      "Alt": "",
       "Caption": "Преимущества Follow-up рассылок"
     },
     {
@@ -707,13 +726,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Помимо стандартных сценариев для магазина можно предусмотреть и нестандартные:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Помимо стандартных сценариев для магазина можно предусмотреть и нестандартные:"
     },
     {
       "_t": "UnorderedList",
@@ -759,7 +773,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/avtomatizatsiya-email-rassylok/mailing_automation5.jpg",
-      "Alt": "Автоматизированная рассылка «Улыбки радуги» при регистрации карты лояльности",
+      "Alt": "",
       "Caption": "Пример автоматизированной рассылки от сети магазинов «Улыбка радуги», которая запускается при регистрации карты лояльности"
     },
     {
@@ -884,9 +898,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "После отправки письмо невозможно будет вернуть. Если в нём есть ошибки или ссылка ведёт не туда — рассылка не принесёт результата. Нужно проверить:"
+          "Content": "После отправки письмо невозможно будет вернуть. Если в нём есть ошибки или ссылка ведёт не туда — рассылка не принесёт результата."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Нужно проверить:"
     },
     {
       "_t": "UnorderedList",
@@ -925,13 +943,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Основные метрики оценки эффективности автоматической рассылки:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Основные метрики оценки эффективности автоматической рассылки:"
     },
     {
       "_t": "Paragraph",
@@ -952,12 +965,6 @@
       "Latex": "Delivery rate = \\frac{количество доставленных писем}{общее количество отправленных писем} \\times 100\\%"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/avtomatizatsiya-email-rassylok/blog-avtomatizatsiya-email-rassylok-delivery-rate.png",
-      "Alt": "Калькуляция коэффициента доставки для автоматизации e-mail рассылок в e-commerce.",
-      "Caption": null
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -974,12 +981,6 @@
     {
       "_t": "Formula",
       "Latex": "Open rate = \\frac{количество открытых писем}{общее количество отправленных писем} \\times 100\\%"
-    },
-    {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/avtomatizatsiya-email-rassylok/blog-avtomatizatsiya-email-rassylok-open-rate.png",
-      "Alt": "Формула расчета Open Rate для автоматизации email-рассылок",
-      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -1000,12 +1001,6 @@
       "Latex": "Bounce rate = \\frac{количество недоставленных писем}{общее количество отправленных писем} \\times 100\\%"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/avtomatizatsiya-email-rassylok/blog-avtomatizatsiya-email-rassylok-bounce-rate.png",
-      "Alt": "Схема расчета показателя отказов для автоматизации персонализации в e-commerce.",
-      "Caption": null
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -1022,12 +1017,6 @@
     {
       "_t": "Formula",
       "Latex": "Click-through rate = \\frac{количество писем, в которых получатели перешли по ссылкам}{общее количество доставленных писем} \\times 100\\%"
-    },
-    {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/avtomatizatsiya-email-rassylok/blog-avtomatizatsiya-email-rassylok-click-rate.png",
-      "Alt": "Схема расчета Click Rate для автоматизации email-рассылок в e-commerce.",
-      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -1048,23 +1037,12 @@
       "Latex": "Unsubscribe rate = \\frac{количество отписавшихся}{общее количество доставленных писем} \\times 100\\%"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/avtomatizatsiya-email-rassylok/blog-avtomatizatsiya-email-rassylok-unsubscribe-rate.png",
-      "Alt": "Формула расчета уровня отписки для автоматизации email-рассылок.",
-      "Caption": null
-    },
-    {
       "_t": "Heading2",
       "Title": "Примеры автоматической рассылки"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Примеры автоматической рассылки"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Примеры автоматической рассылки"
     },
     {
       "_t": "Heading3",
@@ -1105,7 +1083,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/avtomatizatsiya-email-rassylok/mailing_automation7.jpg",
-      "Alt": "Пример автоматизированного письма с товарами и рекомендациями в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -1120,7 +1098,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/avtomatizatsiya-email-rassylok/mailing_automation8.jpg",
-      "Alt": "Пример интерфейса email-рассылки с блоком рекомендаций и товарами электроинструментов.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -1157,7 +1135,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/avtomatizatsiya-email-rassylok/mailing_automation10.jpg",
-      "Alt": "Сравнение тем писем: персонализированная тема повысила Open Rate на 12,9% и CTR на 10,1%",
+      "Alt": "",
       "Caption": "Тема с учётом персонализации (на рисунке справа) повысила ключевые метрики: Open Rate на 12,9% и CTR на 10,1%:"
     },
     {
@@ -1185,7 +1163,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/avtomatizatsiya-email-rassylok/mailing_automation11.jpg",
-      "Alt": "Пример автоматизированного email-рассылки с AI рекомендациями для e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -1203,6 +1181,57 @@
         {
           "_t": "Text",
           "Content": "Специалисты Retail Rocket начинают с базового варианта воронки продаж, а затем выстраивают для каждого клиента чёткую индивидуальную систему, которая приносит максимальный результат в кратчайшие сроки."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

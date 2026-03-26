@@ -99,7 +99,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/razvitie-rynka-retail-media/Evolution_Retail_Media_01.png",
-      "Alt": "График доли доходов Retail Media в России с 2020 по 2024 год и прогноз до 2029",
+      "Alt": "",
       "Caption": "Оценка доли доходов Retail Media на российском рекламном рынке с 2020 по 2024 год, а также прогноз доходов на 2027 и 2029 годы"
     },
     {
@@ -118,7 +118,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/razvitie-rynka-retail-media/Evolution_Retail_Media_02.png",
-      "Alt": "Сравнение: Россия по доле Retail Media в рекламных инвестициях 2024 обгоняет Европу и США",
+      "Alt": "",
       "Caption": "Доля российского рынка Retail Media в объеме рекламных инвестиций за 2024 обогнала инвестиции рынка Европы и США"
     },
     {
@@ -133,7 +133,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/razvitie-rynka-retail-media/Evolution_Retail_Media_03-scaled-1.jpg",
-      "Alt": "Диаграмма: 96% выручки российского Retail Media приходится на маркетплейсы",
+      "Alt": "",
       "Caption": "96% выручки рынка Retail Media в России генерируют маркетплейсы, доля которых в ближайшие пять лет будет перераспределяться в пользу новых игроков из офлайн-ритейла"
     },
     {
@@ -218,7 +218,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/razvitie-rynka-retail-media/Evolution_Retail_Media_04-1-scaled-1.jpg",
-      "Alt": "Схема форматов Retail Media: on-site, off-site и in-store",
+      "Alt": "",
       "Caption": "On-site, off-site и in-store форматы в экосистеме Retail Media"
     },
     {
@@ -233,7 +233,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/razvitie-rynka-retail-media/Evolution_Retail_Media_05.png",
-      "Alt": "Сравнение развития off-site Retail Media: Китай активно наращивает, Россия планирует",
+      "Alt": "",
       "Caption": "Более зрелые рынки Retail Media вроде Китая активно наращивают off-site инвентарь, в то время как игроки российского рынка только планируют инвестировать в развитие этого направления в ближайшие три года"
     },
     {
@@ -309,7 +309,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/razvitie-rynka-retail-media/Evolution_Retail_Media_06.png",
-      "Alt": "Инфографика о структуре retail media платформ в России, Европе, США и Китае в 2023 году.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -321,8 +321,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "По данным рабочей группы Retail Rocket, Яков и партнеры и Yandex, к 2029 году российский рынок Retail Media может вырасти в 3 раза — до 900 млрд ₽ Такой взрывной рост прогнозируют по четырем предпосылкам ↓ "
-        },
+          "Content": "По данным рабочей группы Retail Rocket, Яков и партнеры и Yandex, к 2029 году российский рынок Retail Media может вырасти в 3 раза — до 900 млрд ₽ Такой взрывной рост прогнозируют по четырем предпосылкам ↓"
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
         {
           "_t": "Text",
           "Content": "Рост трафика.",
@@ -401,6 +406,57 @@
             "Content": "Рост российского рынка Retail Media будет продолжаться за счет развития in-store формата, включения традиционного ритейла, роста трафика и инвестиций крупного бизнеса. По прогнозам, к 2029 году объем российского рынка Retail Media может достичь 900 млрд ₽."
           }
         ]
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
       ]
     }
   ]

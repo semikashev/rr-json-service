@@ -24,6 +24,15 @@
   "MetaTitle": "Принцип дефицита для увеличения продаж в eCommerce – Retail Rocket, страница 5",
   "ContentBlockList": [
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Лимитированные предложения выглядят более ценными в глазах покупателей, а значит, принцип дефицита можно использовать для повышения продаж. О том, какие стратегии помогут заинтересовать покупателей и мотивировать их совершить покупку здесь и сейчас, рассказываем на примере крупных (и не только) онлайн-ритейлеров."
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Исследование принципа дефицита"
     },
@@ -48,7 +57,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/printsip-defitsita-dlya-uvelicheniya-prodazh-v-ecommerce-6-strategiy-ispolzovaniya/Eksperiment-s-pechenem.png",
-      "Alt": "Диаграмма предпочтений выбора между двумя банками с одинаковым печеньем.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -85,7 +94,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/printsip-defitsita-dlya-uvelicheniya-prodazh-v-ecommerce-6-strategiy-ispolzovaniya/548e5afdb5-1024x569-1.png",
-      "Alt": "Скриншот товара с пометкой «Осталась 1 штука» для повышения продаж.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -100,7 +109,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/printsip-defitsita-dlya-uvelicheniya-prodazh-v-ecommerce-6-strategiy-ispolzovaniya/loverepublic-1024x604-1.png",
-      "Alt": "Скриншот товара с индикатором остатка для создания чувства срочности.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -115,7 +124,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/printsip-defitsita-dlya-uvelicheniya-prodazh-v-ecommerce-6-strategiy-ispolzovaniya/seedspost.png",
-      "Alt": "Скриншот письма с указанием остатка товара для увеличения конверсии в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -172,7 +181,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/printsip-defitsita-dlya-uvelicheniya-prodazh-v-ecommerce-6-strategiy-ispolzovaniya/eBay.png",
-      "Alt": "Скриншот интерфейса с обувью, показывающий принцип дефицита для повышения повторных продаж.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -187,7 +196,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/printsip-defitsita-dlya-uvelicheniya-prodazh-v-ecommerce-6-strategiy-ispolzovaniya/Grafik-poteri-priobreteniya.png",
-      "Alt": "Диаграмма потери и приобретения, демонстрирующая реакцию на дефицит в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -215,7 +224,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/printsip-defitsita-dlya-uvelicheniya-prodazh-v-ecommerce-6-strategiy-ispolzovaniya/Huckberry.png",
-      "Alt": "Рекламный баннер со скидкой, иллюстрирующий принцип дефицита в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -302,7 +311,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/printsip-defitsita-dlya-uvelicheniya-prodazh-v-ecommerce-6-strategiy-ispolzovaniya/airbnb.png",
-      "Alt": "Скриншот интерфейса Airbnb: бронирование квартиры, принцип дефицита и персонализация.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -326,7 +335,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/printsip-defitsita-dlya-uvelicheniya-prodazh-v-ecommerce-6-strategiy-ispolzovaniya/toy.ru_.png",
-      "Alt": "Пример письма с акцией для увеличения продаж и персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -354,7 +363,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/printsip-defitsita-dlya-uvelicheniya-prodazh-v-ecommerce-6-strategiy-ispolzovaniya/delivery-1024x549-1.png",
-      "Alt": "Скриншот товара с акцентом на срочность и возможность быстрой доставки",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -382,7 +391,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/printsip-defitsita-dlya-uvelicheniya-prodazh-v-ecommerce-6-strategiy-ispolzovaniya/Brothers-Leather-Supply.png",
-      "Alt": "Скриншот продукта с акцентом на дефицит, персонализация в e-commerce",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -391,6 +400,57 @@
         {
           "_t": "Text",
           "Content": "Эксклюзивность товара сама по себе является триггером продаж. Такая уникальность воспринимается потребителем как символ статуса, позволяет ему чувствовать себя особенным."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

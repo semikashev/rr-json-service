@@ -4,7 +4,12 @@
     "Словарь"
   ],
   "Title": "Что такое платная подписка (Subscription)",
-  "MetaTitle": "Что такое платная подписка (Subscription)",
+  "PublishDate": {
+    "$date": "2025-07-29T09:53:00"
+  },
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "LeadText": [
     {
       "Elements": [
@@ -15,13 +20,7 @@
       ]
     }
   ],
-  "PublishDate": {
-    "$date": "2025-07-29T09:53:00"
-  },
-  "Letter": "П",
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Что такое платная подписка (Subscription)",
   "ContentBlockList": [
     {
       "_t": "Heading2",
@@ -109,10 +108,15 @@
       "TitleElements": [
         {
           "_t": "Text",
-          "Content": "Платная подписка (Subscription) — это метрика, которая показывает, сколько пользователей вносит регулярную плату за доступ к продукту. В этой статье рассмотрим, как подписка влияет на доход, зачем считать её отдельно и как управлять ею для устойчивого роста."
+          "Content": "ARPU (Average Revenue Per User): что это и как считать метрику"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Читать статью",
       "BtnUrl": "https://retailrocket.ru/blog/chto-takoe-arpu/"
     },
@@ -125,9 +129,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Подписка показывает здоровье продукта. Если люди платят регулярно — продукт даёт устойчивую ценность. Что даёт бизнесу:"
+          "Content": "Подписка показывает здоровье продукта. Если люди платят регулярно — продукт даёт устойчивую ценность."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Что даёт бизнесу:"
     },
     {
       "_t": "UnorderedList",
@@ -199,13 +207,8 @@
       "Title": "Как измерять платную подписку правильно"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Подписку легко испортить плохой аналитикой. Чтобы метрика помогала, а не мешала:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Подписку легко испортить плохой аналитикой. Чтобы метрика помогала, а не мешала:"
     },
     {
       "_t": "OrderedList",
@@ -349,6 +352,58 @@
           }
         ]
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "Letter": "П"
 }

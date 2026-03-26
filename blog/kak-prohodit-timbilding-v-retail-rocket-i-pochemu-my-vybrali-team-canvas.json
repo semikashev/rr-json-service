@@ -24,9 +24,18 @@
   "MetaTitle": "Как проходит тимбилдинг в Retail Rocket и почему мы выбрали Team Canvas – Retail Rocket Group, страница 7",
   "ContentBlockList": [
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Часть наших сотрудников находится в Москве, другая часть ― работает удаленно. Есть у нас и новенькие, которые присоединились к команде менее полугода назад. Общаемся мы в основном через Telegram, Skype и email. Для решения рабочих вопросов этого вполне хватает, но для создания эффективной и дружной команды нужна и офлайн-составляющая. Какой из форматов общения выбрать? Мы решили попробовать инструмент Team Canvas и ничуть об этом не пожалели."
+        }
+      ]
+    },
+    {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-prohodit-timbilding-v-retail-rocket-i-pochemu-my-vybrali-team-canvas/af2aa9d8-37c8-4476-b2ce-049423fb2466.webp",
-      "Alt": "Иллюстрация Кристины Ставиной для статьи о тимбилдинге Retail Rocket",
+      "Alt": "",
       "Caption": "Автор иллюстрации Кристина Ставина, менеджер проекта команды верстки Retail Rocket"
     },
     {
@@ -66,33 +75,23 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Есть две версии фреймворка Team Canvas: базовая"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Есть две версии фреймворка Team Canvas: базовая"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-prohodit-timbilding-v-retail-rocket-i-pochemu-my-vybrali-team-canvas/67704-14-v-13.45.45.webp",
-      "Alt": "Схема командного брифинга Team Canvas для тимбилдинга и целей в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "и основная (полная версия)"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "и основная (полная версия)"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-prohodit-timbilding-v-retail-rocket-i-pochemu-my-vybrali-team-canvas/33313.46.04.webp",
-      "Alt": "Шаблон Team Canvas для командного планирования и тимбилдинга в Retail Rocket.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -203,7 +202,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-prohodit-timbilding-v-retail-rocket-i-pochemu-my-vybrali-team-canvas/333da2b12c.webp",
-      "Alt": "Вторая иллюстрация Кристины Ставиной к статье о тимбилдинге",
+      "Alt": "",
       "Caption": "Автор иллюстрации Кристина Ставина, менеджер проекта команды верстки Retail Rocket"
     },
     {
@@ -267,7 +266,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-prohodit-timbilding-v-retail-rocket-i-pochemu-my-vybrali-team-canvas/223445555.webp",
-      "Alt": "Третья иллюстрация Кристины Ставиной к статье о тимбилдинге",
+      "Alt": "",
       "Caption": "Автор иллюстрации Кристина Ставина, менеджер проекта команды верстки Retail Rocket"
     },
     {
@@ -279,9 +278,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Team Canvas отлично справился с задачей. Нам удалось обсудить важные вещи, услышать точку зрения каждого, сформировать общее понимание целей, ценностей и назначения команды. Отзывы о встрече оказались исключительно положительными. Все отметили важность неформальных встреч, так как они способствуют улучшению коммуникации, делают нахождение в коллективе более комфортным и улучшают атмосферу в целом. Теперь мы:"
+          "Content": "Team Canvas отлично справился с задачей. Нам удалось обсудить важные вещи, услышать точку зрения каждого, сформировать общее понимание целей, ценностей и назначения команды. Отзывы о встрече оказались исключительно положительными. Все отметили важность неформальных встреч, так как они способствуют улучшению коммуникации, делают нахождение в коллективе более комфортным и улучшают атмосферу в целом."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Теперь мы:"
     },
     {
       "_t": "OrderedList",
@@ -304,6 +307,57 @@
             "Content": "Работать с готовыми Team Canvas команд. Мы распечатали и повесили Team Canvas в офисе на видном месте: все, кто идут за чаем с печеньками, видят плакат формата А1. Также team-лиды анализируют личные цели, потребности/ожидания и включают эти желания в индивидуальные планы развития (ИПР) сотрудников. А точки роста обсуждаем на ретроспективах, внедряем правила, которые помогут закрыть возникшие на Team Canvas вопросы."
           }
         ]
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
       ]
     }
   ]

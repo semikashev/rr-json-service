@@ -4,7 +4,12 @@
     "Словарь"
   ],
   "Title": "Что такое посещаемость сайта и её применение в маркетинге",
-  "MetaTitle": "Что такое посещаемость сайта: определение, примеры и применение в маркетинге",
+  "PublishDate": {
+    "$date": "2025-08-20T10:38:00"
+  },
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "LeadText": [
     {
       "Elements": [
@@ -15,13 +20,7 @@
       ]
     }
   ],
-  "PublishDate": {
-    "$date": "2025-08-20T10:38:00"
-  },
-  "Letter": "П",
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Что такое посещаемость сайта: определение, примеры и применение в маркетинге",
   "ContentBlockList": [
     {
       "_t": "Heading2",
@@ -32,9 +31,17 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Посещаемость сайта — это количество людей, которые заходят на ресурс за определённый период (например, за день, неделю, месяц). Источник: airfocus Glossary Ключевые факты:"
+          "Content": "Посещаемость сайта — это количество людей, которые заходят на ресурс за определённый период (например, за день, неделю, месяц)."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Источник: airfocus Glossary"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Ключевые факты:"
     },
     {
       "_t": "UnorderedList",
@@ -183,7 +190,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Посещаемость — главный индикатор того, насколько эффективно компания привлекает внимание аудитории. Маркетологу важно видеть не только количество людей на сайте, но и их поведение: откуда пришли, что посмотрели, сколько времени провели. Это помогает принимать решения о распределении бюджета между каналами. Вот наглядный пример."
+          "Content": "Посещаемость — главный индикатор того, насколько эффективно компания привлекает внимание аудитории. Маркетологу важно видеть не только количество людей на сайте, но и их поведение: откуда пришли, что посмотрели, сколько времени провели. Это помогает принимать решения о распределении бюджета между каналами."
         }
       ]
     },
@@ -192,9 +199,22 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Компания продаёт электронику. Маркетолог запускает кампанию в Google Ads на 300 000 ₽. Через неделю отчёт в Google Analytics показывает: трафик вырос с 15 000 до 23 000 визитов в неделю (+53 %), но время на сайте в среднем упало с 3:10 до 1:45, а конверсия с 2,8 % до 1,4 %. Маркетолог делает вывод: реклама привлекла много нецелевых кликов. Он перераспределяет бюджет — уменьшает расходы на поисковую рекламу по общим ключевым словам и усиливает кампании по бренд-запросам и ретаргетингу. Привязка к KPI"
+          "Content": "Вот наглядный пример."
         }
       ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Компания продаёт электронику. Маркетолог запускает кампанию в Google Ads на 300 000 ₽. Через неделю отчёт в Google Analytics показывает: трафик вырос с 15 000 до 23 000 визитов в неделю (+53 %), но время на сайте в среднем упало с 3:10 до 1:45, а конверсия с 2,8 % до 1,4 %. Маркетолог делает вывод: реклама привлекла много нецелевых кликов. Он перераспределяет бюджет — уменьшает расходы на поисковую рекламу по общим ключевым словам и усиливает кампании по бренд-запросам и ретаргетингу."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Привязка к KPI"
     },
     {
       "_t": "UnorderedList",
@@ -368,7 +388,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-poseshchaemost-sajta/AD_4nXeHREo4d_E-ouZQGn8RnUdDIZ6QW72PXj0P-UBZs01RuZd2tI7ornkN15V7Pj9JpNZ5ITcVW9XGPHVuVdV9CxEdFgMf_MvNszvdfLRjSIWEVRI9SmAxONvDVjB1d4cINYIrr1cAbg.png",
-      "Alt": "Скриншот статистики рекламных кампаний магазина электроники в Яндекс Директ",
+      "Alt": "",
       "Caption": "Пример статистики интернет-магазина электроники в Яндекс Директ"
     },
     {
@@ -396,7 +416,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-poseshchaemost-sajta/AD_4nXcykuK-6N6S0bGbJGvs5IH7pgmeUiXrZLsZ79NNlh2kuiQ8WbH6Dn1nGB-yzpK9GguIQe429l40fFs4qJL93VOotbjJHR1KrMCaLz4jt6w02qeym3BvdgRGbS-8es9AdNHIHm5g.png",
-      "Alt": "Дашборд аналитики трафика мебельной компании",
+      "Alt": "",
       "Caption": "Пример аналитики трафика в мебельной компании"
     },
     {
@@ -424,7 +444,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-poseshchaemost-sajta/AD_4nXe_mjRBQ_2I1hmStWVVuTq5rBNef7w-l-4nkE_9rFkOlYTtVR5rQ3yuY6rFjLGPSLuULbN2-ROr2GIHj1OpwCtqrmfdyA42WIv5mUFeAbKFJ-OiOOpiksmF3xYUQVfF4p40izumjg.png",
-      "Alt": "Скриншот аналитики рекламных кампаний ресторана",
+      "Alt": "",
       "Caption": "Пример аналитики рекламных кампаний ресторана"
     },
     {
@@ -452,7 +472,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-poseshchaemost-sajta/AD_4nXcObfIYYX9HgLksjLp8TsMbWRXqfzyusEcHglU5-HsLkKajToCQyfvT7raZCni_p6GxiOgK48Fh6BLyVOd2fPR-O3CZIGYx9ie7IPdpre5ci3Xw7mlblD8k3hkcUYwz-GGUyzdCVg.png",
-      "Alt": "Статистика email-кампании косметического бренда",
+      "Alt": "",
       "Caption": "Что такое посещаемость сайта и её применение в маркетинге Пример статистики косметического бренда по email-кампании"
     },
     {
@@ -471,8 +491,60 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-poseshchaemost-sajta/tg_image_1396842290_upscayl_2x_upscayl-standard-4x.png",
-      "Alt": "Воронка ретаргетинговой кампании онлайн-курса",
+      "Alt": "",
       "Caption": "Пример воронки ретаргетинга онлайн-курса"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "Letter": "П"
 }

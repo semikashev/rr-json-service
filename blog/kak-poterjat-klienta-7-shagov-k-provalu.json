@@ -24,6 +24,15 @@
   "MetaTitle": "7 ошибок, которые отталкивают клиентов и приводят к провалу – Retail Rocket, страница 5",
   "ContentBlockList": [
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Конечно, без помощи самих пользователей такой материал невозможен. Давайте узнаем как ответили пользователи на вопрос: «Что способно ухудшить ваши отношения с брендом?»."
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Причина № 1. Магазин «терроризирует» почту клиента"
     },
@@ -70,7 +79,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-poterjat-klienta-7-shagov-k-provalu/image5-1-2.png",
-      "Alt": "Гистограмма частоты согласия на маркетинговые рассылки, сегментация клиентов.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -109,18 +118,13 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "RFM-матрица строится индивидуально для каждого магазина. Например, так выглядела матрица для интернет-магазина Связной:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "RFM-матрица строится индивидуально для каждого магазина. Например, так выглядела матрица для интернет-магазина Связной:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-poterjat-klienta-7-shagov-k-provalu/image3-2.png",
-      "Alt": "Диаграмма сегментации клиентов по количеству заказов и времени последних покупок.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -135,7 +139,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-poterjat-klienta-7-shagov-k-provalu/image1-2.png",
-      "Alt": "Электронное письмо с персонализированным предложением от магазина электроники Связной.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -203,7 +207,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-poterjat-klienta-7-shagov-k-provalu/image2-2-1.png",
-      "Alt": "Email-рассылка с персонализацией в e-commerce от интернет-магазина MrDom",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -271,7 +275,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-poterjat-klienta-7-shagov-k-provalu/image7-1.png",
-      "Alt": "Процесс изготовления одежды с вышивкой и её дизайн на рисунке.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -330,7 +334,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-poterjat-klienta-7-shagov-k-provalu/image8-1.png",
-      "Alt": "Скриншот интерфейса интернет-магазина с акциями и скидкой на диван-кровать.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -385,7 +389,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-poterjat-klienta-7-shagov-k-provalu/image4-2.png",
-      "Alt": "Пример email-рассылки с рекомендациями товаров и персонализацией в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -444,7 +448,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-poterjat-klienta-7-shagov-k-provalu/image6-1.png",
-      "Alt": "Элементы welcome-письма интернет-магазина Ralf Ringer: персонализация в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -456,12 +460,62 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Построить лояльность сложно, но удержать её ещё сложнее. Мы надеемся, что приведенные примеры и кейсы помогли вам найти новые идеи для улучшения сервиса. Меняться, особенно к лучшему, никогда не поздно. Обращайте особое внимание на отзывы клиентов, разговаривайте с ними — многие готовы делиться впечатлениями, основываясь на которые вы сможете постоянно совершенствовать бизнес. Инфоподдержка:"
+          "Content": "Построить лояльность сложно, но удержать её ещё сложнее. Мы надеемся, что приведенные примеры и кейсы помогли вам найти новые идеи для улучшения сервиса. Меняться, особенно к лучшему, никогда не поздно. Обращайте особое внимание на отзывы клиентов, разговаривайте с ними — многие готовы делиться впечатлениями, основываясь на которые вы сможете постоянно совершенствовать бизнес."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Инфоподдержка:seonews.ru"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
         },
         {
           "_t": "Text",
-          "Content": "seonews.ru",
-          "IsHighlight": true
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

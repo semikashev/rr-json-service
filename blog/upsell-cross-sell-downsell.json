@@ -119,7 +119,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/upsell-cross-sell-downsell/image-1.png",
-      "Alt": "Блок рекомендаций с алгоритмом Upsell: более дорогие товары с улучшенными характеристиками",
+      "Alt": "",
       "Caption": "Алгоритм «Upsell» в блоке рекомендаций предлагает более дорогие товары с улучшенными характеристиками"
     },
     {
@@ -190,7 +190,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/upsell-cross-sell-downsell/image-1-1.png",
-      "Alt": "Блок кросс-продаж DNS с аксессуарами, подходящими к купленному ноутбуку",
+      "Alt": "",
       "Caption": "DNS предлагает приобрести аксессуары, которые подходят к ноутбуку"
     },
     {
@@ -247,7 +247,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/upsell-cross-sell-downsell/image-2-1.png",
-      "Alt": "Страница тарифов Касперского с минимальным Downsell-предложением",
+      "Alt": "",
       "Caption": "Касперский предлагает самый дешевый тариф с ограничением опций, который обеспечивает базовую защиту"
     },
     {
@@ -354,7 +354,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/upsell-cross-sell-downsell/image-3.png",
-      "Alt": "Блок допродаж DNS при оформлении заказа: дополнительная гарантия и аксессуары",
+      "Alt": "",
       "Caption": "Во время оформления покупки стиральной машины, магазин DNS предлагает приобрести дополнительную гарантию и полезные аксессуары"
     },
     {
@@ -373,7 +373,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/upsell-cross-sell-downsell/image-4-1.png",
-      "Alt": "Блок кросс-продаж Тануки: соусы и дополнительные блюда к основному заказу",
+      "Alt": "",
       "Caption": "Тануки предлагает кросс-сейл в виде соусов и дополнительных блюд"
     },
     {
@@ -392,7 +392,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/upsell-cross-sell-downsell/image-5-1.png",
-      "Alt": "Страница выбора пакетов обучения Нетологии с разными уровнями",
+      "Alt": "",
       "Caption": "В Нетологии можно выбрать пакет обучения по своим потребностям"
     },
     {
@@ -411,7 +411,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/upsell-cross-sell-downsell/image-6.png",
-      "Alt": "Предложение Сбербанка оформить подписку с дополнительными сервисами",
+      "Alt": "",
       "Caption": "Сбербанк предлагает кросс-сейл в виде подписки с дополнительными опциями и сервисами"
     },
     {
@@ -443,7 +443,7 @@
           {
             "_t": "Text",
             "Content": "Разница ценности.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -503,7 +503,7 @@
           {
             "_t": "Text",
             "Content": "Ограниченное предложение.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -514,7 +514,7 @@
           {
             "_t": "Text",
             "Content": "Персонализированные рекомендации.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -525,7 +525,7 @@
           {
             "_t": "Text",
             "Content": "Эмоциональное вовлечение и социальное доказательство.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -536,7 +536,7 @@
           {
             "_t": "Text",
             "Content": "Простое решение.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -565,7 +565,7 @@
           {
             "_t": "Text",
             "Content": "Логика комплектов (bundle-логика).",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -575,11 +575,15 @@
       ]
     },
     {
+      "_t": "Heading2",
+      "Title": "Правила эффективных комплектов:"
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Правила эффективных комплектов: 👉 Товары или услуги должны логично сочетаться и дополнять друг друга."
+          "Content": "👉 Товары или услуги должны логично сочетаться и дополнять друг друга."
         }
       ]
     },
@@ -635,7 +639,7 @@
           {
             "_t": "Text",
             "Content": "Персонализированные рекомендации.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -646,7 +650,7 @@
           {
             "_t": "Text",
             "Content": "Время и место предложения.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -657,7 +661,7 @@
           {
             "_t": "Text",
             "Content": "Эмоциональное вовлечение и социальное доказательство.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -668,7 +672,7 @@
           {
             "_t": "Text",
             "Content": "Демонстрация пользы и ценности.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -697,7 +701,7 @@
           {
             "_t": "Text",
             "Content": "Введение базовых и эконом-версий.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -708,7 +712,7 @@
           {
             "_t": "Text",
             "Content": "Рассрочка или специальные условия оплаты.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -719,7 +723,7 @@
           {
             "_t": "Text",
             "Content": "Ограниченное по времени предложение.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -730,7 +734,7 @@
           {
             "_t": "Text",
             "Content": "Разделение услуг и продажа отдельными частями.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -755,17 +759,12 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/upsell-cross-sell-downsell/image-7.png",
-      "Alt": "Схема этапов покупательского пути с точками встраивания апсейла и кросс-сейла",
+      "Alt": "",
       "Caption": "Этапы пути покупателя, на которых последовательно встраиваем апсейл и кросс-сейл"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Вот основные рекомендации, как построить такой комбинированный путь пользователя и автоматизировать процесс:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Вот основные рекомендации, как построить такой комбинированный путь пользователя и автоматизировать процесс:"
     },
     {
       "_t": "Paragraph",
@@ -905,7 +904,12 @@
           "Content": "Что такое персонализация и как она помогает бизнесу"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Читать кейс",
       "BtnUrl": "https://retailrocketgroup.ru/blog/chto-takoe-personalizaciya/"
     },
@@ -944,7 +948,12 @@
           "Content": "Какие механики увеличивают доход от товарных рекомендаций в 5 раз: кейс АШАН"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Читать кейс",
       "BtnUrl": "https://retailrocketgroup.ru/blog/cases/kak-mehaniki-uvelichili-dohod-ot-tovarnyh-rekomendatsiy-v-5-raz-case-aushan/"
     },
@@ -983,7 +992,12 @@
           "Content": "Как мотивировать к повторным покупкам с помощью триггерной коммуникации: кейс cheese-cake.ru"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Читать кейс",
       "BtnUrl": "https://retailrocketgroup.ru/blog/cases/case-cheescake/"
     },
@@ -1016,7 +1030,12 @@
           "Content": "Как сегментировать клиентскую базу"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Читать кейс",
       "BtnUrl": "https://retailrocketgroup.ru/blog/kak-segmentirovat-klientskuyu-bazu/"
     },
@@ -1123,13 +1142,8 @@
       "Title": "Как реализовать улучшения"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Если наблюдаются проблемы, их причины часто кроются в следующих моментах:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Если наблюдаются проблемы, их причины часто кроются в следующих моментах:"
     },
     {
       "_t": "UnorderedList",
@@ -1138,7 +1152,7 @@
           {
             "_t": "Text",
             "Content": "Низкая конверсия →",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -1152,7 +1166,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "→ Смещайте фокус со скидок на реальную ценность.Когда покупатель видит конкретную пользу, а не просто «–10%», он быстрее понимает выгоду и охотнее принимает решение. Например:"
+          "Content": "→ Смещайте фокус со скидок на реальную ценность.Когда покупатель видит конкретную пользу, а не просто «–10%», он быстрее понимает выгоду и охотнее принимает решение."
         }
       ]
     },
@@ -1161,7 +1175,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "👉 «Прослужит в 2 раза дольше», «Сэкономит до 30 минут в день», «Тише и комфортнее в работе», «Увеличит результативность на 25%», «Компактный, но вмещает втрое больше»."
+          "Content": "Например: 👉 «Прослужит в 2 раза дольше», «Сэкономит до 30 минут в день», «Тише и комфортнее в работе», «Увеличит результативность на 25%», «Компактный, но вмещает втрое больше»."
         }
       ]
     },
@@ -1172,7 +1186,7 @@
           {
             "_t": "Text",
             "Content": "Рост отказов и жалоб →",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -1197,7 +1211,7 @@
           {
             "_t": "Text",
             "Content": "Отсутствие роста среднего чека →",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -1231,7 +1245,7 @@
           {
             "_t": "Text",
             "Content": "Длительный или запутанный путь клиента →",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -1307,6 +1321,57 @@
             "Content": "Оценку проводят по росту среднего чека, LTV, конверсии, частоте повторных покупок и уровню отказов."
           }
         ]
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
       ]
     }
   ]

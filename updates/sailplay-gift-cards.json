@@ -24,6 +24,15 @@
   "MetaTitle": "Создание и отправка подарочных сертификатов в Sailplay – Retail Rocket Group, страница 2",
   "ContentBlockList": [
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Мы нашли решение и усовершенствовали наш продукт для удобства и эффективности вашего бизнеса. Представляем новый сервис — подарочные карты Sailplay, который поможет привлечь дополнительную выручку и новых клиентов."
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Sailplay упрощает создание подарочных карт"
     },
@@ -43,7 +52,7 @@
           {
             "_t": "Text",
             "Content": "Номинал карты",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -54,7 +63,7 @@
           {
             "_t": "Text",
             "Content": "Способы погашения",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -65,7 +74,7 @@
           {
             "_t": "Text",
             "Content": "Генератор уникальных кодов",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -76,7 +85,7 @@
           {
             "_t": "Text",
             "Content": "Срок действия карты",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -87,7 +96,7 @@
           {
             "_t": "Text",
             "Content": "Уведомления клиентам",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -98,7 +107,7 @@
           {
             "_t": "Text",
             "Content": "Управление картами",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -108,13 +117,14 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Пример создания подарочных сертификатов в интерфейсе нового сервиса:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Пример создания подарочных сертификатов в интерфейсе нового сервиса:"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/sailplay-gift-cards/gift-card-1.gif",
+      "Alt": "",
+      "Caption": null
     },
     {
       "_t": "SmallContentBg",
@@ -132,6 +142,14 @@
       ],
       "BtnText": "Запросить демо",
       "BtnUrl": "https://retailrocket.ru/demo/"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
   ]
 }

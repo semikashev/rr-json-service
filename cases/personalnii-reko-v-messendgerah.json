@@ -3,9 +3,6 @@
   "Label": [
     "Кейсы"
   ],
-  "IndustryList": [
-    "Образование"
-  ],
   "Title": "Как внедрить персональные рекомендации в мессенджеры за две недели: кейс Skillbox",
   "PublishDate": {
     "$date": "2022-12-07T19:25:00"
@@ -26,6 +23,15 @@
   ],
   "MetaTitle": "Как внедрить персональные рекомендации в мессенджеры за две недели: кейс Skillbox – Retail Rocket Group",
   "ContentBlockList": [
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Наши партнеры из Skillbox предположили, что автоматизированные и персонализированные товарные рекомендации Retail Rocket будут эффективно работать в мессенджерах за счет более высокой открываемости сообщений. И решили проверить гипотезу на практике. За месяц тестирования получили 53 сделки и освободили ресурс менеджеров для решения менее рутинных задач. Как команда построила процессы и пришла к такому результату — читайте ниже."
+        }
+      ]
+    },
     {
       "_t": "Heading2",
       "Title": "О партнере"
@@ -99,7 +105,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalnii-reko-v-messendgerah/Group-513249.png",
-      "Alt": "Интерфейс выбора курсов маркетинга на Skillbox с опциями связи через мессенджеры.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -158,14 +164,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Всего в боте используется 3 типа рекомендаций:",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Всего в боте используется 3 типа рекомендаций:"
     },
     {
       "_t": "UnorderedList",
@@ -191,14 +191,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "В зависимости от ситуации запускается одна из цепочек:",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "В зависимости от ситуации запускается одна из цепочек:"
     },
     {
       "_t": "UnorderedList",
@@ -235,7 +229,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalnii-reko-v-messendgerah/Group-513252-1.webp",
-      "Alt": "Схема внедрения товарных рекомендаций в мессенджеры с интерфейсом сообщения.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -291,6 +285,17 @@
       "Author": "Алексей Полищук",
       "AuthorPosition": "Менеджер заботы о партнерах Retail Rocket Group",
       "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalnii-reko-v-messendgerah/Skype-2022-11-29-13-11-04-1-300x287.png"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
+  ],
+  "IndustryList": [
+    "Образование"
   ]
 }

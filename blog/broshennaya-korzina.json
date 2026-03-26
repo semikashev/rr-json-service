@@ -131,19 +131,12 @@
       "Latex": "Процент брошенных корзин = (1 − (Количество покупок / Количество корзин)) \\times 100\\%"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/broshennaya-korzina/blog-broshennaya-korzina-dolya-broshennyh-korzin.png",
-      "Alt": "Формула расчета доли брошенных корзин в e-commerce.",
-      "Caption": null
+      "_t": "Heading2",
+      "Title": "Пример:"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Пример: Если за месяц 900 раз товары добавляли в корзину, а покупки оформили только 400 раз, считаем так:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Если за месяц 900 раз товары добавляли в корзину, а покупки оформили только 400 раз, считаем так:"
     },
     {
       "_t": "UnorderedList",
@@ -188,13 +181,8 @@
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Возвращать покупателей из оставленной корзины важно по нескольким причинам:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Возвращать покупателей из оставленной корзины важно по нескольким причинам:"
     },
     {
       "_t": "Paragraph",
@@ -271,7 +259,12 @@
           "Content": "Как увеличить средний чек на 32% с помощью 5 триггеров"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Читать кейс",
       "BtnUrl": "https://retailrocket.ru/cases/pizza-case-kak-uvelichit-srednij-chek-na-32-s-pomoshchyu-5-triggerov/"
     },
@@ -393,13 +386,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Рекомендации по настройке цепочки:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Рекомендации по настройке цепочки:"
     },
     {
       "_t": "UnorderedList",
@@ -485,7 +473,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/broshennaya-korzina/image-9.png",
-      "Alt": "Интерфейс выбора тегов для событий в системе Retail Rocket",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -526,7 +514,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Шаг 6. Запуск сценариев происходит в один клик. С этого момента система SailPlay самостоятельно следит за аудиторией и автоматически отправляет серию сообщений при наступлении заданных событий. Весь процесс полностью автоматизирован, а результаты работы триггера и его эффективность легко контролировать через личный кабинет платформы. Платформа SailPlay Возвращает клиентов автоматически"
+          "Content": "Шаг 6. Запуск сценариев происходит в один клик. С этого момента система SailPlay самостоятельно следит за аудиторией и автоматически отправляет серию сообщений при наступлении заданных событий. Весь процесс полностью автоматизирован, а результаты работы триггера и его эффективность легко контролировать через личный кабинет платформы."
         }
       ]
     },
@@ -546,6 +534,53 @@
       ],
       "BtnText": "Узнать о продукте",
       "BtnUrl": "https://sailplay.ru/"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

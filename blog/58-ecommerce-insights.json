@@ -24,6 +24,15 @@
   "MetaTitle": "58 фактов, как пользователи выбирают интернет-магазин и что влияет на решение о покупке – Retail Rocket, страница 4",
   "ContentBlockList": [
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Понимая, как клиенты воспринимают ваш интернет-магазин, вы можете влиять на показатели бизнеса, увеличивая его эффективность. А значит, самое время посмотреть на статистику — собрали для вас интересные факты о том, как покупатели выбирают, где совершить покупку, и что влияет на восприятие интернет-магазина."
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Дизайн и юзабилити сайта"
     },
@@ -66,7 +75,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/58-ecommerce-insights/1_ecommerce_website.png",
-      "Alt": "Инфографика о влиянии дизайна, видео, юзабилити и скорости загрузки на выбор интернет-магазина.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -90,7 +99,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/58-ecommerce-insights/2_ecommerce_mobile.png",
-      "Alt": "Инфографика о влиянии использования смартфонов на m-commerce и поведение покупателей.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -109,7 +118,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/58-ecommerce-insights/3_ecommerce_cart.png",
-      "Alt": "Инфографика о причинах и последствиях брошенных корзин в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -124,7 +133,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/58-ecommerce-insights/4_mamsy_retailrocket.png",
-      "Alt": "Два варианта email-рассылки с блоком рекомендаций, разница в оформлении. CTR +4,56%.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -139,7 +148,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/58-ecommerce-insights/5_ecommerce_service.png",
-      "Alt": "Инфографика о возврате товаров и клиентском сервисе в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -176,7 +185,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/58-ecommerce-insights/6_ecommerce_review.png",
-      "Alt": "Инфографика о влиянии отзывов и вовлеченности клиентов в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -204,7 +213,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/58-ecommerce-insights/7_ecommerce_loyalty.png",
-      "Alt": "Инфографика о купонах, бесплатной доставке и программах лояльности в интернет-магазинах",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -250,7 +259,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/58-ecommerce-insights/8_ecommerce_company.png",
-      "Alt": "Инфографика: влияние соцсетей и активности бренда на выбор интернет-магазина.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -259,6 +268,57 @@
         {
           "_t": "Text",
           "Content": "Понимание трендов ecommerce и особенностей поведения пользователей позволяет делать интернет-магазин более эффективным, оптимизировать процессы, добавлять опции, которые важны клиентам и в конечном счете увеличивать конверсию, выручку и прибыль. Как знание этих фактов поможет именно вашему бизнесу и какие из цифр использовать первую очередь — решать вам, но летнее затишье для многих может стать отличной возможностью переосмыслить текущие процессы и внедрить что-то новое в стратегию развития интернет-магазина."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

@@ -4,7 +4,12 @@
     "Словарь"
   ],
   "Title": "Что такое STR (Sell Through Rate) и его применение в маркетинге",
-  "MetaTitle": "Что такое STR (Sell Through Rate): определение, примеры и применение в маркетинге",
+  "PublishDate": {
+    "$date": "2025-09-02T15:50:00"
+  },
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "LeadText": [
     {
       "Elements": [
@@ -15,13 +20,7 @@
       ]
     }
   ],
-  "PublishDate": {
-    "$date": "2025-09-02T15:50:00"
-  },
-  "Letter": "С",
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Что такое STR (Sell Through Rate): определение, примеры и применение в маркетинге",
   "ContentBlockList": [
     {
       "_t": "Paragraph",
@@ -29,15 +28,6 @@
         {
           "_t": "Text",
           "Content": "Материал входит в глоссарий «Словарь маркетолога», созданный командой Retail Rocket. Мы объясняем ключевые термины digital-маркетинга простыми словами."
-        }
-      ]
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
         }
       ]
     },
@@ -55,13 +45,12 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Источник: Корпоративный маркетинговый словарь и глоссарий ZINFI (англоязычный) Ключевые факты:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Источник: Корпоративный маркетинговый словарь и глоссарий ZINFI (англоязычный)"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Ключевые факты:"
     },
     {
       "_t": "UnorderedList",
@@ -102,12 +91,6 @@
     {
       "_t": "Formula",
       "Latex": "STR = \\frac{Количество проданного товара}{Количество полученного товара} \\times 100\\%"
-    },
-    {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-str/glossary-chto-takoe-str-str.png",
-      "Alt": "Схема расчёта STR (Sell Through Rate) в маркетинге e-commerce.",
-      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -238,7 +221,16 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "STR показывает, насколько быстро маркетинг помогает превращать складские запасы в продажи. Если STR падает — значит, реклама, промо или ценовая стратегия не дают нужного эффекта. Если растёт — значит, кампании работают, спрос стимулирован. Вот наглядный пример."
+          "Content": "STR показывает, насколько быстро маркетинг помогает превращать складские запасы в продажи. Если STR падает — значит, реклама, промо или ценовая стратегия не дают нужного эффекта. Если растёт — значит, кампании работают, спрос стимулирован."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Вот наглядный пример."
         }
       ]
     },
@@ -252,13 +244,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Иначе говоря, STR влияет на ключевые показатели маркетолога:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Иначе говоря, STR влияет на ключевые показатели маркетолога:"
     },
     {
       "_t": "UnorderedList",
@@ -522,7 +509,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-str/image-4.png",
-      "Alt": "Сравнение показателей STR двух вариантов рекламного объявления",
+      "Alt": "",
       "Caption": "Пример сравнения показателей STR в двух рекламных объявлениях"
     },
     {
@@ -550,7 +537,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-str/2025-09-02_13-42-34-1-1-1-2048x1458-1.jpg",
-      "Alt": "Динамика показателя STR до и после запуска акции",
+      "Alt": "",
       "Caption": "Пример сравнения показателей STR до запуска акции и после"
     },
     {
@@ -578,8 +565,60 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-str/image-5.png",
-      "Alt": "Изменение STR до и после оптимизации карточки товара",
+      "Alt": "",
       "Caption": "Пример сравнения показателей STR до оптимизации карточки товара и после"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "Letter": "С"
 }

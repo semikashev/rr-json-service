@@ -4,7 +4,12 @@
     "Словарь"
   ],
   "Title": "Что такое SOV (Share of Voice) и его применение в маркетинге",
-  "MetaTitle": "Что такое SOV (Share of Voice): определение, примеры и применение в маркетинге",
+  "PublishDate": {
+    "$date": "2025-08-28T10:59:00"
+  },
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "LeadText": [
     {
       "Elements": [
@@ -15,13 +20,7 @@
       ]
     }
   ],
-  "PublishDate": {
-    "$date": "2025-08-28T10:59:00"
-  },
-  "Letter": "С",
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Что такое SOV (Share of Voice): определение, примеры и применение в маркетинге",
   "ContentBlockList": [
     {
       "_t": "Heading2",
@@ -32,9 +31,17 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "SOV (Share of Voice) — доля маркетингового присутствия бренда на рынке по сравнению с конкурентами. Показатель отражает, как часто целевая аудитория видит или слышит сообщения бренда в рекламе, СМИ, социальных сетях и других каналах коммуникации. Источник: Cambridge English Dictionary Ключевые факты:"
+          "Content": "SOV (Share of Voice) — доля маркетингового присутствия бренда на рынке по сравнению с конкурентами. Показатель отражает, как часто целевая аудитория видит или слышит сообщения бренда в рекламе, СМИ, социальных сетях и других каналах коммуникации."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Источник: Cambridge English Dictionary"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Ключевые факты:"
     },
     {
       "_t": "UnorderedList",
@@ -329,7 +336,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-sov/1-2.png",
-      "Alt": "Сравнительная диаграмма доли эфирного времени бренда vs конкурентов",
+      "Alt": "",
       "Caption": "Сравнение долей эфирного времени бренда с конкурентами"
     },
     {
@@ -348,7 +355,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-sov/2025-08-27_11-32-43.png",
-      "Alt": "Распределение показов контекстной рекламы по брендам в Яндекс Директ",
+      "Alt": "",
       "Caption": "Пример распределения показов контекстной рекламы по брендам в Яндекс Директ"
     },
     {
@@ -367,7 +374,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-sov/AD_4nXcMS6oR3ctKtUwimzv6o8o02U14VpYd7brUkkHg3LFlCZRyXBospQ27fiE1_dv327hVtbqac0bjX6Ivl-aVa0jplOxRmp6ORSAxX-vgUBVIm2kux-l75B8m_qIdqlI9QqMwW6jQkg.png",
-      "Alt": "Диаграмма распределения упоминаний бренда в социальных сетях",
+      "Alt": "",
       "Caption": "Пример распределения упоминаний бренда в социальных сетях"
     },
     {
@@ -386,7 +393,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-sov/tg_image_2483626593-1.png",
-      "Alt": "Таблица сравнения охватов наружной рекламы бренда и конкурентов",
+      "Alt": "",
       "Caption": "Пример сравнительной таблицы с охватами билбордов бренда и конкурентов"
     },
     {
@@ -405,8 +412,60 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-sov/2025-08-28_10-35-45-1.png",
-      "Alt": "Сравнение доли рекламных спотов на радио между брендами",
+      "Alt": "",
       "Caption": "Пример сравнения доли спотов на радио между брендами"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "Letter": "С"
 }

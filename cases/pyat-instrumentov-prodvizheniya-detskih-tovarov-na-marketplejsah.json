@@ -3,9 +3,6 @@
   "Label": [
     "Кейсы"
   ],
-  "IndustryList": [
-    "Детские товары"
-  ],
   "Title": "Пять инструментов продвижения детских товаров на маркетплейсах",
   "PublishDate": {
     "$date": "2025-06-29T17:24:00"
@@ -31,30 +28,75 @@
       "VideoUrl": "https://www.youtube.com/embed/mS7f7OKUlZA"
     },
     {
-      "_t": "Paragraph",
+      "_t": "SmallContentBg",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Хотите расширить рекламный инвентарь?"
+        }
+      ],
       "Elements": [
         {
           "_t": "Text",
           "Content": "Smart Placement от Retail Rocket Group предлагает более 8 вариантов"
         }
-      ]
-    },
-    {
-      "_t": "SmallContentBg",
-      "TitleElements": [
-        {
-          "_t": "Text",
-          "Content": "В этом видео вы найдете анализ пяти актуальных инструментов для успешного продвижения детских товаров на маркетплейсах на примере популярного ритейлера \"Детский мир\". Мы в глубоких деталях рассмотрим каждый инструмент и на конкретных кейсах покажем, как их эффективно использовать."
-        }
-      ],
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Содержание видео"
-        }
       ],
       "BtnText": "Запросить демо",
       "BtnUrl": "https://retailrocket.ru/demo/"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
+      ]
     }
+  ],
+  "IndustryList": [
+    "Детские товары"
   ]
 }

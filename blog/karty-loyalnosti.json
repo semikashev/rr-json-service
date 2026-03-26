@@ -49,7 +49,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/karty-loyalnosti/Capture-2025-10-28-125256-scaled.webp",
-      "Alt": "Карта лояльности пекарни Mishka Bakery",
+      "Alt": "",
       "Caption": "Пример. Карта лояльности сетевой пекарни Mishka Bakery"
     },
     {
@@ -140,7 +140,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/karty-loyalnosti/Capture-2025-10-28-130231-scaled.webp",
-      "Alt": "Диаграмма видов карт лояльности среди россиян по данным TelecomDaily",
+      "Alt": "",
       "Caption": "Виды карт лояльности, которыми пользуются россияне с указанием доли использования среди опрошенных, согласно исследованию TelecomDaily"
     },
     {
@@ -148,13 +148,8 @@
       "Title": "Преимущества карт лояльности для бизнеса"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Карты лояльности помогают бизнесу:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Карты лояльности помогают бизнесу:"
     },
     {
       "_t": "UnorderedList",
@@ -234,7 +229,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/karty-loyalnosti/Capture-2025-10-28-130753-scaled.webp",
-      "Alt": "Форма обратной связи от клиентов в мобильном приложении Cofix",
+      "Alt": "",
       "Caption": "Пример получения обратной связи от клиентов в приложении Cofix"
     },
     {
@@ -304,7 +299,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/karty-loyalnosti/Capture-2025-10-28-131102-scaled.webp",
-      "Alt": "Ценник с двумя ценами: по скидочной карте и без неё",
+      "Alt": "",
       "Caption": "Цена по скидочной карте ниже и указывается на ценниках"
     },
     {
@@ -319,7 +314,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/karty-loyalnosti/Capture-2025-10-28-131313-scaled.webp",
-      "Alt": "Скидочная карта лояльности Gloria Jeans со скидкой в день рождения",
+      "Alt": "",
       "Caption": "Пример скидочной карты лояльности у бренда Gloria Jeans, который даёт скидку в день рождения клиента или его детей"
     },
     {
@@ -334,7 +329,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/karty-loyalnosti/Capture-2025-10-28-131430-scaled.webp",
-      "Alt": "Схема программы лояльности с картой, покупками и скидками.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -353,7 +348,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/karty-loyalnosti/Capture-2025-10-28-131558-scaled.webp",
-      "Alt": "Условия накопительной карты лояльности «Снежной королевы»",
+      "Alt": "",
       "Caption": "Условия по накопительной карте магазина «Снежная королева»"
     },
     {
@@ -381,31 +376,17 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/karty-loyalnosti/Capture-2025-10-28-131726-scaled.webp",
-      "Alt": "Условия бонусной карты SHU: оплата до 50% и бессрочные баллы",
+      "Alt": "",
       "Caption": "У бренда SHU разрешается оплачивать бонусами до 50% суммы покупок, срок действия бонусов не ограничен"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "У бонусных "
-        },
-        {
-          "_t": "Text",
-          "Content": "карт может быть несколько уровней",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": ": чем больше покупок совершает клиент — тем выше статус его карты и значительнее привилегии"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "У бонусных карт может быть несколько уровней: чем больше покупок совершает клиент — тем выше статус его карты и значительнее привилегии"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/karty-loyalnosti/Capture-2025-10-28-131840-scaled.webp",
-      "Alt": "Таблица уровней программы лояльности с процентами начислений и суммами покупок.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -420,7 +401,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/karty-loyalnosti/Capture-2025-10-28-131942-scaled.webp",
-      "Alt": "Карта лояльности О'КЕЙ: совмещение скидки и накопительной системы с уровнями",
+      "Alt": "",
       "Caption": "Пример совмещения скидочной и накопительной карты магазина О’КЕЙ. Постоянная скидка и система уровней"
     },
     {
@@ -439,7 +420,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/karty-loyalnosti/Capture-2025-10-28-132233-scaled.webp",
-      "Alt": "Программа лояльности Ozon Premium с бонусами от партнёров",
+      "Alt": "",
       "Caption": "Программа Premium у маркетплейса Ozon. Всем членам клуба становятся доступны бонусы от Ozona и его партнёров"
     },
     {
@@ -472,7 +453,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/karty-loyalnosti/Capture-2025-10-28-132402-scaled.webp",
-      "Alt": "Привилегии клубной карты программы Premium от Т-Банка",
+      "Alt": "",
       "Caption": "Привилегии по одной из клубных карт программы Premium от Т-Банка"
     },
     {
@@ -516,12 +497,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Электронная карта",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " лояльности это экологично, так как не требует использования пластика и выгодно для продавца и клиента."
+          "Content": "Электронная карта лояльности это экологично, так как не требует использования пластика и выгодно для продавца и клиента."
         }
       ]
     },
@@ -564,7 +540,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/karty-loyalnosti/Capture-2025-10-28-132636-scaled.webp",
-      "Alt": "Электронная карта лояльности SHU в формате Wallet",
+      "Alt": "",
       "Caption": "Бонусная карта лояльности бренда одежды SHU оформляется в виде электронной карты Wallet"
     },
     {
@@ -592,7 +568,7 @@
           {
             "_t": "Text",
             "Content": "Оформить бумажную анкету",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -647,13 +623,8 @@
       "Title": "Как оформить и получить карту лояльности"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Карты лояльности для клиентов — способ получить множество привилегий за приверженность бренду. Они помогают:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Карты лояльности для клиентов — способ получить множество привилегий за приверженность бренду. Они помогают:"
     },
     {
       "_t": "UnorderedList",
@@ -693,7 +664,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/karty-loyalnosti/Capture-2025-10-28-133153.webp",
-      "Alt": "Push-уведомление Альфа-Банка держателям карт лояльности",
+      "Alt": "",
       "Caption": "Пуш-сообщение для держателей карт Альфа-Банка дарит клиентам приятные эмоции и заботу"
     },
     {
@@ -701,13 +672,8 @@
       "Title": "Коротко о главном"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Назовём главные моменты, которые важно знать о картах лояльности:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Назовём главные моменты, которые важно знать о картах лояльности:"
     },
     {
       "_t": "UnorderedList",
@@ -766,6 +732,57 @@
             "Content": "бизнесу карта лояльности приносит верных активных клиентов, рост продаж, конкурентные преимущества и статистику от целевой аудитории."
           }
         ]
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
       ]
     }
   ]

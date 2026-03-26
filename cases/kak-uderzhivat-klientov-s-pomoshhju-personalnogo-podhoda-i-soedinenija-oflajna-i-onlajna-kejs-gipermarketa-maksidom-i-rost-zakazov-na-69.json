@@ -3,9 +3,6 @@
   "Label": [
     "Кейсы"
   ],
-  "IndustryList": [
-    "DIY"
-  ],
   "Title": "Как удерживать клиентов с помощью персонального подхода и соединения офлайна и онлайна: кейс гипермаркета МаксидоМ",
   "PublishDate": {
     "$date": "2020-10-14T19:11:00"
@@ -49,14 +46,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Главная задача — обеспечить каждому клиенту персонализированный подход в интернет-магазине и email-канале с учетом его поведения в сети и физических торговых точках компании. А также повысить выручку, количество заказов и LTV клиентов с помощью искусственного интеллекта. "
-        },
-        {
-          "_t": "Text",
-          "Content": "Решение:",
-          "IsHighlight": true
+          "Content": "Главная задача — обеспечить каждому клиенту персонализированный подход в интернет-магазине и email-канале с учетом его поведения в сети и физических торговых точках компании. А также повысить выручку, количество заказов и LTV клиентов с помощью искусственного интеллекта."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Решение:"
     },
     {
       "_t": "UnorderedList",
@@ -78,7 +74,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_results.webp",
-      "Alt": "Результаты персонализации в ритейле: влияние блоков рекомендаций на продажи и выручку.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -115,7 +111,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_0.webp",
-      "Alt": "Фасад гипермаркета МаксидоМ, интеграция персонализации в ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -127,9 +123,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "При формировании ассортимента и сервиса команда ритейлера изучила привычки и потребности жителей России, а также учла особенности национального характера. Темпы развития МаксидоМ подтверждают правильность выбранного подхода, однако растущая в интернете конкуренция в DIY-сегменте мотивирует улучшить сервис с помощью персонализированной коммуникации с клиентами в разных каналах. Поэтому в МаксидоМ поставили задачи:"
+          "Content": "При формировании ассортимента и сервиса команда ритейлера изучила привычки и потребности жителей России, а также учла особенности национального характера. Темпы развития МаксидоМ подтверждают правильность выбранного подхода, однако растущая в интернете конкуренция в DIY-сегменте мотивирует улучшить сервис с помощью персонализированной коммуникации с клиентами в разных каналах."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Поэтому в МаксидоМ поставили задачи:"
     },
     {
       "_t": "UnorderedList",
@@ -180,13 +180,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "С учетом специфики компании специалисты Retail Rocket решили:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "С учетом специфики компании специалисты Retail Rocket решили:"
     },
     {
       "_t": "UnorderedList",
@@ -261,7 +256,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_1.webp",
-      "Alt": "Скриншот сайта магазина МаксидоМ с блоком рекомендаций и статьями.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -276,7 +271,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_2.webp",
-      "Alt": "Скриншот интерфейса гипермаркета МаксидоМ с блоком рекомендованных товаров.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -295,7 +290,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_3.webp",
-      "Alt": "Скриншот страницы сравнения товаров с рекомендациями, персонализация в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -314,7 +309,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_4.webp",
-      "Alt": "Страница 404 на сайте МаксидоМ с персонализированными рекомендациями и товарами.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -333,7 +328,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_5-1.webp",
-      "Alt": "Страница корзины с персонализацией в e-commerce гипермаркета МаксидоМ.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -365,7 +360,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/retailrocket_maxidomkateg.webp",
-      "Alt": "Email-рассылка с AI персонализацией гипермаркета МаксидоМ для удержания клиентов.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -384,22 +379,17 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_7.webp",
-      "Alt": "Интерфейс сегментации клиентов для персонализации в e-commerce на платформе данных.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "А вот само письмо, которое получили клиенты ритейлера из Самары:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "А вот само письмо, которое получили клиенты ритейлера из Самары:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/retailrocket_maxidomregion.webp",
-      "Alt": "Пример письма с AI персонализацией для клиентов интернет-магазина МаксидоМ.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -418,7 +408,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/retailrocket_maxidomobratsvyaz.webp",
-      "Alt": "Пример письма для обратной связи с клиентом от гипермаркета МаксидоМ.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -437,7 +427,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_9.webp",
-      "Alt": "Пример реактивационного письма с персонализацией в e-commerce от МаксидоМ",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -469,7 +459,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/retailrocket_maxidomautomatpersonal-1.webp",
-      "Alt": "Электронное письмо с AI рекомендациями для покупателей интернет-магазина МаксидоМ",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -488,7 +478,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_11.webp",
-      "Alt": "Электронное письмо с персонализированными рекомендациями для клиентов МаксидоМ",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -507,7 +497,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/retailrocket_maxidomautomatbally.webp",
-      "Alt": "Автоматизированная AI персонализация писем для удержания клиентов в МаксидоМ.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -609,7 +599,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_13.webp",
-      "Alt": "Воронка продаж с этапами персонализации в e-commerce для гипермаркета МаксидоМ.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -646,7 +636,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_14.webp",
-      "Alt": "Интерфейс онлайн-магазина МаксидоМ: сегментация и персонализация в e-commerce",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -665,7 +655,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_15.webp",
-      "Alt": "Пример письма с персонализацией в e-commerce для клиентов гипермаркета МаксидоМ.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -693,7 +683,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_16.webp",
-      "Alt": "Электронное письмо с персонализированными рекомендациями для клиента ритейла.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -712,7 +702,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_17.webp",
-      "Alt": "Пример персонализации в e-commerce: письмо с рекомендациями для клиента.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -746,44 +736,56 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Допустим, пользователь получил письмо о брошенной корзине, после чего зашел в интернет-магазин и начал искать нужные товары. Далее он, не совершив заказ, покинул сайт. Как скоро ему следует отправить письмо о брошенном поиске? Именно таким вопросом задавались в интернет-магазине Максидом накануне запуска этого А\\B-теста. "
-        },
-        {
-          "_t": "Text",
-          "Content": "Гипотеза",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Более раннее время отправки повторного письма сильнее мотивирует пользователя зайти на сайт и совершить заказ. Сценарий «Брошенная корзина»"
+          "Content": "Допустим, пользователь получил письмо о брошенной корзине, после чего зашел в интернет-магазин и начал искать нужные товары. Далее он, не совершив заказ, покинул сайт. Как скоро ему следует отправить письмо о брошенном поиске? Именно таким вопросом задавались в интернет-магазине Максидом накануне запуска этого А\\B-теста."
         }
       ]
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_18.webp",
-      "Alt": "Сравнение конверсии для двух сегментов с разным временем задержки писем.",
-      "Caption": null
+      "_t": "Heading2",
+      "Title": "Гипотеза"
     },
     {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Результаты Изменение минимального времени до отправки следующего письма тому же пользователю с 48 часов до 24 часов увеличивает конверсию на 13,6%. Статистическая достоверность результатов теста 95,7%."
+          "Content": "Более раннее время отправки повторного письма сильнее мотивирует пользователя зайти на сайт и совершить заказ."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Сценарий «Брошенная корзина»"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_18.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Результаты"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Изменение минимального времени до отправки следующего письма тому же пользователю с 48 часов до 24 часов увеличивает конверсию на 13,6%. Статистическая достоверность результатов теста 95,7%."
         }
       ]
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_19.webp",
-      "Alt": "Сравнение показателей заказов и конверсии для персонализации в ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_20.webp",
-      "Alt": "График доверительных интервалов конверсии A/B-теста Максидом (сценарий 1)",
+      "Alt": "",
       "Caption": "График пересечения доверительных интервалов распределения конверсии"
     },
     {
@@ -795,44 +797,56 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Не все пользователи любят смайлы в теме писем. Возможно, они считают такие сообщения недостаточно серьезными, и это их право. В каких-то интернет-магазинах добавление emoji в тему писем давало положительный результат, в каких-то — отрицательный. Тем не менее, подмигивающий смайл в приветственном письме может быть весьма кстати, надо только опытным путем проверить реакцию на него. "
-        },
-        {
-          "_t": "Text",
-          "Content": "Гипотеза",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Добавление emoji в тему приветственного письма вызовет более доброжелательную реакцию получателя, что отразится на ключевых метриках. Сценарий «Приветственное письмо»"
+          "Content": "Не все пользователи любят смайлы в теме писем. Возможно, они считают такие сообщения недостаточно серьезными, и это их право. В каких-то интернет-магазинах добавление emoji в тему писем давало положительный результат, в каких-то — отрицательный. Тем не менее, подмигивающий смайл в приветственном письме может быть весьма кстати, надо только опытным путем проверить реакцию на него."
         }
       ]
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_21.webp",
-      "Alt": "Сравнение эффективности тем писем для сегментов A и B с результатом CTR +14%",
-      "Caption": null
+      "_t": "Heading2",
+      "Title": "Гипотеза"
     },
     {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Результаты Добавление символа emoji в тему письма увеличивает CTR на 14,0%. Статистическая достоверность результатов теста 95,7%."
+          "Content": "Добавление emoji в тему приветственного письма вызовет более доброжелательную реакцию получателя, что отразится на ключевых метриках."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Сценарий «Приветственное письмо»"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_21.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Результаты"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Добавление символа emoji в тему письма увеличивает CTR на 14,0%. Статистическая достоверность результатов теста 95,7%."
         }
       ]
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_22.webp",
-      "Alt": "Интерфейс сегментации клиентов для персонализации в ритейле гипермаркета МаксидоМ.",
+      "Alt": "",
       "Caption": null
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_23.webp",
-      "Alt": "График доверительных интервалов конверсии A/B-теста Максидом (сценарий 2)",
+      "Alt": "",
       "Caption": "График пересечения доверительных интервалов распределения конверсии"
     },
     {
@@ -844,44 +858,56 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Цель практически любого триггерного письма — привести подписчика в интернет-магазин. Для этого в сообщениях содержатся CTA-элементы с соответствующими призывами. Однако обращаться с ними следует осторожно, ведь неуместные CTA-элементы только снижают показатели рассылки. В интернет-магазине Максидом решили проверить, что будет, если предложить пользователям перейти на сайт сразу после приветственного текста. "
-        },
-        {
-          "_t": "Text",
-          "Content": "Гипотеза",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Добавление CTA-элемента с посылом перейти на сайт после приветственного текста увеличит число пользователей, которые откликнутся на призыв и согласятся посетить интернет-магазин. Сценарий «Брошенный поиск»"
+          "Content": "Цель практически любого триггерного письма — привести подписчика в интернет-магазин. Для этого в сообщениях содержатся CTA-элементы с соответствующими призывами. Однако обращаться с ними следует осторожно, ведь неуместные CTA-элементы только снижают показатели рассылки. В интернет-магазине Максидом решили проверить, что будет, если предложить пользователям перейти на сайт сразу после приветственного текста."
         }
       ]
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/retailrocket_maxidomtrigger6.webp",
-      "Alt": "Сравнение персонализированных писем, сегменты A и B, увеличение CTR на 42,1%",
-      "Caption": null
+      "_t": "Heading2",
+      "Title": "Гипотеза"
     },
     {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Результаты Добавление CTA-элемента с посылом перейти на сайт после приветственного текста увеличивает CTR на 42,1%. Статистическая достоверность результатов теста 99,9%."
+          "Content": "Добавление CTA-элемента с посылом перейти на сайт после приветственного текста увеличит число пользователей, которые откликнутся на призыв и согласятся посетить интернет-магазин."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Сценарий «Брошенный поиск»"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/retailrocket_maxidomtrigger6.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Результаты"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Добавление CTA-элемента с посылом перейти на сайт после приветственного текста увеличивает CTR на 42,1%. Статистическая достоверность результатов теста 99,9%."
         }
       ]
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_25.webp",
-      "Alt": "Скриншот интерфейса с метриками персонализации в e-commerce для гипермаркета.",
+      "Alt": "",
       "Caption": null
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_26.webp",
-      "Alt": "График доверительных интервалов конверсии A/B-теста Максидом (сценарий 3)",
+      "Alt": "",
       "Caption": "График пересечения доверительных интервалов распределения конверсии"
     },
     {
@@ -893,45 +919,32 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Стоит ли показывать цену товара в письме? Правильный ответ зависит от специфики аудитории: где-то это приведет к падению метрик, где-то — к их росту. Гипотеза же, создающая интригу, предусматривает, что если продукт действительно заинтересовал покупателя, он с высокой вероятностью кликнет по CTA-элементу «Узнать цену» и перейдет на сайт. Ну а если перешел на сайт, то и до заказа уже недалеко. "
-        },
-        {
-          "_t": "Text",
-          "Content": "Гипотеза",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Если мы не будем сообщать в письме цену товаров, а вместо этого добавим текстовый CTA-элемент «Узнать цену», заинтересованный покупатель перейдет на сайт интернет-магазина. Сценарий «Брошенная корзина»"
+          "Content": "Стоит ли показывать цену товара в письме? Правильный ответ зависит от специфики аудитории: где-то это приведет к падению метрик, где-то — к их росту. Гипотеза же, создающая интригу, предусматривает, что если продукт действительно заинтересовал покупателя, он с высокой вероятностью кликнет по CTA-элементу «Узнать цену» и перейдет на сайт. Ну а если перешел на сайт, то и до заказа уже недалеко."
         }
       ]
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/retailrocket_maxidomtrigger7.webp",
-      "Alt": "Различия в интерфейсах сегментов для AI персонализации в e-commerce.",
-      "Caption": null
+      "_t": "Heading2",
+      "Title": "Гипотеза"
     },
     {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Результаты Замена в товарной карточке числового элемента «Цена» на текстовый CTA-элемент «Узнать цену» увеличивает CTR на 30,9%. Статистическая достоверность результатов теста 99,9%."
+          "Content": "Если мы не будем сообщать в письме цену товаров, а вместо этого добавим текстовый CTA-элемент «Узнать цену», заинтересованный покупатель перейдет на сайт интернет-магазина."
         }
       ]
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_28.webp",
-      "Alt": "Скриншот интерфейса, демонстрирующий конверсию и показатели удержания клиентов.",
-      "Caption": null
+      "_t": "Heading2",
+      "Title": "Сценарий «Брошенная корзина»"
     },
     {
       "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_29.webp",
-      "Alt": "График доверительных интервалов конверсии A/B-теста Максидом (сценарий 4)",
-      "Caption": "График пересечения доверительных интервалов распределения конверсии"
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/retailrocket_maxidomtrigger7.webp",
+      "Alt": "",
+      "Caption": null
     },
     {
       "_t": "Heading2",
@@ -942,9 +955,29 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Работа ритейлера Максидом над улучшением персонализированной коммуникации с клиентами принесла свои плоды. Вот некоторые из них:"
+          "Content": "Замена в товарной карточке числового элемента «Цена» на текстовый CTA-элемент «Узнать цену» увеличивает CTR на 30,9%. Статистическая достоверность результатов теста 99,9%."
         }
       ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_28.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_29.webp",
+      "Alt": "",
+      "Caption": "График пересечения доверительных интервалов распределения конверсии"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Результаты"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Работа ритейлера Максидом над улучшением персонализированной коммуникации с клиентами принесла свои плоды. Вот некоторые из них:"
     },
     {
       "_t": "UnorderedList",
@@ -996,7 +1029,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/maxidom_30.webp",
-      "Alt": "Графики: влияние персонализации на среднее количество товаров в чеке.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -1026,6 +1059,17 @@
       "Author": "Александр",
       "AuthorPosition": "Менеджер Retail Rocket",
       "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-uderzhivat-klientov-s-pomoshhju-personalnogo-podhoda-i-soedinenija-oflajna-i-onlajna-kejs-gipermarketa-maksidom-i-rost-zakazov-na-69/download2.webp"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
+  ],
+  "IndustryList": [
+    "DIY"
   ]
 }

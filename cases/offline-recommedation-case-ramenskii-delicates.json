@@ -3,9 +3,6 @@
   "Label": [
     "Кейсы"
   ],
-  "IndustryList": [
-    "FMCG"
-  ],
   "Title": "«Раменский деликатес» первым внедрил рекомендации в розничных магазинах и увеличил средний чек",
   "PublishDate": {
     "$date": "2024-02-05T17:31:00"
@@ -27,6 +24,15 @@
   "MetaTitle": "«Раменский деликатес» первым внедрил рекомендации в розничных магазинах и увеличил средний чек на 80 % – Retail Rocket Group",
   "ContentBlockList": [
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "«Раменский деликатес» с помощью Retail Rocket Group и других сервисов решил эту задачу — внедрил рекомендации в офлайн-кассы, увеличил средний чек на 80% и получил другие впечатляющие результаты. Подробности — в кейсе."
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "О партнере"
     },
@@ -42,7 +48,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/offline-recommedation-case-ramenskii-delicates/image6.webp",
-      "Alt": "Витрина «Раменского деликатеса» с ассортиментом из 500+ SKU собственного производства",
+      "Alt": "",
       "Caption": "В ассортименте «Раменского деликатеса» более 500 SKU собственного производства"
     },
     {
@@ -97,7 +103,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/offline-recommedation-case-ramenskii-delicates/image5.webp",
-      "Alt": "Дизайн блока товарных рекомендаций на прикассовом мониторе",
+      "Alt": "",
       "Caption": "Пример дизайна рекомендаций на прикассовых мониторах"
     },
     {
@@ -114,14 +120,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Внедрили три алгоритма рекомендаций:",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Внедрили три алгоритма рекомендаций:"
     },
     {
       "_t": "OrderedList",
@@ -137,7 +137,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/offline-recommedation-case-ramenskii-delicates/image4-65c0eb568d4d1a88a58b1b34.webp",
-      "Alt": "Интерфейс товарных рекомендаций с предложением продуктов в \"Раменский деликатес\".",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -154,7 +154,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/offline-recommedation-case-ramenskii-delicates/image2-65c0eb568d4d1a88a58b1b38.webp",
-      "Alt": "Интерфейс с товарными рекомендациями в магазине Раменский деликатес, включающими мясные продукты.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -171,7 +171,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/offline-recommedation-case-ramenskii-delicates/image3-65c0eb568d4d1a88a58b1b36.webp",
-      "Alt": "Экран с товарными рекомендациями из мясной продукции от «Раменский деликатес",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -272,6 +272,17 @@
       "Author": "Артур Бурзаев",
       "AuthorPosition": "Руководитель интернет-проектов «Раменского деликатеса»",
       "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/offline-recommedation-case-ramenskii-delicates/image1.webp"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
+  ],
+  "IndustryList": [
+    "FMCG"
   ]
 }

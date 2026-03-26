@@ -102,7 +102,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pochemu-polzovateli-otpravlyayut-rassyilku-v-spam/image001.png",
-      "Alt": "Диаграммы о привычках пользователей при взаимодействии с рекламными email рассылками.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -133,13 +133,8 @@
       "Title": "Почему рассылки попадают в спам"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Рассылки могут попадать в спам по ряду причин. Вот основные из них:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Рассылки могут попадать в спам по ряду причин. Вот основные из них:"
     },
     {
       "_t": "OrderedList",
@@ -250,7 +245,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pochemu-polzovateli-otpravlyayut-rassyilku-v-spam/image003.png",
-      "Alt": "Пример email рассылки с AI персонализацией и рекомендациями товаров одежды.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -331,14 +326,13 @@
         },
         {
           "_t": "Text",
-          "Content": " Если не настроить SPF, DKIM и DMARC, почтовые сервисы могут считать ваши письма ненадёжными и отправлять их в спам. Это как пытаться пройти на мероприятие без приглашения — однажды вас просто перестанут пускать. "
-        },
-        {
-          "_t": "Text",
-          "Content": "Что нужно сделать:",
-          "IsHighlight": true
+          "Content": " Если не настроить SPF, DKIM и DMARC, почтовые сервисы могут считать ваши письма ненадёжными и отправлять их в спам. Это как пытаться пройти на мероприятие без приглашения — однажды вас просто перестанут пускать."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Что нужно сделать:"
     },
     {
       "_t": "OrderedList",
@@ -405,13 +399,8 @@
       "Title": "5. Сделайте процесс отписки простым и очевидным"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Казалось бы, в футере каждого письма присутствует возможность отписки от рассылки, но согласно результатам исследования Litmus:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Казалось бы, в футере каждого письма присутствует возможность отписки от рассылки, но согласно результатам исследования Litmus:"
     },
     {
       "_t": "UnorderedList",
@@ -477,7 +466,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pochemu-polzovateli-otpravlyayut-rassyilku-v-spam/image005.png",
-      "Alt": "Использование срочности в email рассылках: сегментация и эффективность писем.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -648,6 +637,57 @@
             "Content": " Найдите правильный ритм рассылки. Частые письма раздражают, редкие — забываются. Экспериментируйте и слушайте свою аудиторию."
           }
         ]
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
       ]
     }
   ]

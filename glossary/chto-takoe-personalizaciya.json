@@ -4,7 +4,12 @@
     "Словарь"
   ],
   "Title": "Что такое персонализация и как она помогает бизнесу",
-  "MetaTitle": "Персонализация: что это такое и как она работает, страница 2",
+  "PublishDate": {
+    "$date": "2025-03-18T10:23:00"
+  },
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "LeadText": [
     {
       "Elements": [
@@ -15,13 +20,7 @@
       ]
     }
   ],
-  "PublishDate": {
-    "$date": "2025-03-18T10:23:00"
-  },
-  "Letter": "П",
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Персонализация: что это такое и как она работает, страница 2",
   "ContentBlockList": [
     {
       "_t": "Heading2",
@@ -47,7 +46,7 @@
         {
           "_t": "Text",
           "Content": "Персонализация под интересы.",
-          "IsHighlight": true
+          "IsItalic": true
         },
         {
           "_t": "Text",
@@ -58,7 +57,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-personalizaciya/personalization_01.png",
-      "Alt": "Интерфейс с персонализированным блоком рекомендаций на сайте магазина косметики.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -78,7 +77,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-personalizaciya/personalization_02.png",
-      "Alt": "Скриншот блока рекомендаций на сайте автомобильных объявлений.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -136,13 +135,8 @@
       "Title": "Какие данные используются для персонализации"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Для персонализации используются самые разные типы данных ↓"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Для персонализации используются самые разные типы данных ↓"
     },
     {
       "_t": "Heading3",
@@ -153,9 +147,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Данные соцдема помогают коммуницировать с клиентом уже тогда, когда бизнес еще ничего о нем не знает. Например, предложить товары, которые покупает похожая возрастная группа. К такому типу данных относят:"
+          "Content": "Данные соцдема помогают коммуницировать с клиентом уже тогда, когда бизнес еще ничего о нем не знает. Например, предложить товары, которые покупает похожая возрастная группа."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "К такому типу данных относят:"
     },
     {
       "_t": "UnorderedList",
@@ -225,7 +223,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-personalizaciya/personalization_03.png",
-      "Alt": "Персональные рекомендации Spotify: миксы и подборки на основе прослушиваний",
+      "Alt": "",
       "Caption": "Spotify дает рекомендации исполнителей и трэков на основе прослушиваний — составляет миксы и подборки"
     },
     {
@@ -275,13 +273,8 @@
       "Title": "Данные по источникам"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Группа данных, которые разделяют по источникам получения"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Группа данных, которые разделяют по источникам получения"
     },
     {
       "_t": "UnorderedList",
@@ -315,7 +308,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-personalizaciya/personalization_04.png",
-      "Alt": "Совместная акция брендов для обмена Second-party данными",
+      "Alt": "",
       "Caption": "Пример акций, которые помогают партнерам обмениваться Second-party data"
     },
     {
@@ -332,13 +325,8 @@
       "Title": "Как работает персонализация: технологии и инструменты"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Учитывать текущие потребности и интересы пользователя можно с помощью этих инструментов ↓"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Учитывать текущие потребности и интересы пользователя можно с помощью этих инструментов ↓"
     },
     {
       "_t": "Heading3",
@@ -384,13 +372,8 @@
       "Title": "Таргетированная реклама"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Таргетинг показывает рекламу, которая соответствует интересам пользователя:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Таргетинг показывает рекламу, которая соответствует интересам пользователя:"
     },
     {
       "_t": "UnorderedList",
@@ -473,7 +456,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-personalizaciya/personalization_05.png",
-      "Alt": "Интерфейс CDP Retail Rocket Group: профили клиентов и сегментация",
+      "Alt": "",
       "Caption": "CDP Retail Rocket Group позволяет создавать профили клиентов и сегментировать их по самым разным критериям"
     },
     {
@@ -506,7 +489,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-personalizaciya/personalization_06.png",
-      "Alt": "Блок товарных рекомендаций на основе истории поиска и похожих товаров",
+      "Alt": "",
       "Caption": "Рекомендательные системы помогают персонализировать выбор товаров — предложить товары на основе истории поиска, подобрать похожие"
     },
     {
@@ -526,7 +509,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-personalizaciya/personalization_07.png",
-      "Alt": "Электронное письмо с персонализированным предложением на скидку для подписчика.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -534,34 +517,19 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Персональный контент.",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Помогает предложить контент, адаптированный под интересы пользователя, историю просмотров и реакции."
+          "Content": "Персональный контент. Помогает предложить контент, адаптированный под интересы пользователя, историю просмотров и реакции."
         }
       ]
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-personalizaciya/personalization_08.png",
-      "Alt": "Персональные рекомендации YouTube, сформированные на основе просмотров ребёнка",
+      "Alt": "",
       "Caption": "Рекомендации YouTube на основе роликов, которые смотрел ребенок"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Адаптация интерфейса.",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Помогает сделать разные элементы удобным для пользователя:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Адаптация интерфейса. Помогает сделать разные элементы удобным для пользователя:"
     },
     {
       "_t": "UnorderedList",
@@ -581,18 +549,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Персонализация поисковой выдачи.",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Поисковые сервисы адаптируют результаты и информационные блоки под локацию пользователя:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Персонализация поисковой выдачи. Поисковые сервисы адаптируют результаты и информационные блоки под локацию пользователя:"
     },
     {
       "_t": "UnorderedList",
@@ -620,22 +578,12 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-personalizaciya/personalization_09.png",
-      "Alt": "Скриншот интерфейса Яндекса с промокодом; персонализация маркетинга.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Программы лояльности.",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Помогают учитывать действия пользователей и на основе этого предложить:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Программы лояльности. Помогают учитывать действия пользователей и на основе этого предложить:"
     },
     {
       "_t": "UnorderedList",
@@ -661,18 +609,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Персонализированная реклама.",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " К такой рекламе относят:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Персонализированная реклама. К такой рекламе относят:"
     },
     {
       "_t": "UnorderedList",
@@ -694,8 +632,60 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-personalizaciya/personalization_10.png",
-      "Alt": "Таргетированная реклама игрушек для животных в разделе товаров для кошек",
+      "Alt": "",
       "Caption": "Производитель игрушек для животных покупает рекламное место в разделе товаров для кошек"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "Letter": "П"
 }

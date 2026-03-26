@@ -39,7 +39,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/new-design-loyalty/Sailplay.gif",
-      "Alt": "Интерфейс управления подарками платформы лояльности с данными о заказах и покупателях.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -58,7 +58,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/new-design-loyalty/Nastroj-min.gif",
-      "Alt": "Интерфейс настроек платформы управления лояльностью с обновленным дизайном.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -77,7 +77,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/new-design-loyalty/ru-1-_1_-scaled.webp",
-      "Alt": "Интерфейс статистики платформы управления лояльностью с анализом писем и открытий.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -96,7 +96,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/new-design-loyalty/ru-2.webp",
-      "Alt": "Скриншот интерфейса платформы управления лояльностью с аналитикой и популярными ссылками.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -115,8 +115,16 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/new-design-loyalty/image_2485-transformed-min-scaled.webp",
-      "Alt": "Интерфейс мобильного пуш-уведомления с персонализацией для управления лояльностью клиентов.",
+      "Alt": "",
       "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
   ]
 }

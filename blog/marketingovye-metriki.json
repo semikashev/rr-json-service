@@ -28,7 +28,25 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "*Ориентиры, основанные на практике и профессиональных стандартах."
+          "Content": "В этом материале — более 30 ключевых показателей: на русском и английском, с формулами, пояснениями, отраслевыми нормами"
+        },
+        {
+          "_t": "Text",
+          "Content": "*",
+          "IsHighlight": true
+        },
+        {
+          "_t": "Text",
+          "Content": " и практическими советами. Мы собрали самые важные маркетинговые формулы и показали, как использовать их в отчётах, гипотезах и переговорах. Никакой воды — только польза и применимость."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "***Ориентиры, основанные на практике и профессиональных стандартах."
         }
       ]
     },
@@ -63,24 +81,17 @@
       "Latex": "CTR = \\frac{Количество кликов}{Количество показов} \\times 100\\%"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-ctr.png",
-      "Alt": "Схема вычисления CTR в маркетинге: отношение кликов к показам.",
-      "Caption": null
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Пример: объявление было показано 10 000 раз, по нему кликнули 320 раз. "
-        },
-        {
-          "_t": "Text",
-          "Content": "CTR = (320 ÷ 10 000) × 100% = 3,2%",
-          "IsHighlight": true
+          "Content": "Пример: объявление было показано 10 000 раз, по нему кликнули 320 раз."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "CTR = (320 ÷ 10 000) × 100% = 3,2%"
     },
     {
       "_t": "Heading3",
@@ -255,24 +266,17 @@
       "Latex": "CPC = \\frac{Затраты на рекламу}{Количество кликов}"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-cpc.png",
-      "Alt": "Формула расчета CPC для маркетинговых метрик в ритейле.",
-      "Caption": null
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Пример: вы потратили 12 000 ₽ на рекламу, получили 1000 переходов. "
-        },
-        {
-          "_t": "Text",
-          "Content": "CPC = 12 000 ÷ 1000 = 12 ₽ за клик",
-          "IsHighlight": true
+          "Content": "Пример: вы потратили 12 000 ₽ на рекламу, получили 1000 переходов."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "CPC = 12 000 ÷ 1000 = 12 ₽ за клик"
     },
     {
       "_t": "Heading3",
@@ -404,12 +408,6 @@
       "Latex": "RPC = \\frac{Общая выручка}{Количество кликов}"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-rpc.png",
-      "Alt": "Формула для расчета RPC в маркетинговой аналитике e-commerce",
-      "Caption": null
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -419,14 +417,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "RPC = 50 000 ÷ 500 = 100 ₽ на один клик",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "RPC = 50 000 ÷ 500 = 100 ₽ на один клик"
     },
     {
       "_t": "Heading3",
@@ -544,12 +536,6 @@
       "Latex": "CPM = \\frac{Общие расходы}{Количество показов} \\times 1000"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-cpm.png",
-      "Alt": "Схема расчета CPM для маркетинга в e-commerce и ритейле.",
-      "Caption": null
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -559,14 +545,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "CPM = (25 000 ÷ 500 000) × 1000 = 50 ₽",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "CPM = (25 000 ÷ 500 000) × 1000 = 50 ₽"
     },
     {
       "_t": "Heading3",
@@ -698,11 +678,19 @@
       ]
     },
     {
+      "_t": "Heading2",
+      "Title": "Например, если в кампании зафиксировано 50 заявок и на рекламу потрачено 25 000₽, то:"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "CPA = 25 000₽ / 50 = 500₽"
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Например, если в кампании зафиксировано 50 заявок и на рекламу потрачено 25 000₽, то: CPA = 25 000₽ / 50 = 500₽ В данном случае целевое действие — именно заявка."
+          "Content": "В данном случае целевое действие — именно заявка."
         }
       ]
     },
@@ -724,12 +712,6 @@
       "Latex": "CPA = \\frac{Затраты на рекламу}{Количество целевых действий}"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-cpa.png",
-      "Alt": "Формула расчета CPA в инфографике для маркетинга и e-commerce.",
-      "Caption": null
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -739,14 +721,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "CPA = 18 000 ÷ 90 = 200 ₽ за действие",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "CPA = 18 000 ÷ 90 = 200 ₽ за действие"
     },
     {
       "_t": "Heading3",
@@ -887,24 +863,17 @@
       "Latex": "CPO = \\frac{Затраты на маркетинг}{Количество заказов}"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-cpo.png",
-      "Alt": "Схема расчета CPO в контексте маркетинговых метрик для e-commerce.",
-      "Caption": null
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Пример: потрачено 30 000 ₽, получено 75 заказов. "
-        },
-        {
-          "_t": "Text",
-          "Content": "CPO = 30 000 ÷ 75 = 400 ₽",
-          "IsHighlight": true
+          "Content": "Пример: потрачено 30 000 ₽, получено 75 заказов."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "CPO = 30 000 ÷ 75 = 400 ₽"
     },
     {
       "_t": "Heading3",
@@ -1058,19 +1027,8 @@
       "Latex": "CR = \\frac{Количество заказов}{Количество посетителей} \\times 100\\%"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-cr.png",
-      "Alt": "Схема расчета метрики конверсии (CR) для маркетинга и e-commerce.",
-      "Caption": null
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Важно учитывать, что CR всегда рассчитывается в рамках одного типа данных:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Важно учитывать, что CR всегда рассчитывается в рамках одного типа данных:"
     },
     {
       "_t": "UnorderedList",
@@ -1100,14 +1058,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Пример: 1000 пользователей, 80 заявок. "
-        },
-        {
-          "_t": "Text",
-          "Content": "CR = (80 ÷ 1000) × 100% = 8%",
-          "IsHighlight": true
+          "Content": "Пример: 1000 пользователей, 80 заявок."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "CR = (80 ÷ 1000) × 100% = 8%"
     },
     {
       "_t": "Heading3",
@@ -1248,24 +1205,17 @@
       "Latex": "LCR = \\frac{Количество закрытых сделок}{Количество лидов} \\times 100\\%"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-lcr.png",
-      "Alt": "Схема расчета LCR: алгоритм показателей для маркетинга в e-commerce.",
-      "Caption": null
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Пример: 200 лидов, из них 40 стали клиентами. "
-        },
-        {
-          "_t": "Text",
-          "Content": "LCR = (40 ÷ 200) × 100% = 20%",
-          "IsHighlight": true
+          "Content": "Пример: 200 лидов, из них 40 стали клиентами."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "LCR = (40 ÷ 200) × 100% = 20%"
     },
     {
       "_t": "Heading3",
@@ -1397,24 +1347,17 @@
       "Latex": "LPO = \\frac{Количество лидов}{Количество размещённых предложений}"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-lpo.png",
-      "Alt": "Схема расчета LPO в маркетинговых метриках для e-commerce и ритейла.",
-      "Caption": null
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Пример: вы запустили 5 акций, всего получили 150 лидов. "
-        },
-        {
-          "_t": "Text",
-          "Content": "LPO = 150 ÷ 5 = 30 лидов на оффер",
-          "IsHighlight": true
+          "Content": "Пример: вы запустили 5 акций, всего получили 150 лидов."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "LPO = 150 ÷ 5 = 30 лидов на оффер"
     },
     {
       "_t": "Heading3",
@@ -1532,28 +1475,30 @@
       "Latex": "CAC = \\frac{Затраты на маркетинг}{Количество новых клиентов}"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-cac.png",
-      "Alt": "Формула расчета CAC в маркетинге с выделением ключевых элементов.",
-      "Caption": null
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: вы потратили 300 000 ₽ за месяц, получили 500 новых клиентов."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "CAC = 300 000 ÷ 500 = 600 ₽"
     },
     {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Пример: вы потратили 300 000 ₽ за месяц, получили 500 новых клиентов. "
-        },
-        {
-          "_t": "Text",
-          "Content": "CAC = 300 000 ÷ 500 = 600 ₽",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " CAC показывает, сколько в среднем стоит привлечение одного клиента. Важно различать два варианта расчёта:"
+          "Content": "CAC показывает, сколько в среднем стоит привлечение одного клиента."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Важно различать два варианта расчёта:"
     },
     {
       "_t": "Table",
@@ -1576,18 +1521,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Пример",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": ": если на рекламу потрачено 500 000 ₽, на работу отдела продаж и сервисы ещё 300 000 ₽, а привлекли 400 новых клиентов:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Пример: если на рекламу потрачено 500 000 ₽, на работу отдела продаж и сервисы ещё 300 000 ₽, а привлекли 400 новых клиентов:"
     },
     {
       "_t": "UnorderedList",
@@ -1648,12 +1583,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "CAC всегда соотносится с LTV (Lifetime Value). Формула: "
-        },
-        {
-          "_t": "Text",
-          "Content": "LTV > CAC минимум в 2–3 раза.",
-          "IsHighlight": true
+          "Content": "CAC всегда соотносится с LTV (Lifetime Value). Формула: LTV > CAC минимум в 2–3 раза."
         }
       ]
     },
@@ -1740,24 +1670,12 @@
       "Latex": "ROI = - - Затраты \\times 100\\%"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-roi.png",
-      "Alt": "Схема расчета ROI в маркетинге: формула с ключевыми элементами.",
-      "Caption": null
+      "_t": "Heading2",
+      "Title": "Пример: доход = 500 000 ₽, расходы = 200 000 ₽"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Пример: доход = 500 000 ₽, расходы = 200 000 ₽ "
-        },
-        {
-          "_t": "Text",
-          "Content": "ROI = ((500 000 — 200 000) ÷ 200 000) × 100% = 150%",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "ROI = ((500 000 — 200 000) ÷ 200 000) × 100% = 150%"
     },
     {
       "_t": "Heading3",
@@ -1893,12 +1811,6 @@
       "Latex": "ROMI = - - Затраты на маркетинг \\times 100\\%"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-romi.png",
-      "Alt": "Схема расчёта ROMI с обозначением ключевых компонентов и операций.",
-      "Caption": null
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -1908,14 +1820,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "ROMI = ((250 000 — 100 000) ÷ 100 000) × 100% = 150%",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "ROMI = ((250 000 — 100 000) ÷ 100 000) × 100% = 150%"
     },
     {
       "_t": "Heading3",
@@ -2051,12 +1957,6 @@
       "Latex": "ROAS = \\frac{Доходы от рекламы}{Расходы на рекламу} \\times 100\\%"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-roas.png",
-      "Alt": "Формула ROAS: расчет рентабельности рекламных затрат в маркетинге.",
-      "Caption": null
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -2066,14 +1966,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "ROAS = (200 000 ÷ 50 000) × 100% = 400%",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "ROAS = (200 000 ÷ 50 000) × 100% = 400%"
     },
     {
       "_t": "Heading3",
@@ -2248,24 +2142,17 @@
       "Latex": "AOV = \\frac{Общая выручка}{Количество заказов}"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-sredniy-chek.png",
-      "Alt": "Схема расчета среднего чека для маркетинга в e-commerce.",
-      "Caption": null
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Пример: вы получили 200 заказов на сумму 600 000 ₽. "
-        },
-        {
-          "_t": "Text",
-          "Content": "AOV = 600 000 ÷ 200 = 3 000 ₽",
-          "IsHighlight": true
+          "Content": "Пример: вы получили 200 заказов на сумму 600 000 ₽."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "AOV = 600 000 ÷ 200 = 3 000 ₽"
     },
     {
       "_t": "Heading3",
@@ -2305,13 +2192,8 @@
       "Title": "Нормальные значения*"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Сильно зависят от ниши. Сравнивать лучше в динамике и по источникам. Примеры:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Сильно зависят от ниши. Сравнивать лучше в динамике и по источникам. Примеры:"
     },
     {
       "_t": "UnorderedList",
@@ -2397,56 +2279,33 @@
       "Title": "Формула"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Объём продаж можно выразить двумя способами:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Объём продаж можно выразить двумя способами:"
     },
     {
       "_t": "Formula",
       "Latex": "V = Общее количество проданных товаров"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-v.png",
-      "Alt": "Схема расчета метрик для AI в маркетинге и e-commerce.",
-      "Caption": null
-    },
-    {
       "_t": "Formula",
       "Latex": "SV = Общая сумма выручки от продаж"
-    },
-    {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-sv.png",
-      "Alt": "Графический элемент, связанный с метриками и персонализацией в e-commerce.",
-      "Caption": null
     },
     {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Пример: 500 проданных единиц на сумму 1 250 000 ₽. "
-        },
-        {
-          "_t": "Text",
-          "Content": "SV = 1 250 000",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Text",
-          "Content": "V = 500",
-          "IsHighlight": true
+          "Content": "Пример: 500 проданных единиц на сумму 1 250 000 ₽."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "SV = 1 250 000"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "V = 500"
     },
     {
       "_t": "Heading3",
@@ -2559,24 +2418,12 @@
       "Latex": "SOM = \\frac{Объем продаж компании}{Объем рынка} \\times 100\\%"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-som.png",
-      "Alt": "Схема расчета доли рынка с использованием маркетинговых метрик в ритейле.",
-      "Caption": null
+      "_t": "Heading2",
+      "Title": "Пример: рынок = 2 млрд ₽, ваш объем продаж = 200 млн ₽"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Пример: рынок = 2 млрд ₽, ваш объем продаж = 200 млн ₽ "
-        },
-        {
-          "_t": "Text",
-          "Content": "SOM = (200 ÷ 2000) × 100% = 10%",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "SOM = (200 ÷ 2000) × 100% = 10%"
     },
     {
       "_t": "Heading3",
@@ -2689,24 +2536,17 @@
       "Latex": "ARPU = \\frac{Общий доход}{Количество активных пользователей}"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-arpu.png",
-      "Alt": "Формула расчета ARPU на инфографике о метриках в маркетинге.",
-      "Caption": null
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Пример: 200 000 ₽ выручки при 500 активных клиентах. "
-        },
-        {
-          "_t": "Text",
-          "Content": "ARPU = 200 000 ÷ 500 = 400 ₽",
-          "IsHighlight": true
+          "Content": "Пример: 200 000 ₽ выручки при 500 активных клиентах."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "ARPU = 200 000 ÷ 500 = 400 ₽"
     },
     {
       "_t": "Heading3",
@@ -2816,13 +2656,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Оценивается через опрос: «Оцените, насколько вы готовы рекомендовать нас по шкале от 0 до 10?»"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Оценивается через опрос: «Оцените, насколько вы готовы рекомендовать нас по шкале от 0 до 10?»"
     },
     {
       "_t": "Heading3",
@@ -2831,12 +2666,6 @@
     {
       "_t": "Formula",
       "Latex": "NPS = \\% Промоутеров - \\% Критиков"
-    },
-    {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-nps.png",
-      "Alt": "Схема расчета Net Promoter Score (NPS) для маркетинга и ритейла.",
-      "Caption": null
     },
     {
       "_t": "UnorderedList",
@@ -2866,14 +2695,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Пример: 60% промоутеров, 15% критиков. "
-        },
-        {
-          "_t": "Text",
-          "Content": "NPS = 60 — 15 = 45",
-          "IsHighlight": true
+          "Content": "Пример: 60% промоутеров, 15% критиков."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "NPS = 60 — 15 = 45"
     },
     {
       "_t": "Heading3",
@@ -3006,24 +2834,17 @@
       "Latex": "Churn Rate = \\frac{Ушедшие пользователи}{Общее число пользователей на начало периода} \\times 100\\%"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-churn-rate.png",
-      "Alt": "Формула для расчёта Churn Rate в e-commerce маркетинге.",
-      "Caption": null
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Пример: было 1000 клиентов, 80 перестали покупать. "
-        },
-        {
-          "_t": "Text",
-          "Content": "ChR = (80 ÷ 1000) × 100% = 8%",
-          "IsHighlight": true
+          "Content": "Пример: было 1000 клиентов, 80 перестали покупать."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "ChR = (80 ÷ 1000) × 100% = 8%"
     },
     {
       "_t": "Heading3",
@@ -3153,12 +2974,6 @@
       "Latex": "RR = - - Количество клиентов на начало периода \\times 100\\%"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-rr.png",
-      "Alt": "Схема расчета маркетинговой метрики с акцентом на персонализацию в e-commerce.",
-      "Caption": null
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -3168,14 +2983,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "RR = (1 150 − 250) / 1 000 × 100% = 90%",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "RR = (1 150 − 250) / 1 000 × 100% = 90%"
     },
     {
       "_t": "Heading3",
@@ -3305,19 +3114,8 @@
       "Latex": "ALT = \\frac{1}{Churn Rate}"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-alt.png",
-      "Alt": "ALT-текст равен схеме с изображением двух белых прямоугольников на розовом фоне",
-      "Caption": null
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Пример: Churn Rate = 5% в месяц → ALT = 1 ÷ 0.05 = 20 месяцев"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Пример: Churn Rate = 5% в месяц → ALT = 1 ÷ 0.05 = 20 месяцев"
     },
     {
       "_t": "Heading3",
@@ -3357,13 +3155,8 @@
       "Title": "Нормальные значения*"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "ALT сильно зависит от бизнес-модели:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "ALT сильно зависит от бизнес-модели:"
     },
     {
       "_t": "UnorderedList",
@@ -3453,43 +3246,16 @@
       "Latex": "LTV = AOV \\times Частота покупок \\times Период жизни клиента"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-ltv.png",
-      "Alt": "Формула расчета LTV для маркетинга в ритейле и e-commerce.",
-      "Caption": null
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "или"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "или"
     },
     {
       "_t": "Formula",
       "Latex": "LTV = AOV \\times Частота покупок \\times ALT"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-ltv-11-24.png",
-      "Alt": "Формула расчета LTV в маркетинге с акцентом на e-commerce.",
-      "Caption": null
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Пример: AOV = 3000 ₽, ALT = 10 покупок → "
-        },
-        {
-          "_t": "Text",
-          "Content": "LTV = 30 000 ₽",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Пример: AOV = 3000 ₽, ALT = 10 покупок → LTV = 30 000 ₽"
     },
     {
       "_t": "Heading3",
@@ -3533,9 +3299,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "LTV:CAC ≥ 3:1 — считается здоровой моделью. LTV зависит от продукта:"
+          "Content": "LTV:CAC ≥ 3:1 — считается здоровой моделью."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "LTV зависит от продукта:"
     },
     {
       "_t": "UnorderedList",
@@ -3621,39 +3391,32 @@
       "Title": "Формула"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "BA обычно измеряется через исследование:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "BA обычно измеряется через исследование:"
     },
     {
       "_t": "Formula",
       "Latex": "BA = \\frac{Количество узнавших бренд}{Общее число респондентов} \\times 100\\%"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-ba.png",
-      "Alt": "Схема расчета базовой аудитории (BA) с использованием показателей маркетинга.",
-      "Caption": null
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: из 1000 опрошенных 420 узнали бренд."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "BA = (420 ÷ 1000) × 100% = 42%"
     },
     {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Пример: из 1000 опрошенных 420 узнали бренд. "
-        },
-        {
-          "_t": "Text",
-          "Content": "BA = (420 ÷ 1000) × 100% = 42%",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Для определение BA могут использоваться также метрики видимости, охвата и прямых переходов."
+          "Content": "Для определение BA могут использоваться также метрики видимости, охвата и прямых переходов."
         }
       ]
     },
@@ -3782,12 +3545,6 @@
       "Latex": "Delivery Rate = \\frac{Количество доставленных писем}{Количество отправленных писем} \\times 100\\%"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-delivery-rate.png",
-      "Alt": "Схема расчета коэффициента доставки: математика для маркетологов ecommerce.",
-      "Caption": null
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -3797,14 +3554,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Delivery Rate = (9700 ÷ 10000) × 100% = 97%",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Delivery Rate = (9700 ÷ 10000) × 100% = 97%"
     },
     {
       "_t": "Heading3",
@@ -3910,24 +3661,17 @@
       "Latex": "Open Rate = \\frac{Количество уникальных открытий}{Количество доставленных писем} \\times 100\\%"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-open-rate.png",
-      "Alt": "Формула для расчета open rate в маркетинговой кампании.",
-      "Caption": null
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Пример: доставлено 9 700, открыто — 3 400. "
-        },
-        {
-          "_t": "Text",
-          "Content": "OR = (3400 ÷ 9700) × 100% ≈ 35%",
-          "IsHighlight": true
+          "Content": "Пример: доставлено 9 700, открыто — 3 400."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "OR = (3400 ÷ 9700) × 100% ≈ 35%"
     },
     {
       "_t": "Heading3",
@@ -4034,12 +3778,6 @@
       "Latex": "Click Rate = \\frac{Количество кликов}{Количество доставленных писем} \\times 100\\%"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-click-rate.png",
-      "Alt": "Схема расчета кликабельности, важная метрика в e-commerce и маркетинге.",
-      "Caption": null
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -4049,14 +3787,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Click Rate = (950 ÷ 9700) × 100% ≈ 9.8%",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Click Rate = (950 ÷ 9700) × 100% ≈ 9.8%"
     },
     {
       "_t": "Heading3",
@@ -4155,7 +3887,20 @@
         },
         {
           "_t": "Text",
-          "Content": "тоже используется для оценки эффективности email-маркетинга и показывает долю кликов среди тех, кто открыл письмо: CTOR = Клики / открытия * 100% Если Click Rate отражает кликабельность всей аудитории, то CTOR измеряет, насколько письмо было привлекательным именно для тех, кто его прочитал."
+          "Content": "тоже используется для оценки эффективности email-маркетинга и показывает долю кликов среди тех, кто открыл письмо:"
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "CTOR = Клики / открытия * 100%"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Если Click Rate отражает кликабельность всей аудитории, то CTOR измеряет, насколько письмо было привлекательным именно для тех, кто его прочитал."
         }
       ]
     },
@@ -4164,16 +3909,20 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Пример: письмо открыли 4000 человек, было 950 кликов. "
-        },
+          "Content": "Пример: письмо открыли 4000 человек, было 950 кликов."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "CTOR = 950 / 4000 * 100% = 23,8%"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
         {
           "_t": "Text",
-          "Content": "CTOR = 950 / 4000 * 100% = 23,8%",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " CTOR используют для анализа качества контента письма, а не темы — помогает понять, насколько вовлекает текст, креатив и CTA."
+          "Content": "CTOR используют для анализа качества контента письма, а не темы — помогает понять, насколько вовлекает текст, креатив и CTA."
         }
       ]
     },
@@ -4199,24 +3948,17 @@
       "Latex": "Unsubscribe Rate = \\frac{Количество уникальных отписок}{Количество доставленных писем} \\times 100\\%"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-unsubscribe-rate.png",
-      "Alt": "Схема расчета показателя отписки в маркетинговой стратегии e-commerce.",
-      "Caption": null
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Пример: 9700 доставлено, 39 отписок. "
-        },
-        {
-          "_t": "Text",
-          "Content": "UR = (39 ÷ 9700) × 100% ≈ 0.4%",
-          "IsHighlight": true
+          "Content": "Пример: 9700 доставлено, 39 отписок."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "UR = (39 ÷ 9700) × 100% ≈ 0.4%"
     },
     {
       "_t": "Heading3",
@@ -4315,12 +4057,6 @@
     {
       "_t": "Formula",
       "Latex": "Bounce Rate = \\frac{Количество одностраничных сессий}{Общее количество сессий} \\times 100\\%"
-    },
-    {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-bounce-rate.png",
-      "Alt": "Формула расчета показателя отказов в маркетинге.",
-      "Caption": null
     },
     {
       "_t": "Heading3",
@@ -4427,19 +4163,8 @@
       "Latex": "PPV = \\frac{Общее количество просмотренных страниц}{Общее количество визитов}"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-ppv.png",
-      "Alt": "Формула для расчета маркетинговой метрики PPV в e-commerce.",
-      "Caption": null
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Пример: 2000 просмотров / 800 визитов = 2.5 страницы за визит"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Пример: 2000 просмотров / 800 визитов = 2.5 страницы за визит"
     },
     {
       "_t": "Heading3",
@@ -4509,12 +4234,6 @@
     {
       "_t": "Formula",
       "Latex": "Engagement Rate = \\frac{Сумма вовлекающих действий}{Общее количество пользователей} \\times 100\\%"
-    },
-    {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-engagement-rate.png",
-      "Alt": "Формула расчета коэффициента вовлеченности в маркетинге.",
-      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -4595,19 +4314,8 @@
       "Latex": "Session Duration = \\frac{Общее время всех сеансов}{Количество сеансов}"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-session-duration.png",
-      "Alt": "Визуализация формулы расчёта времени на сеанс в маркетинге.",
-      "Caption": null
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Пример: 1500 минут / 500 сеансов = 3 мин. на пользователя"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Пример: 1500 минут / 500 сеансов = 3 мин. на пользователя"
     },
     {
       "_t": "Heading3",
@@ -4685,11 +4393,53 @@
       ]
     },
     {
+      "_t": "Heading2",
+      "Title": "Автор статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
           "_t": "Text",
-          "Content": "Автор статьи Наталья Казьмина CMO Retail Rocket Group"
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

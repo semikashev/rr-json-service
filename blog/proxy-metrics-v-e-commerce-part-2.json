@@ -28,6 +28,15 @@
       "Elements": [
         {
           "_t": "Text",
+          "Content": "В первой части обсудили проблемы, возникающие при оценке LTV пользователей онлайн-магазина, и как можно решить их с помощью прокси-метрик. Также рассказали, как ищут подобные метрики компании из разных областей и поделились собственным списком найденных метрик, которые применимы в e-commerce."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
           "Content": "Вторая часть,",
           "IsHighlight": true
         },
@@ -71,7 +80,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/proxy-metrics-v-e-commerce-part-2/proxymetrics_p1_10.png",
-      "Alt": "Типы магазинов и их количество; инфографика о ритейле и персонализация в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -83,9 +92,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "У каждого посетителя интернет-магазина есть идентификатор, хранящийся в cookie. По нему можно отследить, какие связанные с пользователем события происходили, когда и каким образом. К таким событиям относятся:"
+          "Content": "У каждого посетителя интернет-магазина есть идентификатор, хранящийся в cookie. По нему можно отследить, какие связанные с пользователем события происходили, когда и каким образом."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "К таким событиям относятся:"
     },
     {
       "_t": "UnorderedList",
@@ -148,13 +161,8 @@
       "Title": "Логика формирования признаков и целевой переменной"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Чтобы было проще разобраться, введем термины:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Чтобы было проще разобраться, введем термины:"
     },
     {
       "_t": "Paragraph",
@@ -182,7 +190,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/proxy-metrics-v-e-commerce-part-2/proxymetrics_p2_10.png",
-      "Alt": "Хронология сбора данных для анализа LTV в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -204,13 +212,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Для отбора кандидатов в прокси-метрики мы составили обширный список. Он включал в себя признаки, связанные с:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Для отбора кандидатов в прокси-метрики мы составили обширный список. Он включал в себя признаки, связанные с:"
     },
     {
       "_t": "OrderedList",
@@ -308,7 +311,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/proxy-metrics-v-e-commerce-part-2/proxymetrics_p2_20.png",
-      "Alt": "Графики зависимости метрик заказов и посещений в e-commerce магазинах.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -329,9 +332,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Среди признаков было много пар с высокой корреляцией. Включать их вместе в итоговый список прокси-метрик LTV бессмысленно, так как меняются они одинаково, а отслеживать большое количество признаков затруднительно. Также, если обучать модель на коррелированном наборе признаков, то могут возникнуть проблемы со стабильностью параметров и дальнейшим использованием модели. Например, есть три сильных признака:"
+          "Content": "Среди признаков было много пар с высокой корреляцией. Включать их вместе в итоговый список прокси-метрик LTV бессмысленно, так как меняются они одинаково, а отслеживать большое количество признаков затруднительно. Также, если обучать модель на коррелированном наборе признаков, то могут возникнуть проблемы со стабильностью параметров и дальнейшим использованием модели."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Например, есть три сильных признака:"
     },
     {
       "_t": "UnorderedList",
@@ -472,23 +479,18 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/proxy-metrics-v-e-commerce-part-2/proxymetrics_p2_30.png",
-      "Alt": "Тепловая карта корреляций метрик для персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/proxy-metrics-v-e-commerce-part-2/proxymetrics_p2_40.png",
-      "Alt": "Корреляция метрик для анализа персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Как мы видим на графиках выше, между собой коррелируют только связанные с заказами признаки и еще несколько пар:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Как мы видим на графиках выше, между собой коррелируют только связанные с заказами признаки и еще несколько пар:"
     },
     {
       "_t": "UnorderedList",
@@ -538,7 +540,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/proxy-metrics-v-e-commerce-part-2/proxymetrics_p2_50.png",
-      "Alt": "Графики: влияние количества просмотренных товаров на заказы; данные о клиентах в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -634,7 +636,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/proxy-metrics-v-e-commerce-part-2/proxymetrics_p2_60.png",
-      "Alt": "Диаграмма AUC при добавлении признаков, персонализация в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -676,7 +678,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/proxy-metrics-v-e-commerce-part-2/proxymetrics_p2_70.png",
-      "Alt": "График AUC с прокси-метриками для персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -711,11 +713,57 @@
       "Title": "Авторы исследования"
     },
     {
+      "_t": "Heading2",
+      "Title": "Айбатов Серик, Носков Артем — аналитики Retail Rocket Group"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
           "_t": "Text",
-          "Content": "Айбатов Серик, Носков Артем — аналитики Retail Rocket Group"
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

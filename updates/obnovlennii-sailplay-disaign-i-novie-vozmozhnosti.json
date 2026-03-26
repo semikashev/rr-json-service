@@ -39,7 +39,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/obnovlennii-sailplay-disaign-i-novie-vozmozhnosti/Capture-2025-10-27-184506.png",
-      "Alt": "Главная страница SailPlay с уведомлением от команды платформы",
+      "Alt": "",
       "Caption": "Иногда на главной странице будут сообщения от нашей команды с новостями о платформе"
     },
     {
@@ -47,13 +47,8 @@
       "Title": "Отделы"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Мы переработали раздел «Отделы» и сделали процессы комфортнее:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Мы переработали раздел «Отделы» и сделали процессы комфортнее:"
     },
     {
       "_t": "Paragraph",
@@ -67,7 +62,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/obnovlennii-sailplay-disaign-i-novie-vozmozhnosti/Capture-2025-10-27-185038.png",
-      "Alt": "Интерфейс Sailplay для настройки атрибутов сегментации клиентов в ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -82,7 +77,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/obnovlennii-sailplay-disaign-i-novie-vozmozhnosti/Capture-2025-10-27-185204.png",
-      "Alt": "Интерфейс выбора имени SMS-отправителя в новом Sailplay.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -97,7 +92,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/obnovlennii-sailplay-disaign-i-novie-vozmozhnosti/Capture-2025-10-27-185244.png",
-      "Alt": "Скриншот интерфейса настройки графика работы в системе управления магазина Sailplay.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -151,7 +146,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/obnovlennii-sailplay-disaign-i-novie-vozmozhnosti/Capture-2025-10-27-185515.png",
-      "Alt": "Интерфейс настройки автосегментации клиентов в Sailplay с выбором атрибутов.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -179,7 +174,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/obnovlennii-sailplay-disaign-i-novie-vozmozhnosti/Capture-2025-10-27-185640.png",
-      "Alt": "Интерфейс Sailplay с каталогом товаров для дома, показывает AI возможности управления.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -187,13 +182,8 @@
       "Title": "Обновление механизма выгрузки клиентов"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Обогатили механизм выгрузки клиентов. Мы понимаем, что статистика очень важна для вас, поэтому добавили возможность экспорта:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Обогатили механизм выгрузки клиентов. Мы понимаем, что статистика очень важна для вас, поэтому добавили возможность экспорта:"
     },
     {
       "_t": "UnorderedList",
@@ -291,7 +281,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/obnovlennii-sailplay-disaign-i-novie-vozmozhnosti/Capture-2025-10-27-190038.png",
-      "Alt": "Настройка вебхука в обновленном интерфейсе Sailplay для маркетинговой автоматизации.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -327,7 +317,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/obnovlennii-sailplay-disaign-i-novie-vozmozhnosti/Capture-2025-10-27-190230.png",
-      "Alt": "Интерфейс настройки рассылки в Sailplay: цель и сроки рассылки.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -335,13 +325,8 @@
       "Title": "Карточка клиента"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Доработали карточку клиента, чтобы работать с покупателями было максимально удобно. Теперь в одном окне:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Доработали карточку клиента, чтобы работать с покупателями было максимально удобно. Теперь в одном окне:"
     },
     {
       "_t": "UnorderedList",
@@ -375,7 +360,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/obnovlennii-sailplay-disaign-i-novie-vozmozhnosti/Capture-2025-10-27-190542.png",
-      "Alt": "Интерфейс профиля клиента Sailplay с историей покупок и параметрами сегментации.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -431,6 +416,14 @@
           }
         ]
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
   ]
 }

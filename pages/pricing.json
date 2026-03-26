@@ -20,5 +20,18 @@
     }
   ],
   "MetaTitle": "Узнать стоимость - Retail Rocket Group",
-  "ContentBlockList": []
+  "ContentBlockList": [
+    {
+      "_t": "CtaPrimaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Записаться на демо"
+        }
+      ],
+      "Elements": [],
+      "BtnText": "Записаться на демо",
+      "BtnUrl": "https://retailrocket.ru/demo/"
+    }
+  ]
 }

@@ -4,7 +4,12 @@
     "Словарь"
   ],
   "Title": "Что такое Бренд",
-  "MetaTitle": "Что такое бренд простыми словами: функции, виды, страница 2",
+  "PublishDate": {
+    "$date": "2025-05-29T09:16:00"
+  },
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "LeadText": [
     {
       "Elements": [
@@ -15,14 +20,17 @@
       ]
     }
   ],
-  "PublishDate": {
-    "$date": "2025-05-29T09:16:00"
-  },
-  "Letter": "Б",
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Что такое бренд простыми словами: функции, виды, страница 2",
   "ContentBlockList": [
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что такое бренд?"
+        }
+      ]
+    },
     {
       "_t": "Paragraph",
       "Elements": [
@@ -37,9 +45,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Когда человек видит логотип, слышит имя или сталкивается с продуктом в магазине, он не просто распознаёт его. У него возникает готовое ожидание: каким будет товар, как он сработает, какое чувство даст. Это ожидание не всегда связано с реальными свойствами продукта — но оно влияет на выбор. Бренд может ассоциироваться с:"
+          "Content": "Когда человек видит логотип, слышит имя или сталкивается с продуктом в магазине, он не просто распознаёт его. У него возникает готовое ожидание: каким будет товар, как он сработает, какое чувство даст. Это ожидание не всегда связано с реальными свойствами продукта — но оно влияет на выбор."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Бренд может ассоциироваться с:"
     },
     {
       "_t": "UnorderedList",
@@ -86,13 +98,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Филип Котлер показывает, что бренд — это не только имя и логотип. Это система значений, в которую входит:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Филип Котлер показывает, что бренд — это не только имя и логотип. Это система значений, в которую входит:"
     },
     {
       "_t": "UnorderedList",
@@ -203,18 +210,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Бренд",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " — это восприятие. Он формируется в сознании людей и включает:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Бренд — это восприятие. Он формируется в сознании людей и включает:"
     },
     {
       "_t": "UnorderedList",
@@ -257,7 +254,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-brend/image-19.png",
-      "Alt": "Пирамида: брендинг, товарная марка, товарный знак и их функции.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -265,13 +262,8 @@
       "Title": "Функции бренда"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Бренд выполняет конкретные задачи:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Бренд выполняет конкретные задачи:"
     },
     {
       "_t": "UnorderedList",
@@ -373,7 +365,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-brend/image-25.png",
-      "Alt": "Рекламный баннер с продукцией Apple: компьютеры, планшеты, iPhone, iPod.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -381,16 +373,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "➡️ "
-        },
-        {
-          "_t": "Text",
-          "Content": "Товарный бренд.",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Это имя одного продукта или линейки. Он помогает выделить товар на фоне других. Даёт свободу в позиционировании."
+          "Content": "➡️ Товарный бренд. Это имя одного продукта или линейки. Он помогает выделить товар на фоне других. Даёт свободу в позиционировании."
         }
       ]
     },
@@ -406,7 +389,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-brend/image-27.png",
-      "Alt": "Полки супермаркета с упаковками стирального порошка Tide разных видов",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -414,16 +397,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "➡️ "
-        },
-        {
-          "_t": "Text",
-          "Content": "Зонтичный бренд.",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Это общее имя для разных продуктов. Он снижает затраты на маркетинг и помогает запускать новинки."
+          "Content": "➡️ Зонтичный бренд. Это общее имя для разных продуктов. Он снижает затраты на маркетинг и помогает запускать новинки."
         }
       ]
     },
@@ -439,7 +413,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-brend/image-23.png",
-      "Alt": "Разнообразные продукты Nivea для ухода за кожей и личной гигиены.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -447,16 +421,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "➡️ "
-        },
-        {
-          "_t": "Text",
-          "Content": "Суббренд.",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Это дополнение к основному бренду с отдельным именем. Он расширяет линейку, но сохраняет связь с главной маркой."
+          "Content": "➡️ Суббренд. Это дополнение к основному бренду с отдельным именем. Он расширяет линейку, но сохраняет связь с главной маркой."
         }
       ]
     },
@@ -472,7 +437,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-brend/image-26.png",
-      "Alt": "Разнообразие моделей смартфонов Apple в хронологическом порядке.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -480,27 +445,22 @@
       "Title": "Классификация по географии"
     },
     {
+      "_t": "Heading2",
+      "Title": "➡️ Локальный бренд. Это бренд, работающий в одном городе или регионе. Он ближе к людям, воспринимается как «свой»"
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "➡️ "
-        },
-        {
-          "_t": "Text",
-          "Content": "Локальный бренд.",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Это бренд, работающий в одном городе или регионе. Он ближе к людям, воспринимается как «свой» Пример: местное кафе или региональные СМИ."
+          "Content": "Пример: местное кафе или региональные СМИ."
         }
       ]
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-brend/image-28.png",
-      "Alt": "Вход в супермаркет с логотипом на фасаде здания, зелень вокруг.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -508,16 +468,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "➡️ "
-        },
-        {
-          "_t": "Text",
-          "Content": "Национальный бренд.",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Это бренд, известный в пределах страны. Он учитывает местные вкусы, культуру и язык."
+          "Content": "➡️ Национальный бренд. Это бренд, известный в пределах страны. Он учитывает местные вкусы, культуру и язык."
         }
       ]
     },
@@ -533,7 +484,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-brend/image-29.png",
-      "Alt": "Три банки безалкогольного напитка с фруктами и хмелем под водой.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -541,16 +492,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "➡️ "
-        },
-        {
-          "_t": "Text",
-          "Content": "Международный бренд.",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Это бренд, который работает в нескольких странах. Он адаптируется под рынки, не теряя основного посыла."
+          "Content": "➡️ Международный бренд. Это бренд, который работает в нескольких странах. Он адаптируется под рынки, не теряя основного посыла."
         }
       ]
     },
@@ -566,7 +508,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-brend/image-30.png",
-      "Alt": "Магазин одежды H&M с вывеской и рекламой распродажи в витрине.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -574,16 +516,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "➡️ "
-        },
-        {
-          "_t": "Text",
-          "Content": "Глобальный бренд.",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Это бренд, узнаваемый по всему миру. Он транслирует одни и те же ценности на всех рынках."
+          "Content": "➡️ Глобальный бренд. Это бренд, узнаваемый по всему миру. Он транслирует одни и те же ценности на всех рынках."
         }
       ]
     },
@@ -599,7 +532,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-brend/image-31.png",
-      "Alt": "Бутылки Coca-Cola на льду иллюстрируют силу бренда в ритейле",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -611,16 +544,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "➡️ "
-        },
-        {
-          "_t": "Text",
-          "Content": "Премиум-бренд.",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Это бренд дорогих и престижных товаров. Он подчёркивает статус и обещает исключительное качество."
+          "Content": "➡️ Премиум-бренд. Это бренд дорогих и престижных товаров. Он подчёркивает статус и обещает исключительное качество."
         }
       ]
     },
@@ -636,7 +560,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-brend/image-32.png",
-      "Alt": "Часы Rolex на фоне фирменного мешочка с логотипом бренда.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -649,7 +573,7 @@
         {
           "_t": "Text",
           "Content": "Массовый бренд.",
-          "IsHighlight": true
+          "IsItalic": true
         },
         {
           "_t": "Text",
@@ -669,7 +593,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-brend/image-33.png",
-      "Alt": "Биг Мак сет с картошкой фри и напитком на фоне логотипа McDonald's.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -682,7 +606,7 @@
         {
           "_t": "Text",
           "Content": "Эконом-бренд.",
-          "IsHighlight": true
+          "IsItalic": true
         },
         {
           "_t": "Text",
@@ -702,7 +626,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-brend/image-34.png",
-      "Alt": "Упаковка пельменей бренда с логотипом и надписью «отличная цена круглый год",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -710,23 +634,23 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "➡️ "
-        },
+          "Content": "➡️ Премиум-масс. Это бренд с балансом между ценой и имиджем. Он даёт ощущение «умного выбора»."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
         {
           "_t": "Text",
-          "Content": "Премиум-масс.",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Это бренд с балансом между ценой и имиджем. Он даёт ощущение «умного выбора». Пример: Zara — мода по приемлемой цене."
+          "Content": "Пример: Zara — мода по приемлемой цене."
         }
       ]
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-brend/image-35.png",
-      "Alt": "Магазин Zara с витриной и одеждой внутри, вид снаружи",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -867,6 +791,58 @@
           }
         ]
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "Letter": "Б"
 }

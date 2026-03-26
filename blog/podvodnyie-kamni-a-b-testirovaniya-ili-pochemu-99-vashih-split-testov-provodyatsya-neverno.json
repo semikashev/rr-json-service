@@ -46,7 +46,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Наталья Казьмина CMO Retail Rocket Group"
+          "Content": "За этой популярностью скрывается практически полное отсутствие культуры в организации, проведении и анализе результатов экспериментов. В Retail Rocket мы накопили большую экспертизу в оценке экономической эффективности от систем персонализации в электронной коммерции. За два года был отстроен идеальный процесс проведения A/Б-тестов, которым мы и хотим поделиться в рамках этой статьи."
         }
       ]
     },
@@ -55,13 +55,8 @@
       "Title": "Два слова о принципах A/Б-тестирования"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "В теории все невероятно просто:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "В теории все невероятно просто:"
     },
     {
       "_t": "UnorderedList",
@@ -110,7 +105,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/podvodnyie-kamni-a-b-testirovaniya-ili-pochemu-99-vashih-split-testov-provodyatsya-neverno/f93400fbacc24a21833d3606b8619908.png",
-      "Alt": "Схема A/B-тестирования с разделением групп и анализом конверсии.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -118,13 +113,8 @@
       "Title": "Пример в цифрах"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Для примера представим, что мы внесли на сайт какое-то изменение, запустили А/Б-тест и получили следующие данные:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Для примера представим, что мы внесли на сайт какое-то изменение, запустили А/Б-тест и получили следующие данные:"
     },
     {
       "_t": "Paragraph",
@@ -138,7 +128,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/podvodnyie-kamni-a-b-testirovaniya-ili-pochemu-99-vashih-split-testov-provodyatsya-neverno/b2ef53d1f2f24ec296662ad2221eee26.jpg",
-      "Alt": "Таблица результатов A/B-тестирования: разные показатели конверсии для двух сегментов.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -153,7 +143,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/podvodnyie-kamni-a-b-testirovaniya-ili-pochemu-99-vashih-split-testov-provodyatsya-neverno/21020f8a9eba474eac92a30038490788.jpg",
-      "Alt": "Сравнение метрик A/B-тестов с различной вероятностью конверсии в ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -168,7 +158,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/podvodnyie-kamni-a-b-testirovaniya-ili-pochemu-99-vashih-split-testov-provodyatsya-neverno/913b74643d5641e7b97c05b47ad712b5.png",
-      "Alt": "Сравнение распределений для A/B-тестирования в маркетинге e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -232,7 +222,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/podvodnyie-kamni-a-b-testirovaniya-ili-pochemu-99-vashih-split-testov-provodyatsya-neverno/530ec78250e741008973344c020496d9.png",
-      "Alt": "Скриншот с результатами A/B-тестирования, показывающий различие между двумя вариациями.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -260,7 +250,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/podvodnyie-kamni-a-b-testirovaniya-ili-pochemu-99-vashih-split-testov-provodyatsya-neverno/b736ad3be0e048a1b871093697a12f5e.png",
-      "Alt": "Таблица результатов A/B-тестирования с процентами новых посетителей и страниц/посещение.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -295,18 +285,13 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Операторов call-центра можно выявить с помощью отчета по сетям в Google Analytics:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Операторов call-центра можно выявить с помощью отчета по сетям в Google Analytics:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/podvodnyie-kamni-a-b-testirovaniya-ili-pochemu-99-vashih-split-testov-provodyatsya-neverno/42a8fe3ce8ec4995828fc4387a9e8421.png",
-      "Alt": "Скриншот интерфейса с данными о транзакциях и доходах в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -330,7 +315,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/podvodnyie-kamni-a-b-testirovaniya-ili-pochemu-99-vashih-split-testov-provodyatsya-neverno/fc27722e7cb541f19c689946ccc89e37.png",
-      "Alt": "Таблица показывающая распределение выручки; операторы и персонализация в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -343,13 +328,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "В прошлом году проводился А/Б-тест, результаты которого оказались следующими:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "В прошлом году проводился А/Б-тест, результаты которого оказались следующими:"
     },
     {
       "_t": "UnorderedList",
@@ -375,13 +355,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "После составления отчетов результатов мы получили такое письмо от клиента:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "После составления отчетов результатов мы получили такое письмо от клиента:"
     },
     {
       "_t": "Paragraph",
@@ -395,7 +370,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/podvodnyie-kamni-a-b-testirovaniya-ili-pochemu-99-vashih-split-testov-provodyatsya-neverno/8f064b798948400e9c4062c92cdeca98.png",
-      "Alt": "Скриншот почтового интерфейса с примером email о тестировании в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -426,13 +401,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Вот пример А/Б-теста, в котором система Retail Rocket сравнивалась с другой рекомендательной системой:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Вот пример А/Б-теста, в котором система Retail Rocket сравнивалась с другой рекомендательной системой:"
     },
     {
       "_t": "Paragraph",
@@ -446,7 +416,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/podvodnyie-kamni-a-b-testirovaniya-ili-pochemu-99-vashih-split-testov-provodyatsya-neverno/1557d78b43b04c97b79703bdeb622f36.jpg",
-      "Alt": "Таблица сравнения доходов и среднего чека Retail Rocket и конкурента.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -461,7 +431,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/podvodnyie-kamni-a-b-testirovaniya-ili-pochemu-99-vashih-split-testov-provodyatsya-neverno/7fd191c6b60d4251aca36c03a6a45180.jpg",
-      "Alt": "Таблица с результатами A/B-теста: анализ дохода на визит и средний чек.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -489,13 +459,13 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/podvodnyie-kamni-a-b-testirovaniya-ili-pochemu-99-vashih-split-testov-provodyatsya-neverno/60c0f3ad78114c6fb3348909e0caba19.png",
-      "Alt": "Таблица данных для анализа A/B-тестирования в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/podvodnyie-kamni-a-b-testirovaniya-ili-pochemu-99-vashih-split-testov-provodyatsya-neverno/0b57739962ab44b186fb2c785fca612b.png",
-      "Alt": "Интерфейс анализа A/B-тестов с данными о типах устройств и транзакциях.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -547,13 +517,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Для подсчета статистической достоверности конверсии существует множество online-инструментов, например, htraffic.ru/calc/:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Для подсчета статистической достоверности конверсии существует множество online-инструментов, например, htraffic.ru/calc/:"
     },
     {
       "_t": "Paragraph",
@@ -567,7 +532,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/podvodnyie-kamni-a-b-testirovaniya-ili-pochemu-99-vashih-split-testov-provodyatsya-neverno/5723880dc01746c8aaca6950a7aaf325.png",
-      "Alt": "Сравнение успешности и вероятности пресекательства в A/B-тестировании для платформы персонализации.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -604,17 +569,12 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/podvodnyie-kamni-a-b-testirovaniya-ili-pochemu-99-vashih-split-testov-provodyatsya-neverno/d11414d861f046be9de75c514b7388b0.png",
-      "Alt": "Скриншот Google Analytics с данными о транзакциях и конверсии.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Такие огромные заказы значительно искажают результаты, у нас есть два подхода к пост-тест анализу с точки зрения среднего чека:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Такие огромные заказы значительно искажают результаты, у нас есть два подхода к пост-тест анализу с точки зрения среднего чека:"
     },
     {
       "_t": "OrderedList",
@@ -681,7 +641,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/podvodnyie-kamni-a-b-testirovaniya-ili-pochemu-99-vashih-split-testov-provodyatsya-neverno/72b691a724e74e689b6c12b2a5641299.png",
-      "Alt": "Гистограмма распределения транзакций по числу дней до покупки в A/B-тесте.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -694,13 +654,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Итак, для исключения всех описанных выше проблем и проведения правильного A/Б-теста нужно выполнить 3 шага:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Итак, для исключения всех описанных выше проблем и проведения правильного A/Б-теста нужно выполнить 3 шага:"
     },
     {
       "_t": "Paragraph",
@@ -730,14 +685,13 @@
         },
         {
           "_t": "Text",
-          "Content": "воспользоваться open source библиотекой Retail Rocket Segmentator, которую поддерживает команда Retail Rocket. За несколько лет тестов нам не удалось решить описанные выше проблемы в инструментах вроде Optimizely или Visual Website Optimizer. "
-        },
-        {
-          "_t": "Text",
-          "Content": "Цель на первом шаге:",
-          "IsHighlight": true
+          "Content": "воспользоваться open source библиотекой Retail Rocket Segmentator, которую поддерживает команда Retail Rocket. За несколько лет тестов нам не удалось решить описанные выше проблемы в инструментах вроде Optimizely или Visual Website Optimizer."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Цель на первом шаге:"
     },
     {
       "_t": "UnorderedList",
@@ -780,14 +734,13 @@
         },
         {
           "_t": "Text",
-          "Content": " не получить победителя, т.е. в двух сегментах с одинаковыми версиями сайта не должно быть разницы по ключевым показателям. "
-        },
-        {
-          "_t": "Text",
-          "Content": "3. Провести пост-тест анализ",
-          "IsHighlight": true
+          "Content": " не получить победителя, т.е. в двух сегментах с одинаковыми версиями сайта не должно быть разницы по ключевым показателям."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "3. Провести пост-тест анализ"
     },
     {
       "_t": "UnorderedList",
@@ -818,7 +771,7 @@
         {
           "_t": "Text",
           "Content": "Цель на последнем шаге:",
-          "IsHighlight": true
+          "IsItalic": true
         },
         {
           "_t": "Text",
@@ -832,6 +785,57 @@
         {
           "_t": "Text",
           "Content": "Делитесь своими кейсами проведения A/Б-тестов в комментариях!"
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

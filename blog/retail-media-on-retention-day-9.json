@@ -24,6 +24,34 @@
   "MetaTitle": "Как будет развиваться Retail media? Итоги Retention Day 9 – Retail Rocket, страница 3",
   "ContentBlockList": [
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Ритейл медиа — не для всех: готовы ли вы к трансформации?"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/retail-media-on-retention-day-9/image2-66ffe5c23c4e2fda42984c28-300x300.png",
+      "Alt": "Picture of Сергей Тимохин",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Сергей Тимохин Retail Rocket Group, Regional Director CIS"
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Основные темы выступления:"
+    },
+    {
       "_t": "UnorderedList",
       "Items": [
         [
@@ -65,11 +93,11 @@
       ]
     },
     {
-      "_t": "SmallContentBg",
+      "_t": "CtaSecondaryBlock",
       "TitleElements": [
         {
           "_t": "Text",
-          "Content": "19 сентября прошла девятая конференция Retention Day, посвященная развитию маркетинговых технологий в e-commerce. На мероприятии собрались ключевые игроки отрасли, которые обсудили стратегии, инструменты и идеи, важные для успешного ведения бизнеса как в 2024 году, так и в дальнейшем. В этом обзоре представим основные выводы секции Retail media."
+          "Content": "Смотреть выступление"
         }
       ],
       "Elements": [],
@@ -103,9 +131,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Анастасия Ломаченко ГК Авторусь, СМО Основные темы выступления:"
+          "Content": "Анастасия Ломаченко ГК Авторусь, СМО"
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Основные темы выступления:"
     },
     {
       "_t": "UnorderedList",
@@ -178,9 +210,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Александр Семёнкин Детский мир, Руководитель монетизации Основные темы выступления:"
+          "Content": "Александр Семёнкин Детский мир, Руководитель монетизации"
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Основные темы выступления:"
     },
     {
       "_t": "UnorderedList",
@@ -253,6 +289,57 @@
         {
           "_t": "Text",
           "Content": "Retail Rocket Group помогает маркетологам получать знания, инструменты и стратегии для достижения лучших результатов. Присоединяйтесь к телеграм-каналу Retail Rocket Group, чтобы следить за анонсами Retention Day и других мероприятий."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

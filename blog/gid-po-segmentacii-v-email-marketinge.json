@@ -24,6 +24,15 @@
   "MetaTitle": "Сегментация базы email-рассылки: от сбора данных до результата – Retail Rocket, страница 4",
   "ContentBlockList": [
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Хотите значительно повысить показатели ваших рассылок? Мы подготовили подробный гайд, где расскажем обо всех тонкостях сегментации и хитростях, которые можно использовать, чтобы облегчить себе работу и порадовать клиента."
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Зачем нужно сегментировать клиентов для email-рассылки"
     },
@@ -101,7 +110,16 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Как можно сегментировать базу? Зная как можно сегментировать подписчиков, вам будет проще разобраться с тем, какие данные нужно собрать. Это поможет избежать лишних трат времени и ресурсов. На сегодняшний день в мире ecommerce два основных способа сегментации: по демографическим признакам и по поведению на сайте."
+          "Content": "Как можно сегментировать базу?"
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Зная как можно сегментировать подписчиков, вам будет проще разобраться с тем, какие данные нужно собрать. Это поможет избежать лишних трат времени и ресурсов. На сегодняшний день в мире ecommerce два основных способа сегментации: по демографическим признакам и по поведению на сайте."
         }
       ]
     },
@@ -221,7 +239,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-segmentacii-v-email-marketinge/image13.png",
-      "Alt": "Форма подписки на email рассылки с выбором сегментации для мужчин и женщин.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -245,7 +263,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-segmentacii-v-email-marketinge/image7.png",
-      "Alt": "Пример блока email-рассылки с сегментацией по типу домашнего питомца.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -282,7 +300,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-segmentacii-v-email-marketinge/image2.png",
-      "Alt": "Интерфейс сегментации email рассылки с выбором категории интересов пользователя.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -310,7 +328,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-segmentacii-v-email-marketinge/image4.png",
-      "Alt": "Инфографика сегментации клиентов для email рассылки по количеству заказов и времени.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -327,13 +345,8 @@
       "Title": "Шаг 4. Определяем сегмент для рассылки"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "После сбора данных, можно приступать к созданию кампаний. Мы предлагаем вам пользоваться следующими критериями:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "После сбора данных, можно приступать к созданию кампаний. Мы предлагаем вам пользоваться следующими критериями:"
     },
     {
       "_t": "UnorderedList",
@@ -349,7 +362,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-segmentacii-v-email-marketinge/image9.png",
-      "Alt": "Скриншот интерфейса сегментации клиентов для email рассылки по интересам.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -366,7 +379,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-segmentacii-v-email-marketinge/image11.png",
-      "Alt": "Пример email-рассылки с клиентской сегментацией и AI рекомендациями товаров.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -411,32 +424,22 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-segmentacii-v-email-marketinge/image8.png",
-      "Alt": "Интерфейс сегментации клиентов для улучшения email рассылки по категориям.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Обоим сегментам были отправлены одинаковые письма:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Обоим сегментам были отправлены одинаковые письма:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-segmentacii-v-email-marketinge/image10-1.png",
-      "Alt": "Пример email рассылки с сегментацией клиентов и акциями интернет-магазина.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Сегмент Retail Rocket показал более высокие метрики по сравнению с сегментом пользователей, которые были выделены с помощью CRM:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Сегмент Retail Rocket показал более высокие метрики по сравнению с сегментом пользователей, которые были выделены с помощью CRM:"
     },
     {
       "_t": "Table",
@@ -480,7 +483,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-segmentacii-v-email-marketinge/image12.png",
-      "Alt": "Интерфейс сегментации базы для email рассылки по категориям интересов клиентов.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -495,19 +498,19 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-segmentacii-v-email-marketinge/image6-1-375x1024-1.png",
-      "Alt": "Письмо персонализированной рассылки для сегмента владельцев собак",
+      "Alt": "",
       "Caption": "Версия письма для рассылки по сегменту «Собаки»"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-segmentacii-v-email-marketinge/image15-375x1024-1.png",
-      "Alt": "Письмо персонализированной рассылки для сегмента владельцев кошек",
+      "Alt": "",
       "Caption": "Версия письма для рассылки по сегменту «Кошки»"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-segmentacii-v-email-marketinge/image14-1-375x1024-1.png",
-      "Alt": "Письмо персонализированной рассылки для сегмента владельцев грызунов",
+      "Alt": "",
       "Caption": "Версия письма для рассылки по сегменту «Грызуны»"
     },
     {
@@ -571,7 +574,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-segmentacii-v-email-marketinge/image1-1.png",
-      "Alt": "Матрица сегментации клиентов для email рассылок в ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -586,22 +589,17 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-segmentacii-v-email-marketinge/image5-1-1.png",
-      "Alt": "Пример письма для email рассылки с сегментацией и AI персонализацией.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "А если подписчик переходит в «спящие» ему придет такое письмо:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "А если подписчик переходит в «спящие» ему придет такое письмо:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-segmentacii-v-email-marketinge/image3.png",
-      "Alt": "Пример email-рассылки с сегментацией клиентов и AI рекомендациями товаров.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -658,6 +656,57 @@
         {
           "_t": "Text",
           "Content": "Удачи и помните, что наши специалисты всегда готовы прийти на помощь."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

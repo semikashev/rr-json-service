@@ -50,7 +50,16 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Огромное количество информации, которое нас окружает, уже просто не воспринимается нашим мозгом. Количество точек контакта с брендом может достигать нескольких десятков в день и превращаться в «белый шум». Поэтому я очень хочу поделиться с вами теми трендами email-маркетинга, о которых вам стоит помнить, вступая в 2020 год, и начинать применять прямо сейчас — иначе знайте, ваши конкуренты вас уже обогнали. Email-маркетинг уже умер?"
+          "Content": "Огромное количество информации, которое нас окружает, уже просто не воспринимается нашим мозгом. Количество точек контакта с брендом может достигать нескольких десятков в день и превращаться в «белый шум». Поэтому я очень хочу поделиться с вами теми трендами email-маркетинга, о которых вам стоит помнить, вступая в 2020 год, и начинать применять прямо сейчас — иначе знайте, ваши конкуренты вас уже обогнали."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Email-маркетинг уже умер?"
         }
       ]
     },
@@ -66,7 +75,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/ne-speshite-menja-horonit-trendy-email-marketinga/1_1.png",
-      "Alt": "Диаграмма популярности устройств в России с акцентом на смартфоны и ПК.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -81,7 +90,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/ne-speshite-menja-horonit-trendy-email-marketinga/idea12.png",
-      "Alt": "Топ-10 каналов коммуникации: лидирует сарафанное радио, email-маркетинг на втором месте.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -89,13 +98,8 @@
       "Title": "Советы от Retail Rocket"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Чтобы все ваши усилия на работу с email-каналом окупились, важно использовать комплексный подход и правильно распределять ресурсы:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Чтобы все ваши усилия на работу с email-каналом окупились, важно использовать комплексный подход и правильно распределять ресурсы:"
     },
     {
       "_t": "UnorderedList",
@@ -157,7 +161,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/ne-speshite-menja-horonit-trendy-email-marketinga/image3.png",
-      "Alt": "Инфографика о первых точках касания клиентов в e-commerce маркетинге.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -183,13 +187,8 @@
       "Title": "Советы от Retail Rocket"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Чтобы все ваши маркетинговые активности, в том числе email-маркетинг, были максимально органичны, обязательно:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Чтобы все ваши маркетинговые активности, в том числе email-маркетинг, были максимально органичны, обязательно:"
     },
     {
       "_t": "UnorderedList",
@@ -241,7 +240,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/ne-speshite-menja-horonit-trendy-email-marketinga/pasted-image-0-33333.jpg",
-      "Alt": "А/B тестирование email-рассылки с персонализированными AI рекомендациями товаров по сегментам.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -276,13 +275,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Что важно учитывать при построении персональных коммуникаций:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Что важно учитывать при построении персональных коммуникаций:"
     },
     {
       "_t": "UnorderedList",
@@ -318,13 +312,8 @@
       "Title": "Советы от Retail Rocket"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Вот только некоторые из способов, с помощью которых вы можете персонализировать email-маркетинг:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Вот только некоторые из способов, с помощью которых вы можете персонализировать email-маркетинг:"
     },
     {
       "_t": "UnorderedList",
@@ -367,7 +356,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/ne-speshite-menja-horonit-trendy-email-marketinga/pasted-image-0-4.png",
-      "Alt": "Пример email-маркетинга с рекомендательной системой AI и персонализацией.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -467,7 +456,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/ne-speshite-menja-horonit-trendy-email-marketinga/pasted-image-0-5.png",
-      "Alt": "Схема потребительских предпочтений в e-commerce с использованием AI рекомендаций.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -525,7 +514,7 @@
           {
             "_t": "Text",
             "Content": "Постоянно улучшайте сценарии.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -567,7 +556,7 @@
           {
             "_t": "Text",
             "Content": "Вовлекайте через игру.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -578,7 +567,7 @@
           {
             "_t": "Text",
             "Content": "Делайте игры простыми.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -589,7 +578,7 @@
           {
             "_t": "Text",
             "Content": "Пусть клиенты сами распространяют ваш контент.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -631,7 +620,7 @@
           {
             "_t": "Text",
             "Content": "Добавьте интерактив.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -642,7 +631,7 @@
           {
             "_t": "Text",
             "Content": "Пишите лично для клиента.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -774,6 +763,57 @@
         {
           "_t": "Text",
           "Content": "А какие технологии email-маркетинга больше всего волнуют вас?"
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

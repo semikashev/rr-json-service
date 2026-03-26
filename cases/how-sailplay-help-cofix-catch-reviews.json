@@ -3,9 +3,6 @@
   "Label": [
     "Кейсы"
   ],
-  "IndustryList": [
-    "HoReCa"
-  ],
   "Title": "Как платформа Sailplay помогла Cofix собрать отзывы",
   "PublishDate": {
     "$date": "2023-12-14T18:10:00"
@@ -26,6 +23,15 @@
   ],
   "MetaTitle": "Как платформа Sailplay помогла партнёру собрать 150 000 отзывов за 6 месяцев: кейс Cofix – Retail Rocket Group",
   "ContentBlockList": [
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Отзывы функционируют с помощью платформы Sailplay. В Cofix взяли коробочную логику триггера подтверждения покупки Sailplay и дополнили несколькими новыми событиями. За 3 месяца работы партнёр получил 100 000 отзывов — это в 17 раз больше, чем со всех карт и сторонних сервисов за тоже время. О всех подробностях рассказываем в статье."
+        }
+      ]
+    },
     {
       "_t": "Heading2",
       "Title": "Как работают отзывы со стороны участника Cofix Club"
@@ -51,7 +57,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/how-sailplay-help-cofix-catch-reviews/kofiks_10.webp",
-      "Alt": "Мобильный интерфейс Cofix с возможностью оставить отзыв после заказа.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -66,7 +72,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/how-sailplay-help-cofix-catch-reviews/kofiks_20.webp",
-      "Alt": "Функционал отзывов в приложении Cofix 2023 года для сбора обратной связи",
+      "Alt": "",
       "Caption": "В 2023 году в приложение добавили функционал отзывов, чтобы клиенты могли влиять на качество сервиса, а Cofix получал больше данных о заказах."
     },
     {
@@ -85,17 +91,12 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/how-sailplay-help-cofix-catch-reviews/kofiks_30.webp",
-      "Alt": "Схема стандартного триггера purchase confirmation в платформе Sailplay",
+      "Alt": "",
       "Caption": "Стандартная логика триггера purchase confirmation в платформе Sailplay"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "В триггер purchase confirmation Cofix добавили несколько новых событий, которые нужны для решения их задачи:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "В триггер purchase confirmation Cofix добавили несколько новых событий, которые нужны для решения их задачи:"
     },
     {
       "_t": "OrderedList",
@@ -160,7 +161,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/how-sailplay-help-cofix-catch-reviews/kofiks_40.webp",
-      "Alt": "Обновлённый триггер purchase confirmation с логикой сбора отзывов Cofix",
+      "Alt": "",
       "Caption": "Так выглядит обновленная логика триггера purchase confirmation с учётом цели по сбору отзывов и внутренних процессов Cofix"
     },
     {
@@ -289,6 +290,17 @@
       ],
       "BtnText": "Запросить демо",
       "BtnUrl": "https://retailrocket.ru/demo/"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
+  ],
+  "IndustryList": [
+    "HoReCa"
   ]
 }

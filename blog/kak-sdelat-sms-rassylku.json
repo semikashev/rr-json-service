@@ -66,13 +66,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Например, магазин одежды может отправить сообщение: «Только 3 дня! Скидка 20% на всё — по коду SMS20»"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Например, магазин одежды может отправить сообщение: «Только 3 дня! Скидка 20% на всё — по коду SMS20»"
     },
     {
       "_t": "Heading2",
@@ -83,9 +78,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "SMS-рассылки работают быстро: среднее время прочтения — 3 минуты с момента доставки. Пример из практики:"
+          "Content": "SMS-рассылки работают быстро: среднее время прочтения — 3 минуты с момента доставки."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Пример из практики:"
     },
     {
       "_t": "Paragraph",
@@ -97,86 +96,57 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Это отличный инструмент, если вы хотите: "
-        },
-        {
-          "_t": "Text",
-          "Content": "Повысить вовлечённость:",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Text",
-          "Content": "Вернуть неактивных клиентов:",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Это отличный инструмент, если вы хотите:"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Повысить вовлечённость:"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Вернуть неактивных клиентов:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-sms-rassylku/kak-sdelat-sms-rassylku-03.png",
-      "Alt": "Пример текстов SMS уведомлений с акциями и скидками для клиентов.",
+      "Alt": "",
       "Caption": null
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-sms-rassylku/kak-sdelat-sms-rassylku-04.png",
-      "Alt": "SMS от EVRODOM с напоминанием о сгорании бонусов",
+      "Alt": "",
       "Caption": "EVRODOM напоминает о сгорании бонусов по SMS"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Анонсировать ограниченную акцию:",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Анонсировать ограниченную акцию:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-sms-rassylku/kak-sdelat-sms-rassylku-05.png",
-      "Alt": "SMS от NewForm с уведомлением о переезде магазина",
+      "Alt": "",
       "Caption": "NewForm уведомляет о переезде магазина по SMS"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Добиться мгновенного отклика (например, при распродаже):",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Добиться мгновенного отклика (например, при распродаже):"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-sms-rassylku/kak-sdelat-sms-rassylku-02.png",
-      "Alt": "SMS-рассылка Gloria Jeans с информацией о скидках и акциях",
+      "Alt": "",
       "Caption": "Gloria Jeans с помощью SMS информирует клиентов о скидках и акциях"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Поддержать рекламные кампании:",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Поддержать рекламные кампании:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-sms-rassylku/kak-sdelat-sms-rassylku-06.png",
-      "Alt": "SMS-рассылка SUNLIGHT в рамках маркетинговой кампании",
+      "Alt": "",
       "Caption": "SUNLIGHT использует SMS-рассылку в своей маркетинговой кампании"
     },
     {
@@ -197,13 +167,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "🔹 Пример: «Только 24 часа! −30% на всё. Закажите по ссылке»"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "🔹 Пример: «Только 24 часа! −30% на всё. Закажите по ссылке»"
     },
     {
       "_t": "Heading3",
@@ -219,13 +184,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "🔹 Пример: «Вы забыли товар в корзине! Оформите заказ сейчас и получите скидку 10%»"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "🔹 Пример: «Вы забыли товар в корзине! Оформите заказ сейчас и получите скидку 10%»"
     },
     {
       "_t": "Heading3",
@@ -241,13 +201,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "🔹 Пример: «Ваша запись на 10 июня подтверждена»"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "🔹 Пример: «Ваша запись на 10 июня подтверждена»"
     },
     {
       "_t": "Heading3",
@@ -263,27 +218,16 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "🔹 Пример: «Заказ № 4120 доставлен в пункт выдачи. Получите до 20.06»"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "🔹 Пример: «Заказ № 4120 доставлен в пункт выдачи. Получите до 20.06»"
     },
     {
       "_t": "Heading2",
       "Title": "Когда SMS-рассылка полезна, а когда нет"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Полезна:",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Полезна:"
     },
     {
       "_t": "UnorderedList",
@@ -309,14 +253,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Неэффективна:",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Неэффективна:"
     },
     {
       "_t": "UnorderedList",
@@ -346,13 +284,8 @@
       "Title": "Как собрать базу номеров для SMS-рассылки"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Легально собираем контакты с помощью:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Легально собираем контакты с помощью:"
     },
     {
       "_t": "UnorderedList",
@@ -395,18 +328,17 @@
         {
           "_t": "Text",
           "Content": "Важно!",
-          "IsHighlight": true
+          "IsItalic": true
         },
         {
           "_t": "Text",
-          "Content": "Сбор данных должен соответствовать 152-ФЗ и GDPR. Пользователь должен дать добровольное согласие. "
-        },
-        {
-          "_t": "Text",
-          "Content": "Что нельзя делать:",
-          "IsHighlight": true
+          "Content": "Сбор данных должен соответствовать 152-ФЗ и GDPR. Пользователь должен дать добровольное согласие."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Что нельзя делать:"
     },
     {
       "_t": "UnorderedList",
@@ -430,13 +362,8 @@
       "Title": "Как проверять и поддерживать качество базы"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Регулярно чистите базу:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Регулярно чистите базу:"
     },
     {
       "_t": "UnorderedList",
@@ -456,13 +383,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Используйте сервисы валидации номеров перед загрузкой:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Используйте сервисы валидации номеров перед загрузкой:"
     },
     {
       "_t": "UnorderedList",
@@ -476,13 +398,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Обновляйте согласия:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Обновляйте согласия:"
     },
     {
       "_t": "UnorderedList",
@@ -525,7 +442,7 @@
           {
             "_t": "Text",
             "Content": "программах лояльности",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -545,8 +462,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Можно ли покупать базы номеров? "
-        },
+          "Content": "Можно ли покупать базы номеров?"
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
         {
           "_t": "Text",
           "Content": "Нет, покупать базы номеров запрещено",
@@ -621,13 +543,8 @@
       "Title": "Шаг 1. Определите цель рассылки"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Цель поможет:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Цель поможет:"
     },
     {
       "_t": "UnorderedList",
@@ -666,13 +583,8 @@
       "Title": "Шаг 2. Выберите платформу для SMS-рассылки"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Платформа для отправки должна:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Платформа для отправки должна:"
     },
     {
       "_t": "UnorderedList",
@@ -750,13 +662,8 @@
       "Title": "Шаг 4. Сегментируйте базу контактов"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Разделите получателей по:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Разделите получателей по:"
     },
     {
       "_t": "UnorderedList",
@@ -842,13 +749,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "🔹 Пример: «−20% на всё до 22.06! Код: SUMMER. Магазин romashka.ru»"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "🔹 Пример: «−20% на всё до 22.06! Код: SUMMER. Магазин romashka.ru»"
     },
     {
       "_t": "Heading3",
@@ -877,13 +779,8 @@
       "Title": "Шаг 7. Запустите рассылку и отслеживайте результаты"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "После запуска обращайте внимание на:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "После запуска обращайте внимание на:"
     },
     {
       "_t": "UnorderedList",
@@ -919,9 +816,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Если SMS-рассылка массовая, настройте антиспам-фильтры и частоту. 🔹 Советы:"
+          "Content": "Если SMS-рассылка массовая, настройте антиспам-фильтры и частоту."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "🔹 Советы:"
     },
     {
       "_t": "UnorderedList",
@@ -951,13 +852,8 @@
       "Title": "Выводы"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Сделать рассылку СМС по базе номеров клиентов можно быстро и с хорошим результатом — при условии, что вы:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Сделать рассылку СМС по базе номеров клиентов можно быстро и с хорошим результатом — при условии, что вы:"
     },
     {
       "_t": "UnorderedList",
@@ -1000,6 +896,57 @@
         {
           "_t": "Text",
           "Content": "SMS-рассылка — мощный инструмент для бизнеса, если использовать его с умом и сочетать с другими способами коммуницировать с аудиторией."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

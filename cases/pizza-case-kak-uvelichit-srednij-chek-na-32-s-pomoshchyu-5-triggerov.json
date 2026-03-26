@@ -3,9 +3,6 @@
   "Label": [
     "Кейсы"
   ],
-  "IndustryList": [
-    "HoReCa"
-  ],
   "Title": "Как увеличить средний чек с помощью 5 триггеров",
   "PublishDate": {
     "$date": "2024-09-26T12:42:00"
@@ -80,13 +77,8 @@
       "Title": "Результаты за полгода работы обновленной программы лояльности"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Программа лояльности была обновлена в декабре 2023 года. К маю 2024 года компания добилась следующих результатов:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Программа лояльности была обновлена в декабре 2023 года. К маю 2024 года компания добилась следующих результатов:"
     },
     {
       "_t": "UnorderedList",
@@ -170,7 +162,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/pizza-case-kak-uvelichit-srednij-chek-na-32-s-pomoshchyu-5-triggerov/pizza_case_10-scaled.webp",
-      "Alt": "Советы по улучшению вкуса пиццы в инфографике; сравнение теста для персонализации в ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -211,7 +203,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/pizza-case-kak-uvelichit-srednij-chek-na-32-s-pomoshchyu-5-triggerov/pizza_case_20-scaled.webp",
-      "Alt": "Письмо с промокодом и изображением пиццы для персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -257,7 +249,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/pizza-case-kak-uvelichit-srednij-chek-na-32-s-pomoshchyu-5-triggerov/pizza_case_40-scaled.webp",
-      "Alt": "Пример персонализированного рекламного письма с бонусами для клиента.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -285,7 +277,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/pizza-case-kak-uvelichit-srednij-chek-na-32-s-pomoshchyu-5-triggerov/pizza_case_30-scaled.webp",
-      "Alt": "Промо с днем рождения пиццерии, скидка на заказ, персонализация в ритейле",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -293,12 +285,12 @@
       "Title": "Планы на будущее"
     },
     {
+      "_t": "Heading2",
+      "Title": "В ближайшем будущем планируется:"
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
-        {
-          "_t": "Text",
-          "Content": "В ближайшем будущем планируется: "
-        },
         {
           "_t": "Text",
           "Content": "Cделать коммуникацию с клиентом омниканальной.",
@@ -351,6 +343,17 @@
           "Content": " Добиться того, что индивидуальные предложения, учитывающие предпочтения клиентов, будут использоваться в подавляющем количестве коммуникаций."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
+  ],
+  "IndustryList": [
+    "HoReCa"
   ]
 }

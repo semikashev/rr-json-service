@@ -32,14 +32,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Онлайн-мерчендайзинг — это умение продавать в интернете так, чтобы покупатель нашёл нужный товар и захотел взять ещё что-то. Важно не перегружать его выбором, а показать именно то, что ему нужно. "
-        },
-        {
-          "_t": "Text",
-          "Content": "Как это работает на практике:",
-          "IsHighlight": true
+          "Content": "Онлайн-мерчендайзинг — это умение продавать в интернете так, чтобы покупатель нашёл нужный товар и захотел взять ещё что-то. Важно не перегружать его выбором, а показать именно то, что ему нужно."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Как это работает на практике:"
     },
     {
       "_t": "OrderedList",
@@ -122,7 +121,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-umnyj-merchendajzing-povyshaet-onlajn-prodazhi-kejsy-dlja-kazhdoj-stranicy-sajta/987676666.jpg",
-      "Alt": "Примеры онлайн-мерчендайзинга на сайтах Amazon, Goods.ru и Wildberries.ru для увеличения продаж.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -172,7 +171,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-umnyj-merchendajzing-povyshaet-onlajn-prodazhi-kejsy-dlja-kazhdoj-stranicy-sajta/pasted-image-0-2020-07-03t150929.527.png",
-      "Alt": "Схема персонализации на сайте для увеличения продаж в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -187,7 +186,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-umnyj-merchendajzing-povyshaet-onlajn-prodazhi-kejsy-dlja-kazhdoj-stranicy-sajta/pasted-image-0-2020-07-03t151014.360.png",
-      "Alt": "Персонализация главной страницы интернет-гипермаркета для роста повторных продаж.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -215,7 +214,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-umnyj-merchendajzing-povyshaet-onlajn-prodazhi-kejsy-dlja-kazhdoj-stranicy-sajta/pasted-image-0-2020-07-03t151204.418.png",
-      "Alt": "Схема онлайн-мерчендайзинга для персонализации товара и предложений на сайте.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -230,7 +229,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-umnyj-merchendajzing-povyshaet-onlajn-prodazhi-kejsy-dlja-kazhdoj-stranicy-sajta/pasted-image-0-2020-07-03t151133.065.png",
-      "Alt": "Персонализация в e-commerce: интерфейс категории с подборкой популярных товаров.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -249,7 +248,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-umnyj-merchendajzing-povyshaet-onlajn-prodazhi-kejsy-dlja-kazhdoj-stranicy-sajta/pasted-image-0-2020-07-03t151204.418.png",
-      "Alt": "Схема персонализации сайта: формирование потребности и рекомендации товаров.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -273,7 +272,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-umnyj-merchendajzing-povyshaet-onlajn-prodazhi-kejsy-dlja-kazhdoj-stranicy-sajta/pasted-image-0-2020-07-03t151237.546.png",
-      "Alt": "Скриншот интерфейса сайта с персонализацией карточки товара в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -292,7 +291,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-umnyj-merchendajzing-povyshaet-onlajn-prodazhi-kejsy-dlja-kazhdoj-stranicy-sajta/pasted-image-0-2020-07-03t151309.587.png",
-      "Alt": "Схема альтернативных предложений при отсутствии товара, персонализация в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -316,7 +315,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-umnyj-merchendajzing-povyshaet-onlajn-prodazhi-kejsy-dlja-kazhdoj-stranicy-sajta/pasted-image-0-2020-07-03t151346.615.png",
-      "Alt": "Интерфейс карточки товара с рекомендациями для персонализации в e-commerce",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -335,7 +334,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-umnyj-merchendajzing-povyshaet-onlajn-prodazhi-kejsy-dlja-kazhdoj-stranicy-sajta/pasted-image-0-2020-07-03t151416.002.png",
-      "Alt": "Схема процесса cross sell для корзины в e-commerce персонализации.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -350,7 +349,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-umnyj-merchendajzing-povyshaet-onlajn-prodazhi-kejsy-dlja-kazhdoj-stranicy-sajta/pasted-image-0-2020-07-03t151439.977.png",
-      "Alt": "Интерфейс интернет-магазина с персонализацией корзины для повышения продаж в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -378,7 +377,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-umnyj-merchendajzing-povyshaet-onlajn-prodazhi-kejsy-dlja-kazhdoj-stranicy-sajta/pasted-image-0-2020-07-03t151506.750.png",
-      "Alt": "Скриншот персонализированного поиска на сайте Hoff с товарами и рекомендациями.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -393,7 +392,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-umnyj-merchendajzing-povyshaet-onlajn-prodazhi-kejsy-dlja-kazhdoj-stranicy-sajta/pasted-image-0-2020-07-03t151536.078.png",
-      "Alt": "Интерфейс персонализации поиска интернет-магазина AllTime с рекомендованными товарами.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -421,7 +420,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-umnyj-merchendajzing-povyshaet-onlajn-prodazhi-kejsy-dlja-kazhdoj-stranicy-sajta/pasted-image-0-2020-07-03t151614.821.png",
-      "Alt": "Пример персонализированной email-рассылки для сегмента обуви, повышающей повторные продажи.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -458,7 +457,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-umnyj-merchendajzing-povyshaet-onlajn-prodazhi-kejsy-dlja-kazhdoj-stranicy-sajta/pasted-image-0-2020-07-03t151653.353.png",
-      "Alt": "Интерфейс с товарными рекомендациями для персонализации в e-commerce на сайте Elyts",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -508,7 +507,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-umnyj-merchendajzing-povyshaet-onlajn-prodazhi-kejsy-dlja-kazhdoj-stranicy-sajta/pasted-image-0-2020-07-03t151743.298.png",
-      "Alt": "Скриншот персонализированной главной страницы сайта Aizel с товарами.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -536,7 +535,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-umnyj-merchendajzing-povyshaet-onlajn-prodazhi-kejsy-dlja-kazhdoj-stranicy-sajta/pasted-image-0-2020-07-03t151813.731.png",
-      "Alt": "Скриншоты сайта с персонализацией в e-commerce, сравнение вариантов страницы товаров.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -555,7 +554,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-umnyj-merchendajzing-povyshaet-onlajn-prodazhi-kejsy-dlja-kazhdoj-stranicy-sajta/pasted-image-0-2020-07-03t151844.031.png",
-      "Alt": "Сравнение персонализации и популярных товаров в ритейле для увеличения продаж.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -591,7 +590,7 @@
           {
             "_t": "Text",
             "Content": "Давайте нужное.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -613,7 +612,7 @@
           {
             "_t": "Text",
             "Content": "Наводите порядок.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -642,6 +641,57 @@
             "Content": "Однажды настроили систему — не значит, что можно забыть. Следите за цифрами: если продажи падают, ищите, что можно улучшить, и не ждите, пока станет хуже."
           }
         ]
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
       ]
     }
   ]

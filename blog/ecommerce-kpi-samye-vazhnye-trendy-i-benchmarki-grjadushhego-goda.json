@@ -24,17 +24,21 @@
   "MetaTitle": "KPI ecommerce 2025 — данные, которые помогут расти, страница 5",
   "ContentBlockList": [
     {
-      "_t": "Heading2",
-      "Title": "Битва за трафик и доход: в какие каналы вкладывать"
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Прежде всего, необходимо понять, откуда приходят клиенты и выручка. Посмотрим, какие источники обеспечивают самый высокий трафик и доход:"
+          "Content": "Несмотря на то, что российский рынок довольно сильно отличается от западного, многие тренды приходят к нам в течение пары-тройки лет. А значит, показатели Wolfgang — это практически взгляд в будущее, которое может и не в точности повторится в российских реалиях, но однозначно появится в той или иной мере в ecommerce в России."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Битва за трафик и доход: в какие каналы вкладывать"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Прежде всего, необходимо понять, откуда приходят клиенты и выручка. Посмотрим, какие источники обеспечивают самый высокий трафик и доход:"
     },
     {
       "_t": "Image",
@@ -52,13 +56,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "А теперь давайте посмотрим, как обстоят дела с выручкой:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "А теперь давайте посмотрим, как обстоят дела с выручкой:"
     },
     {
       "_t": "Image",
@@ -98,13 +97,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "В 2017 году на покупки с компьютера приходился 61%, а заказы с мобильных составляли 26%, при распределении трафика 36% и 52% соответственно:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "В 2017 году на покупки с компьютера приходился 61%, а заказы с мобильных составляли 26%, при распределении трафика 36% и 52% соответственно:"
     },
     {
       "_t": "Image",
@@ -113,24 +107,19 @@
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "А по 2018 году картина по заказам значительно изменилась:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "А по 2018 году картина по заказам значительно изменилась:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/ecommerce-kpi-samye-vazhnye-trendy-i-benchmarki-grjadushhego-goda/image2-1.png",
-      "Alt": "Диаграммы трафика и выручки по устройствам в ритейле, важные KPI 2025.",
+      "Alt": "",
       "Caption": null
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/ecommerce-kpi-samye-vazhnye-trendy-i-benchmarki-grjadushhego-goda/image1-1.png",
-      "Alt": "Диаграммы трафика и доходов по устройствам в мультиканальном ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -230,19 +219,6 @@
       ]
     },
     {
-      "_t": "Heading3",
-      "Title": "+6,4% к выручке благодаря рекомендациям в корзине"
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Petrovich.ru добавил персональные рекомендации товаров прямо на страницу корзины. Конверсия выросла на 2,19%, средний чек — на 4,12%, выручка — на 6,4%."
-        }
-      ]
-    },
-    {
       "_t": "SmallContentBg",
       "TitleElements": [
         {
@@ -309,11 +285,12 @@
               "Content": "Ну а теперь самое интересное — коммерческие метрики."
             }
           ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
         {
           "_t": "Link",
           "Href": "https://www.nielsen.com/content/dam/nielsenglobal/apac/docs/reports/2015/nielsen-global-trust-in-advertising-report-september-2015.pdf",
@@ -329,19 +306,19 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/ecommerce-kpi-samye-vazhnye-trendy-i-benchmarki-grjadushhego-goda/image10.png",
-      "Alt": "Диаграммы конверсии и средний чек в e-commerce трендах 2025.",
+      "Alt": "",
       "Caption": null
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/ecommerce-kpi-samye-vazhnye-trendy-i-benchmarki-grjadushhego-goda/image15.png",
-      "Alt": "Гистограмма конверсий и средний чек, мультиканальность в ритейле и e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/ecommerce-kpi-samye-vazhnye-trendy-i-benchmarki-grjadushhego-goda/image7-1.png",
-      "Alt": "Диаграмма конверсий и средний чек в онлайн-ритейле, персонализация в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -359,19 +336,6 @@
         {
           "_t": "Text",
           "Content": "Например, благодаря внедрению персональных товарных рекомендаций Retail Rocket на всех всех ключевых страницах сайта, доход интернет-магазина Siebel Juweliers вырос на 12%, а общий объем заказов на 18,3%."
-        }
-      ]
-    },
-    {
-      "_t": "Heading3",
-      "Title": "Рост дохода на 12% после внедрения персональных рекомендаций"
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Интернет-магазин Siebel Juweliers установил персональные товарные рекомендации Retail Rocket на всех ключевых страницах. Результат — +12% к выручке и +18,3% к количеству заказов."
         }
       ]
     },
@@ -408,7 +372,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/ecommerce-kpi-samye-vazhnye-trendy-i-benchmarki-grjadushhego-goda/image12.png",
-      "Alt": "Гистограмма корреляции объема выручки с метриками сессии в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -423,7 +387,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/ecommerce-kpi-samye-vazhnye-trendy-i-benchmarki-grjadushhego-goda/image6-1.png",
-      "Alt": "Столбчатая диаграмма корреляции роста выручки с ретаргетингом и email-стратегиями.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -646,11 +610,53 @@
       ]
     },
     {
+      "_t": "Heading2",
+      "Title": "Автор статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
           "_t": "Text",
-          "Content": "Автор статьи Наталья Казьмина CMO Retail Rocket Group"
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

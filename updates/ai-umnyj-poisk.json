@@ -33,15 +33,6 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-        }
-      ]
-    },
-    {
       "_t": "Heading2",
       "Title": "Что такое Умный поиск от Retail Rocket Group и как он работает"
     },
@@ -66,7 +57,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/ai-umnyj-poisk/Capture-2025-10-27-205158.webp",
-      "Alt": "Интерфейс умного поиска с релевантной выдачей для персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -108,7 +99,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/ai-umnyj-poisk/Umnyj-poisk-Retail-Rocket.gif",
-      "Alt": "Интерфейс умного поиска товаров для ванных комнат на сайте e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -125,7 +116,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/ai-umnyj-poisk/Umnyj-poisk-Retail-Rocket-1.gif",
-      "Alt": "Интерфейс умного поиска на сайте с AI персонализацией продуктов.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -142,7 +133,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/ai-umnyj-poisk/Umnyj-poisk-Retail-Rocket-2.gif",
-      "Alt": "Поисковая выдача товаров на сайте с AI персонализацией для кранов.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -159,7 +150,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/ai-umnyj-poisk/Umnyj-poisk-Retail-Rocket-3.gif",
-      "Alt": "Скриншот интерфейса поиска товаров с диванами, AI персонализация сайта.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -356,21 +347,12 @@
       ]
     },
     {
-      "_t": "UnorderedList",
-      "Items": [
-        [
-          {
-            "_t": "Link",
-            "Href": "https://retailrocket.ru/updates/",
-            "Elements": [
-              {
-                "_t": "Text",
-                "Content": "Продуктовые обновления"
-              }
-            ]
-          }
-        ]
-      ]
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
   ]
 }

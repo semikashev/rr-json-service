@@ -3,9 +3,6 @@
   "Label": [
     "Кейсы"
   ],
-  "IndustryList": [
-    "FMCG"
-  ],
   "Title": "Какие механики увеличивают доход от товарных рекомендаций: кейс АШАН",
   "PublishDate": {
     "$date": "2024-08-21T17:08:00"
@@ -26,6 +23,15 @@
   ],
   "MetaTitle": "Какие механики увеличивают доход от товарных рекомендаций в 5 раз: кейс АШАН – Retail Rocket Group",
   "ContentBlockList": [
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Сейчас на сайте и в мобильном приложении АШАН интегрировано больше 30 алгоритмов Retail Rocket Group. Рассказываем о 3 механиках рекомендаций, которые были внедрены недавно, но уже вошли в топ по эффективности."
+        }
+      ]
+    },
     {
       "_t": "Heading2",
       "Title": "Механика № 1 — аналоги товаров «не в наличии»"
@@ -60,7 +66,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-mehaniki-uvelichili-dohod-ot-tovarnyh-rekomendatsiy-v-5-raz-case-aushan/auchan_10.png",
-      "Alt": "Блок «Нет в наличии» без рекомендаций до внедрения механики Ашана",
+      "Alt": "",
       "Caption": "Вид блока «Нет в наличии» до внедрения механик рекомендаций. Пользователь не имел возможности проконтактировать с товарами из блока"
     },
     {
@@ -75,13 +81,13 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-mehaniki-uvelichili-dohod-ot-tovarnyh-rekomendatsiy-v-5-raz-case-aushan/auchan_20.webp",
-      "Alt": "Блок «Нет в наличии» после внедрения: кнопка «Подобрать замену» с попапом рекомендаций",
+      "Alt": "",
       "Caption": "Блок «Нет в наличии» дополнен кнопками «Подобрать замену». При нажатии, открывается попап с рекомендациями"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-mehaniki-uvelichili-dohod-ot-tovarnyh-rekomendatsiy-v-5-raz-case-aushan/auchan_30.webp",
-      "Alt": "Попап с товарными рекомендациями по нажатию «Подобрать замену» на Ашане",
+      "Alt": "",
       "Caption": "Рекомендации, которые видит пользователь при нажатии на кнопку «Подобрать замену»"
     },
     {
@@ -109,7 +115,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-mehaniki-uvelichili-dohod-ot-tovarnyh-rekomendatsiy-v-5-raz-case-aushan/auchan_40.webp",
-      "Alt": "Интерфейс онлайн-магазина с виджетом товарных рекомендаций и персонализированными предложениями.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -129,7 +135,12 @@
           "Content": "Узнайте, как алгоритмы рекомендаций Retail Rocket Group помогают людям находить то, что им нужно"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Запросить демо",
       "BtnUrl": "https://retailrocket.ru/demo/"
     },
@@ -167,8 +178,19 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-mehaniki-uvelichili-dohod-ot-tovarnyh-rekomendatsiy-v-5-raz-case-aushan/auchan_50.webp",
-      "Alt": "Блок рекомендаций «Новинки» на главной странице сайта Ашана",
+      "Alt": "",
       "Caption": "Блок рекомендаций с новинками на главной странице сайта"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
+  ],
+  "IndustryList": [
+    "FMCG"
   ]
 }

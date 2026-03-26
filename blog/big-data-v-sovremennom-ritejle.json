@@ -24,6 +24,15 @@
   "MetaTitle": "Big Data в современном ритейле: предиктивные технологии для роста Retention и LTV – Retail Rocket, страница 6",
   "ContentBlockList": [
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Компании знают, что данные важны, но часто не понимают, как с ними работать. Мы собрали примеры, чтобы показать, как ритейлеры превращают информацию в прибыль."
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Изменение ландшафта ecommerce и традиционного ритейла"
     },
@@ -59,9 +68,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Раньше в сети Walmart работали около тысячи специалистов для анализа 24 тысяч запросов в час. Сейчас для этого используются технологии Big Data, и таким образом современный ритейл переходит от CRM-маркетинга к предиктивным технологиям. Немного цифр:"
+          "Content": "Раньше в сети Walmart работали около тысячи специалистов для анализа 24 тысяч запросов в час. Сейчас для этого используются технологии Big Data, и таким образом современный ритейл переходит от CRM-маркетинга к предиктивным технологиям."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Немного цифр:"
     },
     {
       "_t": "UnorderedList",
@@ -93,18 +106,13 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Прогноз роста рынка Big Data, основанный на выручке с 2011 до 2027 г.г. (в млн. долларов):"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Прогноз роста рынка Big Data, основанный на выручке с 2011 до 2027 г.г. (в млн. долларов):"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/big-data-v-sovremennom-ritejle/1-1-1.png",
-      "Alt": "График роста объема рынка данных, способствует росту LTV в ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -121,13 +129,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Главные возможности применения Big Data в ритейле:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Главные возможности применения Big Data в ритейле:"
     },
     {
       "_t": "UnorderedList",
@@ -223,7 +226,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/big-data-v-sovremennom-ritejle/2-1-1.png",
-      "Alt": "Интерфейс персонализации в e-commerce: связанные и похожие товары для роста LTV.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -240,13 +243,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Механизм предсказания следующей покупки состоит из нескольких этапов:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Механизм предсказания следующей покупки состоит из нескольких этапов:"
     },
     {
       "_t": "UnorderedList",
@@ -272,18 +270,13 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Цепочки строятся для всех товарных категорий. Например, вот реальная цепочка потребления одного из магазинов товаров для детей:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Цепочки строятся для всех товарных категорий. Например, вот реальная цепочка потребления одного из магазинов товаров для детей:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/big-data-v-sovremennom-ritejle/3-1-1.png",
-      "Alt": "Схема цепочки потреблений, иллюстрирующая рост LTV с использованием данных клиентов.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -298,7 +291,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/big-data-v-sovremennom-ritejle/4-1-1.png",
-      "Alt": "Пример персонализированного e-mail с рекомендациями товаров и ключевыми метриками.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -313,7 +306,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/big-data-v-sovremennom-ritejle/5-1-1.png",
-      "Alt": "Пример персонализированного письма с предложением повторной покупки для роста LTV.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -330,18 +323,13 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Чтобы акцентировать внимание на товаре, можно выделить подходящий размер. Также можно указать смежные размеры (на один больше и меньше):"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Чтобы акцентировать внимание на товаре, можно выделить подходящий размер. Также можно указать смежные размеры (на один больше и меньше):"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/big-data-v-sovremennom-ritejle/6.png",
-      "Alt": "Интерфейс интернет-магазина с персонализированными рекомендациями размера для роста LTV.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -356,7 +344,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/big-data-v-sovremennom-ritejle/7.png",
-      "Alt": "Электронное письмо с персонализированными рекомендациями и указанием размеров в наличии.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -443,6 +431,57 @@
             "Content": ": Если понимаете, что клиенту скоро понадобится тот же товар, предупредите его заранее. Это укрепляет связь и стимулирует повторные покупки."
           }
         ]
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
       ]
     }
   ]

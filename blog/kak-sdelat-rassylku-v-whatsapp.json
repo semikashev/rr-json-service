@@ -25,6 +25,24 @@
   "MetaTitle": "Как сделать рассылку в WhatsApp без блокировки и бана, страница 3",
   "ContentBlockList": [
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "В статье упоминаются организации Meta"
+        },
+        {
+          "_t": "Text",
+          "Content": " и Facebook",
+          "IsItalic": true
+        },
+        {
+          "_t": "Text",
+          "Content": " — признаны экстремистскими и запрещены на территории РФ."
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Что такое WhatsApp-рассылка"
     },
@@ -57,19 +75,6 @@
       "Author": "Наталья Пьянзина",
       "AuthorPosition": "CRM-маркетолог CRM-Group",
       "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-rassylku-v-whatsapp/Capture-2025-10-28-195111.png"
-    },
-    {
-      "_t": "Heading3",
-      "Title": "Обзор решений, которые помогают бизнесу расти"
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Покажем, как извлечь максимум: повысить конверсии, LTV и ROI. Дадим рекомендации именно для вашего бизнеса и проведем демонстрацию наших технологий."
-        }
-      ]
     },
     {
       "_t": "SmallContentBg",
@@ -110,7 +115,7 @@
           {
             "_t": "Text",
             "Content": "Интерактивность",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -121,7 +126,7 @@
           {
             "_t": "Text",
             "Content": "Интеграция с CRM и ERP",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -132,7 +137,7 @@
           {
             "_t": "Text",
             "Content": "Мультимедийность",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -152,7 +157,7 @@
           {
             "_t": "Text",
             "Content": "Стоимость",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -163,7 +168,7 @@
           {
             "_t": "Text",
             "Content": "Верификация в Meta",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -219,7 +224,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-rassylku-v-whatsapp/Capture-2025-10-28-195752-scaled.webp",
-      "Alt": "Скриншоты: сообщение с неизвестного номера в WhatsApp и жалоба на спам в Facebook",
+      "Alt": "",
       "Caption": "Интерфейс WhatsApp, когда пользователю написали с неизвестного номера и уведомление в личном кабинете Facebook* о том, что рассылку пометили как спам"
     },
     {
@@ -270,7 +275,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-rassylku-v-whatsapp/Capture-2025-10-28-200036-scaled.webp",
-      "Alt": "Скриншот оценки качества номера WhatsApp Business в личном кабинете Facebook",
+      "Alt": "",
       "Caption": "Пример отображения статуса оценки качества номера в личном кабинете Facebook*"
     },
     {
@@ -278,13 +283,8 @@
       "Title": "Какие действия ведут к блокировке"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Аккаунт в WhatsApp может быть заблокирован по следующим причинам:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Аккаунт в WhatsApp может быть заблокирован по следующим причинам:"
     },
     {
       "_t": "Heading3",
@@ -342,7 +342,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-rassylku-v-whatsapp/Capture-2025-10-28-200416.webp",
-      "Alt": "Список запрещённых для рассылки товаров из Политики WhatsApp",
+      "Alt": "",
       "Caption": "Список запрещённых товаров и услуг из Политики обмена деловыми сообщениями WhatsApp"
     },
     {
@@ -559,9 +559,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "В этом разделе мы рассмотрим три способа рассылки: с личного профиля, через неофициальные программы и с помощью WhatsApp Business API. Выбор подходящего метода поможет оптимизировать ваше общение и максимально эффективно использовать потенциал платформы. Преимущества:"
+          "Content": "В этом разделе мы рассмотрим три способа рассылки: с личного профиля, через неофициальные программы и с помощью WhatsApp Business API. Выбор подходящего метода поможет оптимизировать ваше общение и максимально эффективно использовать потенциал платформы."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Преимущества:"
     },
     {
       "_t": "UnorderedList",
@@ -570,7 +574,7 @@
           {
             "_t": "Text",
             "Content": "Стоимость",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -581,7 +585,7 @@
           {
             "_t": "Text",
             "Content": "Простота",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -591,13 +595,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Недостатки:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Недостатки:"
     },
     {
       "_t": "UnorderedList",
@@ -625,9 +624,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Рассылка через личный аккаунт в WhatsApp является одним из самых простых и доступных видом взаимодействия с контактами. Этим способом можно отправлять сообщения своим друзьям и знакомым без дополнительных затрат. Преимущества:"
+          "Content": "Рассылка через личный аккаунт в WhatsApp является одним из самых простых и доступных видом взаимодействия с контактами. Этим способом можно отправлять сообщения своим друзьям и знакомым без дополнительных затрат."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Преимущества:"
     },
     {
       "_t": "UnorderedList",
@@ -636,7 +639,7 @@
           {
             "_t": "Text",
             "Content": "Удобство",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -647,7 +650,7 @@
           {
             "_t": "Text",
             "Content": "Быстрота",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -657,13 +660,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Недостатки:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Недостатки:"
     },
     {
       "_t": "UnorderedList",
@@ -691,9 +689,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Существуют неофициальные, или серые методы рассылки в WhatsApp, которые обходят официальные API и политику платформы. Такие рассылки используют компании, которые хотят взаимодействовать с клиентами через WhatsApp, но избегают официальных процедур регистрации. Преимущества:"
+          "Content": "Существуют неофициальные, или серые методы рассылки в WhatsApp, которые обходят официальные API и политику платформы. Такие рассылки используют компании, которые хотят взаимодействовать с клиентами через WhatsApp, но избегают официальных процедур регистрации."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Преимущества:"
     },
     {
       "_t": "UnorderedList",
@@ -702,7 +704,7 @@
           {
             "_t": "Text",
             "Content": "Удобство",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -713,7 +715,7 @@
           {
             "_t": "Text",
             "Content": "Быстрота",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -723,13 +725,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Недостатки:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Недостатки:"
     },
     {
       "_t": "UnorderedList",
@@ -757,9 +754,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "WABA — единственный официальный и безопасный способ для массовых рассылок. Этот сервис предназначен для бизнеса и позволяет взаимодействовать с клиентами на профессиональном уровне. Преимущества:"
+          "Content": "WABA — единственный официальный и безопасный способ для массовых рассылок. Этот сервис предназначен для бизнеса и позволяет взаимодействовать с клиентами на профессиональном уровне."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Преимущества:"
     },
     {
       "_t": "UnorderedList",
@@ -768,7 +769,7 @@
           {
             "_t": "Text",
             "Content": "Безопасность",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -779,7 +780,7 @@
           {
             "_t": "Text",
             "Content": "Массовость",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -790,7 +791,7 @@
           {
             "_t": "Text",
             "Content": "Идентификация компании",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -801,7 +802,7 @@
           {
             "_t": "Text",
             "Content": "Аналитика и интеграция",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -811,13 +812,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Недостатки:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Недостатки:"
     },
     {
       "_t": "UnorderedList",
@@ -983,6 +979,57 @@
         {
           "_t": "Text",
           "Content": "После отправки обязательно анализируйте результаты: откройте статистику, чтобы понять, насколько эффективна ваша рассылка, и используйте эту информацию для последующих кампаний."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

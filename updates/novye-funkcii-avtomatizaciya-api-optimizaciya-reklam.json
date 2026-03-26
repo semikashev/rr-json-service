@@ -42,18 +42,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Что изменилось",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": ". Больше никакой ручной подготовки счетов и актов! AdTech-платформа Smart Placement Ads автоматически:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Что изменилось. Больше никакой ручной подготовки счетов и актов! AdTech-платформа Smart Placement Ads автоматически:"
     },
     {
       "_t": "UnorderedList",
@@ -90,7 +80,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/novye-funkcii-avtomatizaciya-api-optimizaciya-reklam/SmP_upd_p2_10-1.webp",
-      "Alt": "Интерфейс отчётности Smart Placement Portal с возможностью скачивания файлов.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -174,18 +164,8 @@
       "Title": "Подробное описание новых методов"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Регистрация рекламодателя",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": ". Потребуются следующие данные:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Регистрация рекламодателя. Потребуются следующие данные:"
     },
     {
       "_t": "UnorderedList",
@@ -317,18 +297,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Получение истории пополнений баланса",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": ". Метод возвращает следующие данные:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Получение истории пополнений баланса. Метод возвращает следующие данные:"
     },
     {
       "_t": "UnorderedList",
@@ -392,18 +362,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Что изменилось",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": ". Обновили страницу со списком запущенных на онлайн-площадке реклам:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Что изменилось. Обновили страницу со списком запущенных на онлайн-площадке реклам:"
     },
     {
       "_t": "UnorderedList",
@@ -425,17 +385,12 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/novye-funkcii-avtomatizaciya-api-optimizaciya-reklam/SmP_upd_p2_20-1.webp",
-      "Alt": "Интерфейс платформы Smart Placement с фильтрацией по статусам заявок.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Теперь менеджер онлайн-площадки получает более полную информацию о всей размещённой рекламе, рекламируемом контенте и условиях показа:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Теперь менеджер онлайн-площадки получает более полную информацию о всей размещённой рекламе, рекламируемом контенте и условиях показа:"
     },
     {
       "_t": "UnorderedList",
@@ -488,9 +443,13 @@
         },
         {
           "_t": "Text",
-          "Content": ". Появилась возможность запускать рекламу с форматом «Общая товарная полка» в виджетах рекомендаций Retail Rocket Group, которые интегрированы с помощью JS SDK. Преимущества:"
+          "Content": ". Появилась возможность запускать рекламу с форматом «Общая товарная полка» в виджетах рекомендаций Retail Rocket Group, которые интегрированы с помощью JS SDK."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Преимущества:"
     },
     {
       "_t": "UnorderedList",
@@ -517,9 +476,22 @@
           "Content": "Узнайте, как работает adTech-платформа Smart Placement Ads в действии"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Получить предложение",
       "BtnUrl": "https://smartplacementads.ru/?utm_source=rr&utm_medium=blog&utm_campaign=productupdates&utm_content=link"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
   ]
 }

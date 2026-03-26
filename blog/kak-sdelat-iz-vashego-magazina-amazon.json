@@ -24,6 +24,15 @@
   "MetaTitle": "Как сделать из вашего магазина Amazon: лайфхаки для эффективной карточки товара – Retail Rocket, страница 5",
   "ContentBlockList": [
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Если вы хотите, чтобы покупатель возвращался в ваш интернет-магазин за новыми покупками и рекомендовал его знакомым, нужно обеспечить максимально клиентоориентированный сервис и сделать процесс покупки простым и удобным. Сегодня мы рассмотрим ключевые достоинства оформления карточки товара Amazon, которые позволяют ему оставаться лидером отрасли e-commerce."
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Совет 1. Разместите детальные фотографии товара"
     },
@@ -48,7 +57,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-iz-vashego-magazina-amazon/1.png",
-      "Alt": "Скриншот карточки товара на Amazon с кокосовым маслом и баттон «Подписаться и сэкономить",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -85,7 +94,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-iz-vashego-magazina-amazon/2-1.png",
-      "Alt": "Страница товара на Amazon с ценой и отзывами, персонализация в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -100,7 +109,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-iz-vashego-magazina-amazon/3.png",
-      "Alt": "Интерфейс сайта с блоком персональных рекомендаций в e-commerce магазине Finn Flare.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -137,7 +146,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-iz-vashego-magazina-amazon/4-1.png",
-      "Alt": "Скриншот карточки товара на Amazon с опциями подписки и экономии.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -152,7 +161,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-iz-vashego-magazina-amazon/5-1.png",
-      "Alt": "Пример письма с персонализированными рекомендациями продуктов для повторного спроса в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -180,7 +189,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-iz-vashego-magazina-amazon/6.png",
-      "Alt": "Скриншот блока рекомендаций на сайте Amazon с видеошортами для товаров",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -217,7 +226,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-iz-vashego-magazina-amazon/7.png",
-      "Alt": "Блок рекомендаций на сайте Amazon с товарами, часто покупаемыми вместе.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -232,7 +241,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-iz-vashego-magazina-amazon/8.png",
-      "Alt": "Блок рекомендаций на сайте Amazon с товарами для укладки волос",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -247,7 +256,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-iz-vashego-magazina-amazon/9.png",
-      "Alt": "Схема расположения блоков рекомендаций в карточке товара для e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -275,7 +284,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-iz-vashego-magazina-amazon/10.png",
-      "Alt": "Интерфейс карточки товара на Amazon с поисковым блоком и описанием товара.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -290,7 +299,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-iz-vashego-magazina-amazon/15.png",
-      "Alt": "Скриншот клиентских вопросов и ответов на товарной странице Amazon.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -327,7 +336,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-iz-vashego-magazina-amazon/12-1.png",
-      "Alt": "Скриншот отзывов на товар Amazon с оценками и комментариями покупателей.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -342,7 +351,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-iz-vashego-magazina-amazon/13.png",
-      "Alt": "Интерфейс отзывов на Amazon с оценками и текстовыми комментариями покупателей.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -357,7 +366,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-iz-vashego-magazina-amazon/14.png",
-      "Alt": "Скриншот отзывов и тегов на товарной карточке Amazon, персонализация в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -379,6 +388,57 @@
         {
           "_t": "Text",
           "Content": "Работайте над увеличением объемов продаж вашего интернет-магазина, ориентируясь на успешный опыт мирового онлайн-гиганта. Проанализируйте карточку товара на вашем сайте и подумайте, какие практики Amazon будут полезны именно для вашего бизнеса. Учитесь у лучших — будьте лучшими!"
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

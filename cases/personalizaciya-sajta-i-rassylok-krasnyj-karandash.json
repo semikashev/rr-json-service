@@ -3,16 +3,14 @@
   "Label": [
     "Кейсы"
   ],
-  "IndustryList": [
-    "DIY",
-    "Искусство"
-  ],
   "Title": "+21,9 % выручки с помощью персонализации сайта и рассылок. Кейс «Красный Карандаш»",
   "PublishDate": {
     "$date": "2026-02-05T14:06:55"
   },
   "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalizaciya-sajta-i-rassylok-krasnyj-karandash/Blog-Articles-Thumbnail-from-TinyPNG.png",
-  "AuthorIdList": [],
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "LeadText": [
     {
       "Elements": [
@@ -101,7 +99,7 @@
           {
             "_t": "Text",
             "Content": "1484,7% ROI",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -112,7 +110,7 @@
           {
             "_t": "Text",
             "Content": "+16,3% к AOV",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -123,7 +121,7 @@
           {
             "_t": "Text",
             "Content": "19,95%",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -171,13 +169,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Детальная статистика по блокам рекомендаций показывает, какие точки контакта работают наиболее эффективно"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Детальная статистика по блокам рекомендаций показывает, какие точки контакта работают наиболее эффективно"
     },
     {
       "_t": "Heading3",
@@ -279,7 +272,7 @@
           {
             "_t": "Text",
             "Content": "Автоматизированной",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -290,7 +283,7 @@
           {
             "_t": "Text",
             "Content": "Измеримой",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -301,7 +294,7 @@
           {
             "_t": "Text",
             "Content": "Масштабируемой",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -312,7 +305,7 @@
           {
             "_t": "Text",
             "Content": "Омниканальной",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -348,13 +341,8 @@
       "Title": "Персонализация сайта"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Retail Rocket Group развернул систему AI-рекомендаций, покрывающую все ключевые точки контакта на сайте:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Retail Rocket Group развернул систему AI-рекомендаций, покрывающую все ключевые точки контакта на сайте:"
     },
     {
       "_t": "UnorderedList",
@@ -363,7 +351,7 @@
           {
             "_t": "Text",
             "Content": "Карточка товара",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -374,7 +362,7 @@
           {
             "_t": "Text",
             "Content": "Категория товаров",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -385,7 +373,7 @@
           {
             "_t": "Text",
             "Content": "Главная страница",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -396,7 +384,7 @@
           {
             "_t": "Text",
             "Content": "Корзина",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -407,7 +395,7 @@
           {
             "_t": "Text",
             "Content": "Пустая корзина",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -418,7 +406,7 @@
           {
             "_t": "Text",
             "Content": "Личный кабинет, избранное, страница 404, блог",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -429,7 +417,7 @@
           {
             "_t": "Text",
             "Content": "Страница успешного заказа",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -439,6 +427,12 @@
       ]
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalizaciya-sajta-i-rassylok-krasnyj-karandash/Image-from-TinyPNG-4-1.png",
+      "Alt": "",
+      "Caption": "Страница пустой корзины с рекомендациями «Хиты продаж» на сайте «Красный Карандаш»"
+    },
+    {
       "_t": "SmallContentBg",
       "TitleElements": [
         {
@@ -446,7 +440,12 @@
           "Content": "Узнайте подробнее, как работают алгоритмы рекомендаций Retail Rocket Group"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Узнать больше",
       "BtnUrl": "https://retailrocket.ru/personalization/"
     },
@@ -459,14 +458,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Email-канал «Красного Карандаша» — экосистема из трех типов коммуникаций, а не один инструмент. У каждого своя роль и экономика. "
-        },
-        {
-          "_t": "Text",
-          "Content": "Email-маркетинг: структура канала",
-          "IsHighlight": true
+          "Content": "Email-канал «Красного Карандаша» — экосистема из трех типов коммуникаций, а не один инструмент. У каждого своя роль и экономика."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Email-маркетинг: структура канала"
     },
     {
       "_t": "Table",
@@ -531,13 +529,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Триггерная цепочка включает 16 сценариев, охватывающих весь жизненный цикл клиента:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Триггерная цепочка включает 16 сценариев, охватывающих весь жизненный цикл клиента:"
     },
     {
       "_t": "UnorderedList",
@@ -574,7 +567,7 @@
           {
             "_t": "Text",
             "Content": "Next Best Offer",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -586,7 +579,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalizaciya-sajta-i-rassylok-krasnyj-karandash/image4-1.png",
-      "Alt": "Триггерный email с персональными рекомендациями алгоритма Next Best Offer",
+      "Alt": "",
       "Caption": "Пример триггерного email с персональной подборкой товаров на основе алгоритма рекомендаций Next Best Offer от Retail Rocket Group"
     },
     {
@@ -615,7 +608,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalizaciya-sajta-i-rassylok-krasnyj-karandash/Image-from-TinyPNG-3-1.png",
-      "Alt": "Массовая email-рассылка интернет-магазина «Красный Карандаш»",
+      "Alt": "",
       "Caption": "Пример контента массовой рассылки «Красный Карандаш»"
     },
     {
@@ -640,7 +633,12 @@
           "Content": "Подробнее о том, как запустить омниканальные коммуникации"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Узнать больше",
       "BtnUrl": "https://retailrocket.ru/automation/"
     },
@@ -669,7 +667,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/personalizaciya-sajta-i-rassylok-krasnyj-karandash/2026-02-04-15-21-18.gif",
-      "Alt": "Скринкаст создания рассылки с товарными рекомендациями в визуальном редакторе Retail Rocket",
+      "Alt": "",
       "Caption": "Процесс создания рассылки с блоком товарных рекомендаций в визуальном редакторе Retail Rocket Group"
     },
     {
@@ -729,13 +727,8 @@
       "Title": "Кому подойдет похожее решение"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Опыт «Красного Карандаша» наиболее релевантен для следующих сегментов:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Опыт «Красного Карандаша» наиболее релевантен для следующих сегментов:"
     },
     {
       "_t": "UnorderedList",
@@ -765,6 +758,14 @@
           }
         ]
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
+  ],
+  "IndustryList": [
+    "DIY",
+    "Искусство"
   ]
 }

@@ -58,7 +58,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernyim-rassyilkam/unnamed-7.png",
-      "Alt": "Акция с купоном 500 рублей для новогодних покупок; триггерная email рассылка.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -78,7 +78,12 @@
           "Content": "Триггерные рассылки в онлайн-гипермаркете мебели Hoff.ru"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Читать кейс",
       "BtnUrl": "https://retailrocketgroup.ru/blog/gid-po-triggernyim-rassyilkam/#:~:text=%D0%A2%D1%80%D0%B8%D0%B3%D0%B3%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%20%D1%80%D0%B0%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8%20%D0%B2%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%2D%D0%B3%D0%B8%D0%BF%D0%B5%D1%80%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B5%20%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D0%B8%20Hoff.ru"
     },
@@ -169,7 +174,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernyim-rassyilkam/image7-1.png",
-      "Alt": "Конверсия триггерных email для \"брошенных корзин\" по категориям товаров в infографике.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -193,7 +198,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernyim-rassyilkam/unnamed-8.png",
-      "Alt": "Инфографика: конверсия триггерных email рассылок в разных категориях товаров.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -279,7 +284,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernyim-rassyilkam/unnamed-9.png",
-      "Alt": "Пример триггерного email, рекомендации и просмотренные товары в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -357,7 +362,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernyim-rassyilkam/unnamed-10.png",
-      "Alt": "Пример триггерного email письма с рекомендациями товаров и приветствием.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -430,7 +435,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernyim-rassyilkam/unnamed-11.png",
-      "Alt": "Пример триггерного email с AI рекомендациями альтернативных товаров в отсутствие товара",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -512,7 +517,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernyim-rassyilkam/unnamed-12.png",
-      "Alt": "Триггерные email рассылки с предложениями товаров по сниженной цене.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -576,7 +581,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernyim-rassyilkam/unnamed-13.png",
-      "Alt": "Email рассылки: пример письма с триггерными и AI рекомендациями товаров.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -622,7 +627,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernyim-rassyilkam/unnamed-14.png",
-      "Alt": "Email рассылка с товарами из брошенной корзины, триггерные email для увеличения продаж.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -655,7 +660,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernyim-rassyilkam/unnamed-15.png",
-      "Alt": "Гистограмма времени принятия решения о покупке в интернет-магазинах разных категорий.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -692,7 +697,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernyim-rassyilkam/unnamed-16.png",
-      "Alt": "График статистики использования поиска на сайте для email рассылки",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -725,7 +730,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernyim-rassyilkam/unnamed-17.png",
-      "Alt": "Пример триггерного email с рекомендациями товаров в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -789,7 +794,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernyim-rassyilkam/unnamed-18.png",
-      "Alt": "Пример письма триггерной email-рассылки с персональными рекомендациями товаров.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -844,7 +849,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernyim-rassyilkam/unnamed-19.png",
-      "Alt": "Пример триггерного email с акциями и предложением повторного запроса товаров.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -908,7 +913,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernyim-rassyilkam/unnamed-20.png",
-      "Alt": "Пример триггерного email-письма с AI рекомендациями для reactivation.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -981,7 +986,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernyim-rassyilkam/unnamed-21.png",
-      "Alt": "Схема цепочки потребностей клиентов с использованием AI рекомендаций в маркетинге.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -996,7 +1001,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernyim-rassyilkam/unnamed-22.png",
-      "Alt": "Шаблон триггерного email-письма с AI рекомендациями для e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -1042,7 +1047,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernyim-rassyilkam/unnamed-23.png",
-      "Alt": "Схема триггерных email-рассылок для интернет-магазина с этапами воронки продаж.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -1390,14 +1395,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Таблица: Ручное создание триггерных цепочек vs. использование готовых сценариев",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Таблица: Ручное создание триггерных цепочек vs. использование готовых сценариев"
     },
     {
       "_t": "Table",
@@ -1444,7 +1443,16 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "2. Как связать поведение пользователя с его email? Вот пошагово:"
+          "Content": "2. Как связать поведение пользователя с его email?"
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Вот пошагово:"
         }
       ]
     },
@@ -1575,6 +1583,57 @@
         {
           "_t": "Text",
           "Content": "Чтобы не раздражать клиентов, есть ограничение: не больше трёх писем в неделю. Это настраивается. По умолчанию — одно письмо раз в 48 часов."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

@@ -39,7 +39,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/novaya-statistika-po-tovarnym-rekomendatsiyam-obnovlenie-algoritma-next-best-offer/updatestats_10-1.webp",
-      "Alt": "Скриншот интерфейса Retail Rocket с настройками и статистикой рекомендаций.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -47,13 +47,8 @@
       "Title": "Какие метрики доступны для аналитики"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Статистика товарных рекомендаций включает информацию по показам, кликам, конверсиям и другим метрикам:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Статистика товарных рекомендаций включает информацию по показам, кликам, конверсиям и другим метрикам:"
     },
     {
       "_t": "UnorderedList",
@@ -132,7 +127,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/novaya-statistika-po-tovarnym-rekomendatsiyam-obnovlenie-algoritma-next-best-offer/updatestats_20-1.webp",
-      "Alt": "Статистика эффективности рекомендаций с обновлением алгоритма Next best offer в интерфейсе Retail Rocket.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -214,12 +209,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Контролируйте корректность интеграции",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": ". Если статистика отсутствует, проверьте работу блока рекомендаций."
+          "Content": "Контролируйте корректность интеграции. Если статистика отсутствует, проверьте работу блока рекомендаций."
         }
       ]
     },
@@ -228,12 +218,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Улучшайте дизайн и наполнение",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": ". Тестируйте дизайн и товарную базу, чтобы увеличивать показатель кликабельности."
+          "Content": "Улучшайте дизайн и наполнение. Тестируйте дизайн и товарную базу, чтобы увеличивать показатель кликабельности."
         }
       ]
     },
@@ -242,12 +227,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Оптимизируйте рекомендации",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": ". Экспериментируйте с алгоритмами, чтобы найти наиболее эффективные решения."
+          "Content": "Оптимизируйте рекомендации. Экспериментируйте с алгоритмами, чтобы найти наиболее эффективные решения."
         }
       ]
     },
@@ -289,9 +269,22 @@
           "Content": "Узнайте, как алгоритмы Retail Rocket Group помогают людям находить то, что им нужно"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Узнать",
       "BtnUrl": "https://retailrocket.ru/demo/"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
   ]
 }

@@ -24,13 +24,8 @@
   "MetaTitle": "Восьмая MarTech-конференция Retention Day пройдет в Москве – Retail Rocket Group",
   "ContentBlockList": [
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "В этот раз Retention Day будет включать три тематических трека:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "В этот раз Retention Day будет включать три тематических трека:"
     },
     {
       "_t": "UnorderedList",
@@ -56,13 +51,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Спикерами конференции станут:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Спикерами конференции станут:"
     },
     {
       "_t": "UnorderedList",
@@ -143,6 +133,10 @@
       "Author": "Сергей Тимохин,",
       "AuthorPosition": "генеральный директор Retail Rocket Group",
       "AuthorImageUrl": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
   ]
 }

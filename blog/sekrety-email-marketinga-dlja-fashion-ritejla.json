@@ -28,6 +28,15 @@
       "Elements": [
         {
           "_t": "Text",
+          "Content": "Одна из главных задач fashion-ритейлера — подобрать индивидуальный подход к каждому онлайн-покупателю для идеального удовлетворения его желаний и потребностей."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
           "Content": "Сегодня мы расскажем о 6 лучших способах повысить эффективность email-кампаний, которые помогут ритейлерам в области fashion ecommerce стать ближе к клиентам и увеличить объем заказов."
         }
       ]
@@ -66,7 +75,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/sekrety-email-marketinga-dlja-fashion-ritejla/1-2.png",
-      "Alt": "Гистограмма, показывающая предпочтения частоты маркетинговых рассылок в email маркетинге.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -90,7 +99,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/sekrety-email-marketinga-dlja-fashion-ritejla/2-2.png",
-      "Alt": "Скриншот email-маркетинга с динамической отправкой и персонализацией предложений.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -193,7 +202,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/sekrety-email-marketinga-dlja-fashion-ritejla/3-3.png",
-      "Alt": "Пример email рассылки AIZEL с AI рекомендациями и персонализацией маркетинга",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -252,7 +261,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/sekrety-email-marketinga-dlja-fashion-ritejla/4-3.png",
-      "Alt": "Пример письма с AI рекомендациями для персонализации в email маркетинге.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -280,7 +289,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/sekrety-email-marketinga-dlja-fashion-ritejla/5-3.png",
-      "Alt": "A/B тестирование email маркетинга: сравнительный анализ двух сегментов писем.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -353,6 +362,57 @@
         {
           "_t": "Text",
           "Content": "Модные тенденции непостоянны, а вместе с ними меняются и вкусы покупателей, поэтому для интернет-магазина так важно адаптироваться под актуальные предпочтения пользователей и отправлять им рассылки с трендовыми и максимально интересными товарными предложениями."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

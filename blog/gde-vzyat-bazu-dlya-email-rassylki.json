@@ -25,6 +25,15 @@
   "MetaTitle": "Где взять базу для email-рассылки: легальные способы сбора, страница 2",
   "ContentBlockList": [
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Ключевой фактор успешной email-рассылки — это качественная база подписчиков. От того, насколько точно подобраны адресаты, зависит эффективность коммуникации и конверсия. В этой статье рассказываем где и как можно получить надёжные данные для рассылки."
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Почему нужно собирать базу легально"
     },
@@ -83,6 +92,12 @@
       ]
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gde-vzyat-bazu-dlya-email-rassylki/01_email_database.jpg",
+      "Alt": "условия легальности базы",
+      "Caption": null
+    },
+    {
       "_t": "SmallContentBg",
       "TitleElements": [
         {
@@ -90,7 +105,12 @@
           "Content": "Узнайте, как использовать данные с сайта, кассы и приложения, чтобы предлагать клиентам то, что они действительно купят"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Оставить заявку",
       "BtnUrl": "https://retailrocket.ru/demo/"
     },
@@ -128,7 +148,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gde-vzyat-bazu-dlya-email-rassylki/02_email_database.jpg",
-      "Alt": "Форма подписки Lamoda со скидкой 10% за регистрацию",
+      "Alt": "",
       "Caption": "Ламода предлагает подписаться на их новости и дарит за это скидку на 10%"
     },
     {
@@ -168,7 +188,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gde-vzyat-bazu-dlya-email-rassylki/04_email_database.png",
-      "Alt": "Форма согласия на рассылку при регистрации на курс Яндекс Рекламы",
+      "Alt": "",
       "Caption": "Яндекс Реклама предлагает дать своё согласие на получение рекламных и маркетинговых сообщений во время регистрации на их курс"
     },
     {
@@ -188,7 +208,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gde-vzyat-bazu-dlya-email-rassylki/05_email_database.png",
-      "Alt": "Реклама Московской Бизнес Академии ВКонтакте со сбором контактов",
+      "Alt": "",
       "Caption": "Московская Бизнес Академия в ВК, в своих рекламных постах, предлагает подать заявку на обучение, где необходимо оставить свои контакты и согласие на рассылку"
     },
     {
@@ -228,7 +248,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gde-vzyat-bazu-dlya-email-rassylki/07_email_database.jpg",
-      "Alt": "Форма регистрации на вебинар Яндекс Рекламы с согласием на получение рассылок",
+      "Alt": "",
       "Caption": "Яндекс Реклама приглашает зарегистрироваться на бесплатный вебинар и оформить согласие на получение рекламных и маркетинговых сообщений"
     },
     {
@@ -283,7 +303,7 @@
         {
           "_t": "Text",
           "Content": "Проведение мероприятий.",
-          "IsHighlight": true
+          "IsItalic": true
         },
         {
           "_t": "Text",
@@ -296,12 +316,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Доставка товаров.",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Оставляйте Qr-коды на упаковке товаров и предлагайте покупателям подписаться на рассылку."
+          "Content": "Доставка товаров. Оставляйте Qr-коды на упаковке товаров и предлагайте покупателям подписаться на рассылку."
         }
       ]
     },
@@ -325,7 +340,7 @@
           {
             "_t": "Text",
             "Content": "Купленные.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -358,7 +373,7 @@
           {
             "_t": "Text",
             "Content": "Полученные для других целей.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -443,6 +458,57 @@
             "Content": " Получатели, которые не давали согласия на получение рассылок, с большей вероятностью будут жаловаться на спам, что может снизить доставляемость писем и ухудшить показатели эффективности."
           }
         ]
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
       ]
     }
   ]

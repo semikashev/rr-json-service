@@ -80,13 +80,8 @@
       "Title": "Что изменилось"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Теперь в Smart Placement можно автоматически включать вложенные категории. Опция доступна для трёх условий таргетинга:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Теперь в Smart Placement можно автоматически включать вложенные категории. Опция доступна для трёх условий таргетинга:"
     },
     {
       "_t": "UnorderedList",
@@ -123,7 +118,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/smart-placement-avto-vlozhennye-kategorii-v-targetinge/image-26.webp",
-      "Alt": "Скриншот интерфейса с настройками вложенных категорий для Smart Placement в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -146,6 +141,14 @@
       "Author": "Александра Ганеева",
       "AuthorPosition": "Senior Trade Manager Retail Rocket Group",
       "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rtb-reklama/Capture-2025-10-30-191705-300x300.webp"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
   ]
 }

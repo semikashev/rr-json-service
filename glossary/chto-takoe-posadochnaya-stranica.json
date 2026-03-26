@@ -4,7 +4,12 @@
     "Словарь"
   ],
   "Title": "Что такое посадочная страница и её применение в маркетинге",
-  "MetaTitle": "Что такое посадочная страница: определение, примеры и применение в маркетинге",
+  "PublishDate": {
+    "$date": "2025-09-03T11:17:00"
+  },
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "LeadText": [
     {
       "Elements": [
@@ -15,13 +20,7 @@
       ]
     }
   ],
-  "PublishDate": {
-    "$date": "2025-09-03T11:17:00"
-  },
-  "Letter": "П",
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Что такое посадочная страница: определение, примеры и применение в маркетинге",
   "ContentBlockList": [
     {
       "_t": "Paragraph",
@@ -42,15 +41,6 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-        }
-      ]
-    },
-    {
       "_t": "Heading2",
       "Title": "Что такое посадочная страница"
     },
@@ -59,9 +49,17 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Посадочная страница — целевая (от англ. landing page) страница, куда попадает посетитель после клика по рекламе, ссылке в рассылке или на результаты поиска. Это отдельная веб-страница, сконцентрированная на одном действии — например, заполнении формы или покупке. Источник: Cambridge English Dictionary Ключевые факты:"
+          "Content": "Посадочная страница — целевая (от англ. landing page) страница, куда попадает посетитель после клика по рекламе, ссылке в рассылке или на результаты поиска. Это отдельная веб-страница, сконцентрированная на одном действии — например, заполнении формы или покупке."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Источник: Cambridge English Dictionary"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Ключевые факты:"
     },
     {
       "_t": "UnorderedList",
@@ -230,7 +228,16 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Маркетологу нужно понимать, что такое посадочная страница, потому что она напрямую влияет на конверсию. Каждая кампания требует точки входа, где пользователь примет решение — выполнить целевое действие или уйти. Понимание принципов посадочной страницы помогает не терять трафик, за который уже заплачено. Вот наглядный пример."
+          "Content": "Маркетологу нужно понимать, что такое посадочная страница, потому что она напрямую влияет на конверсию. Каждая кампания требует точки входа, где пользователь примет решение — выполнить целевое действие или уйти. Понимание принципов посадочной страницы помогает не терять трафик, за который уже заплачено."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Вот наглядный пример."
         }
       ]
     },
@@ -244,13 +251,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Иначе говоря, посадочная страница влияет на ключевые показатели маркетолога:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Иначе говоря, посадочная страница влияет на ключевые показатели маркетолога:"
     },
     {
       "_t": "UnorderedList",
@@ -374,7 +376,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-posadochnaya-stranica/1-1.png",
-      "Alt": "Интерфейс контекстной рекламы и посадочной страницы для ноутбука в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -402,7 +404,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-posadochnaya-stranica/2.png",
-      "Alt": "Таргетированная реклама и посадочная страница мюзикла в маркетинговой кампании.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -430,7 +432,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-posadochnaya-stranica/3.png",
-      "Alt": "Сравнение email-рассылки и посадочной страницы для персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -458,7 +460,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-posadochnaya-stranica/4.png",
-      "Alt": "Видеоурок и форма регистрации на курс по макияжу на целевой странице.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -486,8 +488,60 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-posadochnaya-stranica/5-1.png",
-      "Alt": "Ретаргетинг и посадочная страница для курса по дизайну интерьера",
+      "Alt": "",
       "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "Letter": "П"
 }

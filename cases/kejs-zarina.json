@@ -3,9 +3,6 @@
   "Label": [
     "Кейсы"
   ],
-  "IndustryList": [
-    "Ритейл"
-  ],
   "Title": "Кейс Zarina: рост выручки благодаря персональным рекомендациям",
   "PublishDate": {
     "$date": "2018-05-16T16:59:00"
@@ -26,6 +23,15 @@
   ],
   "MetaTitle": "Кейс Zarina: рост выручки более чем на 28% благодаря персональным рекомендациям – Retail Rocket Group, страница 2",
   "ContentBlockList": [
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Идеальным решением будет показать каждому пользователю персонализированные под его личные интересы варианты страниц интернет-магазина. Покупатели испытывают максимально положительные эмоции от взаимодействия с брендом, когда видят на сайте именно те товары, за которыми они пришли. Персонализированные товарные рекомендации позволяют бренду значительно сэкономить время пользователя на поиск нужной модели и предложить дополнительные позиции, которые также могут его заинтересовать."
+        }
+      ]
+    },
     {
       "_t": "Paragraph",
       "Elements": [
@@ -93,7 +99,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kejs-zarina/1-4.webp",
-      "Alt": "Скриншот интерфейса с блоком персональных рекомендаций сайта.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -112,18 +118,13 @@
       "Title": "Результаты"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "По итогам тестирования были получены следующие результаты:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "По итогам тестирования были получены следующие результаты:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kejs-zarina/Snimok-ekrana-2025-11-09-v-20.09.27.png",
-      "Alt": "Таблица с данными о росте выручки от персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -184,7 +185,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kejs-zarina/retail-rocket_zarina_2_1.webp",
-      "Alt": "Скриншот интерфейса сайта с AI рекомендациями и блоком альтернативных товаров.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -201,7 +202,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kejs-zarina/3-4.webp",
-      "Alt": "Скриншот интерфейса сайта Zarina с блоком рекомендаций для персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -220,18 +221,13 @@
       "Title": "Результаты"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "По итогам тестирования были получены следующие результаты:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "По итогам тестирования были получены следующие результаты:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kejs-zarina/Snimok-ekrana-2025-11-09-v-20.13.33.webp",
-      "Alt": "Таблица с результатами роста выручки от персонализации в ритейле‍‍",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -257,13 +253,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Все посетители сайта Zarina.ru случайным образом делились на три сегмента, каждый из которых видел свой вариант карточки товара:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Все посетители сайта Zarina.ru случайным образом делились на три сегмента, каждый из которых видел свой вариант карточки товара:"
     },
     {
       "_t": "OrderedList",
@@ -279,7 +270,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kejs-zarina/4-3.webp",
-      "Alt": "Интерфейс интернет-магазина Zarina с блоком рекомендаций и персонализацией в e-commerce",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -296,7 +287,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kejs-zarina/5-2.webp",
-      "Alt": "Интерфейс сайта Zarina с блоком рекомендаций для персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -313,7 +304,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kejs-zarina/6-2.webp",
-      "Alt": "Скриншот сайта Zarina с блоком персонализированных товарных рекомендаций на основе данных клиента.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -321,18 +312,13 @@
       "Title": "Результаты"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "По итогам тестирования были получены следующие результаты:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "По итогам тестирования были получены следующие результаты:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kejs-zarina/Snimok-ekrana-2025-11-09-v-20.20.14.png",
-      "Alt": "Таблица: рост выручки Zarina благодаря персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -389,13 +375,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Все посетители сайта Zarina.ru случайным образом делились на три сегмента, каждый из которых видел свою версию корзины:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Все посетители сайта Zarina.ru случайным образом делились на три сегмента, каждый из которых видел свою версию корзины:"
     },
     {
       "_t": "OrderedList",
@@ -411,7 +392,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kejs-zarina/7-2.webp",
-      "Alt": "Скриншот корзины интернет-магазина Zarina с блоком персонализированных рекомендаций.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -428,7 +409,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kejs-zarina/8-1.webp",
-      "Alt": "Скриншот корзины с блоком рекомендаций на сайте Zarina.ru",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -447,18 +428,13 @@
       "Title": "Результаты"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "По итогам тестирования были получены следующие результаты:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "По итогам тестирования были получены следующие результаты:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kejs-zarina/Snimok-ekrana-2025-11-09-v-20.26.04.png",
-      "Alt": "Таблица с данными о росте выручки и конверсии благодаря персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -484,13 +460,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Все посетители сайта Zarina.ru случайным образом делились на три сегмента:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Все посетители сайта Zarina.ru случайным образом делились на три сегмента:"
     },
     {
       "_t": "OrderedList",
@@ -506,7 +477,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kejs-zarina/9-1.webp",
-      "Alt": "Скриншот корзины интернет-магазина с рекомендациями, персонализация в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -523,7 +494,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kejs-zarina/12-2.webp",
-      "Alt": "Интерфейс корзины Zarina с персонализированным блоком рекомендаций товаров.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -540,7 +511,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kejs-zarina/11-2.webp",
-      "Alt": "Скриншот интерфейса корзины с персонализированными рекомендациями аксессуаров на сайте Zarina.ru",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -548,18 +519,13 @@
       "Title": "Результаты"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "По итогам тестирования были получены следующие результаты:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "По итогам тестирования были получены следующие результаты:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kejs-zarina/Snimok-ekrana-2025-11-09-v-20.32.40.webp",
-      "Alt": "Таблица показателей роста выручки от персонализации в e-commerce с Zarina.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -572,13 +538,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Таким образом, выручка на разных страницах увеличилась на:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Таким образом, выручка на разных страницах увеличилась на:"
     },
     {
       "_t": "UnorderedList",
@@ -627,6 +588,17 @@
       "Author": "Татьяна Никитина",
       "AuthorPosition": "Менеджер интернет-магазина Zarina",
       "AuthorImageUrl": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
+  ],
+  "IndustryList": [
+    "Ритейл"
   ]
 }

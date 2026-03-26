@@ -33,26 +33,12 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
-        }
-      ]
-    },
-    {
       "_t": "Heading2",
       "Title": "Улучшения для ретейл-площадок"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Улучшили производительность:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Улучшили производительность:"
     },
     {
       "_t": "UnorderedList",
@@ -86,17 +72,12 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/letnij-digest-obnovlenij-adtech-smart-placement-ads/Capture-2025-10-27-212354-scaled.webp",
-      "Alt": "Скриншот интерфейса Smart Placement Ads после обновления без зелёных полос",
+      "Alt": "",
       "Caption": "После обновления исчезли зелёные полосы в списке мест размещения"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Улучшили интерфейс:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Улучшили интерфейс:"
     },
     {
       "_t": "UnorderedList",
@@ -144,13 +125,8 @@
       "Title": "Улучшения для рекламодателей"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Улучшили производительность:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Улучшили производительность:"
     },
     {
       "_t": "UnorderedList",
@@ -182,13 +158,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Улучшили интерфейс:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Улучшили интерфейс:"
     },
     {
       "_t": "UnorderedList",
@@ -246,8 +217,16 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/letnij-digest-obnovlenij-adtech-smart-placement-ads/Capture-2025-10-27-213010-scaled.webp",
-      "Alt": "Интерфейс загрузки баннеров прямо с устройства в Smart Placement Ads",
+      "Alt": "",
       "Caption": "Баннеры теперь можно загружать с устройства без предварительного размещения во внешнем хранилище"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
   ]
 }

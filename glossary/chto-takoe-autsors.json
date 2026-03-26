@@ -4,7 +4,12 @@
     "Словарь"
   ],
   "Title": "Аутсорс (Outsourcing): что это такое и зачем нужен",
-  "MetaTitle": "Аутсорс (Outsourcing): что это такое и зачем нужен",
+  "PublishDate": {
+    "$date": "2025-06-29T16:36:00"
+  },
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "LeadText": [
     {
       "Elements": [
@@ -15,13 +20,7 @@
       ]
     }
   ],
-  "PublishDate": {
-    "$date": "2025-06-29T16:36:00"
-  },
-  "Letter": "А",
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Аутсорс (Outsourcing): что это такое и зачем нужен",
   "ContentBlockList": [
     {
       "_t": "Heading2",
@@ -70,7 +69,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-autsors/unnamed11112121-1.png",
-      "Alt": "Инфографика об этапах аутсорсинга: договор, найм, организация и выполнение KPI.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -387,6 +386,58 @@
           }
         ]
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "Letter": "А"
 }

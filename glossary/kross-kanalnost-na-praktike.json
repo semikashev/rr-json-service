@@ -4,16 +4,33 @@
     "Словарь"
   ],
   "Title": "Кросс-канальность на практике: главные особенности и как с ними разобраться",
-  "MetaTitle": "Кросс-канальность на практике: главные особенности и как с ними разобраться – Retail Rocket, страница 3",
-  "LeadText": [],
   "PublishDate": {
     "$date": "2024-05-13T11:00:00"
   },
-  "Letter": "К",
   "AuthorIdList": [
     "natalia-kazmina"
   ],
+  "LeadText": [],
+  "MetaTitle": "Кросс-канальность на практике: главные особенности и как с ними разобраться – Retail Rocket, страница 3",
   "ContentBlockList": [
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Кросс-канальность помогает сделать так, чтобы все каналы коммуникации с пользователем работали друг на друга, а не наоборот. Например, клиенту не придет push-уведомление о скидке на кроссовки, которые он неделю назад увидел в email-рассылке и купил. Мы уже рассказывали о тонкостях построения кросс-канальной коммуникации, но когда дело доходит до практики, часто возникает много вопросов. В этом материале мы решили разобрать самые популярные из них."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что такое кросс-канальность?"
+        }
+      ]
+    },
     {
       "_t": "Paragraph",
       "Elements": [
@@ -102,7 +119,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/kross-kanalnost-na-praktike/image2.jpg",
-      "Alt": "Настройка web push рассылки с условиями сегментации для персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -148,7 +165,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/kross-kanalnost-na-praktike/image3.jpg",
-      "Alt": "Пример email-рассылки и push-уведомления для персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -190,7 +207,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/kross-kanalnost-na-praktike/Zapis_ekrana_2021-11-02_v_18.05.51.gif",
-      "Alt": "Интерфейс управления подписками и категориями интересов на маркетинговой платформе.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -223,7 +240,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/kross-kanalnost-na-praktike/Segmentator.gif",
-      "Alt": "Интерфейс сегментации клиентов с кнопками навигации для настройки кампаний в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -245,18 +262,13 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Например, вот такую серию реактивационных SMS рассылок провел для своих пользователей интернет-магазин здорового питания Bombbar:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Например, вот такую серию реактивационных SMS рассылок провел для своих пользователей интернет-магазин здорового питания Bombbar:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/kross-kanalnost-na-praktike/image7-1.jpg",
-      "Alt": "Скриншот интерфейса сегментации клиентов для персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -271,7 +283,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/kross-kanalnost-na-praktike/image5-1.jpg",
-      "Alt": "Интерфейс настройки кросс-канальных кампаний с условиями персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -286,7 +298,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/kross-kanalnost-na-praktike/image6-1.jpg",
-      "Alt": "Фильтры клиентов в CRM, персонализация в e-commerce и ритейле",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -414,6 +426,58 @@
           }
         ]
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "Letter": "К"
 }

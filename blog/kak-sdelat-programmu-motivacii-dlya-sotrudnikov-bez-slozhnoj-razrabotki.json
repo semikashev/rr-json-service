@@ -28,6 +28,15 @@
       "Elements": [
         {
           "_t": "Text",
+          "Content": "Готовых решений на рынке не было, а собственная разработка требует слишком больших вложений. Поэтому Cofix и Retail Rocket Group решили переиспользовать функциональность платформы управления лояльностью, чтобы реализовать и автоматизировать мотивационную программу."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
           "Content": "Что такое программа лояльности для сотрудников?"
         }
       ]
@@ -191,7 +200,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-programmu-motivacii-dlya-sotrudnikov-bez-slozhnoj-razrabotki/Cofix_motivation_programm_10-scaled.png",
-      "Alt": "Интерфейс с 8 новыми атрибутами для расчёта вознаграждений по KPI в Cofix",
+      "Alt": "",
       "Caption": "Всего было добавлено 8 новых атрибутов, которые помогают рассчитывать вознаграждения за выполнения KPI"
     },
     {
@@ -228,7 +237,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-programmu-motivacii-dlya-sotrudnikov-bez-slozhnoj-razrabotki/Cofix_motivation_programm_20-scaled.png",
-      "Alt": "Плагин Retail Rocket Group для расчёта KPI и передачи вознаграждений в Cofix",
+      "Alt": "",
       "Caption": "За анализ атрибутов, расчёт KPI, передачу и обновление информации отвечает специальный плагин, который разработали в Retail Rocket Group для Cofix"
     },
     {
@@ -256,7 +265,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-programmu-motivacii-dlya-sotrudnikov-bez-slozhnoj-razrabotki/Cofix_motivation_programm_30-scaled.png",
-      "Alt": "Примеры видов вознаграждений для участников программы мотивации сотрудников Cofix",
+      "Alt": "",
       "Caption": "Примеры вознаграждений для участников программы мотивации"
     },
     {
@@ -291,6 +300,12 @@
       ]
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-sdelat-programmu-motivacii-dlya-sotrudnikov-bez-slozhnoj-razrabotki/Cofix_motivation_programm_40-scaled.png",
+      "Alt": "",
+      "Caption": "Примеры вознаграждений для участников программы мотивации"
+    },
+    {
       "_t": "SmallContentBg",
       "TitleElements": [
         {
@@ -298,7 +313,12 @@
           "Content": "Узнайте, как автоматизировать проведение кобрендовой акции"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Перейти",
       "BtnUrl": "https://retailrocket.ru/blog/kak-zapustit-kobrendovuyu-aktsiyu-i-ne-possoritsya-s-partnerami/"
     },
@@ -386,13 +406,8 @@
       "Title": "Основные выводы"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Что нужно запомнить перед внедрением программы лояльности для сотрудников:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Что нужно запомнить перед внедрением программы лояльности для сотрудников:"
     },
     {
       "_t": "OrderedList",
@@ -463,6 +478,57 @@
             "Content": ". Например, если ваша компания работает по франшизе и не может выплачивать денежные премии напрямую, нужно продумать альтернативные варианты вознаграждений, как бонусы или подарочные карты."
           }
         ]
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
       ]
     }
   ]

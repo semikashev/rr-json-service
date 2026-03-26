@@ -28,12 +28,21 @@
       "Elements": [
         {
           "_t": "Text",
+          "Content": "Мы составили для вас подробный гид по персонализации интернет-магазина, который позволит сформировать четкое понимание, какие рекомендации и на каких страницах принесут максимальный эффект для вашего бизнеса."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
           "Content": "Какие страницы и как нужно персонализировать: "
         },
         {
           "_t": "Text",
-          "Content": "Главная страница Страница категории Страница конкретного бренда Карточка товара Pop-up при добавлении в корзину Страница корзины Страница 404 Внутренний поиск по сайту Личный кабинет Страница распродаж Страница товара не в наличии",
-          "IsHighlight": true
+          "Content": "**Главная страница Страница категории Страница конкретного бренда Карточка товара Pop-up при добавлении в корзину Страница корзины Страница 404 Внутренний поиск по сайту Личный кабинет Страница распродаж Страница товара не в наличии**",
+          "IsUnderline": true
         }
       ]
     },
@@ -55,9 +64,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Персонализация делает работу с сайтом удобной. Вам не нужно тратить время на поиск. Сайт сам знает, что вам интересно. Вы часто покупаете одежду определенного бренда? Сайт покажет вам новинки именно этого бренда. Любите читать о технологиях? Получите больше таких новостей. Как это работает:"
+          "Content": "Персонализация делает работу с сайтом удобной. Вам не нужно тратить время на поиск. Сайт сам знает, что вам интересно. Вы часто покупаете одежду определенного бренда? Сайт покажет вам новинки именно этого бренда. Любите читать о технологиях? Получите больше таких новостей."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Как это работает:"
     },
     {
       "_t": "OrderedList",
@@ -122,7 +135,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-udovletvorit-potrebnosti-pokupatelej-gid-po-personalizacii-internet-magazina/image1.png",
-      "Alt": "Инфографика о влиянии персонализации рекомендаций на покупательские предпочтения онлайн.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -137,7 +150,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-udovletvorit-potrebnosti-pokupatelej-gid-po-personalizacii-internet-magazina/image3.png",
-      "Alt": "Инфографика о важности и сложности персонализации маркетинга в интернете",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -196,7 +209,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-udovletvorit-potrebnosti-pokupatelej-gid-po-personalizacii-internet-magazina/quelle_2_1.png",
-      "Alt": "Страница онлайн-магазина Quelle с блоками персонализированных товарных рекомендаций.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -317,7 +330,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-udovletvorit-potrebnosti-pokupatelej-gid-po-personalizacii-internet-magazina/quelle_2_1.png",
-      "Alt": "Интерфейс блоков товарных рекомендаций с персонализацией на сайте Quelle.ru",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -380,7 +393,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-udovletvorit-potrebnosti-pokupatelej-gid-po-personalizacii-internet-magazina/bosco.png",
-      "Alt": "Скриншот страницы бренда с персонализацией рекомендаций товаров в интернет-магазине.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -444,7 +457,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-udovletvorit-potrebnosti-pokupatelej-gid-po-personalizacii-internet-magazina/elc_2_4.png",
-      "Alt": "Скриншот интерфейса с блоками персонализированных рекомендаций интернет-магазина",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -499,7 +512,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-udovletvorit-potrebnosti-pokupatelej-gid-po-personalizacii-internet-magazina/pop-up-RR.png",
-      "Alt": "Всплывающее окно на сайте с персонализированными рекомендациями и предложениями.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -540,7 +553,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-udovletvorit-potrebnosti-pokupatelej-gid-po-personalizacii-internet-magazina/quelle_4_1kopiya.png",
-      "Alt": "Интерфейс сайта с блоком персонализированных товарных рекомендаций и бесплатной доставкой.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -621,7 +634,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-udovletvorit-potrebnosti-pokupatelej-gid-po-personalizacii-internet-magazina/omatras_404error.png",
-      "Alt": "Скриншот ошибки 404 с блоками рекомендаций на сайте для персонализации.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -629,14 +642,8 @@
       "Title": "Кейсы персонализации страницы ошибки 404"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "BDSM-техники роста конверсии в секс-шопе CONDOM-SHOP.RU. Персонализация 18+",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "BDSM-техники роста конверсии в секс-шопе CONDOM-SHOP.RU. Персонализация 18+"
     },
     {
       "_t": "Heading2",
@@ -661,13 +668,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Основные алгоритмы рекомендаций, которые используются на странице поиска:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Основные алгоритмы рекомендаций, которые используются на странице поиска:"
     },
     {
       "_t": "Heading3",
@@ -685,17 +687,12 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-udovletvorit-potrebnosti-pokupatelej-gid-po-personalizacii-internet-magazina/internal-search.png",
-      "Alt": "Страница поиска с персонализацией рекомендаций на сайте интернет-магазина Hoff.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Для пустого поиска лучше всего подходят следующие алгоритмы:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Для пустого поиска лучше всего подходят следующие алгоритмы:"
     },
     {
       "_t": "UnorderedList",
@@ -740,14 +737,8 @@
       "Title": "Кейс персонализации поиска по сайту"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Кейс персонализации интернет-магазина SHOES.RU: рост выручки на 18%",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Кейс персонализации интернет-магазина SHOES.RU: рост выручки на 18%"
     },
     {
       "_t": "Heading2",
@@ -763,13 +754,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Какие алгоритмы лучше всего использовать в личном кабинете:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Какие алгоритмы лучше всего использовать в личном кабинете:"
     },
     {
       "_t": "UnorderedList",
@@ -803,7 +789,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-udovletvorit-potrebnosti-pokupatelej-gid-po-personalizacii-internet-magazina/user-account-1.png",
-      "Alt": "Интерфейс персонализированных рекомендаций на сайте интернет-магазина с блоком товаров.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -831,7 +817,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-udovletvorit-potrebnosti-pokupatelej-gid-po-personalizacii-internet-magazina/sale.png",
-      "Alt": "Интерфейс интернет-магазина с персонализированными рекомендациями и популярными товарами.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -839,14 +825,8 @@
       "Title": "Кейсы персонализации страницы распродаж"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "BDSM-техники роста конверсии в секс-шопе CONDOM-SHOP.RU. Персонализация 18+",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "BDSM-техники роста конверсии в секс-шопе CONDOM-SHOP.RU. Персонализация 18+"
     },
     {
       "_t": "Heading2",
@@ -890,7 +870,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-udovletvorit-potrebnosti-pokupatelej-gid-po-personalizacii-internet-magazina/out-of-stock-product-page.png",
-      "Alt": "Скриншот страницы товара с персонализацией рекомендаций в интернет-магазине.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -960,7 +940,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-udovletvorit-potrebnosti-pokupatelej-gid-po-personalizacii-internet-magazina/image4-1.png",
-      "Alt": "Персонализация сайта увеличивает ROI: 59% маркетологов довольны внедрением.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -978,6 +958,57 @@
         {
           "_t": "Text",
           "Content": "А какие виды рекомендаций используете вы?"
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

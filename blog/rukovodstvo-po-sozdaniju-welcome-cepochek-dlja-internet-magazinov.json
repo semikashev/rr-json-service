@@ -24,6 +24,15 @@
   "MetaTitle": "Как создать welcome-цепочку писем для email рассылок – Retail Rocket, страница 4",
   "ContentBlockList": [
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Кристина Милькевичюте, email-маркетолог Retail Rocket, рассказывает, как создать welcome-цепочку, благодаря которой клиенты полюбят ваш магазин."
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Что такое приветственное письмо и welcome-цепочки"
     },
@@ -57,7 +66,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rukovodstvo-po-sozdaniju-welcome-cepochek-dlja-internet-magazinov/welcome_sephora.png",
-      "Alt": "Пример welcome-письма от Sephora для email маркетинга.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -117,13 +126,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Welcome-цепочки решают ряд важных задач:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Welcome-цепочки решают ряд важных задач:"
     },
     {
       "_t": "UnorderedList",
@@ -268,23 +272,26 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Цепочка welcome-писем — это инструмент, который помогает не утонуть в информации и донести до подписчика самое важное, когда у вас на руках слишком много задач. Вот когда и почему лучше выбрать цепочку писем, а не одно большое письмо. "
-        },
-        {
-          "_t": "Text",
-          "Content": "1. Слишком много информации",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Допустим, у вас интернет-магазин косметики. Вы хотите рассказать про философию бренда, показать лучшие товары и предложить скидку на первый заказ. Если собрать всё это в одно письмо, читатель просто устанет, и важные моменты потеряются. Решение: разбить на несколько писем. "
-        },
-        {
-          "_t": "Text",
-          "Content": "Пример:",
-          "IsHighlight": true
+          "Content": "Цепочка welcome-писем — это инструмент, который помогает не утонуть в информации и донести до подписчика самое важное, когда у вас на руках слишком много задач. Вот когда и почему лучше выбрать цепочку писем, а не одно большое письмо."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "1. Слишком много информации"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Допустим, у вас интернет-магазин косметики. Вы хотите рассказать про философию бренда, показать лучшие товары и предложить скидку на первый заказ. Если собрать всё это в одно письмо, читатель просто устанет, и важные моменты потеряются. Решение: разбить на несколько писем."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Пример:"
     },
     {
       "_t": "UnorderedList",
@@ -314,23 +321,26 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Так вы не перегрузите человека, а каждое письмо будет сфокусировано на одной задаче. "
-        },
-        {
-          "_t": "Text",
-          "Content": "2. Нужна сегментация базы",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Вы — маркетолог в компании, которая продает и бытовую технику, и гаджеты для дома. Не все подписчики интересуются всем сразу. Кто-то пришел за стиральной машиной, а кто-то — за умной колонкой. Если вы сразу предложите всё, подписчик растеряется и может вообще уйти. "
-        },
-        {
-          "_t": "Text",
-          "Content": "Пример:",
-          "IsHighlight": true
+          "Content": "Так вы не перегрузите человека, а каждое письмо будет сфокусировано на одной задаче."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "2. Нужна сегментация базы"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Вы — маркетолог в компании, которая продает и бытовую технику, и гаджеты для дома. Не все подписчики интересуются всем сразу. Кто-то пришел за стиральной машиной, а кто-то — за умной колонкой. Если вы сразу предложите всё, подписчик растеряется и может вообще уйти."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Пример:"
     },
     {
       "_t": "UnorderedList",
@@ -354,23 +364,26 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Таким образом, вы отправляете релевантный контент и не тратите ресурс впустую. "
-        },
-        {
-          "_t": "Text",
-          "Content": "3. Много идей и задач",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Представьте, у вас фитнес-клуб, и вы хотите рассказать обо всём: и о бесплатной пробной тренировке, и о новых групповых занятиях, и о том, как записаться через приложение. Если всё это загрузить в одно письмо, подписчик просто запутается. "
-        },
-        {
-          "_t": "Text",
-          "Content": "Пример:",
-          "IsHighlight": true
+          "Content": "Таким образом, вы отправляете релевантный контент и не тратите ресурс впустую."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "3. Много идей и задач"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Представьте, у вас фитнес-клуб, и вы хотите рассказать обо всём: и о бесплатной пробной тренировке, и о новых групповых занятиях, и о том, как записаться через приложение. Если всё это загрузить в одно письмо, подписчик просто запутается."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Пример:"
     },
     {
       "_t": "UnorderedList",
@@ -400,16 +413,20 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Каждое письмо ведёт человека к следующему шагу, не перегружая его лишней информацией. "
-        },
+          "Content": "Каждое письмо ведёт человека к следующему шагу, не перегружая его лишней информацией."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Когда одно письмо лучше цепочки"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
         {
           "_t": "Text",
-          "Content": "Когда одно письмо лучше цепочки",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Если вам нужно просто сказать «привет» и дать одну ссылку — не мудрите, отправьте одно письмо. Но если задач много, если хочется рассказать о вас как можно больше, если нужно помочь подписчику с выбором — цепочка писем будет эффективнее. Главное, чтобы каждое письмо несло одну идею и было полезным."
+          "Content": "Если вам нужно просто сказать «привет» и дать одну ссылку — не мудрите, отправьте одно письмо. Но если задач много, если хочется рассказать о вас как можно больше, если нужно помочь подписчику с выбором — цепочка писем будет эффективнее. Главное, чтобы каждое письмо несло одну идею и было полезным."
         }
       ]
     },
@@ -427,9 +444,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Welcome-письмо важно отправлять всегда, но иногда гораздо эффективнее работает серия из нескольких писем. Как выбрать правильный вариант? Цепочка писем нужна, если:"
+          "Content": "Welcome-письмо важно отправлять всегда, но иногда гораздо эффективнее работает серия из нескольких писем. Как выбрать правильный вариант?"
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Цепочка писем нужна, если:"
     },
     {
       "_t": "UnorderedList",
@@ -483,7 +504,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rukovodstvo-po-sozdaniju-welcome-cepochek-dlja-internet-magazinov/welcome_banner.png",
-      "Alt": "Группа девушек обнимается на фоне текста о welcome-рассылках.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -502,7 +523,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rukovodstvo-po-sozdaniju-welcome-cepochek-dlja-internet-magazinov/welcome_advantage.png",
-      "Alt": "Графическое представление преимуществ email рассылок: примерка, доставка, самовывоз, спецпредложения.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -521,7 +542,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rukovodstvo-po-sozdaniju-welcome-cepochek-dlja-internet-magazinov/welcome_category.png",
-      "Alt": "Категории товаров для email маркетинга: обувь, одежда, аксессуары, бренды.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -540,7 +561,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rukovodstvo-po-sozdaniju-welcome-cepochek-dlja-internet-magazinov/welcome_order.png",
-      "Alt": "Схема процесса заказа с элементами email маркетинга и доставки.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -559,7 +580,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rukovodstvo-po-sozdaniju-welcome-cepochek-dlja-internet-magazinov/welcome_products.png",
-      "Alt": "Топ продаж одежды: примеры товаров для email рассылок с акциями.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -578,7 +599,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rukovodstvo-po-sozdaniju-welcome-cepochek-dlja-internet-magazinov/welcome_segment.png",
-      "Alt": "Скриншот интерфейса выбора категории питомца для email рассылок.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -597,7 +618,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rukovodstvo-po-sozdaniju-welcome-cepochek-dlja-internet-magazinov/welcome_blog.png",
-      "Alt": "Страница \"The Nasty Gal Story\" с описанием команды и блога.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -616,7 +637,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rukovodstvo-po-sozdaniju-welcome-cepochek-dlja-internet-magazinov/welcome_promo.png",
-      "Alt": "Пример email маркетинга: промокод на 500 рублей для первого заказа.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -644,7 +665,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rukovodstvo-po-sozdaniju-welcome-cepochek-dlja-internet-magazinov/welcome_social.png",
-      "Alt": "Социальные кнопки и призывы для вовлечения в email рассылки",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -690,7 +711,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rukovodstvo-po-sozdaniju-welcome-cepochek-dlja-internet-magazinov/sneakerhead.png",
-      "Alt": "Пример welcome-цепочки email рассылок интернет-магазина Sneakerhead.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -777,6 +798,57 @@
             "Content": ": Возьмите на заметку примеры, как у интернет-магазина Sneakerhead. Они используют серию писем, чтобы познакомить, заинтересовать и привести клиента к покупке."
           }
         ]
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
       ]
     }
   ]

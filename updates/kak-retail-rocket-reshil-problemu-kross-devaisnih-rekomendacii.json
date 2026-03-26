@@ -28,6 +28,15 @@
       "Elements": [
         {
           "_t": "Text",
+          "Content": "Кажется, что товарные рекомендации должны по умолчанию одинаково транслироваться на все устройства посетителя интернет-магазина: компьютер, планшет, мобильное приложение. На самом деле распознавать такого человека и учитывать его последние действия в онлайне и оффлайне при формировании рекомендаций — совсем нетривиальная задача."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
           "Content": "Мы в Retail Rocket разработали систему, которая умеет определять одного и того же посетителя на разных устройствах. Людям, которые в процессе покупки переключаются между несколькими девайсами, она поможет получать более точные рекомендации. Магазинам — лучше сегментировать таких посетителей и повышать конверсию в заказ и средний чек. О принципах и возможностях этой системы рассказываем ниже."
         }
       ]
@@ -46,13 +55,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Представим, что некому Павлу нужен чайник. Его путь к покупке выглядит так:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Представим, что некому Павлу нужен чайник. Его путь к покупке выглядит так:"
     },
     {
       "_t": "OrderedList",
@@ -120,7 +124,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/kak-retail-rocket-reshil-problemu-kross-devaisnih-rekomendacii/image1.gif",
-      "Alt": "Схема работы кросс-девайсных рекомендаций Retail Rocket для персонализации покупок.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -174,7 +178,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/kak-retail-rocket-reshil-problemu-kross-devaisnih-rekomendacii/image4.gif",
-      "Alt": "Схема кросс-девайсного отслеживания и персонализации рекомендаций от Retail Rocket.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -202,7 +206,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/kak-retail-rocket-reshil-problemu-kross-devaisnih-rekomendacii/image3.gif",
-      "Alt": "Схема кросс-девайсного распознавания посетителей для персонализации рекомендаций в маркетинге.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -243,7 +247,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/kak-retail-rocket-reshil-problemu-kross-devaisnih-rekomendacii/image2-65cdf97934368bc7e3ff756c.webp",
-      "Alt": "Сравнение алгоритмов рекомендаций с и без кросс-девайсного идентификатора в персонализации.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -254,6 +258,14 @@
           "Content": "Команда Retail Rocket тестировала систему CDV больше года. Сейчас она доступна бесплатно во всех продуктах и для всех партнеров."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
   ]
 }

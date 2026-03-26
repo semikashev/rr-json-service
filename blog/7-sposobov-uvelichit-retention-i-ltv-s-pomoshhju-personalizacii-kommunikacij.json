@@ -48,7 +48,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/7-sposobov-uvelichit-retention-i-ltv-s-pomoshhju-personalizacii-kommunikacij/pasted-image-0-79.png",
-      "Alt": "Горизонтальная столбчатая диаграмма: влияние персонализации на ключевые метрики в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -63,7 +63,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/7-sposobov-uvelichit-retention-i-ltv-s-pomoshhju-personalizacii-kommunikacij/pasted-image-0-80.png",
-      "Alt": "Горизонтальная столбчатая диаграмма о влиянии персонализации на бизнес-метрики в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -156,7 +156,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/7-sposobov-uvelichit-retention-i-ltv-s-pomoshhju-personalizacii-kommunikacij/pasted-image-0-81.png",
-      "Alt": "Электронное письмо с персонализацией коммуникаций и рекомендациями товаров в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -191,13 +191,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Так, к примеру, выглядит рассылка для пользователей, которые давно не посещали интернет-магазин, у омниканального ритейлера «Связной»:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Так, к примеру, выглядит рассылка для пользователей, которые давно не посещали интернет-магазин, у омниканального ритейлера «Связной»:"
     },
     {
       "_t": "Heading2",
@@ -224,7 +219,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/7-sposobov-uvelichit-retention-i-ltv-s-pomoshhju-personalizacii-kommunikacij/pasted-image-0-83.png",
-      "Alt": "Электронное письмо с персонализированными рекомендациями в e-commerce от бренда ТВОЕ.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -290,7 +285,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/7-sposobov-uvelichit-retention-i-ltv-s-pomoshhju-personalizacii-kommunikacij/pasted-image-0-84.png",
-      "Alt": "Пример письма с персонализированными рекомендациями в e-commerce магазине 220 Вольт.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -318,7 +313,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/7-sposobov-uvelichit-retention-i-ltv-s-pomoshhju-personalizacii-kommunikacij/pasted-image-0-85.png",
-      "Alt": "Скриншот письма с персонализацией прогнозов погоды и рекомендаций товаров для e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -425,6 +420,57 @@
         {
           "_t": "Text",
           "Content": "✅ Обращайте внимание на источники трафика. Настраивайте контент под канал, из которого пришел клиент."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

@@ -3,9 +3,6 @@
   "Label": [
     "Кейсы"
   ],
-  "IndustryList": [
-    "18+"
-  ],
   "Title": "Как IntimShop увеличил выручку благодаря персонализации блога и email-маркетинга",
   "PublishDate": {
     "$date": "2024-09-26T12:55:00"
@@ -26,6 +23,15 @@
   ],
   "MetaTitle": "Как IntimShop увеличил выручку благодаря персонализации блога и email-маркетинга - Retail Rocket Group",
   "ContentBlockList": [
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Чтобы в таких условиях удержать пользователей, команда маркетинга фокусируется на улучшении CJM, повышении персонализации сайта и коммуникаций. Как получилось это сделать в блоге и рассылках, рассказываем в статье."
+        }
+      ]
+    },
     {
       "_t": "Heading2",
       "Title": "О бренде"
@@ -97,7 +103,7 @@
         [
           {
             "_t": "Text",
-            "Content": "Пуш-уведомления с глубокими скидками",
+            "Content": "__Пуш-уведомления с глубокими скидками__",
             "IsBold": true
           },
           {
@@ -109,7 +115,7 @@
           {
             "_t": "Text",
             "Content": "Бесплатные онлайн-чаты с сексологами",
-            "IsBold": true
+            "IsUnderline": true
           },
           {
             "_t": "Text",
@@ -151,7 +157,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-intimshop-uvelichil-vyruchku-blagodarya-personalizacii/intimshop_case_10-scaled.webp",
-      "Alt": "Скриншот интерфейса с AI рекомендациями для товаров IntimShop в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -166,7 +172,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-intimshop-uvelichil-vyruchku-blagodarya-personalizacii/intimshop_case_20-scaled.webp",
-      "Alt": "Интерфейс рекомендации товаров с использованием AI в e-commerce на сайте IntimShop.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -179,6 +185,12 @@
       ]
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-intimshop-uvelichil-vyruchku-blagodarya-personalizacii/intimshop_case_30-scaled.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
       "_t": "SmallContentBg",
       "TitleElements": [
         {
@@ -186,7 +198,12 @@
           "Content": "Хотите персонализировать маркетинг?"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Запросить демо",
       "BtnUrl": "https://retailrocket.ru/demo/"
     },
@@ -209,7 +226,7 @@
         {
           "_t": "Text",
           "Content": "Брошенный просмотр",
-          "IsHighlight": true
+          "IsUnderline": true
         },
         {
           "_t": "Text",
@@ -238,7 +255,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-intimshop-uvelichil-vyruchku-blagodarya-personalizacii/intimshop_case_40.webp",
-      "Alt": "Интерфейс персонализированного блог-поста с AI рекомендациями товаров на IntimShop.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -247,18 +264,18 @@
         {
           "_t": "Text",
           "Content": "Сопутствующие товары",
-          "IsHighlight": true
+          "IsUnderline": true
         },
         {
           "_t": "Text",
-          "Content": " Пользователю предлагаются товары, которыми он может дополнить заказ. Отличный инструмент для увеличения среднего чека интернет-магазина. Алгоритм анализирует неявную информацию о связях между товарами на основе поведения пользователей. Сначала демонстрируются рекомендации на основе совместных покупок, затем на основе совместных просмотров и добавлений в корзину, потом на основе популярных товаров в категориях, которые подходят в качестве сопутствующих."
+          "Content": "Пользователю предлагаются товары, которыми он может дополнить заказ. Отличный инструмент для увеличения среднего чека интернет-магазина. Алгоритм анализирует неявную информацию о связях между товарами на основе поведения пользователей. Сначала демонстрируются рекомендации на основе совместных покупок, затем на основе совместных просмотров и добавлений в корзину, потом на основе популярных товаров в категориях, которые подходят в качестве сопутствующих."
         }
       ]
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-intimshop-uvelichil-vyruchku-blagodarya-personalizacii/intimshop_case_50.webp",
-      "Alt": "Скриншот email-рассылки с товарами из IntimShop, пример email маркетинга.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -267,18 +284,18 @@
         {
           "_t": "Text",
           "Content": "Снижение цены на товары в корзине",
-          "IsHighlight": true
+          "IsUnderline": true
         },
         {
           "_t": "Text",
-          "Content": " Платформа управления лояльностью Retail Rocket Group анализирует изменения по цене товаров, которые пользователь добавлял в корзину. Как только стоимость меняется, отправляется письмо."
+          "Content": "Платформа управления лояльностью Retail Rocket Group анализирует изменения по цене товаров, которые пользователь добавлял в корзину. Как только стоимость меняется, отправляется письмо."
         }
       ]
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-intimshop-uvelichil-vyruchku-blagodarya-personalizacii/intimshop_case_60.webp",
-      "Alt": "Скриншот примера персонализированной email-рассылки с AI рекомендациями для IntimShop.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -299,18 +316,18 @@
         {
           "_t": "Text",
           "Content": "Массовые email-рассылки",
-          "IsHighlight": true
+          "IsUnderline": true
         },
         {
           "_t": "Text",
-          "Content": " Отправляются два раза в неделю с фокусом на товарах определённого бренда или тематики. Если не получается собрать тематическую рассылку, то отправляются самые популярные товары по количеству отзывов или числу покупок. Чтобы персонализировать коммуникацию, работают с сегментацией."
+          "Content": "Отправляются два раза в неделю с фокусом на товарах определённого бренда или тематики. Если не получается собрать тематическую рассылку, то отправляются самые популярные товары по количеству отзывов или числу покупок. Чтобы персонализировать коммуникацию, работают с сегментацией."
         }
       ]
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-intimshop-uvelichil-vyruchku-blagodarya-personalizacii/intimshop_case_70.webp",
-      "Alt": "Скриншот рекламной рассылки с промокодом для скидки в рамках email-маркетинга.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -330,13 +347,8 @@
       "Title": "Планы на будущее"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "IntimShop совместно с Retail Rocket Group продолжают работу над персонализацией сайта и коммуникаций. В ближайших планах:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "IntimShop совместно с Retail Rocket Group продолжают работу над персонализацией сайта и коммуникаций. В ближайших планах:"
     },
     {
       "_t": "UnorderedList",
@@ -360,6 +372,17 @@
           }
         ]
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
+  ],
+  "IndustryList": [
+    "18+"
   ]
 }

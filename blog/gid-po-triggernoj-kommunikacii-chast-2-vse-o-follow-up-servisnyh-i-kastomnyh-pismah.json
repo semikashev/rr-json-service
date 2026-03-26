@@ -115,18 +115,13 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Все Follow-up сценарии мы включаем в общую карту поведенческих триггеров:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Все Follow-up сценарии мы включаем в общую карту поведенческих триггеров:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernoj-kommunikacii-chast-2-vse-o-follow-up-servisnyh-i-kastomnyh-pismah/image8-1.jpg",
-      "Alt": "Воронка взаимодействия пользователей с сайтом в e-commerce и follow-up письма.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -184,11 +179,15 @@
       ]
     },
     {
+      "_t": "Heading2",
+      "Title": "Все followup-письма можно разделить на 3 общие тематики:"
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Все followup-письма можно разделить на 3 общие тематики:"
+          "Content": "У клиента есть интерес, но он пока не совершил покупку. Задача — «достучаться‎» до него."
         }
       ]
     },
@@ -197,12 +196,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "У клиента есть интерес, но он пока не совершил покупку. Задача — «достучаться‎» до него.",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " В письме можно поблагодарить покупателя за интерес, рассказать о товарах и преимуществах компании, предложить скидку, познакомить с условиями работы, а также поделиться отзывами о товарах и/или магазине."
+          "Content": "В письме можно поблагодарить покупателя за интерес, рассказать о товарах и преимуществах компании, предложить скидку, познакомить с условиями работы, а также поделиться отзывами о товарах и/или магазине."
         }
       ]
     },
@@ -211,12 +205,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Клиент совершил покупку в магазине. Задача — мотивировать к следующим покупкам.",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " В письме можно попросить оставить отзыв, порекомендовать сопутствующие или похожие товары, рассказать о бонусной программе, а также предложить скидку на следующий заказ."
+          "Content": "Клиент совершил покупку в магазине. Задача — мотивировать к следующим покупкам."
         }
       ]
     },
@@ -225,12 +214,25 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Клиент давно не посещал сайт. Задача — вернуть его интерес к покупке.",
-          "IsHighlight": true
-        },
+          "Content": "В письме можно попросить оставить отзыв, порекомендовать сопутствующие или похожие товары, рассказать о бонусной программе, а также предложить скидку на следующий заказ."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
         {
           "_t": "Text",
-          "Content": " В письме можно предложить оставить обратную связь — объяснить, почему человек перестал делать покупки, еще раз познакомить его с условиями оформления заказов и предоставить ответы на часто задаваемые вопросы. Возможно, уточнить, где он сможет получить помощь, если возникнут вопросы при выборе или оформлении товара, познакомить с новинками, предоставить эксклюзивную скидку и т. д."
+          "Content": "Клиент давно не посещал сайт. Задача — вернуть его интерес к покупке."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "В письме можно предложить оставить обратную связь — объяснить, почему человек перестал делать покупки, еще раз познакомить его с условиями оформления заказов и предоставить ответы на часто задаваемые вопросы. Возможно, уточнить, где он сможет получить помощь, если возникнут вопросы при выборе или оформлении товара, познакомить с новинками, предоставить эксклюзивную скидку и т. д."
         }
       ]
     },
@@ -244,13 +246,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Стоит отметить, что цепочка писем с Follow-up строится по определенной стратегии:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Стоит отметить, что цепочка писем с Follow-up строится по определенной стратегии:"
     },
     {
       "_t": "UnorderedList",
@@ -276,13 +273,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Несколько примеров реализованных кейсов:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Несколько примеров реализованных кейсов:"
     },
     {
       "_t": "Heading2",
@@ -300,7 +292,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernoj-kommunikacii-chast-2-vse-o-follow-up-servisnyh-i-kastomnyh-pismah/image7-1.jpg",
-      "Alt": "Пример письма брошенной корзины с персонализацией в e-commerce от Karcher.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -315,7 +307,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernoj-kommunikacii-chast-2-vse-o-follow-up-servisnyh-i-kastomnyh-pismah/image5-1.jpg",
-      "Alt": "Пример follow-up email с персонализацией в e-commerce из магазина Karcher.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -334,7 +326,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernoj-kommunikacii-chast-2-vse-o-follow-up-servisnyh-i-kastomnyh-pismah/image1-1.jpg",
-      "Alt": "Пример follow-up письма с товарными рекомендациями для персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -349,7 +341,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernoj-kommunikacii-chast-2-vse-o-follow-up-servisnyh-i-kastomnyh-pismah/image4-1.jpg",
-      "Alt": "Скриншот письма с рекомендациями товаров для персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -386,7 +378,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernoj-kommunikacii-chast-2-vse-o-follow-up-servisnyh-i-kastomnyh-pismah/image9-1.jpg",
-      "Alt": "Скриншот уведомления о снижении цен в интернет-магазине с персонализацией в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -480,14 +472,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "К сервисным письмам относятся такие сценарии как:",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "К сервисным письмам относятся такие сценарии как:"
     },
     {
       "_t": "UnorderedList",
@@ -525,13 +511,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Кроме того, есть множество нестандартных сценариев, которые можно настроить дополнительно для каждого конкретного магазина:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Кроме того, есть множество нестандартных сценариев, которые можно настроить дополнительно для каждого конкретного магазина:"
     },
     {
       "_t": "UnorderedList",
@@ -631,13 +612,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "В этих сценариях также можно использовать более сложную логику, например:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "В этих сценариях также можно использовать более сложную логику, например:"
     },
     {
       "_t": "UnorderedList",
@@ -749,7 +725,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernoj-kommunikacii-chast-2-vse-o-follow-up-servisnyh-i-kastomnyh-pismah/image10-2.jpg",
-      "Alt": "Пример персонализированного письма с рекомендацией товаров в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -768,7 +744,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernoj-kommunikacii-chast-2-vse-o-follow-up-servisnyh-i-kastomnyh-pismah/image2-1.jpg",
-      "Alt": "Пример кастомного письма для персонализации в e-commerce с подборкой товаров.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -787,7 +763,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernoj-kommunikacii-chast-2-vse-o-follow-up-servisnyh-i-kastomnyh-pismah/image12-1.jpg",
-      "Alt": "Пример email-рассылки с персонализацией в e-commerce для сегментации клиентов.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -806,7 +782,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernoj-kommunikacii-chast-2-vse-o-follow-up-servisnyh-i-kastomnyh-pismah/image11.jpg",
-      "Alt": "Персонализированное поздравление с днём рождения с учётом возраста, пола и локации",
+      "Alt": "",
       "Caption": "Поздравляем с Днем рождения, учитывая возраст, пол и локацию клиента"
     },
     {
@@ -821,7 +797,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-triggernoj-kommunikacii-chast-2-vse-o-follow-up-servisnyh-i-kastomnyh-pismah/image3-1.jpg",
-      "Alt": "Поздравительное email-письмо от Sulpak с бонусами, персонализация в e-commerce",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -834,6 +810,57 @@
         {
           "_t": "Text",
           "Content": "Подключая базовые варианты сценариев и карту поведенческих триггеров, вы обеспечиваете быстрый старт коммуникаций с клиентами. А с помощью тонкой настройки кастомных триггерных кампаний можно создать четкую индивидуальную систему, которая будет идеально подходить для вашей аудитории и решать ваши бизнес-задачи."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

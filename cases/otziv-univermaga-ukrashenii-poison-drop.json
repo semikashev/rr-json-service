@@ -3,9 +3,6 @@
   "Label": [
     "Кейсы"
   ],
-  "IndustryList": [
-    "Ритейл"
-  ],
   "Title": "Отзыв универмага украшений Poison Drop о работе триггерных и массовых рассылок",
   "PublishDate": {
     "$date": "2023-01-19T19:17:00"
@@ -26,6 +23,10 @@
   ],
   "MetaTitle": "Отзыв универмага украшений Poison Drop о работе триггерных и массовых рассылок – Retail Rocket Group",
   "ContentBlockList": [
+    {
+      "_t": "Heading2",
+      "Title": "Рассказывает Диана Медведева, email-маркетолог Poison Drop"
+    },
     {
       "_t": "Heading2",
       "Title": "О компании"
@@ -67,7 +68,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/otziv-univermaga-ukrashenii-poison-drop/Primer-raznoj-nastrojki-kanalov-i-sostoyanij-rassylok-3-1-964x2048-1.webp",
-      "Alt": "Схема работы триггерных и массовых рассылок в e-commerce маркетинге.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -91,7 +92,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/otziv-univermaga-ukrashenii-poison-drop/image1-1-1-1.webp",
-      "Alt": "Email-триггер «Брошенная корзина» — флагманский сценарий Poison Drop",
+      "Alt": "",
       "Caption": "Триггер по сценарию «Брошенная корзина» — один из самых эффективных в Poison Drop"
     },
     {
@@ -155,14 +156,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "На результаты повлияло сразу несколько факторов:",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "На результаты повлияло сразу несколько факторов:"
     },
     {
       "_t": "UnorderedList",
@@ -190,7 +185,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/otziv-univermaga-ukrashenii-poison-drop/2023-01-18-18.48.54-1.webp",
-      "Alt": "Welcome-письмо Poison Drop с промокодом, описанием рассылки и ссылкой на приложение",
+      "Alt": "",
       "Caption": "Welcome-письмо Poison Drop. В нем мы рассказываем, чего ожидать от рассылки, дарим промокод на первую покупку и предлагаем скачать мобильное приложение"
     },
     {
@@ -217,6 +212,17 @@
       "Author": "Влад Галкин",
       "AuthorPosition": "Менеджер проекта",
       "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/otziv-univermaga-ukrashenii-poison-drop/2023-01-18-18.51.11-2-768x767-1-300x300.webp"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
+  ],
+  "IndustryList": [
+    "Ритейл"
   ]
 }

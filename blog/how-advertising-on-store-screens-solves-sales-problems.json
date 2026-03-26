@@ -28,13 +28,8 @@
       "Title": "Традиционные методы рекламы в магазинах"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "К привычным форматам рекламы в магазинах относятся:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "К привычным форматам рекламы в магазинах относятся:"
     },
     {
       "_t": "UnorderedList",
@@ -106,13 +101,8 @@
       "Title": "Ограничения и проблемы традиционной рекламы"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Основные проблемы традиционных нецифровых форматов:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Основные проблемы традиционных нецифровых форматов:"
     },
     {
       "_t": "Paragraph",
@@ -180,7 +170,12 @@
           "Content": "С помощью adTech-платформы Smart Placement Ads от Retail Rocket Group появилась возможность запускать таргетированные рекламные кампании на цифровых экранах в офлайн-магазинах. Платформа позволяет использовать различные форматы контента: статичные изображения, товарные блоки, видео и аудио. Рекламные места распределяются через аукционную систему. Благодаря этому управление Digital In-Store стало таким же простым и интуитивно понятным, как и настройка онлайн-рекламы."
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Читать",
       "BtnUrl": "https://retailrocket.ru/updates/digital-in-store-s-auction-i-targetingovym-prodvizheniem/"
     },
@@ -189,13 +184,8 @@
       "Title": "Как реклама на экранах в магазинах помогает продажам"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Недавние исследования показали, как indoor digital меняет поведение покупателей:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Недавние исследования показали, как indoor digital меняет поведение покупателей:"
     },
     {
       "_t": "Paragraph",
@@ -254,22 +244,17 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/how-advertising-on-store-screens-solves-sales-problems/How_advertising_on_store_screens_solves-sales_problems1.jpg",
-      "Alt": "Интерфейс блока рекомендаций с персонализированными предложениями и скидками на продукты.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Для всех остальных посетителей без авторизации система демонстрировала популярные товары:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Для всех остальных посетителей без авторизации система демонстрировала популярные товары:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/how-advertising-on-store-screens-solves-sales-problems/How_advertising_on_store_screens_solves-sales_problems2.jpg",
-      "Alt": "Интерфейс персонализированных предложений на экране с блоком рекомендаций в ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -284,7 +269,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/how-advertising-on-store-screens-solves-sales-problems/How_advertising_on_store_screens_solves-sales_problems3.jpg",
-      "Alt": "Персонализированное предложение в ритейле с рекомендациями и акциями продуктов",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -310,13 +295,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "В зависимости от целей рекламной кампании, экраны можно располагать в разных локациях. Рекламу в магазинах разместить можно:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "В зависимости от целей рекламной кампании, экраны можно располагать в разных локациях. Рекламу в магазинах разместить можно:"
     },
     {
       "_t": "Paragraph",
@@ -328,26 +308,16 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "💰 Для увеличения среднего чека — между товарными рядами или в зоне вынужденного ожидания, например возле кассовых аппаратов"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "💰 Для увеличения среднего чека — между товарными рядами или в зоне вынужденного ожидания, например возле кассовых аппаратов"
     },
     {
       "_t": "Heading3",
       "Title": "Шаг 2. Подберите контент для размещения"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "На цифровых экранах можно демонстрировать:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "На цифровых экранах можно демонстрировать:"
     },
     {
       "_t": "UnorderedList",
@@ -433,6 +403,57 @@
             "Content": "Чтобы внедрить рекламу на экранах в магазине, необходимо выбрать расположение цифрового носителя и подобрать удачный контент."
           }
         ]
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
       ]
     }
   ]

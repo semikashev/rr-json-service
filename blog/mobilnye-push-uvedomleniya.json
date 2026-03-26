@@ -48,7 +48,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/mobilnye-push-uvedomleniya/Mobile_push_notifications_01.png",
-      "Alt": "Экран, центр уведомлений и баннеры для мобильных push-уведомлений.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -56,7 +56,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Мобильные пуш-уведомления служат инструментом для взаимодействия с пользователями: от уведомления о скидках и новостях до напоминаний и персонализированных предложений. Они могут подталкивать к определённым действиям, помогая бизнесу строить эффективную коммуникацию с аудиторией. Чем пуш-уведомления полезны для бизнеса"
+          "Content": "Мобильные пуш-уведомления служат инструментом для взаимодействия с пользователями: от уведомления о скидках и новостях до напоминаний и персонализированных предложений. Они могут подталкивать к определённым действиям, помогая бизнесу строить эффективную коммуникацию с аудиторией."
         }
       ]
     },
@@ -68,7 +68,12 @@
           "Content": "Чем пуш-уведомления полезны для бизнеса"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Запросить демо",
       "BtnUrl": "https://retailrocket.ru/blog/push-uvedomleniya/"
     },
@@ -96,7 +101,7 @@
           {
             "_t": "Text",
             "Content": "Увеличивают вовлечённость.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -107,7 +112,7 @@
           {
             "_t": "Text",
             "Content": "Улучшают удержание клиентов.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -138,7 +143,7 @@
           {
             "_t": "Text",
             "Content": "Риск раздражения.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -160,7 +165,7 @@
           {
             "_t": "Text",
             "Content": "Ограничение по объёму.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -201,7 +206,7 @@
           {
             "_t": "Text",
             "Content": "Apple Push Notification Service (APNs)",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -262,7 +267,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/mobilnye-push-uvedomleniya/Mobile_push_notifications_02.png",
-      "Alt": "Схема отправки push уведомлений с сервера разработчика на устройство",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -281,7 +286,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/mobilnye-push-uvedomleniya/Mobile_push_notifications_03.png",
-      "Alt": "Схема структуры мобильного push-уведомления с основными элементами",
+      "Alt": "",
       "Caption": "Структура мобильного пуш-уведомления"
     },
     {
@@ -300,7 +305,7 @@
           {
             "_t": "Text",
             "Content": "Краткость.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -311,7 +316,7 @@
           {
             "_t": "Text",
             "Content": "Ясность.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -322,7 +327,7 @@
           {
             "_t": "Text",
             "Content": "Привлекательность.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -333,7 +338,7 @@
           {
             "_t": "Text",
             "Content": "Персонализация.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -367,7 +372,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/mobilnye-push-uvedomleniya/Mobile_push_notifications_04.png",
-      "Alt": "Сравнение удачных и неудачных примеров мобильных push-уведомлений",
+      "Alt": "",
       "Caption": "Примеры удачных и не очень пуш-уведомлений"
     },
     {
@@ -449,7 +454,7 @@
           {
             "_t": "Text",
             "Content": "Анализ активности пользователей.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -460,7 +465,7 @@
           {
             "_t": "Text",
             "Content": "Учёт часовых поясов.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -471,7 +476,7 @@
           {
             "_t": "Text",
             "Content": "Сегментация аудитории.",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -516,7 +521,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/mobilnye-push-uvedomleniya/Mobile_push_notifications_06.png",
-      "Alt": "Инфографика Helplama о поведении пользователей при получении push-уведомлений",
+      "Alt": "",
       "Caption": "ИнфографикА с платформы [Helplama](https://helplama.com/what-do-consumers-think-about-push-notifications/)"
     },
     {
@@ -537,12 +542,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "CTR (click-through rate):",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " показывает сколько пользователей кликнули по уведомлению."
+          "Content": "CTR (click-through rate): показывает сколько пользователей кликнули по уведомлению."
         }
       ]
     },
@@ -551,19 +551,8 @@
       "Latex": "CTR = \\frac{количество кликов по ссылкам}{количество доставленных писем} \\times 100\\%"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/mobilnye-push-uvedomleniya/blog-mobilnye-push-uvedomleniya-ctr.png",
-      "Alt": "Схема расчёта CTR для push-уведомлений с фокусом на персонализации.",
-      "Caption": null
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Что делать, если этот показатель падает:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Что делать, если этот показатель падает:"
     },
     {
       "_t": "UnorderedList",
@@ -587,12 +576,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "CR (conversion rate):",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " показывает сколько пользователей совершили целевое действие."
+          "Content": "CR (conversion rate): показывает сколько пользователей совершили целевое действие."
         }
       ]
     },
@@ -601,19 +585,8 @@
       "Latex": "CR = \\frac{число пользователей, совершивших целевое действие}{общее кол-во пользователей} \\times 100\\%"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/mobilnye-push-uvedomleniya/blog-mobilnye-push-uvedomleniya-cr.png",
-      "Alt": "Схема расчета коэффициента конверсии для push-уведомлений.",
-      "Caption": null
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Что делать, если этот показатель падает:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Что делать, если этот показатель падает:"
     },
     {
       "_t": "UnorderedList",
@@ -637,12 +610,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Retention rate:",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " показывает влияние пушей на возвращение пользователей."
+          "Content": "Retention rate: показывает влияние пушей на возвращение пользователей."
         }
       ]
     },
@@ -651,19 +619,8 @@
       "Latex": "RR = \\frac{те, кто пользуется – новые пользователи}{кол-во пользователей в начале расчетного периода} \\times 100\\%"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/mobilnye-push-uvedomleniya/blog-mobilnye-push-uvedomleniya-rr.png",
-      "Alt": "Схема расчета эффективности push уведомлений и персонализации в e-commerce.",
-      "Caption": null
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Что делать, если этот показатель падает:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Что делать, если этот показатель падает:"
     },
     {
       "_t": "UnorderedList",
@@ -687,24 +644,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Opt-out rate:",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " показывает процент отказа от уведомлений."
+          "Content": "Opt-out rate: показывает процент отказа от уведомлений."
         }
       ]
     },
     {
       "_t": "Formula",
       "Latex": "OOR = \\frac{кол-во отказавшихся пользователей от сообщений}{кол-во доставленных сообщений} \\times 100\\%"
-    },
-    {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/mobilnye-push-uvedomleniya/blog-mobilnye-push-uvedomleniya-oor.png",
-      "Alt": "Интерфейс схемы рассылки push уведомлений с использованием персонализации в e-commerce.",
-      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -720,13 +666,8 @@
       "Title": "Заключение: что можно сделать прямо сейчас"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Чтобы улучшить результаты пуш-уведомлений, нужно выполнить следующие шаги:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Чтобы улучшить результаты пуш-уведомлений, нужно выполнить следующие шаги:"
     },
     {
       "_t": "UnorderedList",
@@ -755,6 +696,57 @@
             "Content": "Сделать A/B тестирование для разных вариантов текстов и времени отправки, чтобы определить оптимальную стратегию."
           }
         ]
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
       ]
     }
   ]

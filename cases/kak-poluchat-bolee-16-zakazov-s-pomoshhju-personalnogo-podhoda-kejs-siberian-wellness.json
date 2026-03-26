@@ -3,9 +3,6 @@
   "Label": [
     "Кейсы"
   ],
-  "IndustryList": [
-    "Бьюти"
-  ],
   "Title": "Как получать больше заказов с помощью персонального подхода: кейс Siberian Wellness",
   "PublishDate": {
     "$date": "2021-01-28T17:19:00"
@@ -67,12 +64,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Решение:",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " внедрение технологии умного мерчендайзинга на сайте и персонализация товарных предложений для каждого клиента."
+          "Content": "Решение: внедрение технологии умного мерчендайзинга на сайте и персонализация товарных предложений для каждого клиента."
         }
       ]
     },
@@ -83,7 +75,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-poluchat-bolee-16-zakazov-s-pomoshhju-personalnogo-podhoda-kejs-siberian-wellness/results.webp",
-      "Alt": "Статистика эффективности блоков рекомендаций: 16,2% заказов, конверсия в 13 раз выше.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -134,7 +126,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-poluchat-bolee-16-zakazov-s-pomoshhju-personalnogo-podhoda-kejs-siberian-wellness/125308550_1861050430704101_3224112695016458004_n.webp",
-      "Alt": "Крем для рук Siberian Wellness на фоне зелёных веточек, персонализация в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -276,7 +268,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-poluchat-bolee-16-zakazov-s-pomoshhju-personalnogo-podhoda-kejs-siberian-wellness/image14.webp",
-      "Alt": "Блок рекомендаций Siberian Wellness: персонализация в e-commerce и ритейле",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -304,7 +296,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-poluchat-bolee-16-zakazov-s-pomoshhju-personalnogo-podhoda-kejs-siberian-wellness/image7.webp",
-      "Alt": "Экран с персонализированными товарными рекомендациями в магазине Siberian Wellness.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -323,7 +315,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-poluchat-bolee-16-zakazov-s-pomoshhju-personalnogo-podhoda-kejs-siberian-wellness/image2.webp",
-      "Alt": "Скриншот блока рекомендаций Siberian Wellness в интернет-магазине, AI в маркетинге.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -342,7 +334,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-poluchat-bolee-16-zakazov-s-pomoshhju-personalnogo-podhoda-kejs-siberian-wellness/image1-1.webp",
-      "Alt": "Скриншот блока рекомендаций на сайте Siberian Wellness, персонализация в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -361,7 +353,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-poluchat-bolee-16-zakazov-s-pomoshhju-personalnogo-podhoda-kejs-siberian-wellness/image4.webp",
-      "Alt": "Блок товарных рекомендаций и бестселлеров Siberian Wellness, персонализация в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -391,44 +383,27 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Для подбора наиболее эффективного алгоритма наши эксперты провели A/B-тесты. Все посетители сайта случайным образом делились на 3 сегмента:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Для подбора наиболее эффективного алгоритма наши эксперты провели A/B-тесты. Все посетители сайта случайным образом делились на 3 сегмента:"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Первому сегменту показывались персональные рекомендации товаров в категории:",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Первому сегменту показывались персональные рекомендации товаров в категории:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-poluchat-bolee-16-zakazov-s-pomoshhju-personalnogo-podhoda-kejs-siberian-wellness/image3.webp",
-      "Alt": "Скриншот блока рекомендаций на сайте с персонализацией в e-commerce",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Второму сегменту показывались хиты продаж в категории:",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Второму сегменту показывались хиты продаж в категории:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-poluchat-bolee-16-zakazov-s-pomoshhju-personalnogo-podhoda-kejs-siberian-wellness/image9.webp",
-      "Alt": "Скриншот блока рекомендаций товаров на сайте для персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -436,31 +411,30 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Третий сегмент был контрольной группой, которой рекомендации не показывались.",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " По итогам тестирования были получены следующие результаты:"
+          "Content": "Третий сегмент был контрольной группой, которой рекомендации не показывались."
         }
       ]
     },
     {
+      "_t": "Heading2",
+      "Title": "По итогам тестирования были получены следующие результаты:"
+    },
+    {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-poluchat-bolee-16-zakazov-s-pomoshhju-personalnogo-podhoda-kejs-siberian-wellness/siberianwellness_retailrocket_results_1.webp",
-      "Alt": "Результаты персональных рекомендаций Siberian Wellness: конверсия +12,3%, выручка +8%",
+      "Alt": "",
       "Caption": "Персональные рекомендации товаров в категории показали наилучший результат: рост конверсии на 12,3% и прогнозируемый рост выручки на 8%."
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-poluchat-bolee-16-zakazov-s-pomoshhju-personalnogo-podhoda-kejs-siberian-wellness/image10.webp",
-      "Alt": "Сравнение конверсии сегментов для персонализации в e-commerce Siberian Wellness.",
+      "Alt": "",
       "Caption": null
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-poluchat-bolee-16-zakazov-s-pomoshhju-personalnogo-podhoda-kejs-siberian-wellness/image15.webp",
-      "Alt": "График доверительных интервалов конверсии A/B-теста Siberian Wellness (плейсмент 1)",
+      "Alt": "",
       "Caption": "График пересечения доверительных интервалов распределения конверсии"
     },
     {
@@ -486,35 +460,23 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Первому сегменту показывались сопутствующие товары из категорий, отличных от категории просматриваемого товара:",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Первому сегменту показывались сопутствующие товары из категорий, отличных от категории просматриваемого товара:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-poluchat-bolee-16-zakazov-s-pomoshhju-personalnogo-podhoda-kejs-siberian-wellness/image12.webp",
-      "Alt": "Рекомендации товаров в корзине Siberian Wellness, персонализация в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Второму сегменту показывались сопутствующие товары:",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Второму сегменту показывались сопутствующие товары:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-poluchat-bolee-16-zakazov-s-pomoshhju-personalnogo-podhoda-kejs-siberian-wellness/image11.webp",
-      "Alt": "Интерфейс корзины с блоком рекомендаций, персонализация в e-commerce Siberian Wellness.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -522,19 +484,18 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Третьему сегменту, который был контрольной группой, рекомендации не показывались.",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " Результаты тестирования:"
+          "Content": "Третьему сегменту, который был контрольной группой, рекомендации не показывались."
         }
       ]
     },
     {
+      "_t": "Heading2",
+      "Title": "Результаты тестирования:"
+    },
+    {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-poluchat-bolee-16-zakazov-s-pomoshhju-personalnogo-podhoda-kejs-siberian-wellness/siberianwellness_retailrocket_results_2.webp",
-      "Alt": "Результаты AI персонализации для различных товарных сегментов в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -549,13 +510,13 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-poluchat-bolee-16-zakazov-s-pomoshhju-personalnogo-podhoda-kejs-siberian-wellness/image8.webp",
-      "Alt": "Анализ конверсий и шанса победы в персонализации e-commerce кампании.",
+      "Alt": "",
       "Caption": null
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-poluchat-bolee-16-zakazov-s-pomoshhju-personalnogo-podhoda-kejs-siberian-wellness/image6-1.webp",
-      "Alt": "График доверительных интервалов конверсии A/B-теста Siberian Wellness (плейсмент 2)",
+      "Alt": "",
       "Caption": "График пересечения доверительных интервалов распределения конверсии"
     },
     {
@@ -581,28 +542,17 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Все посетители сайта случайным образом делились на 2 сегмента:",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Text",
-          "Content": "Первому сегменту показывались поисковые рекомендации:",
-          "IsHighlight": true
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Все посетители сайта случайным образом делились на 2 сегмента:"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Первому сегменту показывались поисковые рекомендации:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-poluchat-bolee-16-zakazov-s-pomoshhju-personalnogo-podhoda-kejs-siberian-wellness/image5-1.webp",
-      "Alt": "Блок товарных рекомендаций на сайте Siberian Wellness, персонализация в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -610,15 +560,14 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Второму сегменту, который был контрольной группой, рекомендации не показывались.",
-          "IsHighlight": true
+          "Content": "Второму сегменту, который был контрольной группой, рекомендации не показывались."
         }
       ]
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-poluchat-bolee-16-zakazov-s-pomoshhju-personalnogo-podhoda-kejs-siberian-wellness/siberianwellness_retailrocket_results_3.webp",
-      "Alt": "Итоговые результаты A/B-тестирования персонализации Siberian Wellness",
+      "Alt": "",
       "Caption": "Результаты тестирования"
     },
     {
@@ -651,19 +600,19 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-poluchat-bolee-16-zakazov-s-pomoshhju-personalnogo-podhoda-kejs-siberian-wellness/image13.webp",
-      "Alt": "Сравнение сегментов: повышение заказов с помощью персонализации в e-commerce",
+      "Alt": "",
       "Caption": null
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-poluchat-bolee-16-zakazov-s-pomoshhju-personalnogo-podhoda-kejs-siberian-wellness/image16.webp",
-      "Alt": "График доверительных интервалов конверсии A/B-теста Siberian Wellness (плейсмент 3)",
+      "Alt": "",
       "Caption": "График пересечения доверительных интервалов распределения конверсии"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/cases/kak-poluchat-bolee-16-zakazov-s-pomoshhju-personalnogo-podhoda-kejs-siberian-wellness/image17.webp",
-      "Alt": "График доверительных интервалов среднего чека Siberian Wellness",
+      "Alt": "",
       "Caption": "Доверительные интервалы среднего чека"
     },
     {
@@ -732,6 +681,17 @@
       "Author": "Дмитрий",
       "AuthorPosition": "Менеджер Retail Rocket",
       "AuthorImageUrl": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
+  ],
+  "IndustryList": [
+    "Бьюти"
   ]
 }

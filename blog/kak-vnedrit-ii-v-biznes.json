@@ -24,6 +24,15 @@
   "MetaTitle": "Как внедрить искусственный интеллект в бизнес: технологии, применение, страница 2",
   "ContentBlockList": [
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Андрей Москвин, Product Marketing Manager (PMM, Global), Retail Rocket Group разбирается в технологиях ИИ, которые применяются в бизнесе, и рассказывает, как разные сферы бизнеса используют искусственный интеллект, чтобы сократить затраты и работать быстрее."
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "История развития искусственного интеллекта"
     },
@@ -69,7 +78,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-vnedrit-ii-v-biznes/ai_in_biz_10.png",
-      "Alt": "Диаграмма использования ИИ-решений организациями в 2024 году",
+      "Alt": "",
       "Caption": "Использование ИИ-решений организациями в 2024 году (в % от всех организаций)"
     },
     {
@@ -77,13 +86,8 @@
       "Title": "Ключевые технологии ИИ, применяемые в бизнесе"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Современный бизнес использует несколько основных технологий ИИ:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Современный бизнес использует несколько основных технологий ИИ:"
     },
     {
       "_t": "UnorderedList",
@@ -144,7 +148,12 @@
           "Content": "Как работает динамическое ценообразование"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Читать статью",
       "BtnUrl": "https://retailrocket.ru/blog/kak-rabotayet-dinamicheskoye-tsenoobrazovaniye/"
     },
@@ -226,7 +235,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-vnedrit-ii-v-biznes/ai_in_biz_20.png",
-      "Alt": "Робот-уборщик в отеле Гонконга доставляет посуду на кухню в часы пик",
+      "Alt": "",
       "Caption": "В пиковые часы робот-уборщик помогает сотрудникам отеля в Гонконге: доставляет использованную посуду на кухню"
     },
     {
@@ -325,7 +334,12 @@
           "Content": "Как ИИ применяется и работает в маркетинге"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Читать статью",
       "BtnUrl": "https://retailrocket.ru/blog/iskusstvennyj-intellekt-v-marketinge-i-reklame/"
     },
@@ -345,7 +359,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-vnedrit-ii-v-biznes/ai_in_biz_30.png",
-      "Alt": "Цикл внедрения AI в бизнес: анализ, брифинг, тестирование, оценка результатов.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -406,6 +420,57 @@
         {
           "_t": "Text",
           "Content": "Это важный этап внедрения, который нельзя пропускать. Он помогает бизнесу понять эффект и перспективы использования ИИ-технологии. Для оценки рекомендую использовать два вида KPI — польза для бизнеса и производительность самой технологии. Дальше к этим процессам можно циклично возвращаться и смотреть, что в них недоавтоматизировано или где можно заменить на более современное решение другого поставщика."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

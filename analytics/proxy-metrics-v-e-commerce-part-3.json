@@ -27,6 +27,29 @@
       "_t": "Paragraph",
       "Elements": [
         {
+          "_t": "Text",
+          "Content": "В "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/analytics/proxy-metrics-v-e-commerce-part-1/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "первой части"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " обсудили проблемы, возникающие при оценке LTV пользователей онлайн-магазина, и как можно решить их с помощью прокси-метрик. Также мы рассказали, как ищут подобные метрики компании из разных областей и поделились собственным списком найденных метрик, применимых в e-commerce."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
           "_t": "Link",
           "Href": "https://retailrocket.ru/analytics/proxy-metrics-v-e-commerce-part-2/",
           "Elements": [
@@ -56,13 +79,8 @@
       "Title": "Интерпретация полученных прокси-метрик с точки зрения бизнеса"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Напомним, что во второй части мы отобрали следующие прокси-метрики:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Напомним, что во второй части мы отобрали следующие прокси-метрики:"
     },
     {
       "_t": "UnorderedList",
@@ -133,13 +151,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Теперь постараемся объяснить, как остальные признаки способны предсказывать LTV:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Теперь постараемся объяснить, как остальные признаки способны предсказывать LTV:"
     },
     {
       "_t": "UnorderedList",
@@ -148,7 +161,7 @@
           {
             "_t": "Text",
             "Content": "Посетитель оставил email",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -159,7 +172,7 @@
           {
             "_t": "Text",
             "Content": "Тип браузера",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -170,7 +183,7 @@
           {
             "_t": "Text",
             "Content": "Тип устройства",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -181,7 +194,7 @@
           {
             "_t": "Text",
             "Content": "Давность последнего посещения сайта",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -192,7 +205,7 @@
           {
             "_t": "Text",
             "Content": "Количество просмотренных разных товаров",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -203,7 +216,7 @@
           {
             "_t": "Text",
             "Content": "Длительность взаимодействия пользователя с сайтом в днях",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -214,7 +227,7 @@
           {
             "_t": "Text",
             "Content": "Количество запросов в поисковую систему сайта",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -225,7 +238,7 @@
           {
             "_t": "Text",
             "Content": "Количество добавленных в корзину товаров",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -277,7 +290,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/analytics/proxy-metrics-v-e-commerce-part-3/Capture-2025-10-29-174648.png",
-      "Alt": "Сравнительный график Магазина 1 и Магазина 2 из предыдущей части серии",
+      "Alt": "",
       "Caption": "В качестве примера используем сильно отличающиеся друг от друга «Магазин 1» и «Магазин 2», которые ввели в предыдущей части статьи"
     },
     {
@@ -341,7 +354,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/analytics/proxy-metrics-v-e-commerce-part-3/Capture-2025-10-29-174833.png",
-      "Alt": "График предсказанной вероятности покупки для увеличения LTV интернет-магазина.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -360,7 +373,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/analytics/proxy-metrics-v-e-commerce-part-3/Capture-2025-10-29-175015.png",
-      "Alt": "Графики вероятности покупок для двух магазинов, персонализация в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -411,13 +424,13 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/analytics/proxy-metrics-v-e-commerce-part-3/Capture-2025-10-29-175229.png",
-      "Alt": "Кросс-табуляция для анализа роста вероятности покупки и увеличения LTV.",
+      "Alt": "",
       "Caption": null
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/analytics/proxy-metrics-v-e-commerce-part-3/Capture-2025-10-29-175259.png",
-      "Alt": "Кросс-таблица для анализа роста вероятности покупки и увеличения LTV.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -426,19 +439,6 @@
         {
           "_t": "Text",
           "Content": "Как мы видим, модель способна выделять более склонных к покупке (даже если она произойдет спустя длительный период времени) пользователей среди тех, кто ничего не покупал и не добавлял в корзину. То есть любая активность пользователя на сайте говорит о его потенциальной ценности для магазина. Отсюда напрашивается вывод, что повышая активность пользователя на сайте, магазин может рассчитывать на увеличение своей итоговой долгосрочной выручки."
-        }
-      ]
-    },
-    {
-      "_t": "Heading3",
-      "Title": "Узнайте больше о том, как использовать прокси-метрики для вашего бизнеса"
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Эксперты Retail Rocket Group подробно расскажут, как использовать данные для роста."
         }
       ]
     },
@@ -514,6 +514,29 @@
         {
           "_t": "Text",
           "Content": "Для нахождения хороших прокси-метрик онлайн-магазин может провести такое же исследование или воспользоваться найденными нами прокси-метриками. Их актуальность была проверена на 27 магазинах разных типов, поэтому с высокой вероятностью они будут полезны и для многих других интернет-магазинов."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/analytics/proxy-metrics-v-e-commerce-part-1/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "Аналитика Что такое прокси-метрики и зачем они нужны в e-commerce Наталья Казьмина 28.06.2024"
+            }
+          ]
         }
       ]
     }

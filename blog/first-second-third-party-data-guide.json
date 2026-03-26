@@ -115,7 +115,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/first-second-third-party-data-guide/PartyData_01.png",
-      "Alt": "Баннер с уведомлением пользователя о политике обработки файлов cookie",
+      "Alt": "",
       "Caption": "Бизнес обязан уведомить пользователя о политике обработки файлов cookie"
     },
     {
@@ -144,13 +144,13 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/first-second-third-party-data-guide/PartyData_02.png",
-      "Alt": "Контент-рассылка бренда Monochrome для сбора first-party данных",
+      "Alt": "",
       "Caption": "Российский бренд одежды Monochrome предлагает подписчикам интересный и познавательный контент"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/first-second-third-party-data-guide/PartyData_03.png",
-      "Alt": "Форма сбора контактных данных клиента в обмен на скидку",
+      "Alt": "",
       "Caption": "В обмен на скидку потенциальный клиент ИТ-продукта оставляет свои контактные данные: имя, электронную почту и номер телефона"
     },
     {
@@ -428,13 +428,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "С помощью данных второго уровня бизнес может:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "С помощью данных второго уровня бизнес может:"
     },
     {
       "_t": "Paragraph",
@@ -524,13 +519,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Компании могут приобретать данные третьего уровня, чтобы:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Компании могут приобретать данные третьего уровня, чтобы:"
     },
     {
       "_t": "UnorderedList",
@@ -565,7 +555,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/first-second-third-party-data-guide/PartyData_05.png",
-      "Alt": "Сравнительная схема особенностей first-, second- и third-party данных о клиенте",
+      "Alt": "",
       "Caption": "Особенности разных видов данных о клиенте"
     },
     {
@@ -620,6 +610,57 @@
         {
           "_t": "Text",
           "Content": "Крупнейшие бренды всё больше полагаются на данные первой стороны. В современном мире важно демонстрировать полную прозрачность и приверженность этичной обработке данных, когда во главе угла стоят безопасность и доверие клиентов."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

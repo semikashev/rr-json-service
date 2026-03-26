@@ -37,7 +37,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
+          "Content": "Как это работает?"
         }
       ]
     },
@@ -97,7 +97,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/uvedomleniya-o-snizhenii-tsenyi-na-tovaryi-v-korzine-i-prosmotrennyie-tovaryi/sela.png",
-      "Alt": "Пример email-рассылки с уведомлением о снижении цены на товар в корзине.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -125,7 +125,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/uvedomleniya-o-snizhenii-tsenyi-na-tovaryi-v-korzine-i-prosmotrennyie-tovaryi/tvoe.png",
-      "Alt": "Пример email с блоком рекомендаций; персонализация в e-commerce и ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -153,7 +153,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/uvedomleniya-o-snizhenii-tsenyi-na-tovaryi-v-korzine-i-prosmotrennyie-tovaryi/detmir.png",
-      "Alt": "Emails с уведомлением о снижении цены и персональные рекомендации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -185,7 +185,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/uvedomleniya-o-snizhenii-tsenyi-na-tovaryi-v-korzine-i-prosmotrennyie-tovaryi/quelle.png",
-      "Alt": "Пример письма с уведомлением о снижении цен в интернет-магазине Quelle.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -204,7 +204,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/uvedomleniya-o-snizhenii-tsenyi-na-tovaryi-v-korzine-i-prosmotrennyie-tovaryi/technosila.png",
-      "Alt": "Электронное письмо с блоком рекомендаций и метриками персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -241,7 +241,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/uvedomleniya-o-snizhenii-tsenyi-na-tovaryi-v-korzine-i-prosmotrennyie-tovaryi/aizel.png",
-      "Alt": "Пример маркетингового письма с AI рекомендациями и ценовыми метриками для Aizel.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -269,7 +269,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/uvedomleniya-o-snizhenii-tsenyi-na-tovaryi-v-korzine-i-prosmotrennyie-tovaryi/petshop.png",
-      "Alt": "Пример письма об акциях с ключевыми метриками, персонализация в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -277,9 +277,26 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Как запустить? Ключевое преимущество новых триггерных сценариев в том, что для их запуска достаточно добавить верстку письма, дополнительная интеграция со стороны клиента не требуется."
+          "Content": "Как запустить?"
         }
       ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Ключевое преимущество новых триггерных сценариев в том, что для их запуска достаточно добавить верстку письма, дополнительная интеграция со стороны клиента не требуется."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
   ]
 }

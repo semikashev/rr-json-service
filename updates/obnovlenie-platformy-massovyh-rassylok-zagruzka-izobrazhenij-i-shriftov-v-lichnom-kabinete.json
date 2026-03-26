@@ -28,6 +28,15 @@
       "Elements": [
         {
           "_t": "Text",
+          "Content": "Платформа Retail Rocket — единый центр управления email-маркетингом для ритейла, включающий в себя привычные массовые рассылки, любые триггерные сценарии, сервисные/транзакционные письма и мощную систему сегментации и аналитики. Платформа разработана с учетом специфики онлайн-ритейла, полностью покрывает потребности интернет-магазина и включает в себя все передовые технологии персонализации, обеспечивая более высокий результат, чем другие платформы."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
           "Content": "Более четырех лет мы помогаем сотням ритейлеров в России и за рубежом перейти от бессистемных рассылок к умному персонализированному email-маркетингу на основе данных, позволяя строить индивидуальные коммуникации и долгосрочные отношения с клиентами."
         }
       ]
@@ -53,32 +62,22 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/obnovlenie-platformy-massovyh-rassylok-zagruzka-izobrazhenij-i-shriftov-v-lichnom-kabinete/image2.png",
-      "Alt": "Интерфейс загрузки изображений и шрифтов в платформе массовых рассылок.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Изображения загружаются с помощью привычного окна выбора файлов:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Изображения загружаются с помощью привычного окна выбора файлов:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/obnovlenie-platformy-massovyh-rassylok-zagruzka-izobrazhenij-i-shriftov-v-lichnom-kabinete/image4.png",
-      "Alt": "Интерфейс загрузки изображений в платформе Retail Rocket для e-commerce маркетинга.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Допустимые форматы файлов:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Допустимые форматы файлов:"
     },
     {
       "_t": "UnorderedList",
@@ -157,52 +156,37 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/obnovlenie-platformy-massovyh-rassylok-zagruzka-izobrazhenij-i-shriftov-v-lichnom-kabinete/image5.png",
-      "Alt": "Скриншот загрузки изображений в личном кабинете Retail Rocket для массовых рассылок.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Чтобы вставить изображение в шаблон письма, достаточно просто скопировать ссылку:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Чтобы вставить изображение в шаблон письма, достаточно просто скопировать ссылку:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/obnovlenie-platformy-massovyh-rassylok-zagruzka-izobrazhenij-i-shriftov-v-lichnom-kabinete/image6.png",
-      "Alt": "Окно с URL для копирования и загрузки изображений в платформе массовых рассылок.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Файлы можно перезаписывать или просто удалять ненужные, чтобы не занимали место:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Файлы можно перезаписывать или просто удалять ненужные, чтобы не занимали место:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/obnovlenie-platformy-massovyh-rassylok-zagruzka-izobrazhenij-i-shriftov-v-lichnom-kabinete/image1.png",
-      "Alt": "Удаление файла в интерфейсе загрузки изображений личного кабинета Retail Rocket.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Со шрифтами все ровно так же, а для удобства маркетолога они выделяются среди картинок специальными иконками:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Со шрифтами все ровно так же, а для удобства маркетолога они выделяются среди картинок специальными иконками:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/obnovlenie-platformy-massovyh-rassylok-zagruzka-izobrazhenij-i-shriftov-v-lichnom-kabinete/image3.png",
-      "Alt": "Интерфейс загрузки файлов для массовых рассылок на платформе Retail Rocket.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -222,6 +206,14 @@
           "Content": "Мы не прощаемся и уходим придумывать и внедрять новые классные фичи!"
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
   ]
 }

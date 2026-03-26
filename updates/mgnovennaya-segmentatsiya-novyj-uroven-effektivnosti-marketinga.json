@@ -24,6 +24,15 @@
   "MetaTitle": "Мгновенная сегментация: новый уровень эффективности маркетинга | Retail Rocket Group",
   "ContentBlockList": [
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Бизнес сталкивается с рядом сложностей при сегментации аудитории: долгий процесс формирования, сложная настройка или некорректные выгрузки для других систем. Основные проблемы при работе с сегментацией пользователей:"
+        }
+      ]
+    },
+    {
       "_t": "UnorderedList",
       "Items": [
         [
@@ -113,17 +122,12 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/mgnovennaya-segmentatsiya-novyj-uroven-effektivnosti-marketinga/segmentation3.gif",
-      "Alt": "Интерфейс мгновенной сегментации для персонализации в e-commerce по полу и местоположению.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Преимущества сегментации Retail Rocket Group:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Преимущества сегментации Retail Rocket Group:"
     },
     {
       "_t": "UnorderedList",
@@ -132,7 +136,7 @@
           {
             "_t": "Text",
             "Content": "Гибкость",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -143,7 +147,7 @@
           {
             "_t": "Text",
             "Content": "Точность",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -154,7 +158,7 @@
           {
             "_t": "Text",
             "Content": "Экономия времени",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -165,7 +169,7 @@
           {
             "_t": "Text",
             "Content": "Масштабируемость",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -176,7 +180,7 @@
           {
             "_t": "Text",
             "Content": "Простота использования",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -187,7 +191,7 @@
           {
             "_t": "Text",
             "Content": "Автосегментация",
-            "IsHighlight": true
+            "IsBold": true
           },
           {
             "_t": "Text",
@@ -204,9 +208,22 @@
           "Content": "Оставьте заявку, если хотите узнать, как платформа Retail Rocket Group помогает увеличивать продажи."
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Запросить демо",
       "BtnUrl": "https://retailrocket.ru/demo/"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
   ]
 }

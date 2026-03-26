@@ -24,17 +24,21 @@
   "MetaTitle": "Как поставить аватар отправителя к email-рассылке: Yandex, Gmail, Mail, страница 3",
   "ContentBlockList": [
     {
-      "_t": "Heading2",
-      "Title": "Что такое аватар в email"
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Аватар в электронной почте — картинка слева от имени отправителя, которая ассоциируется с брендом. Аватар выполняет несколько функций:"
+          "Content": "В статье рассказываем, как настроить аватар для email-рассылок в почтовых сервисах Mail, Яндекс и Google."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Что такое аватар в email"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Аватар в электронной почте — картинка слева от имени отправителя, которая ассоциируется с брендом. Аватар выполняет несколько функций:"
     },
     {
       "_t": "Paragraph",
@@ -66,7 +70,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-dobavit-avatar-dlya-email-rassylok/Kak_dobavit_avatar_01.png",
-      "Alt": "Примеры логотипов брендов в виде аватаров в email-рассылке",
+      "Alt": "",
       "Caption": "Примеры аватаров различных брендов в email-рассылке"
     },
     {
@@ -116,7 +120,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-dobavit-avatar-dlya-email-rassylok/Kak_dobavit_avatar_02.png",
-      "Alt": "Скриншот главной страницы постмастера с полем для ввода доменного имени",
+      "Alt": "",
       "Caption": "Главная страница постмастера, где нужно ввести доменное имя"
     },
     {
@@ -163,7 +167,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-dobavit-avatar-dlya-email-rassylok/Kak_dobavit_avatar_03.png",
-      "Alt": "Инструкция по подтверждению домена в постмастере",
+      "Alt": "",
       "Caption": "Каждый способ подтверждения домена содержит свою инструкцию из нескольких шагов"
     },
     {
@@ -178,17 +182,12 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-dobavit-avatar-dlya-email-rassylok/Kak_dobavit_avatar_04.png",
-      "Alt": "Скриншот раздела настройки аватаров доменов с кнопкой выбора",
+      "Alt": "",
       "Caption": "Кнопка для выбора аватара доступна в разделе «Настройка аватаров ваших доменов»"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Шаг 4. Загрузить изображение, которое будет соответствовать следующим требованиям:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Шаг 4. Загрузить изображение, которое будет соответствовать следующим требованиям:"
     },
     {
       "_t": "UnorderedList",
@@ -228,7 +227,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-dobavit-avatar-dlya-email-rassylok/Kak_dobavit_avatar_05.png",
-      "Alt": "Требования к аватару: PNG, 180×180 пикселей, с читаемостью при 32×32",
+      "Alt": "",
       "Caption": "Изображение должно быть в формате PNG, иметь размеры 180×180 и сохранять чёткость при уменьшении до 32×32"
     },
     {
@@ -256,7 +255,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-dobavit-avatar-dlya-email-rassylok/Kak_dobavit_avatar_06.png",
-      "Alt": "Скриншот главной страницы личного аккаунта Google",
+      "Alt": "",
       "Caption": "Главная страница личного аккаунта в Google"
     },
     {
@@ -271,7 +270,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-dobavit-avatar-dlya-email-rassylok/Kak_dobavit_avatar_07.png",
-      "Alt": "Раздел дополнительных email-адресов в Google с кнопкой добавления",
+      "Alt": "",
       "Caption": "Кнопка добавить находится в разделе «Дополнительные адреса электронной почты»"
     },
     {
@@ -295,7 +294,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-dobavit-avatar-dlya-email-rassylok/Kak_dobavit_avatar_08.png",
-      "Alt": "Раздел основной информации Google с кнопкой выбора аватара",
+      "Alt": "",
       "Caption": "Кнопка для выбора аватара доступна в разделе «Основная информация»"
     },
     {
@@ -310,7 +309,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-dobavit-avatar-dlya-email-rassylok/Kak_dobavit_avatar_09.png",
-      "Alt": "Скриншот интерфейса добавления аватара в email рассылке Google аккаунта.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -325,7 +324,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-dobavit-avatar-dlya-email-rassylok/Kak_dobavit_avatar_10.png",
-      "Alt": "Предпросмотр загруженного аватара в интерфейсе",
+      "Alt": "",
       "Caption": "После загрузки изображения, можно будет увидеть как оно будет смотреться на аватаре"
     },
     {
@@ -340,7 +339,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-dobavit-avatar-dlya-email-rassylok/Kak_dobavit_avatar_11.png",
-      "Alt": "Интерфейс почтового клиента без аватара отправителя в email рассылке.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -368,7 +367,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-dobavit-avatar-dlya-email-rassylok/Kak_dobavit_avatar_12.png",
-      "Alt": "Скриншот ответа поддержки Яндекса об установке аватара для корпоративной почты",
+      "Alt": "",
       "Caption": "Ответ службы поддержки Яндекса на запрос автора о том, как установить аватар для корпоративной почты"
     },
     {
@@ -376,9 +375,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Шаг 2. Чтобы запрос обработали быстрее в письме необходимо указать краткую информацию о сервисе и количестве писем, которые планируется отправлять адресатам в день/месяц и приложить аватар. Установка аватара может занимать до двух недель. Требования к изображению:"
+          "Content": "Шаг 2. Чтобы запрос обработали быстрее в письме необходимо указать краткую информацию о сервисе и количестве писем, которые планируется отправлять адресатам в день/месяц и приложить аватар. Установка аватара может занимать до двух недель."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Требования к изображению:"
     },
     {
       "_t": "UnorderedList",
@@ -432,45 +435,20 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Это платная услуга. Приобрести сертификат на год можно у двух компаний:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Это платная услуга. Приобрести сертификат на год можно у двух компаний:"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "[— Entrust — $1299;](https://www.entrust.com/digital-security/certificate-solutions/products/digital-certificates/verified-mark-certificates)"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "[— DigiCert — $1499.](https://www.digicert.com/tls-ssl/verified-mark-certificates)"
     },
     {
       "_t": "Paragraph",
       "Elements": [
-        {
-          "_t": "Link",
-          "Href": "https://www.entrust.com/digital-security/certificate-solutions/products/digital-certificates/verified-mark-certificates",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "— Entrust — $1299;"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://www.digicert.com/tls-ssl/verified-mark-certificates",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "— DigiCert — $1499."
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
         {
           "_t": "Link",
           "Href": "https://www.digicert.com/tls-ssl/verified-mark-certificates",
@@ -486,7 +464,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-dobavit-avatar-dlya-email-rassylok/Kak_dobavit_avatar_13.png",
-      "Alt": "Список почтовых сервисов с поддержкой BIMI, включая Google и Yahoo",
+      "Alt": "",
       "Caption": "Сейчас BIMI поддерживают следующие почтовые сервисы: Google, Yahoo!, Fastmail и [другие](https://bimigroup.org/bimi-infographic/). Яндекс Почта и Mail.ru не поддерживают технологию BIMI"
     },
     {
@@ -526,6 +504,57 @@
         {
           "_t": "Text",
           "Content": "Существует стандарт безопасности BIMI, который настраивает один аватар на все почтовые сервисы, которые его поддерживают. Из популярных почтовых сервисов в России, этот стандарт безопасности поддерживает только Google."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

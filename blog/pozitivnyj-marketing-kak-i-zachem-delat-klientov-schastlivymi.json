@@ -24,6 +24,15 @@
   "MetaTitle": "Позитивный маркетинг: как и зачем делать клиентов счастливыми – Retail Rocket Group, страница 6",
   "ContentBlockList": [
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Если вы хотите, чтобы покупатель возвращался в ваш магазин за покупками и рекомендовал его знакомым, нужно обеспечить покупателю положительный покупательский опыт. Рассказываем, как интернет-магазины могут сделать клиентов счастливыми и выстроить с ними длительные доверительные отношения."
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Что такое позитивный маркетинг"
     },
@@ -70,7 +79,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pozitivnyj-marketing-kak-i-zachem-delat-klientov-schastlivymi/doverie-k-brendu-1.png",
-      "Alt": "Инфографика о ключевых факторах счастья разных поколений в контексте персонализации в ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -125,7 +134,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pozitivnyj-marketing-kak-i-zachem-delat-klientov-schastlivymi/image1-1.png",
-      "Alt": "Скриншот: товарные рекомендации на сайте BUTIK, персонализация в ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -180,7 +189,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pozitivnyj-marketing-kak-i-zachem-delat-klientov-schastlivymi/image6.png",
-      "Alt": "Скриншот карточки товара на Ozon для персонализированного опыта покупателя.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -206,13 +215,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "RFM-сегментация e-mail подписчиков позволяет:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "RFM-сегментация e-mail подписчиков позволяет:"
     },
     {
       "_t": "UnorderedList",
@@ -261,7 +265,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pozitivnyj-marketing-kak-i-zachem-delat-klientov-schastlivymi/image3.png",
-      "Alt": "Результаты RFM-кампаний для персонализации в ритейле и повышение метрик.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -307,7 +311,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pozitivnyj-marketing-kak-i-zachem-delat-klientov-schastlivymi/image4.png",
-      "Alt": "Пример персонализированного письма с рекомендациями товаров для покупки в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -324,13 +328,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Вот несколько советов, как стать ближе с покупателями:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Вот несколько советов, как стать ближе с покупателями:"
     },
     {
       "_t": "Paragraph",
@@ -371,7 +370,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/pozitivnyj-marketing-kak-i-zachem-delat-klientov-schastlivymi/image5.png",
-      "Alt": "Интерфейс интернет-магазина для демонстрации комбинированного платья, персонализация в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -501,6 +500,57 @@
         {
           "_t": "Text",
           "Content": "✅ Просите клиентов делиться фото. Отзывы с реальными снимками — это не только доказательство качества, но и связь с брендом. Это возможность другим увидеть товар «в деле» и принять решение о покупке."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

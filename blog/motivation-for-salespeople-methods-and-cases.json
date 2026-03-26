@@ -79,7 +79,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/motivation-for-salespeople-methods-and-cases/motivation_02.png",
-      "Alt": "Результаты опроса о мотивации и удовлетворенности сотрудников бонусами и условиями.",
+      "Alt": "",
       "Caption": "Источник — исследование hh.ru от 2022 года, в котором принимали участие 2609 российских соискателей"
     },
     {
@@ -176,7 +176,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/motivation-for-salespeople-methods-and-cases/motivation_03.png",
-      "Alt": "Интерфейс учета выполнения KPI: начисление бонусов и их налоговые последствия.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -237,7 +237,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/motivation-for-salespeople-methods-and-cases/motivation_04.png",
-      "Alt": "Интерфейс базы знаний Cofix Connect с учебными материалами для сотрудников",
+      "Alt": "",
       "Caption": "«База знаний» в Cofix Connect, где собраны полезные материалы для разных профессий"
     },
     {
@@ -289,13 +289,8 @@
       "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/motivation-for-salespeople-methods-and-cases/Component-603-300x300.png"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Нематериальная мотивация включает в себя:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Нематериальная мотивация включает в себя:"
     },
     {
       "_t": "Paragraph",
@@ -387,7 +382,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/motivation-for-salespeople-methods-and-cases/motivation_07.png",
-      "Alt": "Скриншот поста в корпоративной социальной сети «Пульс»",
+      "Alt": "",
       "Caption": "Пример поста в социальной сети «Пульс»"
     },
     {
@@ -448,7 +443,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/motivation-for-salespeople-methods-and-cases/motivation_08.png",
-      "Alt": "Корпоративное сообщество «Espresso Bar» с лайфхаками по приготовлению кофе",
+      "Alt": "",
       "Caption": "Так выглядит сообщество «Espresso Bar» для любителей кофе, где сотрудники делятся лайфхаками по приготовлению кофе"
     },
     {
@@ -646,6 +641,57 @@
       "Author": "Алексей Клоц",
       "AuthorPosition": "Head of digital products в Cofix",
       "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/motivation-for-salespeople-methods-and-cases/Component-603-300x300.png"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

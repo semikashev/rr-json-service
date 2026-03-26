@@ -131,13 +131,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Более половины клиентов (57%) начинают поиски товаров в интернете, а затем:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Более половины клиентов (57%) начинают поиски товаров в интернете, а затем:"
     },
     {
       "_t": "UnorderedList",
@@ -171,7 +166,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-podgotovitsja-k-chernoj-pjatnice-strategii-i-taktiki-dlja-marketologov/Pyatnitsa1.jpg",
-      "Alt": "Процесс покупателя на Чёрную пятницу онлайн и офлайн, данные Retail Rocket.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -188,13 +183,8 @@
       "Title": "Стратегии и тактики для Черной пятницы 2025"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Для начала мы советуем выделить 2 стратегии:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Для начала мы советуем выделить 2 стратегии:"
     },
     {
       "_t": "Paragraph",
@@ -210,7 +200,16 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Работа с новыми покупателями. Здесь важно не только дать самое выгодное предложение (а в Черную пятницу фактор цены важен как никогда), но и «отыграть» сервисом. В том числе помочь легко и быстро попасть в нужную карточку товара и предложить подходящие сопутствующие товары. А теперь конкретнее, что стоит делать."
+          "Content": "Работа с новыми покупателями. Здесь важно не только дать самое выгодное предложение (а в Черную пятницу фактор цены важен как никогда), но и «отыграть» сервисом. В том числе помочь легко и быстро попасть в нужную карточку товара и предложить подходящие сопутствующие товары."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "А теперь конкретнее, что стоит делать."
         }
       ]
     },
@@ -239,7 +238,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-podgotovitsja-k-chernoj-pjatnice-strategii-i-taktiki-dlja-marketologov/Pyatnitsa2.jpg",
-      "Alt": "Email-рассылка с акциями и персонализацией в e-commerce от ImperiaTechno.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -251,9 +250,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Оповестить клиентов одним письмом о старте масштабной распродажи — это хорошо, но еще лучше подготовить цепочку писем с разным содержанием, которое будет подогревать интерес покупателя. Например:"
+          "Content": "Оповестить клиентов одним письмом о старте масштабной распродажи — это хорошо, но еще лучше подготовить цепочку писем с разным содержанием, которое будет подогревать интерес покупателя."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Например:"
     },
     {
       "_t": "UnorderedList",
@@ -288,13 +291,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Интернет-магазин Подружка отправляет несколько различных email-кампаний:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Интернет-магазин Подружка отправляет несколько различных email-кампаний:"
     },
     {
       "_t": "Paragraph",
@@ -308,22 +306,17 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-podgotovitsja-k-chernoj-pjatnice-strategii-i-taktiki-dlja-marketologov/Pyatnitsa3.jpg",
-      "Alt": "Email-рассылка для Черной пятницы с элементами персонализации в ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Следующие письма используют сегментацию по разным признакам, например, по типу кожи:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Следующие письма используют сегментацию по разным признакам, например, по типу кожи:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-podgotovitsja-k-chernoj-pjatnice-strategii-i-taktiki-dlja-marketologov/Pyatnitsa4.jpg",
-      "Alt": "Интерфейс email-кампании с персонализацией к Черной пятнице в ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -351,7 +344,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-podgotovitsja-k-chernoj-pjatnice-strategii-i-taktiki-dlja-marketologov/Pyatnitsa5.jpg",
-      "Alt": "Электронное письмо с персонализированными скидками до 70% на Черную пятницу",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -402,7 +395,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-podgotovitsja-k-chernoj-pjatnice-strategii-i-taktiki-dlja-marketologov/Pyatnitsa6.jpg",
-      "Alt": "Интерфейс e-commerce сайта с персонализацией для распродажи Черной пятницы",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -430,7 +423,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-podgotovitsja-k-chernoj-pjatnice-strategii-i-taktiki-dlja-marketologov/Pyatnitsa7.jpg",
-      "Alt": "Интерфейс персонализации товаров на сайте INTERTOP для Черной пятницы",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -456,18 +449,13 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Подобную стратегию использует интернет-магазин Ralf Ringer в праздничных рассылках:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Подобную стратегию использует интернет-магазин Ralf Ringer в праздничных рассылках:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-podgotovitsja-k-chernoj-pjatnice-strategii-i-taktiki-dlja-marketologov/Pyatnitsa8.jpg",
-      "Alt": "Пример email-рассылки и push-уведомления для персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -504,7 +492,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-podgotovitsja-k-chernoj-pjatnice-strategii-i-taktiki-dlja-marketologov/Pyatnitsa9.jpg",
-      "Alt": "Пример персонализации в e-commerce: интерфейс интернет-магазина с рекомендациями.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -532,7 +520,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-podgotovitsja-k-chernoj-pjatnice-strategii-i-taktiki-dlja-marketologov/Pyatnitsa10.jpg",
-      "Alt": "Промо-акция ASOS на Черную пятницу с 20% скидкой на всё.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -560,7 +548,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-podgotovitsja-k-chernoj-pjatnice-strategii-i-taktiki-dlja-marketologov/Pyatnitsa11.jpg",
-      "Alt": "Два примера e-mail рассылок с предложениями Черной пятницы для ритейла и e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -623,6 +611,57 @@
         {
           "_t": "Text",
           "Content": "Удачных продаж в Черную пятницу и не только!"
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

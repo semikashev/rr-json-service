@@ -4,7 +4,12 @@
     "Словарь"
   ],
   "Title": "Что такое показ (Impression)?",
-  "MetaTitle": "Что такое показ и зачем это нужно маркетологу",
+  "PublishDate": {
+    "$date": "2025-08-15T15:58:00"
+  },
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "LeadText": [
     {
       "Elements": [
@@ -15,20 +20,14 @@
       ]
     }
   ],
-  "PublishDate": {
-    "$date": "2025-08-15T15:58:00"
-  },
-  "Letter": "П",
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Что такое показ и зачем это нужно маркетологу",
   "ContentBlockList": [
     {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "В маркетинге показ (impression) — это фиксированный факт, что рекламное объявление загрузилось на устройстве пользователя. Система доставки регистрирует его в момент отрисовки на экране или при выполнении условий видимости по стандартам IAB. Показ говорит о возможности контакта, а не о том, что человек его заметил или прочитал. Что такое показ (Impression)?"
+          "Content": "Что такое показ (Impression)?"
         }
       ]
     },
@@ -46,7 +45,7 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Кирилл Морозов Главный редактор Retail Rocket Group"
+          "Content": "Что такое показ?"
         }
       ]
     },
@@ -60,13 +59,12 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Источник: Universal Marketing Dictionary (Marketing Accountability Standards Board) Ключевые факты:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Источник: Universal Marketing Dictionary (Marketing Accountability Standards Board)"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Ключевые факты:"
     },
     {
       "_t": "UnorderedList",
@@ -245,7 +243,16 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Маркетологу важно понимать этот термин, потому что он напрямую связан с охватом и затратами рекламной кампании. Если не контролировать количество показов, можно тратить бюджет на аудиторию, которая уже видела рекламу много раз и не реагирует. Вот наглядный пример."
+          "Content": "Маркетологу важно понимать этот термин, потому что он напрямую связан с охватом и затратами рекламной кампании. Если не контролировать количество показов, можно тратить бюджет на аудиторию, которая уже видела рекламу много раз и не реагирует."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Вот наглядный пример."
         }
       ]
     },
@@ -259,13 +266,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Иначе говоря, показ влияет на ключевые показатели маркетолога:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Иначе говоря, показ влияет на ключевые показатели маркетолога:"
     },
     {
       "_t": "UnorderedList",
@@ -463,7 +465,12 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "❌ Манипуляции со стороны площадок.",
+          "Content": "❌",
+          "IsHighlight": true
+        },
+        {
+          "_t": "Text",
+          "Content": "Манипуляции со стороны площадок.",
           "IsHighlight": true
         },
         {
@@ -501,7 +508,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-pokaz/Direct-Screen-Image.png",
-      "Alt": "Скриншот аналитики Яндекс.Директ: показы, CPM и CTR",
+      "Alt": "",
       "Caption": "Интерфейс личного кабинета Яндекс.Директ — в аналитике можно увидеть Показы, среднюю цену за 1000 показов и CTR"
     },
     {
@@ -595,7 +602,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-pokaz/digitalin-store_10.gif",
-      "Alt": "Интерфейс настройки кампании Smart Placement Ads для digital-экранов в офлайн-магазинах",
+      "Alt": "",
       "Caption": "С помощью adTech-платформы Smart Placement Ads можно настраивать таргетированные кампании на digital-экранах в офлайн-магазинах. Управление Digital In-Store стало таким же удобным, как и при работе с онлайн-рекламой"
     },
     {
@@ -623,7 +630,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-pokaz/ru-1-1-scaled.png",
-      "Alt": "Дашборд статистики SailPlay от Retail Rocket Group для аналитики email-кампаний",
+      "Alt": "",
       "Caption": "Благодаря наглядной статистике в интерфейсе SailPlay от Retail Rocket Group легче анализировать email-кампании и строить гипотезы"
     },
     {
@@ -707,6 +714,58 @@
           }
         ]
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "Letter": "П"
 }

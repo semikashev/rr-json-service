@@ -4,7 +4,12 @@
     "Словарь"
   ],
   "Title": "Что такое Ad-hoc запрос и его применение в маркетинге",
-  "MetaTitle": "Что такое Ad-hoc запрос и его применение в маркетинге",
+  "PublishDate": {
+    "$date": "2025-08-21T12:04:00"
+  },
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "LeadText": [
     {
       "Elements": [
@@ -15,13 +20,7 @@
       ]
     }
   ],
-  "PublishDate": {
-    "$date": "2025-08-21T12:04:00"
-  },
-  "Letter": "А",
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "Что такое Ad-hoc запрос и его применение в маркетинге",
   "ContentBlockList": [
     {
       "_t": "Heading2",
@@ -37,13 +36,12 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Источник: Phocas Software Glossary и Usedatabrain (англоязычные авторитетные словари) phocassoftware.comusedatabrain.com Ключевые факты:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Источник: Phocas Software Glossary и Usedatabrain (англоязычные авторитетные словари) phocassoftware.comusedatabrain.com"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Ключевые факты:"
     },
     {
       "_t": "UnorderedList",
@@ -175,7 +173,16 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Понимание термина Ad-hoc запрос даёт маркетологу инструмент для быстрой проверки гипотез и оперативного принятия решений. Когда время — ключевой ресурс, готовые отчёты не всегда дают нужную картину. Ad-hoc запрос позволяет в несколько минут собрать данные, которые напрямую влияют на текущую кампанию или распределение бюджета. Вот наглядный пример."
+          "Content": "Понимание термина Ad-hoc запрос даёт маркетологу инструмент для быстрой проверки гипотез и оперативного принятия решений. Когда время — ключевой ресурс, готовые отчёты не всегда дают нужную картину. Ad-hoc запрос позволяет в несколько минут собрать данные, которые напрямую влияют на текущую кампанию или распределение бюджета."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Вот наглядный пример."
         }
       ]
     },
@@ -221,13 +228,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Иначе говоря, Ad-hoc запрос влияет на ключевые показатели маркетолога:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Иначе говоря, Ad-hoc запрос влияет на ключевые показатели маркетолога:"
     },
     {
       "_t": "UnorderedList",
@@ -386,7 +388,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-ad-hoc-zapros/AD_4nXdvWiFWX0FxPi1baEN-5ZkVsdosv1LAAqiFpzWBPpEoAwjewHmvQvcZLoLltrqoZPHk2Y5QJkG5cXfN870X-5HBzijGPLo9nmySGIje3UQkTEp823vtpO4Xyp7xKkOS8obWeI2b.png",
-      "Alt": "Скриншот статистики рекламных кампаний спортивного магазина в Яндекс Директ",
+      "Alt": "",
       "Caption": "Пример статистики спортивного магазина в Яндекс Директ"
     },
     {
@@ -414,7 +416,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-ad-hoc-zapros/AD_4nXdWUKaTmmO9yd43c7ELKDfp-8MRASdMKir7t2PxuIlVXZu4FKOxombnh6FQ_QFKyyqIKxwgA9HALH8eTkZHIqiunVcP6ggTA6AW387cCNdzJ04O3AvCn5jRIMc-2SPPei6i7J_59w.png",
-      "Alt": "Скриншот статистики таргетированной рекламы магазина ВКонтакте",
+      "Alt": "",
       "Caption": "Пример статистики таргетированной рекламы магазина в VK"
     },
     {
@@ -433,7 +435,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-ad-hoc-zapros/AD_4nXdo2iK3oh-Lbi8gB0HZucdvvdRw9FljEiAcP0o_xmgyxzjKt_tecZLyVHoza5zRVtJ9NXNo3dQ308Mv-ZemvD1Dt6qJKWbl21KVOVIG-hUBn0QDKUVR0-P8-lfdARRxbb4LEOTBmA.png",
-      "Alt": "Скриншот аналитики email-кампаний магазина одежды",
+      "Alt": "",
       "Caption": "Пример email-аналитики магазина одежды"
     },
     {
@@ -461,8 +463,60 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-ad-hoc-zapros/AD_4nXd01-2aq4hL2oM9wyF92aNhW3MaT7UjzjAOSjeSwMdDpKB5NgsvjZTp0Lt2-TpKlEqCiXdCkE5bN4J8YUEpzX3_CT1AIGbqutdk6M4mu4ClKmETHFQRhWeGmL1WGE5cu30z3AiS5g.png",
-      "Alt": "График динамики продаж магазина на маркетплейсе",
+      "Alt": "",
       "Caption": "Пример динамики продаж на маркетплейсе"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "Letter": "А"
 }

@@ -4,15 +4,14 @@
     "Словарь"
   ],
   "Title": "Что такое OTS (Opportunity To See)",
-  "MetaTitle": "Что такое OTS (Opportunity To See), страница 2",
-  "LeadText": [],
   "PublishDate": {
     "$date": "2025-06-18T14:47:00"
   },
-  "Letter": "О",
   "AuthorIdList": [
     "kirill-morozov"
   ],
+  "LeadText": [],
+  "MetaTitle": "Что такое OTS (Opportunity To See), страница 2",
   "ContentBlockList": [
     {
       "_t": "Heading2",
@@ -50,9 +49,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Показатель OTS используют вместе с охватом (сколько людей увидели хотя бы раз), частотой (среднее количество контактов на одного человека) и GRP (рекламный вес кампании). Вместе они показывают, насколько заметной была реклама и как часто она попадалась на глаза. Значения OTS интерпретируются так:"
+          "Content": "Показатель OTS используют вместе с охватом (сколько людей увидели хотя бы раз), частотой (среднее количество контактов на одного человека) и GRP (рекламный вес кампании). Вместе они показывают, насколько заметной была реклама и как часто она попадалась на глаза."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Значения OTS интерпретируются так:"
     },
     {
       "_t": "UnorderedList",
@@ -91,32 +94,16 @@
       "Title": "Формула расчета OTS"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Существует несколько способов вычислить OTS. Один из самых распространённых и понятных:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Существует несколько способов вычислить OTS. Один из самых распространённых и понятных:"
     },
     {
       "_t": "Formula",
       "Latex": "OTS = \\frac{GRP}{Reach}"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-ots/glossary-chto-takoe-ots-ots.png",
-      "Alt": "Схематическое изображение формулы OTS с двумя пустыми блоками.",
-      "Caption": null
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Где:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Где:"
     },
     {
       "_t": "UnorderedList",
@@ -136,23 +123,12 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Иногда OTS считают просто как среднее количество контактов на человека:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Иногда OTS считают просто как среднее количество контактов на человека:"
     },
     {
       "_t": "Formula",
       "Latex": "OTS = \\frac{Количество показов}{Количество уникальных пользователей}"
-    },
-    {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-ots/glossary-chto-takoe-ots-ots-18-2.png",
-      "Alt": "Схематичное представление формулы Opportunity To See (OTS) в маркетинге.",
-      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -168,13 +144,8 @@
       "Title": "Пример расчёта OTS"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Допустим, вы запустили рекламную кампанию. По итогам вы получили следующие данные:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Допустим, вы запустили рекламную кампанию. По итогам вы получили следующие данные:"
     },
     {
       "_t": "UnorderedList",
@@ -194,23 +165,12 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Тогда:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Тогда:"
     },
     {
       "_t": "Formula",
       "Latex": "OTS = \\frac{1 500 000}{500 000} = 3"
-    },
-    {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-ots/glossary-chto-takoe-ots-ots-18-3.png",
-      "Alt": "Схема формулы OTS в маркетинге: показатель равен числителю и знаменателю.",
-      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -222,13 +182,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Если мы используем GRP и Reach в процентах:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Если мы используем GRP и Reach в процентах:"
     },
     {
       "_t": "UnorderedList",
@@ -248,23 +203,12 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Тогда:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Тогда:"
     },
     {
       "_t": "Formula",
       "Latex": "OTS = \\frac{300}{75} = 4"
-    },
-    {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-ots/glossary-chto-takoe-ots-ots-18-4.png",
-      "Alt": "Схема, объясняющая равенство OTS и деления двух показателей",
-      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -293,9 +237,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Реклама работает не с первого контакта. Человек замечает, понимает, запоминает и начинает доверять сообщению только после многократного соприкосновения с ним. В этом и заключается основная функция OTS — показать частоту этих соприкосновений на одного человека. Вот зачем эта метрика важна:"
+          "Content": "Реклама работает не с первого контакта. Человек замечает, понимает, запоминает и начинает доверять сообщению только после многократного соприкосновения с ним. В этом и заключается основная функция OTS — показать частоту этих соприкосновений на одного человека."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Вот зачем эта метрика важна:"
     },
     {
       "_t": "Heading3",
@@ -347,13 +295,8 @@
       "Title": "2. Оптимизация медиапланов"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "OTS — это инструмент обратной связи для медиапланирования. Он помогает понять:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "OTS — это инструмент обратной связи для медиапланирования. Он помогает понять:"
     },
     {
       "_t": "UnorderedList",
@@ -430,6 +373,58 @@
           "Content": "Именно поэтому OTS — обязательный элемент любой оценки медийной эффективности. Он не самодостаточен, но без него нельзя построить внятную картину."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "Letter": "О"
 }

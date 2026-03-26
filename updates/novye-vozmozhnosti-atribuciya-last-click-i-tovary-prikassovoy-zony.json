@@ -37,18 +37,13 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Традиционная модель атрибуции в синем столбце, новая модель атрибуции по последнему клику — в зелёном:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Традиционная модель атрибуции в синем столбце, новая модель атрибуции по последнему клику — в зелёном:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/novye-vozmozhnosti-atribuciya-last-click-i-tovary-prikassovoy-zony/full_cart_last-click_upd_10-scaled.webp",
-      "Alt": "Скриншот интерфейса для аналитики и атрибуции товарных рекомендаций в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -76,7 +71,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/novye-vozmozhnosti-atribuciya-last-click-i-tovary-prikassovoy-zony/full_cart_last-click_upd_20-scaled.webp",
-      "Alt": "Схема атрибуции заказов с акцентом на блок рекомендаций.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -100,7 +95,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/novye-vozmozhnosti-atribuciya-last-click-i-tovary-prikassovoy-zony/full_cart_last-click_upd_30-scaled.webp",
-      "Alt": "Схема атрибуции заказа по последнему клику для персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -174,6 +169,12 @@
       ]
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/novye-vozmozhnosti-atribuciya-last-click-i-tovary-prikassovoy-zony/full_cart_last-click_upd_40-scaled.webp",
+      "Alt": "",
+      "Caption": null
+    },
+    {
       "_t": "SmallContentBg",
       "TitleElements": [
         {
@@ -181,9 +182,22 @@
           "Content": "Узнайте, как алгоритмы рекомендаций Retail Rocket Group помогают людям находить то, что им нужно"
         }
       ],
-      "Elements": [],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
       "BtnText": "Запросить демо",
       "BtnUrl": "https://retailrocket.ru/personalization/"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
   ]
 }

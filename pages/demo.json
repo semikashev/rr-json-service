@@ -29,5 +29,76 @@
     }
   ],
   "MetaTitle": "Демо продукта - Retail Rocket Group",
-  "ContentBlockList": []
+  "ContentBlockList": [
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Покажем, как наши технологии увеличивают конверсии, LTV и ROI до х1,96."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/loader.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Продемонстрируем, как в одной системе работают персонализация, лояльность и Retail Media"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/loader.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Рассчитаем прогнозируемый ROI и сроки окупаемости"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/loader.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Ответим на вопросы об интеграции и безопасности данных"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/loader.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Покажем кейсы из вашей отрасли"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "300+ историй успеха"
+    },
+    {
+      "_t": "SmallContentBg",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": ""
+        }
+      ],
+      "BtnText": "Записаться на демо",
+      "BtnUrl": "https://retailrocket.ru/demo/"
+    }
+  ]
 }

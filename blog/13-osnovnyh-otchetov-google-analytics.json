@@ -24,6 +24,15 @@
   "MetaTitle": "13 основных отчетов Google Analytics для ecommerce – Retail Rocket, страница 5",
   "ContentBlockList": [
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "С помощью раздела «Специальные отчеты» можно с нуля настраивать собственные варианты отчетов, самостоятельно определяя удобные форматы представления данных. Кроме того, благодаря галерее решений Google Analytics (Google Analytics Solution Gallery) можно просто выбрать подходящие готовые отчеты и импортировать их в свою учетную запись. Проводить эксперименты и настраивать различные варианты отчетов можно в демо-аккаунте на примере тестового магазина Google Merchandise Store."
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "1. Часы пик и самые популярные дни недели"
     },
@@ -39,7 +48,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/13-osnovnyh-otchetov-google-analytics/1.png",
-      "Alt": "Столбчатая диаграмма: средний доход по дням недели в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -63,7 +72,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/13-osnovnyh-otchetov-google-analytics/2.png",
-      "Alt": "Скриншот отчета Google Analytics с данными о пользователях и времени посещения.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -91,7 +100,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/13-osnovnyh-otchetov-google-analytics/3.png",
-      "Alt": "Таблица отчетов Google Analytics по версиям браузеров для e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -119,22 +128,17 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/13-osnovnyh-otchetov-google-analytics/4.png",
-      "Alt": "Скриншот отчетов Google Analytics о трафике и конверсии для e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Чтобы импортировать отчет, выберите в представлении свой сайт или добавьте отчет к демо-аккаунту Google:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Чтобы импортировать отчет, выберите в представлении свой сайт или добавьте отчет к демо-аккаунту Google:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/13-osnovnyh-otchetov-google-analytics/5.png",
-      "Alt": "Интерфейс выбора представления в Google Analytics для персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -162,7 +166,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/13-osnovnyh-otchetov-google-analytics/6.png",
-      "Alt": "Отчет Google Analytics с метриками посещаемости для e-commerce сайта.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -199,7 +203,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/13-osnovnyh-otchetov-google-analytics/7.png",
-      "Alt": "Отчет трафика Google Analytics для анализа источников в e-commerce",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -236,7 +240,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/13-osnovnyh-otchetov-google-analytics/8.png",
-      "Alt": "График и таблица данных поиска из Google Analytics для e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -260,7 +264,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/13-osnovnyh-otchetov-google-analytics/9.png",
-      "Alt": "Интерфейс поиска с персонализированными рекомендациями в интернет-магазине Hoff, e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -288,7 +292,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/13-osnovnyh-otchetov-google-analytics/10.png",
-      "Alt": "Отчет Google Analytics по источникам трафика для e-commerce сайтов",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -307,7 +311,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/13-osnovnyh-otchetov-google-analytics/11.png",
-      "Alt": "Скриншот отчета Google Analytics с данными о посещаемости страниц сайта.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -335,7 +339,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/13-osnovnyh-otchetov-google-analytics/12.png",
-      "Alt": "Скриншот Google Analytics с данными о посещениях и отказах страниц e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -363,7 +367,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/13-osnovnyh-otchetov-google-analytics/13.png",
-      "Alt": "Отчет Google Analytics о продажах в e-commerce с анализом доходов и конверсий.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -378,7 +382,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/13-osnovnyh-otchetov-google-analytics/14.png",
-      "Alt": "Тестирование товарных рекомендаций для персонализации в e-commerce на сайте BUTIK.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -415,7 +419,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/13-osnovnyh-otchetov-google-analytics/15.png",
-      "Alt": "Отчет Google Analytics с данными по внутренним кампаниям в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -452,7 +456,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/13-osnovnyh-otchetov-google-analytics/16.png",
-      "Alt": "График доходов Google Analytics с данными о транзакциях в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -489,7 +493,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/13-osnovnyh-otchetov-google-analytics/17.png",
-      "Alt": "Отчет Google Analytics о поведении пользователей в e-commerce за 2018 год.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -504,7 +508,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/13-osnovnyh-otchetov-google-analytics/18.png",
-      "Alt": "Сравнение оригинального и альтернативного блоков товарных рекомендаций с персонализацией в e-commerce",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -535,6 +539,57 @@
         {
           "_t": "Text",
           "Content": "Все представленные специальные отчеты разработаны для повышения эффективности data-driven маркетинга вашего интернет-магазина. В зависимости от ваших задач используйте их в качестве альтернативы стандартным отчетам системы Google Analytics или в качестве дополнения к ним."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

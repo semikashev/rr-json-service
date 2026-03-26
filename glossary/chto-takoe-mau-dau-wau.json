@@ -4,7 +4,12 @@
     "Словарь"
   ],
   "Title": "DAU, WAU и MAU: что это и как считать метрики",
-  "MetaTitle": "DAU, MAU и WAU: что это такое и как работают метрики, страница 2",
+  "PublishDate": {
+    "$date": "2025-04-09T14:59:00"
+  },
+  "AuthorIdList": [
+    "kirill-morozov"
+  ],
   "LeadText": [
     {
       "Elements": [
@@ -15,13 +20,7 @@
       ]
     }
   ],
-  "PublishDate": {
-    "$date": "2025-04-09T14:59:00"
-  },
-  "Letter": "М",
-  "AuthorIdList": [
-    "kirill-morozov"
-  ],
+  "MetaTitle": "DAU, MAU и WAU: что это такое и как работают метрики, страница 2",
   "ContentBlockList": [
     {
       "_t": "Heading2",
@@ -81,7 +80,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-mau-dau-wau/DAU_MAU_WAU_01-2048x551-1.png",
-      "Alt": "DAU, WAU и MAU: метрики активности пользователей в инфографике.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -342,13 +341,8 @@
       "Title": "Шаг 3. Сегментируем активных пользователей"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Чтобы получать точные и полезные результаты метрик, рекомендуется сегментировать пользователей, например:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Чтобы получать точные и полезные результаты метрик, рекомендуется сегментировать пользователей, например:"
     },
     {
       "_t": "UnorderedList",
@@ -416,20 +410,8 @@
       "Latex": "Sticky faktor (месячный) = DAU/MAU \\times 100\\%"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-mau-dau-wau/glossary-chto-takoe-mau-dau-wau-sticky-month.png",
-      "Alt": "Схема для расчета метрики Stickymonth в контексте DAU, WAU, MAU.",
-      "Caption": null
-    },
-    {
       "_t": "Formula",
       "Latex": "Sticky faktor (недельный) = DAU/MAU \\times 100\\%"
-    },
-    {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-mau-dau-wau/glossary-chto-takoe-mau-dau-wau-sticky-week.png",
-      "Alt": "Интерфейс Sticky-week с полями для ввода данных и кнопками управления.",
-      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -575,12 +557,6 @@
       "Latex": "APRU = \\frac{Доход}{Число пользователей}"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-mau-dau-wau/glossary-chto-takoe-mau-dau-wau-arpu.png",
-      "Alt": "Уравнение для расчета ARPU: выручка делится на количество пользователей.",
-      "Caption": null
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -594,9 +570,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "✅ RR (Retention Rate) — коэффициент удержания клиента. Это количество постоянных лояльных клиентов компании. Чем больше таких клиентов, тем больше шансов на хорошие продажи и прибыль. Чтобы рассчитать RR, нужны показатели:"
+          "Content": "✅ RR (Retention Rate) — коэффициент удержания клиента. Это количество постоянных лояльных клиентов компании. Чем больше таких клиентов, тем больше шансов на хорошие продажи и прибыль."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Чтобы рассчитать RR, нужны показатели:"
     },
     {
       "_t": "UnorderedList",
@@ -626,12 +606,6 @@
       "Latex": "RR = \\frac{(N3 - N2)}{N1 x 100\\%}"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-mau-dau-wau/glossary-chto-takoe-mau-dau-wau-rr.png",
-      "Alt": "Схема расчета метрик DAU, WAU и MAU в ритейле.",
-      "Caption": null
-    },
-    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -650,11 +624,15 @@
       ]
     },
     {
+      "_t": "Heading2",
+      "Title": "Затем вычисляем коэффициент удержания по формуле: (1100 — 300)/1000 х 100% = 80%"
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Затем вычисляем коэффициент удержания по формуле: (1100 — 300)/1000 х 100% = 80% ✅ LTV (Life-time value) — пожизненная ценность клиента. Это предсказание чистого дохода, исходя из всех будущих отношений с клиентом. С помощью LTV можно рассчитать стоимость привлечения клиента, предсказать эффективность вложений в рекламу и понять, насколько хорошо работает программа лояльности."
+          "Content": "✅ LTV (Life-time value) — пожизненная ценность клиента. Это предсказание чистого дохода, исходя из всех будущих отношений с клиентом. С помощью LTV можно рассчитать стоимость привлечения клиента, предсказать эффективность вложений в рекламу и понять, насколько хорошо работает программа лояльности."
         }
       ]
     },
@@ -670,12 +648,6 @@
     {
       "_t": "Formula",
       "Latex": "LTV = Период активности покупателя \\times ARPU"
-    },
-    {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-mau-dau-wau/glossary-chto-takoe-mau-dau-wau-ltv.png",
-      "Alt": "Формула расчета LTV в ритейле для роста показателя.",
-      "Caption": null
     },
     {
       "_t": "Heading2",
@@ -807,7 +779,21 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "👉 Как работает AI Personalization Engine ‍"
+          "Content": "👉 "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/personalization/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "Как работает AI Personalization Engine"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " ‍"
         },
         {
           "_t": "Text",
@@ -819,6 +805,58 @@
           "Content": "Служба поддержки, которая медленно отвечает на вопросы или неделями решает проблемы, вызывает раздражение пользователей. Хорошая служба поддержки оперативно оказывает помощь и одновременно собирает данные о том, что чаще всего вызывает сложности у покупателей. Эта ценная информация помогает бизнесу меняться к лучшему."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "Letter": "М"
 }

@@ -118,18 +118,13 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "В интерфейсе кабинета рекламодателя самостоятельно можно настроить атрибуцию любого товара или их группы из каталога бренда:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "В интерфейсе кабинета рекламодателя самостоятельно можно настроить атрибуцию любого товара или их группы из каталога бренда:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/halo-effect-retail-media/smp_upd_10_1.webp",
-      "Alt": "Интерфейс управления атрибуцией заказов в retail media платформе Retail Rocket.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -244,17 +239,8 @@
         },
         {
           "_t": "Text",
-          "Content": "личном кабинете рекламодателя",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " появился раздел для указания "
-        },
-        {
-          "_t": "Text",
-          "Content": "кода товарной категории",
-          "IsHighlight": true
+          "Content": "личном кабинете рекламодателя появился раздел для указания кода товарной категории",
+          "IsItalic": true
         },
         {
           "_t": "Text",
@@ -277,18 +263,13 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Для удобства рекламодателей в интерфейсе личного кабинета предусмотрена ссылка на актуальный классификатор ККТУ:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Для удобства рекламодателей в интерфейсе личного кабинета предусмотрена ссылка на актуальный классификатор ККТУ:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/halo-effect-retail-media/smp_upd_10_2.webp",
-      "Alt": "Скриншот интерфейса настроек для рекламной кампании на retail media платформе.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -316,52 +297,32 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/halo-effect-retail-media/smp_upd_10_3.webp",
-      "Alt": "Интерфейс настройки виджета центра поддержки Retail Media платформы.",
+      "Alt": "",
       "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Преимущества для рекламодателей"
     },
     {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Преимущества для рекламодателей",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Text",
-          "Content": "Быстрое решение вопросов",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": ": теперь не нужно искать контакты или откладывать запуск кампании."
+          "Content": "Быстрое решение вопросов: теперь не нужно искать контакты или откладывать запуск кампании."
         }
       ]
     },
     {
+      "_t": "Heading2",
+      "Title": "Преимущества для e-commerce площадок"
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Преимущества для e-commerce площадок",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Text",
-          "Content": "Одна настройка для всех",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": ": достаточно один раз настроить виджет, чтобы интегрировать поддержку для всех рекламодателей."
+          "Content": "Одна настройка для всех: достаточно один раз настроить виджет, чтобы интегрировать поддержку для всех рекламодателей."
         }
       ]
     },
@@ -401,8 +362,16 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/halo-effect-retail-media/smp_upd_10_4.webp",
-      "Alt": "Интерфейс настройки виджета поддержки на retail media платформе.",
+      "Alt": "",
       "Caption": null
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
   ]
 }

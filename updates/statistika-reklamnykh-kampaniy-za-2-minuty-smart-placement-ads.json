@@ -28,6 +28,15 @@
       "Elements": [
         {
           "_t": "Text",
+          "Content": "Все привычные элементы переехали из верхнего меню в боковое: баланс, приглашение в кабинет, логин и меню переключения между рекламодателями."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
           "Content": "Сделали это для того, чтобы удобно расположить в боковом меню раздел «Аналитика» и показывать рекламодателям новый отчёт для оценки эффективности всех рекламных кампаний за выбранный период."
         }
       ]
@@ -35,7 +44,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/statistika-reklamnykh-kampaniy-za-2-minuty-smart-placement-ads/Frame-2131327966.webp",
-      "Alt": "Обновлённое боковое меню рекламного кабинета Smart Placement Ads",
+      "Alt": "",
       "Caption": "Новое боковое меню рекламного кабинета Smart Placement Ads"
     },
     {
@@ -50,7 +59,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/statistika-reklamnykh-kampaniy-za-2-minuty-smart-placement-ads/Frame-2131327965-1.webp",
-      "Alt": "Интерфейс управления рекламными кампаниями с календарем выбора дат.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -112,6 +121,14 @@
       "Author": "Александра Ганеева",
       "AuthorPosition": "Senior Performance Campaign Manager Smart Placement Ads",
       "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rtb-reklama/Capture-2025-10-30-191705-300x300.webp"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
   ]
 }

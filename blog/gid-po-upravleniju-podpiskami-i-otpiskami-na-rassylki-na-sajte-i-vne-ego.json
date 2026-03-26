@@ -28,6 +28,15 @@
       "Elements": [
         {
           "_t": "Text",
+          "Content": "Вместе с нашими клиентами мы меняем мир электронной коммерции. Наша цель на основе больших данных и машинного обучения сделать маркетинг вашей компании персональным, чтобы каждый клиент получил свою версию магазина."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
           "Content": "Для этого мы построили единый центр управления email-маркетингом для ритейла, включающий в себя все привычные инструменты, которые мы значительно усилили лучшими технологиями персонализации, которые мы разрабатываем и применяем уже более 5 лет по всему миру (у нас офисы в 6 странах). Накопленный опыт позволяет нам обеспечивать в среднем 30% рост в email-канале для наших клиентов при переходе на платформу Retail Rocket."
         }
       ]
@@ -79,7 +88,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-upravleniju-podpiskami-i-otpiskami-na-rassylki-na-sajte-i-vne-ego/db8f812f89.jpg",
-      "Alt": "Всплывающее окно с предложением подписки на скидку в интернет-магазине.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -98,7 +107,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-upravleniju-podpiskami-i-otpiskami-na-rassylki-na-sajte-i-vne-ego/ac136e938f.png",
-      "Alt": "Интерфейс подписки на новости в интернет-магазине детской одежды и товаров для мам.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -117,7 +126,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-upravleniju-podpiskami-i-otpiskami-na-rassylki-na-sajte-i-vne-ego/5b84fa59ae.jpg",
-      "Alt": "Всплывающее окно с отзывом клиента и приглашением вступить в клуб, email рассылки.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -136,7 +145,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-upravleniju-podpiskami-i-otpiskami-na-rassylki-na-sajte-i-vne-ego/6a7a6685b0.png",
-      "Alt": "Скриншот карточки товара с возможностью подписки на уведомления о скидке",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -155,7 +164,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-upravleniju-podpiskami-i-otpiskami-na-rassylki-na-sajte-i-vne-ego/2424c49f38.jpg",
-      "Alt": "Интерфейс с украшениями и предложением подписки на email рассылки",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -183,7 +192,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-upravleniju-podpiskami-i-otpiskami-na-rassylki-na-sajte-i-vne-ego/253bfd0934.png",
-      "Alt": "Форма регистрации на email рассылку с подтверждением и подпиской на новости.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -237,7 +246,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-upravleniju-podpiskami-i-otpiskami-na-rassylki-na-sajte-i-vne-ego/pasted-image-0.png",
-      "Alt": "Рекламное объявление с подарочной коробкой и предложением подписки на email рассылку.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -261,7 +270,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-upravleniju-podpiskami-i-otpiskami-na-rassylki-na-sajte-i-vne-ego/sneakerhead.png",
-      "Alt": "Пример email-рассылки интернет-магазина с персонализацией в e-commerce",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -307,13 +316,8 @@
       "Title": "Как работать с базой подписчиков"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Несколько важных рекомендаций по работе с собранной базой:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Несколько важных рекомендаций по работе с собранной базой:"
     },
     {
       "_t": "UnorderedList",
@@ -362,7 +366,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-upravleniju-podpiskami-i-otpiskami-na-rassylki-na-sajte-i-vne-ego/retailrocket_mirkorma_cats-871x1024-1.png",
-      "Alt": "Email-рассылка с AI персонализацией для категории «Кошки» на сайте МирКорма.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -462,13 +466,8 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Мы рекомендуем придерживаться нескольких правил:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Мы рекомендуем придерживаться нескольких правил:"
     },
     {
       "_t": "UnorderedList",
@@ -524,7 +523,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/gid-po-upravleniju-podpiskami-i-otpiskami-na-rassylki-na-sajte-i-vne-ego/image4-1024x611-1.png",
-      "Alt": "Гистограмма управления подписками и отписками на платформе данных о клиентах.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -655,6 +654,57 @@
             "Content": " Уважайте решение пользователя, не пытайтесь удерживать его. Предлагайте опции отписки от разных типов писем и собирайте обратную связь для анализа."
           }
         ]
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
       ]
     }
   ]

@@ -28,6 +28,15 @@
       "Elements": [
         {
           "_t": "Text",
+          "Content": "Из всех рекламных каналов у email-кампаний самый высокий ROI — по данным Direct Marketing Association and Demand Metric показатель возврата инвестиций в этом канале около 122% (для сравнения, у SMM всего 28%, а у платного поиска около 18%). Более того, процент рентабельности вложений в область email-маркетинга растет с каждым годом. Это значит, что разработка оптимальной стратегии работы в этом канале становится приоритетной и наиболее перспективной задачей для интернет-магазина."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
           "Content": "Мы собрали 10 лучших практик, которые важно взять на вооружение, чтобы увеличить объем продаж и выручку от email-маркетинга. А если все советы кажутся знакомыми, то их можно использовать как чеклист для проверки эффективности вашего email-маркетинга."
         }
       ]
@@ -75,13 +84,13 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/best-practices-v-email-marketinge/1.jpg",
-      "Alt": "Скриншот email-письма на десктопе в Outlook 2016",
+      "Alt": "",
       "Caption": "Отображение письма на десктопе в Outlook 2016"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/best-practices-v-email-marketinge/2.jpg",
-      "Alt": "Скриншот email-письма на смартфоне iPhone 6",
+      "Alt": "",
       "Caption": "Отображение письма на смартфоне iPhone 6"
     },
     {
@@ -118,7 +127,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/best-practices-v-email-marketinge/3-1-1.png",
-      "Alt": "Инфографика об эффективности вопросительной формы в email маркетинге.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -186,7 +195,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/best-practices-v-email-marketinge/4-1-1.png",
-      "Alt": "Гистограмма предпочтений частоты получения email-рассылок среди подписчиков.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -232,7 +241,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/best-practices-v-email-marketinge/5-1-1.png",
-      "Alt": "Пример приветственного письма в email маркетинге для интернет-магазина Sneakerhead",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -300,7 +309,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/best-practices-v-email-marketinge/6-1.png",
-      "Alt": "Сравнение версий email-рассылок с сегментацией в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -346,7 +355,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/best-practices-v-email-marketinge/7-1.png",
-      "Alt": "Всплывающее окно с предложением сохранить товары в корзине и ввести email.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -383,7 +392,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/best-practices-v-email-marketinge/8-1.png",
-      "Alt": "Пример email-маркетинга с рекомендациями на основе AI в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -420,7 +429,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/best-practices-v-email-marketinge/9-1.png",
-      "Alt": "Пример email-рассылки Monica Vinader с ювелирными украшениями и видео.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -433,6 +442,57 @@
         {
           "_t": "Text",
           "Content": "Несмотря на то, что многие из этих советов повторяются не первый год, они все еще являются самыми важными для формирования стратегии email-маркетинга. Сегодня email-маркетинг считается одним из самых мощных каналов привлечения и удержания клиентов, поэтому так важно учитывать интересы покупателей, расширять базу подписчиков и формировать интересный для них контент. Чем больше пунктов из этого списка вы берете на вооружение, тем более эффективно будете использовать ресурсы интернет-магазина и тем лучшие результаты от email-маркетинга сможете получить."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
         }
       ]
     }

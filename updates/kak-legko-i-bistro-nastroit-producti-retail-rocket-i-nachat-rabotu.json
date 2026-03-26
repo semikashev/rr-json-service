@@ -24,24 +24,18 @@
   "MetaTitle": "Как легко и быстро настроить продукты Retail Rocket Group и начать работу – Retail Rocket, страница 2",
   "ContentBlockList": [
     {
+      "_t": "Heading2",
+      "Title": "Напомним, как раньше выглядела страница после регистрации:"
+    },
+    {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/kak-legko-i-bistro-nastroit-producti-retail-rocket-i-nachat-rabotu/image.webp",
-      "Alt": "Интерфейс настройки Retail Rocket Group с параметрами сайта и контактами.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Какие сложности с ней возникали",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": ":"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Какие сложности с ней возникали:"
     },
     {
       "_t": "UnorderedList",
@@ -97,7 +91,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/kak-legko-i-bistro-nastroit-producti-retail-rocket-i-nachat-rabotu/image-6.webp",
-      "Alt": "Скриншот интерфейса панели управления с опцией Email маркетинг.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -116,7 +110,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/kak-legko-i-bistro-nastroit-producti-retail-rocket-i-nachat-rabotu/image-4.webp",
-      "Alt": "Настройка массовых push-кампаний в интерфейсе Retail Rocket Group.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -126,7 +120,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/kak-legko-i-bistro-nastroit-producti-retail-rocket-i-nachat-rabotu/image-7.webp",
-      "Alt": "Скриншот интерфейса CMS InSales для настройки дизайна и рекомендаций.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -134,18 +128,13 @@
       "Title": "Сделали описание для каждого продукта: кому, когда и зачем запускать"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Также мы добавили релевантные кейсы, чтобы вы могли быстро принять решение, использовать продукт или нет. Пример, как это выглядит:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Также мы добавили релевантные кейсы, чтобы вы могли быстро принять решение, использовать продукт или нет. Пример, как это выглядит:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/kak-legko-i-bistro-nastroit-producti-retail-rocket-i-nachat-rabotu/image-2.webp",
-      "Alt": "Матрица удержания клиентов в интерфейсе Retail Rocket с AI персонализацией.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -164,7 +153,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/kak-legko-i-bistro-nastroit-producti-retail-rocket-i-nachat-rabotu/image-5.webp",
-      "Alt": "Интерфейс настроек email-кампаний с акцентом на AI персонализацию и продукцию Retail Rocket.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -183,7 +172,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/kak-legko-i-bistro-nastroit-producti-retail-rocket-i-nachat-rabotu/image-1.webp",
-      "Alt": "Скриншот интерфейса массовой push-кампании на платформе данных о клиентах.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -216,22 +205,12 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/kak-legko-i-bistro-nastroit-producti-retail-rocket-i-nachat-rabotu/image-3.webp",
-      "Alt": "Скриншот интерфейса настройки массовых push-кампаний на платформе Retail Rocket.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Над обновлениями работали",
-          "IsHighlight": true
-        },
-        {
-          "_t": "Text",
-          "Content": ":"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Над обновлениями работали:"
     },
     {
       "_t": "UnorderedList",
@@ -263,13 +242,20 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Есть идеи, как сделать интерфейс удобнее? Напишите нам на uxfeedback@retailrocket.io По вопросам использования платформы обращайтесь в поддержку support@retailrocket.ru"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Есть идеи, как сделать интерфейс удобнее? Напишите нам на uxfeedback@retailrocket.io"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "По вопросам использования платформы обращайтесь в поддержку support@retailrocket.ru"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
     }
   ]
 }

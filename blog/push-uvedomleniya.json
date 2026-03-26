@@ -40,7 +40,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/push-uvedomleniya/Pushi1.webp",
-      "Alt": "Push-уведомления от различных приложений на экране смартфона",
+      "Alt": "",
       "Caption": "Пример push-уведомлений от приложений на смартфоне"
     },
     {
@@ -67,7 +67,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/push-uvedomleniya/Pushi2.webp",
-      "Alt": "Статистика Airship: доля пользователей Android и iOS, согласившихся на push-уведомления",
+      "Alt": "",
       "Caption": "Процент пользователей ОС Android и iOS, которые согласны получать пуши по данным Airship; синий — среднее количество, голубой — минимум, розовый — максимум"
     },
     {
@@ -82,7 +82,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/push-uvedomleniya/Pushi3.webp",
-      "Alt": "Сравнение push и email: OR выше на 50%, CTR в 7 раз лучше (данные E-goi)",
+      "Alt": "",
       "Caption": "Метрика OR у пушей выше на 50%, чем в email-канале, а CTR в 7 раз лучше, по данным E-goiКакие задачи бизнеса помогают решить push-уведомления"
     },
     {
@@ -114,17 +114,12 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/push-uvedomleniya/Pushi4.webp",
-      "Alt": "Push-уведомление с предложением скидки на новую коллекцию.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Это сервис Google для устройств на Android. Работает как почтальон между вашим сервером и телефоном клиента. Главные особенности:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Это сервис Google для устройств на Android. Работает как почтальон между вашим сервером и телефоном клиента. Главные особенности:"
     },
     {
       "_t": "UnorderedList",
@@ -182,17 +177,12 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/push-uvedomleniya/Pushi5.webp",
-      "Alt": "Скриншот интерфейса с push-уведомлениями и разрешением на отправку сообщений.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Это закрытая система Apple — единственный путь отправить уведомление на iPhone или iPad. Её особенности:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Это закрытая система Apple — единственный путь отправить уведомление на iPhone или iPad. Её особенности:"
     },
     {
       "_t": "UnorderedList",
@@ -234,24 +224,23 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Apple создала APNs не только для доставки, но и как фильтр против злоупотреблений. Этот сервис улучшает опыт пользователя, но требует больше усилий для настройки. 3. Web Push для веб-браузеров"
+          "Content": "Apple создала APNs не только для доставки, но и как фильтр против злоупотреблений. Этот сервис улучшает опыт пользователя, но требует больше усилий для настройки."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "3. Web Push для веб-браузеров"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/push-uvedomleniya/Pushi6.webp",
-      "Alt": "Экран ноутбука с push-уведомлением о скидке 70% на товары.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Технология для отправки уведомлений через браузер. Основные черты:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Технология для отправки уведомлений через браузер. Основные черты:"
     },
     {
       "_t": "UnorderedList",
@@ -302,28 +291,18 @@
       "Title": "По цели использования"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "1. Информационные уведомления"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "1. Информационные уведомления"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/push-uvedomleniya/Pushi7.webp",
-      "Alt": "Скриншот push уведомления с сообщением о запрете на приложение.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Сообщают важную информацию: новости, обновления системы, изменения в работе сервиса. Их цель — информировать, а не продавать. Примеры:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Сообщают важную информацию: новости, обновления системы, изменения в работе сервиса. Их цель — информировать, а не продавать. Примеры:"
     },
     {
       "_t": "UnorderedList",
@@ -358,28 +337,18 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "2. Транзакционные уведомления"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "2. Транзакционные уведомления"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/push-uvedomleniya/Pushi8.webp",
-      "Alt": "Push-уведомление о доставке заказа на экране смартфона в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Связаны с действиями клиента и подтверждают их выполнение. Они критически важны, потому что влияют на доверие к сервису. Примеры:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Связаны с действиями клиента и подтверждают их выполнение. Они критически важны, потому что влияют на доверие к сервису. Примеры:"
     },
     {
       "_t": "UnorderedList",
@@ -414,28 +383,18 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "3. Маркетинговые уведомления"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "3. Маркетинговые уведомления"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/push-uvedomleniya/Pushi9.webp",
-      "Alt": "Push-уведомление на смартфоне, пример использования в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Продвигают товары и услуги компании. Их задача — стимулировать продажи. Примеры:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Продвигают товары и услуги компании. Их задача — стимулировать продажи. Примеры:"
     },
     {
       "_t": "UnorderedList",
@@ -470,28 +429,18 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "4. Напоминания"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "4. Напоминания"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/push-uvedomleniya/Pushi10.webp",
-      "Alt": "Смартфон с push-уведомлением на экране, пример использования в бизнесе.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Помогают пользователю не забыть о важных событиях или незавершённых действиях. Примеры:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Помогают пользователю не забыть о важных событиях или незавершённых действиях. Примеры:"
     },
     {
       "_t": "UnorderedList",
@@ -526,28 +475,18 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "5. Геолокационные уведомления"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "5. Геолокационные уведомления"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/push-uvedomleniya/Pushi11.webp",
-      "Alt": "Смартфон с push-уведомлением о бизнес-ланче, пример персонализации в ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Основаны на физическом положении пользователя и активируются, когда он входит в определённую зону. Примеры:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Основаны на физическом положении пользователя и активируются, когда он входит в определённую зону. Примеры:"
     },
     {
       "_t": "UnorderedList",
@@ -586,28 +525,18 @@
       "Title": "По типу контента"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "1. Текстовые уведомления"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "1. Текстовые уведомления"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/push-uvedomleniya/Pushi12.webp",
-      "Alt": "Push-уведомление на экране смартфона, стимулирующее участие в акции.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Содержат только текст без дополнительных элементов. Их плюсы:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Содержат только текст без дополнительных элементов. Их плюсы:"
     },
     {
       "_t": "UnorderedList",
@@ -648,28 +577,18 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "2. Мультимедийные уведомления"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "2. Мультимедийные уведомления"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/push-uvedomleniya/Pushi13.webp",
-      "Alt": "Экран смартфона с push уведомлением о скидке на пиццу.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Включают изображения, анимации или видео. Их особенности:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Включают изображения, анимации или видео. Их особенности:"
     },
     {
       "_t": "UnorderedList",
@@ -710,28 +629,18 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "3. Интерактивные уведомления"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "3. Интерактивные уведомления"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/push-uvedomleniya/Pushi14.webp",
-      "Alt": "Скриншот push-уведомления с обратной связью для персонализации в e-commerce.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Содержат кнопки или другие элементы управления для быстрого ответа. Их преимущества:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Содержат кнопки или другие элементы управления для быстрого ответа. Их преимущества:"
     },
     {
       "_t": "UnorderedList",
@@ -767,24 +676,23 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Интерактивные уведомления превращают одностороннее общение в разговор. Пример: доставка прислала уведомление с кнопками «Подтвердить получение» и «Есть проблема». 4. Rich-уведомления"
+          "Content": "Интерактивные уведомления превращают одностороннее общение в разговор. Пример: доставка прислала уведомление с кнопками «Подтвердить получение» и «Есть проблема»."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "4. Rich-уведомления"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/push-uvedomleniya/Pushi15.webp",
-      "Alt": "Экран push-уведомления на смартфоне с рекламой скидок на скейтборды",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Расширенный формат, сочетающий текст, медиа и интерактивные элементы. Особенности:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Расширенный формат, сочетающий текст, медиа и интерактивные элементы. Особенности:"
     },
     {
       "_t": "UnorderedList",
@@ -829,13 +737,8 @@
       "Title": "Какие задачи бизнеса помогают решить push-уведомления"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Пуш-уведомления решают несколько важных задач:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Пуш-уведомления решают несколько важных задач:"
     },
     {
       "_t": "OrderedList",
@@ -928,9 +831,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Почему важно: высокая открываемость показывает, что тема и подача уведомлений интересны аудитории. Как улучшить:"
+          "Content": "Почему важно: высокая открываемость показывает, что тема и подача уведомлений интересны аудитории."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Как улучшить:"
     },
     {
       "_t": "UnorderedList",
@@ -956,23 +863,12 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Формула — OR = (Количество открытий / Количество доставленных уведомлений) * 100 %"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Формула — OR = (Количество открытий / Количество доставленных уведомлений) * 100 %"
     },
     {
       "_t": "Formula",
       "Latex": "OR = \\frac{Количество открытий}{Количество доставленных уведомлений} \\times 100\\%"
-    },
-    {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/push-uvedomleniya/blog-push-uvedomleniya-or.png",
-      "Alt": "Схема использования push уведомлений в маркетинговой стратегии бизнеса.",
-      "Caption": null
     },
     {
       "_t": "Heading3",
@@ -992,9 +888,13 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Почему важно: конверсия показывает реальную ценность уведомлений для бизнеса — как канал коммуникации влияет на выручку. Как улучшить:"
+          "Content": "Почему важно: конверсия показывает реальную ценность уведомлений для бизнеса — как канал коммуникации влияет на выручку."
         }
       ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Как улучшить:"
     },
     {
       "_t": "UnorderedList",
@@ -1020,36 +920,20 @@
       ]
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Формула — CR = (Количество целевых действий / Количество доставленных уведомлений) * 100 %"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Формула — CR = (Количество целевых действий / Количество доставленных уведомлений) * 100 %"
     },
     {
       "_t": "Formula",
       "Latex": "CR = \\frac{Количество целевых действий}{Количество доставленных уведомлений} \\times 100\\%"
     },
     {
-      "_t": "Image",
-      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/push-uvedomleniya/blog-push-uvedomleniya-cr.png",
-      "Alt": "Схема расчета коэффициента конверсии CR для push уведомлений в e-commerce.",
-      "Caption": null
-    },
-    {
       "_t": "Heading2",
       "Title": "Рекомендации по работе с пуш-уведомлениями от эксперта"
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Чтобы push-уведомления приносили пользу бизнесу, нужно соблюдать определённые правила. Вот несколько советов от нашего эксперта:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Чтобы push-уведомления приносили пользу бизнесу, нужно соблюдать определённые правила. Вот несколько советов от нашего эксперта:"
     },
     {
       "_t": "Heading3",
@@ -1257,6 +1141,57 @@
           "Бонусы сгорели. Пользователь расстроился, так как не успел ими воспользоваться. Желание на повторную покупку уменьшилось.",
           "Пользователь приобрёл на бонусы необходимый товар. Он остался доволен и сделал ещё одну покупку. Бренд — молодец!"
         ]
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
       ]
     }
   ]

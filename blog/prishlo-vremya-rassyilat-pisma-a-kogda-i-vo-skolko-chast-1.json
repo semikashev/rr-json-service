@@ -28,6 +28,15 @@
       "Elements": [
         {
           "_t": "Text",
+          "Content": "Существует огромное количество результатов исследований, дающих ответ на извечный вопрос: когда же лучше всего отправлять письма? В то же время, выводы зачастую противоречат друг другу. Несмотря на противоречия, в этой статье мы будем оценивать результаты сразу нескольких независимых исследований, позволяющих определить оптимальное время для отправки писем. После этого мы раскроем секрет: как же в самом деле узнать, когда следует делать email-рассылку."
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
           "Content": "Исследование GetResponse, проведенное в 2013 году, не даёт прямого ответа на вопрос «когда отправлять?». Тем не менее, разъясняет, почему этот вопрос так важен. Продолжительность жизни рассылки, то есть промежутка времени, в который она будет прочитана с максимальной долей вероятности, на удивление коротка. Вот почему так важно делать рассылки в нужное время."
         }
       ]
@@ -35,7 +44,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/prishlo-vremya-rassyilat-pisma-a-kogda-i-vo-skolko-chast-1/infograf-1.jpg",
-      "Alt": "Инфографика о сроке жизни email-рассылок и времени открытия писем.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -72,31 +81,31 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/prishlo-vremya-rassyilat-pisma-a-kogda-i-vo-skolko-chast-1/infograf-2.png",
-      "Alt": "Инфографика о времени и днях для эффективных email рассылок в Q4 2013.",
+      "Alt": "",
       "Caption": null
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/prishlo-vremya-rassyilat-pisma-a-kogda-i-vo-skolko-chast-1/infograf-3.png",
-      "Alt": "Линейный график: процент кликов на email-рассылки по дням недели.",
+      "Alt": "",
       "Caption": null
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/prishlo-vremya-rassyilat-pisma-a-kogda-i-vo-skolko-chast-1/infograf-4.png",
-      "Alt": "График открытий email-рассылок по дням недели в процентах.",
+      "Alt": "",
       "Caption": null
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/prishlo-vremya-rassyilat-pisma-a-kogda-i-vo-skolko-chast-1/infograf-5.png",
-      "Alt": "Диаграмма кликов в час для оптимизации времени email рассылок.",
+      "Alt": "",
       "Caption": null
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/prishlo-vremya-rassyilat-pisma-a-kogda-i-vo-skolko-chast-1/infograf-6.png",
-      "Alt": "График активности открытий email рассылок в течение дня.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -120,7 +129,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/prishlo-vremya-rassyilat-pisma-a-kogda-i-vo-skolko-chast-1/infograf-7.png",
-      "Alt": "Инфографика о лучших днях и времени для email-рассылок в ритейле.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -135,7 +144,7 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/prishlo-vremya-rassyilat-pisma-a-kogda-i-vo-skolko-chast-1/infograf-8.jpg",
-      "Alt": "Инфографика о времени отправки email рассылок и открываемости писем.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -192,14 +201,18 @@
       "Elements": [
         {
           "_t": "Text",
-          "Content": "Допустим, у вас есть 1000 подписчиков, и вы хотите проверить: является ли лучшим временем для отправки писем 14:00 по вторникам или 02:00 по четвергам. Чтобы проверить, отправьте одинаковые письма половине ваших абонентов (т.е. 500 из них) во вторник, а затем отправьте то же сообщение второй половине ваших абонентов (остальным 500) в четверг. Вот как могут выглядеть результаты:"
+          "Content": "Допустим, у вас есть 1000 подписчиков, и вы хотите проверить: является ли лучшим временем для отправки писем 14:00 по вторникам или 02:00 по четвергам. Чтобы проверить, отправьте одинаковые письма половине ваших абонентов (т.е. 500 из них) во вторник, а затем отправьте то же сообщение второй половине ваших абонентов (остальным 500) в четверг."
         }
       ]
     },
     {
+      "_t": "Heading2",
+      "Title": "Вот как могут выглядеть результаты:"
+    },
+    {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/prishlo-vremya-rassyilat-pisma-a-kogda-i-vo-skolko-chast-1/table.jpg",
-      "Alt": "Сравнение показателей email рассылки по дням: вторник и четверг.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -232,22 +245,17 @@
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/prishlo-vremya-rassyilat-pisma-a-kogda-i-vo-skolko-chast-1/7.jpg",
-      "Alt": "Интерфейс расчета эффективности email-рассылок с данными кликов и CTR.",
+      "Alt": "",
       "Caption": null
     },
     {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Text",
-          "Content": "Для измерения результатов теперь уже по кликам зададим данные следующим образом и получим 90% вероятность в достоверности победителя:"
-        }
-      ]
+      "_t": "Heading2",
+      "Title": "Для измерения результатов теперь уже по кликам зададим данные следующим образом и получим 90% вероятность в достоверности победителя:"
     },
     {
       "_t": "Image",
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/prishlo-vremya-rassyilat-pisma-a-kogda-i-vo-skolko-chast-1/8.jpg",
-      "Alt": "Форма анализа эффективности рекламы с показателем кликов и конверсии.",
+      "Alt": "",
       "Caption": null
     },
     {
@@ -342,6 +350,57 @@
             "Content": "Как узнать лучшее время для вашего бизнеса: Запускайте A/B тесты с выбором разных дней и времени для проверки эффективности. Пример: отправьте письма 1000 подписчикам, разделив их на две группы по 500 человек, и оцените результаты."
           }
         ]
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Авторы статьи"
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Похожие статьи"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/kak-schitat-churn-rate/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Отток клиентов в маркетинге: что такое Churn Rate и как его считать Наталья Казьмина 30.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
+            }
+          ]
+        },
+        {
+          "_t": "Text",
+          "Content": " "
+        },
+        {
+          "_t": "Link",
+          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
+          "Elements": [
+            {
+              "_t": "Text",
+              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
+            }
+          ]
+        }
       ]
     }
   ]
