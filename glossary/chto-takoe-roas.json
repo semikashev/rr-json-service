@@ -44,6 +44,12 @@
       "Latex": "ROAS = \\frac{доход, полученный от рекламы}{расходы на рекламу} \\times 100\\%"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-roas/glossary-chto-takoe-roas-roas.png",
+      "Alt": "Формула расчёта ROAS",
+      "Caption": null
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {

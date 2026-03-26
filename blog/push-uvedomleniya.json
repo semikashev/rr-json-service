@@ -871,6 +871,12 @@
       "Latex": "OR = \\frac{Количество открытий}{Количество доставленных уведомлений} \\times 100\\%"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/push-uvedomleniya/blog-push-uvedomleniya-or.png",
+      "Alt": "Формула расчёта OR",
+      "Caption": null
+    },
+    {
       "_t": "Heading3",
       "Title": "Конверсия (Conversion Rate, CR)"
     },
@@ -926,6 +932,12 @@
     {
       "_t": "Formula",
       "Latex": "CR = \\frac{Количество целевых действий}{Количество доставленных уведомлений} \\times 100\\%"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/push-uvedomleniya/blog-push-uvedomleniya-cr.png",
+      "Alt": "Формула расчёта CR",
+      "Caption": null
     },
     {
       "_t": "Heading2",

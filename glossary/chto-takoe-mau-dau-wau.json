@@ -407,11 +407,23 @@
     },
     {
       "_t": "Formula",
-      "Latex": "Sticky faktor (месячный) = DAU/MAU \\times 100\\%"
+      "Latex": "Sticky faktor (месячный) = \\frac{DAU}{MAU} \\times 100\\%"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-mau-dau-wau/glossary-chto-takoe-mau-dau-wau-sticky-month.png",
+      "Alt": "Формула расчёта Sticky month",
+      "Caption": null
     },
     {
       "_t": "Formula",
-      "Latex": "Sticky faktor (недельный) = DAU/MAU \\times 100\\%"
+      "Latex": "Sticky faktor (недельный) = \\frac{DAU}{WAU} \\times 100\\%"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-mau-dau-wau/glossary-chto-takoe-mau-dau-wau-sticky-week.png",
+      "Alt": "Формула расчёта Sticky week",
+      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -554,7 +566,13 @@
     },
     {
       "_t": "Formula",
-      "Latex": "APRU = \\frac{Доход}{Число пользователей}"
+      "Latex": "ARPU = \\frac{Доход}{Число пользователей}"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-mau-dau-wau/glossary-chto-takoe-mau-dau-wau-arpu.png",
+      "Alt": "Формула расчёта ARPU",
+      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -603,7 +621,13 @@
     },
     {
       "_t": "Formula",
-      "Latex": "RR = \\frac{(N3 - N2)}{N1 x 100\\%}"
+      "Latex": "RR = \\frac{N3 - N2}{N1} \\times 100\\%"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-mau-dau-wau/glossary-chto-takoe-mau-dau-wau-rr.png",
+      "Alt": "Формула расчёта RR",
+      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -648,6 +672,12 @@
     {
       "_t": "Formula",
       "Latex": "LTV = Период активности покупателя \\times ARPU"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-mau-dau-wau/glossary-chto-takoe-mau-dau-wau-ltv.png",
+      "Alt": "Формула расчёта LTV",
+      "Caption": null
     },
     {
       "_t": "Heading2",

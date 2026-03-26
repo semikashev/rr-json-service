@@ -93,6 +93,12 @@
       "Latex": "STR = \\frac{Количество проданного товара}{Количество полученного товара} \\times 100\\%"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-str/glossary-chto-takoe-str-str.png",
+      "Alt": "Формула расчёта STR",
+      "Caption": null
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {

@@ -83,6 +83,12 @@
       "Latex": "CR = \\frac{Количество целевых действий}{Количество визитов} \\times 100\\%"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/povyshenie-konversii-sajta/blog-povyshenie-konversii-sajta-cr.png",
+      "Alt": "Формула расчёта CR",
+      "Caption": null
+    },
+    {
       "_t": "Heading2",
       "Title": "Пример. На лендинг перешли 2 000 человек, из них 120 оставили заявку. CR = 120 ÷ 2 000 × 100% = 6%"
     },

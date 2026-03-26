@@ -965,6 +965,12 @@
       "Latex": "Delivery rate = \\frac{количество доставленных писем}{общее количество отправленных писем} \\times 100\\%"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/avtomatizatsiya-email-rassylok/blog-avtomatizatsiya-email-rassylok-delivery-rate.png",
+      "Alt": "Формула расчёта Delivery Rate",
+      "Caption": null
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -980,7 +986,13 @@
     },
     {
       "_t": "Formula",
-      "Latex": "Open rate = \\frac{количество открытых писем}{общее количество отправленных писем} \\times 100\\%"
+      "Latex": "Open Rate = \\frac{Количество уникальных открытий}{Количество доставленных писем} \\times 100\\%"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/avtomatizatsiya-email-rassylok/blog-avtomatizatsiya-email-rassylok-open-rate.png",
+      "Alt": "Формула расчёта Open Rate",
+      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -1001,6 +1013,12 @@
       "Latex": "Bounce rate = \\frac{количество недоставленных писем}{общее количество отправленных писем} \\times 100\\%"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/avtomatizatsiya-email-rassylok/blog-avtomatizatsiya-email-rassylok-bounce-rate.png",
+      "Alt": "Формула расчёта Bounce Rate",
+      "Caption": null
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -1019,6 +1037,12 @@
       "Latex": "Click-through rate = \\frac{количество писем, в которых получатели перешли по ссылкам}{общее количество доставленных писем} \\times 100\\%"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/avtomatizatsiya-email-rassylok/blog-avtomatizatsiya-email-rassylok-click-rate.png",
+      "Alt": "Формула расчёта Click Rate",
+      "Caption": null
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -1035,6 +1059,12 @@
     {
       "_t": "Formula",
       "Latex": "Unsubscribe rate = \\frac{количество отписавшихся}{общее количество доставленных писем} \\times 100\\%"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/avtomatizatsiya-email-rassylok/blog-avtomatizatsiya-email-rassylok-unsubscribe-rate.png",
+      "Alt": "Формула расчёта Unsubscribe Rate",
+      "Caption": null
     },
     {
       "_t": "Heading2",

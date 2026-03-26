@@ -404,6 +404,12 @@
       "Latex": "NPS = \\% сторонников - \\% критиков"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-omnikanalnost-v-marketinge/glossary-chto-takoe-omnikanalnost-v-marketinge-nps.png",
+      "Alt": "Формула расчёта NPS",
+      "Caption": null
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -467,7 +473,13 @@
     },
     {
       "_t": "Formula",
-      "Latex": "CLV = Средний чек \\times Частота покупок Длительность сотрудничества"
+      "Latex": "CLV = Средний чек \\times Частота покупок \\times Длительность сотрудничества"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-omnikanalnost-v-marketinge/glossary-chto-takoe-omnikanalnost-v-marketinge-clv.png",
+      "Alt": "Формула расчёта CLV",
+      "Caption": null
     },
     {
       "_t": "UnorderedList",
@@ -530,7 +542,13 @@
     },
     {
       "_t": "Formula",
-      "Latex": "Конверсия = \\frac{Количество завершённых покупок}{Количество начатых покупок} \\times 100"
+      "Latex": "Конверсия = \\frac{Количество завершённых покупок}{Количество начатых покупок} \\times 100\\%"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-omnikanalnost-v-marketinge/glossary-chto-takoe-omnikanalnost-v-marketinge-konversiya.png",
+      "Alt": "Формула расчёта text",
+      "Caption": null
     },
     {
       "_t": "UnorderedList",
@@ -584,7 +602,13 @@
     },
     {
       "_t": "Formula",
-      "Latex": "Вовлечённость = \\frac{Открытые письма}{Отправленные письма} \\times 100"
+      "Latex": "Вовлечённость = \\frac{Открытые письма}{Отправленные письма} \\times 100\\%"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-omnikanalnost-v-marketinge/glossary-chto-takoe-omnikanalnost-v-marketinge-vovlechennost.png",
+      "Alt": "Формула расчёта text",
+      "Caption": null
     },
     {
       "_t": "Heading2",
@@ -592,7 +616,13 @@
     },
     {
       "_t": "Formula",
-      "Latex": "Вовлечённость = \\frac{Клиенты, кликнувшие на уведомление}{Получившие уведомление} \\times 100"
+      "Latex": "Вовлечённость = \\frac{Клиенты, кликнувшие на уведомление}{Получившие уведомление} \\times 100\\%"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-omnikanalnost-v-marketinge/glossary-chto-takoe-omnikanalnost-v-marketinge-vovlechennost-17-5.png",
+      "Alt": "Формула расчёта text",
+      "Caption": null
     },
     {
       "_t": "Paragraph",

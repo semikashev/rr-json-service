@@ -219,6 +219,12 @@
       "Latex": "CAC = \\frac{Расходы на маркетинг}{Количество привлеченных клиентов}"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/chto-takoe-unit-ekonomika/blog-chto-takoe-unit-ekonomika-cac.png",
+      "Alt": "Формула расчёта CAC",
+      "Caption": null
+    },
+    {
       "_t": "Heading2",
       "Title": "CAC = Расходы на маркетинг / Количество привлеченных клиентов"
     },
@@ -260,6 +266,12 @@
     {
       "_t": "Formula",
       "Latex": "LTV = Средний чек \\times Количество повторных покупок"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/chto-takoe-unit-ekonomika/blog-chto-takoe-unit-ekonomika-ltv.png",
+      "Alt": "Формула расчёта LTV",
+      "Caption": null
     },
     {
       "_t": "Heading2",
@@ -318,6 +330,12 @@
       "Latex": "ARPU = \\frac{Выручка}{Количество клиентов}"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/chto-takoe-unit-ekonomika/blog-chto-takoe-unit-ekonomika-arpu.png",
+      "Alt": "Формула расчёта ARPU",
+      "Caption": null
+    },
+    {
       "_t": "Heading2",
       "Title": "ARPU = Выручка / Количество клиентов"
     },
@@ -354,6 +372,12 @@
     {
       "_t": "Formula",
       "Latex": "CM = Выручка - Переменные расходы"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/chto-takoe-unit-ekonomika/blog-chto-takoe-unit-ekonomika-cm.png",
+      "Alt": "Формула расчёта CM",
+      "Caption": null
     },
     {
       "_t": "Heading2",

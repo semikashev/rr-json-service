@@ -551,6 +551,12 @@
       "Latex": "CTR = \\frac{количество кликов по ссылкам}{количество доставленных писем} \\times 100\\%"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/mobilnye-push-uvedomleniya/blog-mobilnye-push-uvedomleniya-ctr.png",
+      "Alt": "Формула расчёта CTR",
+      "Caption": null
+    },
+    {
       "_t": "Heading2",
       "Title": "Что делать, если этот показатель падает:"
     },
@@ -583,6 +589,12 @@
     {
       "_t": "Formula",
       "Latex": "CR = \\frac{число пользователей, совершивших целевое действие}{общее кол-во пользователей} \\times 100\\%"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/mobilnye-push-uvedomleniya/blog-mobilnye-push-uvedomleniya-cr.png",
+      "Alt": "Формула расчёта CR",
+      "Caption": null
     },
     {
       "_t": "Heading2",
@@ -619,6 +631,12 @@
       "Latex": "RR = \\frac{те, кто пользуется – новые пользователи}{кол-во пользователей в начале расчетного периода} \\times 100\\%"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/mobilnye-push-uvedomleniya/blog-mobilnye-push-uvedomleniya-rr.png",
+      "Alt": "Формула расчёта RR",
+      "Caption": null
+    },
+    {
       "_t": "Heading2",
       "Title": "Что делать, если этот показатель падает:"
     },
@@ -651,6 +669,12 @@
     {
       "_t": "Formula",
       "Latex": "OOR = \\frac{кол-во отказавшихся пользователей от сообщений}{кол-во доставленных сообщений} \\times 100\\%"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/mobilnye-push-uvedomleniya/blog-mobilnye-push-uvedomleniya-oor.png",
+      "Alt": "Формула расчёта OOR",
+      "Caption": null
     },
     {
       "_t": "Paragraph",

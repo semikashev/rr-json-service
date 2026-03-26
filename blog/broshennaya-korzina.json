@@ -131,6 +131,12 @@
       "Latex": "Процент брошенных корзин = (1 − (Количество покупок / Количество корзин)) \\times 100\\%"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/broshennaya-korzina/blog-broshennaya-korzina-dolya-broshennyh-korzin.png",
+      "Alt": "Формула расчёта text",
+      "Caption": null
+    },
+    {
       "_t": "Heading2",
       "Title": "Пример:"
     },

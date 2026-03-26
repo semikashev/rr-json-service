@@ -81,6 +81,12 @@
       "Latex": "CTR = \\frac{Количество кликов}{Количество показов} \\times 100\\%"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-ctr.png",
+      "Alt": "Формула расчёта CTR",
+      "Caption": null
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -266,6 +272,12 @@
       "Latex": "CPC = \\frac{Затраты на рекламу}{Количество кликов}"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-cpc.png",
+      "Alt": "Формула расчёта CPC",
+      "Caption": null
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -408,6 +420,12 @@
       "Latex": "RPC = \\frac{Общая выручка}{Количество кликов}"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-rpc.png",
+      "Alt": "Формула расчёта RPC",
+      "Caption": null
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -534,6 +552,12 @@
     {
       "_t": "Formula",
       "Latex": "CPM = \\frac{Общие расходы}{Количество показов} \\times 1000"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-cpm.png",
+      "Alt": "Формула расчёта CPM",
+      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -712,6 +736,12 @@
       "Latex": "CPA = \\frac{Затраты на рекламу}{Количество целевых действий}"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-cpa.png",
+      "Alt": "Формула расчёта CPA",
+      "Caption": null
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -861,6 +891,12 @@
     {
       "_t": "Formula",
       "Latex": "CPO = \\frac{Затраты на маркетинг}{Количество заказов}"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-cpo.png",
+      "Alt": "Формула расчёта CPO",
+      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -1025,6 +1061,12 @@
     {
       "_t": "Formula",
       "Latex": "CR = \\frac{Количество заказов}{Количество посетителей} \\times 100\\%"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-cr.png",
+      "Alt": "Формула расчёта CR",
+      "Caption": null
     },
     {
       "_t": "Heading2",
@@ -1205,6 +1247,12 @@
       "Latex": "LCR = \\frac{Количество закрытых сделок}{Количество лидов} \\times 100\\%"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-lcr.png",
+      "Alt": "Формула расчёта LCR",
+      "Caption": null
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -1347,6 +1395,12 @@
       "Latex": "LPO = \\frac{Количество лидов}{Количество размещённых предложений}"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-lpo.png",
+      "Alt": "Формула расчёта LPO",
+      "Caption": null
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -1473,6 +1527,12 @@
     {
       "_t": "Formula",
       "Latex": "CAC = \\frac{Затраты на маркетинг}{Количество новых клиентов}"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-cac.png",
+      "Alt": "Формула расчёта CAC",
+      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -1667,7 +1727,13 @@
     },
     {
       "_t": "Formula",
-      "Latex": "ROI = - - Затраты \\times 100\\%"
+      "Latex": "ROI = \\frac{Доход - Затраты}{Затраты} \\times 100\\%"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-roi.png",
+      "Alt": "Формула расчёта ROI",
+      "Caption": null
     },
     {
       "_t": "Heading2",
@@ -1808,7 +1874,13 @@
     },
     {
       "_t": "Formula",
-      "Latex": "ROMI = - - Затраты на маркетинг \\times 100\\%"
+      "Latex": "ROMI = \\frac{Доход - Затраты на маркетинг}{Затраты на маркетинг} \\times 100\\%"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-romi.png",
+      "Alt": "Формула расчёта ROMI",
+      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -1955,6 +2027,12 @@
     {
       "_t": "Formula",
       "Latex": "ROAS = \\frac{Доходы от рекламы}{Расходы на рекламу} \\times 100\\%"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-roas.png",
+      "Alt": "Формула расчёта ROAS",
+      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -2142,6 +2220,12 @@
       "Latex": "AOV = \\frac{Общая выручка}{Количество заказов}"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-sredniy-chek.png",
+      "Alt": "Формула расчёта text",
+      "Caption": null
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -2287,8 +2371,20 @@
       "Latex": "V = Общее количество проданных товаров"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-v.png",
+      "Alt": "Формула расчёта V",
+      "Caption": null
+    },
+    {
       "_t": "Formula",
       "Latex": "SV = Общая сумма выручки от продаж"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-sv.png",
+      "Alt": "Формула расчёта SV",
+      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -2418,6 +2514,12 @@
       "Latex": "SOM = \\frac{Объем продаж компании}{Объем рынка} \\times 100\\%"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-som.png",
+      "Alt": "Формула расчёта SOM",
+      "Caption": null
+    },
+    {
       "_t": "Heading2",
       "Title": "Пример: рынок = 2 млрд ₽, ваш объем продаж = 200 млн ₽"
     },
@@ -2534,6 +2636,12 @@
     {
       "_t": "Formula",
       "Latex": "ARPU = \\frac{Общий доход}{Количество активных пользователей}"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-arpu.png",
+      "Alt": "Формула расчёта ARPU",
+      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -2666,6 +2774,12 @@
     {
       "_t": "Formula",
       "Latex": "NPS = \\% Промоутеров - \\% Критиков"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-nps.png",
+      "Alt": "Формула расчёта NPS",
+      "Caption": null
     },
     {
       "_t": "UnorderedList",
@@ -2834,6 +2948,12 @@
       "Latex": "Churn Rate = \\frac{Ушедшие пользователи}{Общее число пользователей на начало периода} \\times 100\\%"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-churn-rate.png",
+      "Alt": "Формула расчёта Churn Rate",
+      "Caption": null
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -2971,7 +3091,13 @@
     },
     {
       "_t": "Formula",
-      "Latex": "RR = - - Количество клиентов на начало периода \\times 100\\%"
+      "Latex": "RR = \\frac{Клиенты на конец периода - Новые клиенты}{Количество клиентов на начало периода} \\times 100\\%"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-rr.png",
+      "Alt": "Формула расчёта RR",
+      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -3114,6 +3240,12 @@
       "Latex": "ALT = \\frac{1}{Churn Rate}"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-alt.png",
+      "Alt": "Формула расчёта ALT",
+      "Caption": null
+    },
+    {
       "_t": "Heading2",
       "Title": "Пример: Churn Rate = 5% в месяц → ALT = 1 ÷ 0.05 = 20 месяцев"
     },
@@ -3246,12 +3378,24 @@
       "Latex": "LTV = AOV \\times Частота покупок \\times Период жизни клиента"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-ltv.png",
+      "Alt": "Формула расчёта LTV",
+      "Caption": null
+    },
+    {
       "_t": "Heading2",
       "Title": "или"
     },
     {
       "_t": "Formula",
       "Latex": "LTV = AOV \\times Частота покупок \\times ALT"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-ltv-11-24.png",
+      "Alt": "Формула расчёта LTV",
+      "Caption": null
     },
     {
       "_t": "Heading2",
@@ -3397,6 +3541,12 @@
     {
       "_t": "Formula",
       "Latex": "BA = \\frac{Количество узнавших бренд}{Общее число респондентов} \\times 100\\%"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-ba.png",
+      "Alt": "Формула расчёта BA",
+      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -3545,6 +3695,12 @@
       "Latex": "Delivery Rate = \\frac{Количество доставленных писем}{Количество отправленных писем} \\times 100\\%"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-delivery-rate.png",
+      "Alt": "Формула расчёта Delivery Rate",
+      "Caption": null
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -3659,6 +3815,12 @@
     {
       "_t": "Formula",
       "Latex": "Open Rate = \\frac{Количество уникальных открытий}{Количество доставленных писем} \\times 100\\%"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-open-rate.png",
+      "Alt": "Формула расчёта Open Rate",
+      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -3776,6 +3938,12 @@
     {
       "_t": "Formula",
       "Latex": "Click Rate = \\frac{Количество кликов}{Количество доставленных писем} \\times 100\\%"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-click-rate.png",
+      "Alt": "Формула расчёта Click Rate",
+      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -3948,6 +4116,12 @@
       "Latex": "Unsubscribe Rate = \\frac{Количество уникальных отписок}{Количество доставленных писем} \\times 100\\%"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-unsubscribe-rate.png",
+      "Alt": "Формула расчёта Unsubscribe Rate",
+      "Caption": null
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -4059,6 +4233,12 @@
       "Latex": "Bounce Rate = \\frac{Количество одностраничных сессий}{Общее количество сессий} \\times 100\\%"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-bounce-rate.png",
+      "Alt": "Формула расчёта Bounce Rate",
+      "Caption": null
+    },
+    {
       "_t": "Heading3",
       "Title": "Где применяется"
     },
@@ -4163,6 +4343,12 @@
       "Latex": "PPV = \\frac{Общее количество просмотренных страниц}{Общее количество визитов}"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-ppv.png",
+      "Alt": "Формула расчёта PPV",
+      "Caption": null
+    },
+    {
       "_t": "Heading2",
       "Title": "Пример: 2000 просмотров / 800 визитов = 2.5 страницы за визит"
     },
@@ -4234,6 +4420,12 @@
     {
       "_t": "Formula",
       "Latex": "Engagement Rate = \\frac{Сумма вовлекающих действий}{Общее количество пользователей} \\times 100\\%"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-engagement-rate.png",
+      "Alt": "Формула расчёта Engagement Rate",
+      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -4312,6 +4504,12 @@
     {
       "_t": "Formula",
       "Latex": "Session Duration = \\frac{Общее время всех сеансов}{Количество сеансов}"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/marketingovye-metriki/blog-marketingovye-metriki-session-duration.png",
+      "Alt": "Формула расчёта Session Duration",
+      "Caption": null
     },
     {
       "_t": "Heading2",

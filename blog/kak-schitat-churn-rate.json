@@ -148,6 +148,12 @@
       "Latex": "Churn Rate = \\frac{Количество ушедших клиентов}{Количество клиентов на начале периода: месяца/квартала/года} \\times 100\\%"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-schitat-churn-rate/blog-kak-schitat-churn-rate-churn-rate.png",
+      "Alt": "Формула расчёта Churn Rate",
+      "Caption": null
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -196,6 +202,12 @@
       "Latex": "Churn Rate = \\frac{Клиенты в начале периода – Клиенты в конце периода + Новые клиенты}{Клиенты в начале периода} \\times 100\\%"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-schitat-churn-rate/blog-kak-schitat-churn-rate-churn-rate-6-2.png",
+      "Alt": "Формула расчёта Churn Rate",
+      "Caption": null
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -215,6 +227,12 @@
     {
       "_t": "Formula",
       "Latex": "Revenue Churn = \\frac{Выручка в начале периода – Выручка от удержанных клиентов}{Выручка в начале периода} \\times 100\\%"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-schitat-churn-rate/blog-kak-schitat-churn-rate-revenue-churn.png",
+      "Alt": "Формула расчёта Revenue Churn",
+      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -308,7 +326,13 @@
     },
     {
       "_t": "Formula",
-      "Latex": "Weighted Churn = \\frac{Σ(Потерянная выручка клиента × вес)}{Σ(Общая выручка × вес)}"
+      "Latex": "Weighted Churn = \\frac{\\sum(Потерянная выручка клиента \\times вес)}{\\sum(Общая выручка \\times вес)}"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-schitat-churn-rate/blog-kak-schitat-churn-rate-weighted-churn.png",
+      "Alt": "Формула расчёта Weighted Churn",
+      "Caption": null
     },
     {
       "_t": "Heading2",
@@ -877,6 +901,12 @@
     {
       "_t": "Formula",
       "Latex": "NNC = Expansion Revenue - Revenue Churn"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/kak-schitat-churn-rate/blog-kak-schitat-churn-rate-nnc.png",
+      "Alt": "Формула расчёта NNC",
+      "Caption": null
     },
     {
       "_t": "Paragraph",

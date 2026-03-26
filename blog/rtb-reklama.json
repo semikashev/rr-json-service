@@ -947,6 +947,12 @@
       "Latex": "CPM = \\frac{Расход}{Показы} \\times 1000"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/rtb-reklama/blog-rtb-reklama-cpm.png",
+      "Alt": "Формула расчёта CPM",
+      "Caption": null
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {

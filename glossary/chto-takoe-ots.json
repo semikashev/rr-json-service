@@ -102,6 +102,12 @@
       "Latex": "OTS = \\frac{GRP}{Reach}"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-ots/glossary-chto-takoe-ots-ots.png",
+      "Alt": "Формула расчёта OTS",
+      "Caption": null
+    },
+    {
       "_t": "Heading2",
       "Title": "Где:"
     },
@@ -129,6 +135,12 @@
     {
       "_t": "Formula",
       "Latex": "OTS = \\frac{Количество показов}{Количество уникальных пользователей}"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-ots/glossary-chto-takoe-ots-ots-18-2.png",
+      "Alt": "Формула расчёта OTS",
+      "Caption": null
     },
     {
       "_t": "Paragraph",
@@ -173,6 +185,12 @@
       "Latex": "OTS = \\frac{1 500 000}{500 000} = 3"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-ots/glossary-chto-takoe-ots-ots-18-3.png",
+      "Alt": "Формула расчёта OTS",
+      "Caption": null
+    },
+    {
       "_t": "Paragraph",
       "Elements": [
         {
@@ -209,6 +227,12 @@
     {
       "_t": "Formula",
       "Latex": "OTS = \\frac{300}{75} = 4"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/glossary/chto-takoe-ots/glossary-chto-takoe-ots-ots-18-4.png",
+      "Alt": "Формула расчёта OTS",
+      "Caption": null
     },
     {
       "_t": "Paragraph",

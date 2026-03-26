@@ -158,6 +158,12 @@
       "Latex": "NPS = \\% промоутеров - \\% критиков"
     },
     {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/loyalnost-klientov/blog-loyalnost-klientov-nps.png",
+      "Alt": "Формула расчёта NPS",
+      "Caption": null
+    },
+    {
       "_t": "Heading2",
       "Title": "Общепринятые бенчмарки для NPS зависят от отрасли, но следующие значения являются общими ориентирами:"
     },
@@ -234,7 +240,13 @@
     },
     {
       "_t": "Formula",
-      "Latex": "Church Rate = \\frac{Общее количество клиентов в начале периода}{Количество ушедших клиентов за период} \\times 100\\%"
+      "Latex": "Churn Rate = \\frac{Количество ушедших клиентов за период}{Общее количество клиентов в начале периода} \\times 100\\%"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/loyalnost-klientov/blog-loyalnost-klientov-churn-rate.png",
+      "Alt": "Формула расчёта Churn Rate",
+      "Caption": null
     },
     {
       "_t": "UnorderedList",
