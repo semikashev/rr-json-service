@@ -197,7 +197,7 @@ python3 clean_articles.py --apply
 
 - JSON-файлы статей (все 8 папок)
 - `SCHEMA.md`, `README.md`, `CLAUDE.md`
-- `_mapping.json`, `_image_mapping.json`, `_image_mapping_cdn.json`, `_leadtext_issues.json`, `_unpatched_content_bg.json`
+- `_mapping.json`, `_image_mapping.json`, `_image_mapping_cdn.json`, `_leadtext_issues.json`, `_unpatched_content_bg.json`, `_accordion_overrides.json`
 
 ## Что НЕ коммитить
 
@@ -213,3 +213,4 @@ python3 clean_articles.py --apply
 - **Видео URL** — всегда embed-формат: `https://www.youtube.com/embed/VIDEO_ID`
 - **19 непропатченных SmallContentBg** — см. `_unpatched_content_bg.json`. Причины: markdown-разметка в heading (`**text**`), склеенные heading-и, несовпадение текста JSON vs WP HTML
 - **BigContentBg/SmallContentBg** — 1 BigContentBg + 78 SmallContentBg. ImageUrl в BigContentBg использует CDN (`landingcdn.retailrocket.ru`). Дублирующие Image-блоки перед ними удалены
+- **Custom-accordion** — WP виджет `custom-accordion.default` преобразуется в тройки `Heading3 + Paragraph + Image` (для blog/cases). Текст расширен AI. Данные для восстановления при реэкспорте хранятся в `_accordion_overrides.json`. 6 статей в pages/ содержат аккордеоны, но пока обрабатываются как плоские блоки
