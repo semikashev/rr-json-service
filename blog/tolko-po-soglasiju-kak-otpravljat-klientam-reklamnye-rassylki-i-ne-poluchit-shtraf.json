@@ -1171,57 +1171,6 @@
       "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/tolko-po-soglasiju-kak-otpravljat-klientam-reklamnye-rassylki-i-ne-poluchit-shtraf/1614289928.png",
       "Alt": "",
       "Caption": null
-    },
-    {
-      "_t": "Heading2",
-      "Title": "Авторы статьи"
-    },
-    {
-      "_t": "Heading2",
-      "Title": "Похожие статьи"
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/broshennaya-korzina/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Next-Gen comms Что такое брошенная корзина и как вернуть покупателей с помощью Retail Rocket Наталья Казьмина 08.09.2025"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/gde-vzyat-bazu-dlya-email-rassylki/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Next-Gen comms Где взять базу для email-рассылки Наталья Казьмина 06.06.2025"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/kak-sdelat-rassylku-v-whatsapp/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "Next-Gen comms Как сделать рассылку в WhatsApp и избежать блокировок Кирилл Морозов 27.09.2024"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

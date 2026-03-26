@@ -975,57 +975,6 @@
           "Content": "Даже 1–2% снижения оттока способны повысить прибыль за счёт увеличения LTV, повторных покупок и оптимизации рекламных затрат."
         }
       ]
-    },
-    {
-      "_t": "Heading2",
-      "Title": "Авторы статьи"
-    },
-    {
-      "_t": "Heading2",
-      "Title": "Похожие статьи"
-    },
-    {
-      "_t": "Paragraph",
-      "Elements": [
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/vidzhety-dlya-sayta/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Виджеты для сайта: зачем ставить и какие реально работают Кирилл Морозов 23.01.2026"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/konversiya-internet-magazina/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty Как увеличить конверсию интернет-магазина: лучшие способы и инструменты Кирилл Морозов 16.12.2025"
-            }
-          ]
-        },
-        {
-          "_t": "Text",
-          "Content": " "
-        },
-        {
-          "_t": "Link",
-          "Href": "https://retailrocket.ru/blog/povyshenie-konversii-sajta/",
-          "Elements": [
-            {
-              "_t": "Text",
-              "Content": "CX & Loyalty 20 способов увеличить конверсию сайта и получить больше заявок Кирилл Морозов 10.12.2025"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

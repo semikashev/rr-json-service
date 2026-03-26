@@ -183,14 +183,6 @@
       ],
       "BtnText": "Получить предложение",
       "BtnUrl": "https://retailrocket.ru/demo/"
-    },
-    {
-      "_t": "Heading2",
-      "Title": "Авторы статьи"
-    },
-    {
-      "_t": "Heading2",
-      "Title": "Похожие статьи"
     }
   ]
 }

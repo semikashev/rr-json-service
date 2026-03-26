@@ -190,14 +190,6 @@
       ],
       "BtnText": "Запросить демо",
       "BtnUrl": "https://retailrocket.ru/personalization/"
-    },
-    {
-      "_t": "Heading2",
-      "Title": "Авторы статьи"
-    },
-    {
-      "_t": "Heading2",
-      "Title": "Похожие статьи"
     }
   ]
 }
