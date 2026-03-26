@@ -185,12 +185,12 @@
       "TitleElements": [
         {
           "_t": "Text",
-          "Content": "34 алгоритма, которые заменят живого продавца консультанта"
+          "Content": "Создавайте индивидуальный опыт для каждого клиента"
         }
       ],
       "Elements": [],
-      "BtnText": "Узнать",
-      "BtnUrl": "https://retailrocket.ru/personalization/"
+      "BtnText": "Запросить демо",
+      "BtnUrl": "https://retailrocket.ru/demo/"
     },
     {
       "_t": "Heading3",
