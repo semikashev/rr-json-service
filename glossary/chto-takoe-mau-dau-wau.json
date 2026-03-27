@@ -416,6 +416,21 @@
       "Caption": null
     },
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "у мобильного приложения 15 000 DAU и 100 000 MAU. Sticky month = 15 000 / 100 000 × 100% = 15% — каждый шестой пользователь заходит ежедневно.",
+          "IsItalic": true
+        }
+      ]
+    },
+    {
       "_t": "Formula",
       "Latex": "Sticky\\ week=\\frac{\\text{Ежедневные активные пользователи (DAU)}}{\\text{Еженедельные активные пользователи (WAU)}}\\cdot 100\\%"
     },
@@ -424,6 +439,21 @@
       "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/glossary-chto-takoe-mau-dau-wau-sticky-week-green.png",
       "Alt": "Формула расчёта Sticky week",
       "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "15 000 DAU при 45 000 WAU. Sticky week = 15 000 / 45 000 × 100% ≈ 33% — треть недельной аудитории активна каждый день.",
+          "IsItalic": true
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -579,6 +609,21 @@
       "Elements": [
         {
           "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "месячная выручка приложения — 2 000 000 ₽ при 100 000 пользователей. ARPU = 2 000 000 / 100 000 = 20 ₽.",
+          "IsItalic": true
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
           "Content": "Например, компания получила за месяц доход 1,5 млн ₽ от покупок, которые сделали 3 000 пользователей. Делим 1 500 000 на 3 000 и получаем APRU — 500 ₽."
         }
       ]
@@ -678,6 +723,21 @@
       "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/glossary-chto-takoe-mau-dau-wau-ltv-green.png",
       "Alt": "Формула расчёта LTV",
       "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "ARPU = 20 ₽ в месяц, средний период жизни пользователя — 18 месяцев. LTV = 20 × 18 = 360 ₽.",
+          "IsItalic": true
+        }
+      ]
     },
     {
       "_t": "Heading2",

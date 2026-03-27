@@ -557,6 +557,21 @@
       "Caption": null
     },
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "доставлено 80 000 push-уведомлений, кликнули 3 200 пользователей. CTR = 3 200 / 80 000 × 100% = 4%.",
+          "IsItalic": true
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Что делать, если этот показатель падает:"
     },
@@ -595,6 +610,21 @@
       "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/blog-mobilnye-push-uvedomleniya-cr-green.png",
       "Alt": "Формула расчёта CR",
       "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "push-уведомление о скидке получили 80 000 пользователей, 1 600 совершили покупку. CR = 1 600 / 80 000 × 100% = 2%.",
+          "IsItalic": true
+        }
+      ]
     },
     {
       "_t": "Heading2",
@@ -637,6 +667,21 @@
       "Caption": null
     },
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "в начале месяца у приложения 50 000 подписчиков на push. В конце — 48 000, из которых 3 000 новых. RR = (48 000 − 3 000) / 50 000 × 100% = 90%.",
+          "IsItalic": true
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Что делать, если этот показатель падает:"
     },
@@ -675,6 +720,21 @@
       "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/blog-mobilnye-push-uvedomleniya-oor-green.png",
       "Alt": "Формула расчёта OOR",
       "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "из 80 000 доставленных уведомлений 2 400 пользователей отключили push. OOR = 2 400 / 80 000 × 100% = 3%.",
+          "IsItalic": true
+        }
+      ]
     },
     {
       "_t": "Paragraph",

@@ -108,6 +108,21 @@
       "Caption": null
     },
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "баннерная кампания на маркетплейсе получила 120 000 показов при охвате 40 000 уникальных пользователей. OTS = 120 000 / 40 000 = 3 — в среднем каждый пользователь увидел рекламу 3 раза.",
+          "IsItalic": true
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Где:"
     },
@@ -141,6 +156,21 @@
       "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/glossary-chto-takoe-ots-ots-18-2-green.png",
       "Alt": "Формула расчёта OTS",
       "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "рекламу увидели 25 000 уникальных пользователей, всего было 75 000 показов. OTS = 75 000 / 25 000 = 3.",
+          "IsItalic": true
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -195,6 +225,21 @@
       "Elements": [
         {
           "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "медийная кампания: 200 000 показов, охват — 50 000. OTS = 200 000 / 50 000 = 4 контакта на пользователя.",
+          "IsItalic": true
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
           "Content": "Это значит, что в среднем каждый пользователь увидел рекламу трижды. Или точнее: у него была возможность увидеть её трижды."
         }
       ]
@@ -233,6 +278,21 @@
       "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/glossary-chto-takoe-ots-ots-18-4-green.png",
       "Alt": "Формула расчёта OTS",
       "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "ретаргетинговая кампания: 90 000 показов при охвате 15 000. OTS = 90 000 / 15 000 = 6 — высокая частота, стоит проверить на выгорание аудитории.",
+          "IsItalic": true
+        }
+      ]
     },
     {
       "_t": "Paragraph",

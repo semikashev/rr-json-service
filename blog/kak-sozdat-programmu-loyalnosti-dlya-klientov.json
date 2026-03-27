@@ -451,6 +451,21 @@
       "Caption": null
     },
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "средний чек участника программы лояльности — 2 500 ₽, частота покупок — 6 раз в год, средний срок жизни клиента — 4 года. LTV = 2 500 × 6 × 4 = 60 000 ₽.",
+          "IsItalic": true
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Формула расчёта возврата на инвестиции"
     },
@@ -463,6 +478,21 @@
       "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/blog-kak-sozdat-programmu-loyalnosti-dlya-klientov-roi-green.png",
       "Alt": "Формула расчёта ROI",
       "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "программа лояльности принесла 12 000 000 ₽ дополнительной выручки при затратах 4 000 000 ₽. ROI = (12 000 000 − 4 000 000) / 4 000 000 × 100% = 200%.",
+          "IsItalic": true
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -520,6 +550,21 @@
       "Caption": null
     },
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "из 500 опрошенных клиентов 300 — промоутеры, 100 — нейтралы, 100 — критики. NPS = (300 / 500 − 100 / 500) × 100 = 40.",
+          "IsItalic": true
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Формула расчёта уровня удержания клиентов"
     },
@@ -534,6 +579,21 @@
       "Caption": null
     },
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "в начале квартала — 10 000 клиентов, в конце — 9 800, из которых 500 — новые. CRR = (9 800 − 500) / 10 000 × 100% = 93%.",
+          "IsItalic": true
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Формула расчёта частоты повторных покупок"
     },
@@ -546,6 +606,21 @@
       "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/blog-kak-sozdat-programmu-loyalnosti-dlya-klientov-rpr-green.png",
       "Alt": "Формула расчёта RPR",
       "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "из 10 000 клиентов с хотя бы одной покупкой 3 500 совершили две и более. RPR = 3 500 / 10 000 × 100% = 35%.",
+          "IsItalic": true
+        }
+      ]
     },
     {
       "_t": "Heading2",

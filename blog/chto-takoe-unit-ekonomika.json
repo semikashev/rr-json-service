@@ -225,6 +225,21 @@
       "Caption": null
     },
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "за месяц на рекламу и маркетинг потрачено 600 000 ₽, привлечено 200 новых клиентов. CAC = 600 000 / 200 = 3 000 ₽ на клиента.",
+          "IsItalic": true
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "CAC = Расходы на маркетинг / Количество привлеченных клиентов"
     },
@@ -272,6 +287,21 @@
       "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/blog-chto-takoe-unit-ekonomika-ltv-green.png",
       "Alt": "Формула расчёта LTV",
       "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "средний чек клиента — 3 000 ₽, покупает 4 раза в год, остаётся с магазином в среднем 3 года. LTV = 3 000 × 4 × 3 = 36 000 ₽.",
+          "IsItalic": true
+        }
+      ]
     },
     {
       "_t": "Heading2",
@@ -336,6 +366,21 @@
       "Caption": null
     },
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "за месяц интернет-магазин заработал 5 000 000 ₽ при 10 000 активных пользователей. ARPU = 5 000 000 / 10 000 = 500 ₽.",
+          "IsItalic": true
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "ARPU = Выручка / Количество клиентов"
     },
@@ -378,6 +423,21 @@
       "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/blog-chto-takoe-unit-ekonomika-cm-green.png",
       "Alt": "Формула расчёта CM",
       "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "выручка интернет-магазина за месяц — 5 000 000 ₽, переменные расходы (закупка, доставка, эквайринг) — 3 200 000 ₽. CM = 5 000 000 − 3 200 000 = 1 800 000 ₽.",
+          "IsItalic": true
+        }
+      ]
     },
     {
       "_t": "Heading2",

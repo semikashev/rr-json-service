@@ -957,6 +957,21 @@
       "Elements": [
         {
           "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "на programmatic-кампанию потрачено 150 000 ₽ при 500 000 показов. CPM = 150 000 / 500 000 × 1 000 = 300 ₽ за 1 000 показов.",
+          "IsItalic": true
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
           "Content": "Что выбрать: RTB или Programmatic Direct?"
         }
       ]

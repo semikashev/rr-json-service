@@ -158,6 +158,21 @@
       "Elements": [
         {
           "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "в начале месяца у онлайн-магазина было 1 000 клиентов, к концу месяца 50 перестали покупать. Churn Rate = 50 / 1 000 × 100% = 5%.",
+          "IsItalic": true
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
           "Content": "Churn Rate — доля клиентов, которые ушли за период."
         }
       ]
@@ -206,6 +221,21 @@
       "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/blog-kak-schitat-churn-rate-churn-rate-6-2-green.png",
       "Alt": "Формула расчёта Churn Rate",
       "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "в начале месяца — 1 000 клиентов, в конце — 1 020, из них 80 новых. Churn Rate = (1 000 − 1 020 + 80) / 1 000 × 100% = 6%.",
+          "IsItalic": true
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -333,6 +363,21 @@
       "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/blog-kak-schitat-churn-rate-weighted-churn-green.png",
       "Alt": "Формула расчёта Weighted Churn",
       "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "интернет-магазин выделяет три сегмента клиентов — премиум (вес 3, выручка 300 000 ₽), стандарт (вес 2, выручка 500 000 ₽) и эконом (вес 1, выручка 200 000 ₽). За месяц потеряно 60 000 ₽ из премиум-сегмента и 50 000 ₽ из стандартного. Weighted Churn = (60 000 × 3 + 50 000 × 2) / (300 000 × 3 + 500 000 × 2 + 200 000 × 1) × 100% ≈ 15,5%.",
+          "IsItalic": true
+        }
+      ]
     },
     {
       "_t": "Heading2",

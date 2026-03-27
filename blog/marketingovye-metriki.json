@@ -1069,6 +1069,21 @@
       "Caption": null
     },
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "за месяц интернет-магазин получил 200 000 сессий и 4 000 заказов. CR = 4 000 / 200 000 × 100% = 2%.",
+          "IsItalic": true
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Важно учитывать, что CR всегда рассчитывается в рамках одного типа данных:"
     },
@@ -1736,6 +1751,21 @@
       "Caption": null
     },
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "вложено 500 000 ₽ в маркетинг, получено 1 500 000 ₽ дохода. ROI = (1 500 000 − 500 000) / 500 000 × 100% = 200%.",
+          "IsItalic": true
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Пример: доход = 500 000 ₽, расходы = 200 000 ₽"
     },
@@ -2377,6 +2407,21 @@
       "Caption": null
     },
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "за квартал интернет-магазин электроники продал 12 500 единиц товара. V = 12 500 шт.",
+          "IsItalic": true
+        }
+      ]
+    },
+    {
       "_t": "Formula",
       "Latex": "SV=\\text{Выручка от продаж}"
     },
@@ -2518,6 +2563,21 @@
       "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/blog-marketingovye-metriki-som-green.png",
       "Alt": "Формула расчёта SOM",
       "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "годовые продажи компании — 800 млн ₽, объём рынка — 20 млрд ₽. SOM = 800 000 000 / 20 000 000 000 × 100% = 4%.",
+          "IsItalic": true
+        }
+      ]
     },
     {
       "_t": "Heading2",
@@ -3246,6 +3306,21 @@
       "Caption": null
     },
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "ежемесячный отток клиентов — 5%. ALT = 1 / 0,05 = 20 месяцев — средний срок жизни клиента.",
+          "IsItalic": true
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Пример: Churn Rate = 5% в месяц → ALT = 1 ÷ 0.05 = 20 месяцев"
     },
@@ -3384,6 +3459,21 @@
       "Caption": null
     },
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "средний чек — 2 000 ₽, частота покупок — 3 раза в год, срок жизни клиента — 5 лет. LTV = 2 000 × 3 × 5 = 30 000 ₽.",
+          "IsItalic": true
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "или"
     },
@@ -3396,6 +3486,21 @@
       "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/blog-marketingovye-metriki-ltv-11-24-green.png",
       "Alt": "Формула расчёта LTV",
       "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "средний чек — 2 000 ₽, частота покупок — 3 раза в год, ALT = 20 месяцев (1,67 года). LTV = 2 000 × 3 × 1,67 ≈ 10 000 ₽.",
+          "IsItalic": true
+        }
+      ]
     },
     {
       "_t": "Heading2",
@@ -4239,6 +4344,21 @@
       "Caption": null
     },
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "из 50 000 сессий на сайте 15 000 завершились после просмотра одной страницы. Bounce Rate = 15 000 / 50 000 × 100% = 30%.",
+          "IsItalic": true
+        }
+      ]
+    },
+    {
       "_t": "Heading3",
       "Title": "Где применяется"
     },
@@ -4349,6 +4469,21 @@
       "Caption": null
     },
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "за день сайт получил 120 000 просмотров страниц и 40 000 визитов. PPV = 120 000 / 40 000 = 3 страницы за визит.",
+          "IsItalic": true
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Пример: 2000 просмотров / 800 визитов = 2.5 страницы за визит"
     },
@@ -4426,6 +4561,21 @@
       "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/blog-marketingovye-metriki-engagement-rate-green.png",
       "Alt": "Формула расчёта Engagement Rate",
       "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "за месяц зафиксировано 25 000 вовлекающих действий (лайки, комментарии, репосты) при 100 000 пользователей. Engagement Rate = 25 000 / 100 000 × 100% = 25%.",
+          "IsItalic": true
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -4510,6 +4660,21 @@
       "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/blog-marketingovye-metriki-session-duration-green.png",
       "Alt": "Формула расчёта Session Duration",
       "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "суммарное время всех сессий за день — 500 000 минут при 100 000 сессий. Session Duration = 500 000 / 100 000 = 5 минут.",
+          "IsItalic": true
+        }
+      ]
     },
     {
       "_t": "Heading2",

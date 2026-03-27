@@ -164,6 +164,21 @@
       "Caption": null
     },
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "опрос покупателей интернет-магазина: 55% — промоутеры, 25% — нейтралы, 20% — критики. NPS = 55% − 20% = 35.",
+          "IsItalic": true
+        }
+      ]
+    },
+    {
       "_t": "Heading2",
       "Title": "Общепринятые бенчмарки для NPS зависят от отрасли, но следующие значения являются общими ориентирами:"
     },
@@ -247,6 +262,21 @@
       "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/blog-loyalnost-klientov-churn-rate-green.png",
       "Alt": "Формула расчёта Churn Rate",
       "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "в начале месяца база — 8 000 клиентов, за месяц ушли 320. Churn Rate = 320 / 8 000 × 100% = 4%.",
+          "IsItalic": true
+        }
+      ]
     },
     {
       "_t": "UnorderedList",

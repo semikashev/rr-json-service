@@ -975,6 +975,21 @@
       "Elements": [
         {
           "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "интернет-магазин отправил 50 000 триггерных писем «Брошенная корзина». Из них доставлено 48 500. Delivery Rate = 48 500 / 50 000 × 100% = 97%.",
+          "IsItalic": true
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
           "Content": "• Open Rate (OR)",
           "IsHighlight": true
         },
@@ -993,6 +1008,21 @@
       "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/blog-avtomatizatsiya-email-rassylok-open-rate-green.png",
       "Alt": "Формула расчёта Open Rate",
       "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "из 48 500 доставленных писем 12 125 были открыты. Open Rate = 12 125 / 48 500 × 100% = 25%.",
+          "IsItalic": true
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -1023,6 +1053,21 @@
       "Elements": [
         {
           "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "из 50 000 отправленных писем 1 500 вернулись с ошибкой доставки. Bounce Rate = 1 500 / 50 000 × 100% = 3%.",
+          "IsItalic": true
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
           "Content": "• Click-Through Rate (CTR)",
           "IsHighlight": true
         },
@@ -1047,6 +1092,21 @@
       "Elements": [
         {
           "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "из 48 500 доставленных писем 2 425 получили клик по ссылке внутри. Click Rate = 2 425 / 48 500 × 100% = 5%.",
+          "IsItalic": true
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
           "Content": "• Unsubscribe Rate (UR)",
           "IsHighlight": true
         },
@@ -1065,6 +1125,21 @@
       "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/blog-avtomatizatsiya-email-rassylok-unsubscribe-rate-green.png",
       "Alt": "Формула расчёта Unsubscribe Rate",
       "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "из 48 500 доставленных писем 243 получателя отписались. Unsubscribe Rate = 243 / 48 500 × 100% = 0,5%.",
+          "IsItalic": true
+        }
+      ]
     },
     {
       "_t": "Heading2",

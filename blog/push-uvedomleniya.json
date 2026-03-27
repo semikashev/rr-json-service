@@ -877,6 +877,21 @@
       "Caption": null
     },
     {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "доставлено 100 000 web-push уведомлений, 8 000 пользователей их открыли. OR = 8 000 / 100 000 × 100% = 8%.",
+          "IsItalic": true
+        }
+      ]
+    },
+    {
       "_t": "Heading3",
       "Title": "Конверсия (Conversion Rate, CR)"
     },
@@ -938,6 +953,21 @@
       "ImageUrl": "https://gallery.retailrocket.net/5c22030f97a5253d1c97a677/blog-push-uvedomleniya-cr-green.png",
       "Alt": "Формула расчёта CR",
       "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ",
+          "IsBold": true
+        },
+        {
+          "_t": "Text",
+          "Content": "из 100 000 доставленных web-push уведомлений 1 500 привели к покупке. CR = 1 500 / 100 000 × 100% = 1,5%.",
+          "IsItalic": true
+        }
+      ]
     },
     {
       "_t": "Heading2",
