@@ -407,7 +407,7 @@
     },
     {
       "_t": "Formula",
-      "Latex": "Sticky faktor (месячный) = \\frac{DAU}{MAU} \\times 100\\%"
+      "Latex": "Sticky\\ month=\\frac{\\text{Ежедневные активные пользователи (DAU)}}{\\text{Ежемесячные активные пользователи (MAU)}}\\cdot 100\\%"
     },
     {
       "_t": "Image",
@@ -417,7 +417,7 @@
     },
     {
       "_t": "Formula",
-      "Latex": "Sticky faktor (недельный) = \\frac{DAU}{WAU} \\times 100\\%"
+      "Latex": "Sticky\\ week=\\frac{\\text{Ежедневные активные пользователи (DAU)}}{\\text{Еженедельные активные пользователи (WAU)}}\\cdot 100\\%"
     },
     {
       "_t": "Image",
@@ -566,7 +566,7 @@
     },
     {
       "_t": "Formula",
-      "Latex": "ARPU = \\frac{Доход}{Число пользователей}"
+      "Latex": "ARPU=\\frac{\\text{Выручка}}{\\text{Пользователи}}"
     },
     {
       "_t": "Image",
@@ -621,7 +621,7 @@
     },
     {
       "_t": "Formula",
-      "Latex": "RR = \\frac{N3 - N2}{N1} \\times 100\\%"
+      "Latex": "RR=\\frac{\\text{Пользователи в конце периода}-\\text{Новые пользователи за период}}{\\text{Пользователи в начале периода}}\\cdot 100\\%"
     },
     {
       "_t": "Image",
@@ -671,7 +671,7 @@
     },
     {
       "_t": "Formula",
-      "Latex": "LTV = Период активности покупателя \\times ARPU"
+      "Latex": "LTV=ARPU\\cdot \\text{Период жизни клиента}"
     },
     {
       "_t": "Image",

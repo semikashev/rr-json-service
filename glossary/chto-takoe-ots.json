@@ -99,7 +99,7 @@
     },
     {
       "_t": "Formula",
-      "Latex": "OTS = \\frac{GRP}{Reach}"
+      "Latex": "OTS=\\frac{\\text{Показы}}{\\text{Охват}}"
     },
     {
       "_t": "Image",
@@ -134,7 +134,7 @@
     },
     {
       "_t": "Formula",
-      "Latex": "OTS = \\frac{Количество показов}{Количество уникальных пользователей}"
+      "Latex": "OTS=\\frac{\\text{Показы}}{\\text{Уникальные пользователи}}"
     },
     {
       "_t": "Image",
@@ -182,7 +182,7 @@
     },
     {
       "_t": "Formula",
-      "Latex": "OTS = \\frac{1 500 000}{500 000} = 3"
+      "Latex": "OTS=\\frac{\\text{Показы}}{\\text{Охват}}"
     },
     {
       "_t": "Image",
@@ -226,7 +226,7 @@
     },
     {
       "_t": "Formula",
-      "Latex": "OTS = \\frac{300}{75} = 4"
+      "Latex": "OTS=\\frac{\\text{Показы}}{\\text{Охват}}"
     },
     {
       "_t": "Image",

@@ -944,7 +944,7 @@
     },
     {
       "_t": "Formula",
-      "Latex": "CPM = \\frac{Расход}{Показы} \\times 1000"
+      "Latex": "CPM=\\frac{\\text{Расходы}}{\\text{Показы}}\\cdot 1000"
     },
     {
       "_t": "Image",
