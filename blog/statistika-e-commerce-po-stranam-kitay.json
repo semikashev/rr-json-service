@@ -288,8 +288,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Источники:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Источники:"
+        }
+      ]
     },
     {
       "_t": "Heading2",

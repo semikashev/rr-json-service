@@ -347,8 +347,13 @@
       "Title": "Планы на будущее"
     },
     {
-      "_t": "Heading2",
-      "Title": "IntimShop совместно с Retail Rocket Group продолжают работу над персонализацией сайта и коммуникаций. В ближайших планах:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "IntimShop совместно с Retail Rocket Group продолжают работу над персонализацией сайта и коммуникаций. В ближайших планах:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",

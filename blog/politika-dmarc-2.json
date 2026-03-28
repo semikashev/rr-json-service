@@ -84,8 +84,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Частые последствия отсутствия защиты от подделки писем для бизнеса:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Частые последствия отсутствия защиты от подделки писем для бизнеса:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -170,8 +175,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "В основе работы DMARC лежат два важных компонента:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "В основе работы DMARC лежат два важных компонента:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -200,8 +210,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Система предлагает три варианта реагирования на сомнительные сообщения:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Система предлагает три варианта реагирования на сомнительные сообщения:"
+        }
+      ]
     },
     {
       "_t": "OrderedList",
@@ -251,8 +266,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Грамотная реализация протокола DMARC становится надёжным щитом для бизнеса, который:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Грамотная реализация протокола DMARC становится надёжным щитом для бизнеса, который:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -318,8 +338,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Система:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Система:"
+        }
+      ]
     },
     {
       "_t": "OrderedList",
@@ -430,8 +455,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Как это работает на практике:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Как это работает на практике:"
+        }
+      ]
     },
     {
       "_t": "OrderedList",
@@ -563,8 +593,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Механизм защиты DMARC можно описать так:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Механизм защиты DMARC можно описать так:"
+        }
+      ]
     },
     {
       "_t": "OrderedList",
@@ -657,8 +692,13 @@
       "Title": "1. Политика мониторинга (p=none)"
     },
     {
-      "_t": "Heading2",
-      "Title": "Это базовый режим для начинающих. Возможности:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Это базовый режим для начинающих. Возможности:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -684,8 +724,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Преимущества режима:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Преимущества режима:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -717,8 +762,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Когда применять:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Когда применять:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -812,8 +862,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Правильная последовательность внедрения:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Правильная последовательность внедрения:"
+        }
+      ]
     },
     {
       "_t": "OrderedList",
@@ -910,12 +965,22 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Проверьте SPF-запись в DNS:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Проверьте SPF-запись в DNS:"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "v=spf1 include:_spf.google.com ~all"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "v=spf1 include:_spf.google.com ~all"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -941,8 +1006,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "selector._domainkey.yourdomain.com TXT “v=DKIM1; k=rsa; p=MIGfMA0…”"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "selector._domainkey.yourdomain.com TXT “v=DKIM1; k=rsa; p=MIGfMA0…”"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -958,16 +1028,31 @@
       "Title": "2. Формирование записи DMARC"
     },
     {
-      "_t": "Heading2",
-      "Title": "Начните с простейшей записи для мониторинга:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Начните с простейшей записи для мониторинга:"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "v=DMARC1; p=none; rua=mailto:dmarc@yourdomain.com"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "v=DMARC1; p=none; rua=mailto:dmarc@yourdomain.com"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Где:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Где:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1015,8 +1100,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Как добавить:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Как добавить:"
+        }
+      ]
     },
     {
       "_t": "OrderedList",
@@ -1071,8 +1161,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Важные параметры настройки:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Важные параметры настройки:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1098,8 +1193,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Важно:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Важно:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1183,8 +1283,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "В отчётах можно увидеть:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "В отчётах можно увидеть:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1210,8 +1315,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Проблемы, которые могут возникать:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Проблемы, которые могут возникать:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1250,8 +1360,13 @@
       "Title": "Через 2-4 недели мониторинга переходите к политике quarantine:"
     },
     {
-      "_t": "Heading2",
-      "Title": "v=DMARC1; p=quarantine; rua=mailto:dmarc@yourdomain.com"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "v=DMARC1; p=quarantine; rua=mailto:dmarc@yourdomain.com"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -1285,12 +1400,22 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "v=DMARC1; p=none;"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "v=DMARC1; p=none;"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "При такой конфигурации:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "При такой конфигурации:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1316,8 +1441,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Такая запись идеально подходит для:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Такая запись идеально подходит для:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1343,12 +1473,22 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "v=DMARC1; p=none; rua=mailto:dmarc-reports@yourdomain.com"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "v=DMARC1; p=none; rua=mailto:dmarc-reports@yourdomain.com"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "v=DMARC1; p=none; rua=mailto:dmarc-reports@yourdomain.com"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "v=DMARC1; p=none; rua=mailto:dmarc-reports@yourdomain.com"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -1374,8 +1514,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "v=DMARC1; p=quarantine; pct=30; rua=mailto:dmarc-reports@yourdomain.com"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "v=DMARC1; p=quarantine; pct=30; rua=mailto:dmarc-reports@yourdomain.com"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -1396,8 +1541,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "v=DMARC1; p=reject; rua=mailto:dmarc-reports@yourdomain.com"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "v=DMARC1; p=reject; rua=mailto:dmarc-reports@yourdomain.com"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -1423,12 +1573,22 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "v=DMARC1; p=reject; rua=mailto:aggregate@yourdomain.com; ruf=mailto:forensic@yourdomain.com; pct=100; adkim=s; aspf=s"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "v=DMARC1; p=reject; rua=mailto:aggregate@yourdomain.com; ruf=mailto:forensic@yourdomain.com; pct=100; adkim=s; aspf=s"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Особенности данной конфигурации:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Особенности данной конфигурации:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1480,12 +1640,22 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "v=DMARC1; p=none; sp=reject; rua=mailto:dmarc-reports@yourdomain.com"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "v=DMARC1; p=none; sp=reject; rua=mailto:dmarc-reports@yourdomain.com"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Преимущества конфигурации:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Преимущества конфигурации:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1525,12 +1695,22 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "v=DMARC1; p=quarantine; pct=50; rua=mailto:dmarc-rua@yourdomain.com; ruf=mailto:dmarc-ruf@yourdomain.com; fo=1; ri=3600"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "v=DMARC1; p=quarantine; pct=50; rua=mailto:dmarc-rua@yourdomain.com; ruf=mailto:dmarc-ruf@yourdomain.com; fo=1; ri=3600"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Особенности:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Особенности:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1568,8 +1748,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Этот вариант позволяет:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Этот вариант позволяет:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1610,8 +1795,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "v=DMARC1; p=none; rua=mailto:dmarc@yourdomain.com; ruf=mailto:dmarc@yourdomain.com; pct=100; adkim=r; aspf=r"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "v=DMARC1; p=none; rua=mailto:dmarc@yourdomain.com; ruf=mailto:dmarc@yourdomain.com; pct=100; adkim=r; aspf=r"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -1623,8 +1813,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "При выборе конфигурации важно учитывать:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "При выборе конфигурации важно учитывать:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1678,40 +1873,85 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Обязательные компоненты для функционирования системы:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Обязательные компоненты для функционирования системы:"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "1. Версия протокола (v)"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "1. Версия протокола (v)"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Ключевой параметр — всегда указывается первым"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Ключевой параметр — всегда указывается первым"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Фиксированное значение: DMARC1"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Фиксированное значение: DMARC1"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Пример записи: v=DMARC1"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример записи: v=DMARC1"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Важно: без этого тега система не распознает запись как DMARC"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Важно: без этого тега система не распознает запись как DMARC"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "2. Основная политика (p)"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "2. Основная политика (p)"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Определяет действия с письмами, не прошедшими проверку"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Определяет действия с письмами, не прошедшими проверку"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Доступные опции:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Доступные опции:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1737,12 +1977,22 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Пример: p=reject"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: p=reject"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Дополнительные параметры для расширенной настройки:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Дополнительные параметры для расширенной настройки:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1756,12 +2006,22 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Назначение: сбор статистических отчетов"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Назначение: сбор статистических отчетов"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Формат указания: mailto:email@domain.com"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Формат указания: mailto:email@domain.com"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -1773,8 +2033,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Пример: rua=mailto:dmarc-reports@example.com"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: rua=mailto:dmarc-reports@example.com"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1788,16 +2053,31 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Назначение: содержат полную информацию о проблемных письмах"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Назначение: содержат полную информацию о проблемных письмах"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Формат указания: mailto:email@domain.com"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Формат указания: mailto:email@domain.com"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Пример настройки: ruf=mailto:dmarc-forensic@example.com"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример настройки: ruf=mailto:dmarc-forensic@example.com"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -1838,8 +2118,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Стандартное значение: 100% (все сообщения)"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Стандартное значение: 100% (все сообщения)"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -1898,8 +2183,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Пример: sp=reject"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: sp=reject"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -1940,8 +2230,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Пример: aspf=s"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: aspf=s"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1955,8 +2250,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Точное соответствие домена в подписи DKIM и поля «От». Система предлагает два уровня контроля соответствия доменных имен:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Точное соответствие домена в подписи DKIM и поля «От». Система предлагает два уровня контроля соответствия доменных имен:"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -1987,8 +2287,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Пример настройки: adkim=s"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример настройки: adkim=s"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -2029,28 +2334,58 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "0 — отчёт, если и SPF, и DKIM провалились"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "0 — отчёт, если и SPF, и DKIM провалились"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "1 — отчёт, если провалился SPF или DKIM"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "1 — отчёт, если провалился SPF или DKIM"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "d — отчёт при сбое DKIM"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "d — отчёт при сбое DKIM"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "s — отчёт при сбое SPF"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "s — отчёт при сбое SPF"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "По умолчанию: 0"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "По умолчанию: 0"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Пример: fo=1"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: fo=1"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -2064,16 +2399,31 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "afrf — единственный поддерживаемый формат"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "afrf — единственный поддерживаемый формат"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "По умолчанию: afrf"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "По умолчанию: afrf"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Пример: rf=afrf"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: rf=afrf"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -2096,16 +2446,31 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Значения: количество секунд"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Значения: количество секунд"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "По умолчанию: 86400 (24 часа)"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "По умолчанию: 86400 (24 часа)"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Пример: ri=3600 (отчеты каждый час)"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ri=3600 (отчеты каждый час)"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -2117,12 +2482,22 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Пример полной записи со всеми тегами:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример полной записи со всеми тегами:"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "v=DMARC1; p=quarantine; rua=mailto:rua@example.com; ruf=mailto:ruf@example.com; pct=50; sp=reject; aspf=s; adkim=r; fo=1; rf=afrf; ri=3600"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "v=DMARC1; p=quarantine; rua=mailto:rua@example.com; ruf=mailto:ruf@example.com; pct=50; sp=reject; aspf=s; adkim=r; fo=1; rf=afrf; ri=3600"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -2151,8 +2526,13 @@
       "Title": "Подробно о видах отчётов"
     },
     {
-      "_t": "Heading2",
-      "Title": "Агрегированные отчеты (RUA). Приходят ежедневно в формате XML. Содержат обобщённую статистику за сутки:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Агрегированные отчеты (RUA). Приходят ежедневно в формате XML. Содержат обобщённую статистику за сутки:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -2184,8 +2564,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Пример структуры отчета:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример структуры отчета:"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -2252,8 +2637,13 @@
       "Title": "Как читать отчеты"
     },
     {
-      "_t": "Heading2",
-      "Title": "XML-файлы сложно анализировать вручную. Большинство компаний используют специальные сервисы:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "XML-файлы сложно анализировать вручную. Большинство компаний используют специальные сервисы:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -2294,12 +2684,22 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "При самостоятельной работе с аналитикой особое внимание уделите следующим аспектам:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "При самостоятельной работе с аналитикой особое внимание уделите следующим аспектам:"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "1. Подозрительная активность IP:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "1. Подозрительная активность IP:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -2331,8 +2731,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "2. Проблемы аутентификации:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "2. Проблемы аутентификации:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -2364,8 +2769,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "3. Критические сигналы:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "3. Критические сигналы:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -2401,12 +2811,22 @@
       "Title": "Сложности при работе с DMARC-отчётами и рекомендации"
     },
     {
-      "_t": "Heading2",
-      "Title": "Типичные проблемы с отчётами и их решения:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Типичные проблемы с отчётами и их решения:"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "1. Проблемы с корпоративной CRM"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "1. Проблемы с корпоративной CRM"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -2418,8 +2838,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "2. Сложности с пересылкой писем"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "2. Сложности с пересылкой писем"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -2431,8 +2856,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "3. Ошибки в маркетинговых рассылках"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "3. Ошибки в маркетинговых рассылках"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -2444,8 +2874,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Рекомендации:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Рекомендации:"
+        }
+      ]
     },
     {
       "_t": "OrderedList",
@@ -2481,8 +2916,13 @@
       "Title": "Мониторинг атак"
     },
     {
-      "_t": "Heading2",
-      "Title": "Отчеты помогают засечь атаки на ранней стадии. Признаки атаки:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Отчеты помогают засечь атаки на ранней стадии. Признаки атаки:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -2521,8 +2961,13 @@
       "Title": "Автоматизация анализа"
     },
     {
-      "_t": "Heading2",
-      "Title": "Для крупных компаний ручной анализ отчётов невозможен — ежедневно приходят тысячи записей. Используйте:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Для крупных компаний ручной анализ отчётов невозможен — ежедневно приходят тысячи записей. Используйте:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -2588,8 +3033,13 @@
       "Title": "Важные меры предосторожности"
     },
     {
-      "_t": "Heading2",
-      "Title": "При работе с отчётностью необходимо учитывать, что:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "При работе с отчётностью необходимо учитывать, что:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -2643,8 +3093,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Ситуация до внедрения DMARC:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Ситуация до внедрения DMARC:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -2676,8 +3131,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Решение проблемы: руководство приняло решение внедрить комплексную систему защиты на базе DMARC. Были настроены:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Решение проблемы: руководство приняло решение внедрить комплексную систему защиты на базе DMARC. Были настроены:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -2709,8 +3169,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Результаты внедрения:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Результаты внедрения:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -2766,8 +3231,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Дополнительные преимущества, которые получила компания:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Дополнительные преимущества, которые получила компания:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",

@@ -75,8 +75,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Есть две версии фреймворка Team Canvas: базовая"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Есть две версии фреймворка Team Canvas: базовая"
+        }
+      ]
     },
     {
       "_t": "Image",
@@ -85,8 +90,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "и основная (полная версия)"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "и основная (полная версия)"
+        }
+      ]
     },
     {
       "_t": "Image",
@@ -283,8 +293,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Теперь мы:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Теперь мы:"
+        }
+      ]
     },
     {
       "_t": "OrderedList",

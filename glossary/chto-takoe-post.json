@@ -36,12 +36,22 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Источник: Словарь Hootsuite’s Glossary of Social Media Terms"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Источник: Словарь Hootsuite’s Glossary of Social Media Terms"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Ключевые факты:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Ключевые факты:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -162,8 +172,13 @@
       "Title": "📊 Методологические оговорки"
     },
     {
-      "_t": "Heading2",
-      "Title": "Для анализа различают:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Для анализа различают:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -250,8 +265,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Иначе говоря, пост влияет на ключевые показатели маркетолога:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Иначе говоря, пост влияет на ключевые показатели маркетолога:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",

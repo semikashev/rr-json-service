@@ -22,12 +22,22 @@
   "MetaTitle": "Контакты - Retail Rocket Group",
   "ContentBlockList": [
     {
-      "_t": "Heading2",
-      "Title": "Москва, Россия"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Москва, Россия"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Ленинградский проспект, д. 74А, БЦ «Сокол центр», этаж 3, 125315"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Ленинградский проспект, д. 74А, БЦ «Сокол центр», этаж 3, 125315"
+        }
+      ]
     },
     {
       "_t": "Heading2",
@@ -38,8 +48,13 @@
       "Title": "[hello@retailrocket.io](mailto:hello@retailrocket.io​)"
     },
     {
-      "_t": "Heading2",
-      "Title": "Для инвесторов"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Для инвесторов"
+        }
+      ]
     },
     {
       "_t": "Heading2",
@@ -160,8 +175,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Есть идея или вопрос? Пишите — всегда готовы к диалогу"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Есть идея или вопрос? Пишите — всегда готовы к диалогу"
+        }
+      ]
     }
   ]
 }

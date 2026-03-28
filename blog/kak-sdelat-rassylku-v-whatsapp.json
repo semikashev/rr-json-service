@@ -283,8 +283,13 @@
       "Title": "Какие действия ведут к блокировке"
     },
     {
-      "_t": "Heading2",
-      "Title": "Аккаунт в WhatsApp может быть заблокирован по следующим причинам:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Аккаунт в WhatsApp может быть заблокирован по следующим причинам:"
+        }
+      ]
     },
     {
       "_t": "Heading3",
@@ -564,8 +569,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Преимущества:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Преимущества:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -595,8 +605,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Недостатки:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Недостатки:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -629,8 +644,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Преимущества:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Преимущества:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -660,8 +680,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Недостатки:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Недостатки:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -694,8 +719,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Преимущества:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Преимущества:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -725,8 +755,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Недостатки:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Недостатки:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -759,8 +794,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Преимущества:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Преимущества:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -812,8 +852,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Недостатки:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Недостатки:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",

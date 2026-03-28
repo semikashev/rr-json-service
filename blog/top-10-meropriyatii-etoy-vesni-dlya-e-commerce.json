@@ -48,8 +48,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Когда: 28 марта"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Когда: 28 марта"
+        }
+      ]
     },
     {
       "_t": "Heading2",
@@ -65,8 +70,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Когда: 29 марта"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Когда: 29 марта"
+        }
+      ]
     },
     {
       "_t": "Heading2",
@@ -82,8 +92,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Когда: 18-20 апреля"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Когда: 18-20 апреля"
+        }
+      ]
     },
     {
       "_t": "Heading2",
@@ -99,8 +114,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Когда: 20 апреля"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Когда: 20 апреля"
+        }
+      ]
     },
     {
       "_t": "Heading2",
@@ -116,8 +136,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Когда: 26-28 апреля"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Когда: 26-28 апреля"
+        }
+      ]
     },
     {
       "_t": "Heading2",
@@ -133,8 +158,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Когда: 26-27 апреля"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Когда: 26-27 апреля"
+        }
+      ]
     },
     {
       "_t": "Heading2",
@@ -150,8 +180,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Когда: 18-20 мая"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Когда: 18-20 мая"
+        }
+      ]
     },
     {
       "_t": "Heading2",
@@ -167,8 +202,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Когда: 25-26 мая"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Когда: 25-26 мая"
+        }
+      ]
     }
   ]
 }

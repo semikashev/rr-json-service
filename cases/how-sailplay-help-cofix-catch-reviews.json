@@ -95,8 +95,13 @@
       "Caption": "Стандартная логика триггера purchase confirmation в платформе Sailplay"
     },
     {
-      "_t": "Heading2",
-      "Title": "В триггер purchase confirmation Cofix добавили несколько новых событий, которые нужны для решения их задачи:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "В триггер purchase confirmation Cofix добавили несколько новых событий, которые нужны для решения их задачи:"
+        }
+      ]
     },
     {
       "_t": "OrderedList",

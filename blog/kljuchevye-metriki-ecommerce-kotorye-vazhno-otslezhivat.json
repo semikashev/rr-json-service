@@ -90,8 +90,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт GMV бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт GMV бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -158,12 +163,22 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Категория: Электроника"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Категория: Электроника"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Период: Июль 2025"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Период: Июль 2025"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -199,8 +214,13 @@
       "Title": "GMV по категории «Электроника» за июль: 40 000 000 + 1 800 000 + 2 070 000 = 43 870 000 ₽"
     },
     {
-      "_t": "Heading2",
-      "Title": "Если GMV в июле составил 43,87 млн рублей, а в июне — 36,2 млн, это значит:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Если GMV в июле составил 43,87 млн рублей, а в июне — 36,2 млн, это значит:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -241,8 +261,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Эти данные можно взять из:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Эти данные можно взять из:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -274,8 +299,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Связанные метрики:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Связанные метрики:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -311,8 +341,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт AOV бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт AOV бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -379,8 +414,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Период: Август 2025"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Период: Август 2025"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -431,8 +471,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Эти данные можно взять из:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Эти данные можно взять из:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -464,8 +509,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Связанные метрики:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Связанные метрики:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -496,8 +546,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт маржа бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт маржа бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -578,8 +633,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Период: Сентябрь 2025"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Период: Сентябрь 2025"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -635,8 +695,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Эти данные можно взять из:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Эти данные можно взять из:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -668,8 +733,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Связанные метрики:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Связанные метрики:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -694,8 +764,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт CPO бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт CPO бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -762,8 +837,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Период: Октябрь 2025"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Период: Октябрь 2025"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -820,8 +900,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Эти данные можно взять из:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Эти данные можно взять из:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -853,8 +938,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Связанные метрики:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Связанные метрики:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -879,8 +969,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт ДРР бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт ДРР бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -947,8 +1042,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Период: Ноябрь 2025"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Период: Ноябрь 2025"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -1015,8 +1115,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Эти данные можно взять из:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Эти данные можно взять из:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1048,8 +1153,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Связанные метрики:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Связанные метрики:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -1080,8 +1190,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт Product Revenue бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт Product Revenue бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1148,8 +1263,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Период: Декабрь 2025"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Период: Декабрь 2025"
+        }
+      ]
     },
     {
       "_t": "Heading2",
@@ -1216,8 +1336,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Эти данные можно взять из:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Эти данные можно взять из:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1249,8 +1374,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Связанные метрики:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Связанные метрики:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -1294,8 +1424,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт конверсия бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт конверсия бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1362,8 +1497,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Период: Январь 2025"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Период: Январь 2025"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -1436,8 +1576,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Эти данные можно взять из:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Эти данные можно взять из:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1478,8 +1623,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Связанные метрики:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Связанные метрики:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -1515,8 +1665,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт анализ брошенных корзин бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт анализ брошенных корзин бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1628,8 +1783,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Общий процент брошенных корзин: (5 000 — 2 000) / 5 000 × 100% = 60%"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Общий процент брошенных корзин: (5 000 — 2 000) / 5 000 × 100% = 60%"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -1641,8 +1801,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Эти данные можно взять из:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Эти данные можно взять из:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1674,8 +1839,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Связанные метрики:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Связанные метрики:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -1711,8 +1881,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт Bounce Rate бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт Bounce Rate бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1853,8 +2028,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Эти данные можно взять из:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Эти данные можно взять из:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1886,8 +2066,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Связанные метрики:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Связанные метрики:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -1936,8 +2121,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт LTV бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт LTV бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -2010,8 +2200,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Период анализа: 12 месяцев"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Период анализа: 12 месяцев"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -2054,8 +2249,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Распределение клиентов по сегментам:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Распределение клиентов по сегментам:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -2110,8 +2310,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Эти данные можно взять из:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Эти данные можно взять из:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -2143,8 +2348,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Связанные метрики:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Связанные метрики:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -2185,8 +2395,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт Retention Rate бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт Retention Rate бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -2334,8 +2549,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Эти данные можно взять из:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Эти данные можно взять из:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -2367,8 +2587,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Связанные метрики:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Связанные метрики:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -2409,8 +2634,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт Repeat Purchase Rate бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт Repeat Purchase Rate бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -2551,8 +2781,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Эти данные можно взять из:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Эти данные можно взять из:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -2584,8 +2819,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Связанные метрики:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Связанные метрики:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -2621,8 +2861,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт ARPU бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт ARPU бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -2756,8 +3001,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Эти данные можно взять из:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Эти данные можно взять из:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -2789,8 +3039,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Связанные метрики:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Связанные метрики:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -2844,8 +3099,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт Total Traffic бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт Total Traffic бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -2976,8 +3236,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Эти данные можно взять из:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Эти данные можно взять из:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -3009,8 +3274,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Связанные метрики:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Связанные метрики:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -3035,8 +3305,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт CAC бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт CAC бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -3179,8 +3454,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Эти данные можно взять из:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Эти данные можно взять из:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -3212,8 +3492,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Связанные метрики:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Связанные метрики:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -3238,8 +3523,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт ROAS бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт ROAS бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -3306,8 +3596,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Период: Август 2025"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Период: Август 2025"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -3386,8 +3681,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Эти данные можно взять из:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Эти данные можно взять из:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -3419,8 +3719,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Связанные метрики:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Связанные метрики:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -3445,8 +3750,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт CPC бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт CPC бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -3576,8 +3886,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Средний CPC: (800 000 + 400 000 + 600 000 + 300 000 + 500 000) / (16 000 + 20 000 + 10 000 + 5 000 + 25 000) = 2 600 000 / 76 000 = 34 ₽"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Средний CPC: (800 000 + 400 000 + 600 000 + 300 000 + 500 000) / (16 000 + 20 000 + 10 000 + 5 000 + 25 000) = 2 600 000 / 76 000 = 34 ₽"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -3589,8 +3904,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Данные для расчета CPC можно взять из:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Данные для расчета CPC можно взять из:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -3622,8 +3942,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Связанные метрики:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Связанные метрики:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -3648,8 +3973,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт CTR бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт CTR бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -3808,8 +4138,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Данные для расчета CTR можно взять из:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Данные для расчета CTR можно взять из:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -3841,8 +4176,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Связанные метрики:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Связанные метрики:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -3867,8 +4207,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт CPA бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт CPA бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -3935,8 +4280,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Период: Ноябрь 2025"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Период: Ноябрь 2025"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -3992,8 +4342,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Анализ по эффективности:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Анализ по эффективности:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -4032,8 +4387,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Данные для расчета CPA можно взять из:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Данные для расчета CPA можно взять из:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -4065,8 +4425,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Связанные метрики:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Связанные метрики:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -4091,8 +4456,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт DAU бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт DAU бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -4150,8 +4520,13 @@
       "Caption": "Значение DAU = Количество уникальных активных пользователей за сутки"
     },
     {
-      "_t": "Heading2",
-      "Title": "Пример (DAU по неделе в июле 2025):"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример (DAU по неделе в июле 2025):"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -4204,8 +4579,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Источники данных о DAU:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Источники данных о DAU:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -4231,8 +4611,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Связанные метрики:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Связанные метрики:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -4257,8 +4642,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт WAU бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт WAU бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -4305,8 +4695,13 @@
       "Caption": "Значение WAU = Количество уникальных активных пользователей за 7 дней"
     },
     {
-      "_t": "Heading2",
-      "Title": "Пример (WAU по неделям июля 2025):"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример (WAU по неделям июля 2025):"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -4343,8 +4738,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Источники данных о WAU :"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Источники данных о WAU :"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -4358,8 +4758,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Связанные метрики:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Связанные метрики:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -4384,8 +4789,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт MAU бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт MAU бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -4443,8 +4853,13 @@
       "Caption": "Значение MAU = Количество уникальных активных пользователей за месяц"
     },
     {
-      "_t": "Heading2",
-      "Title": "Пример (MAU по сегментам за июль 2025):"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример (MAU по сегментам за июль 2025):"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -4481,8 +4896,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Источники данных о MAU:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Источники данных о MAU:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -4508,8 +4928,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Связанные метрики:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Связанные метрики:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -4534,8 +4959,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт ROMI бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт ROMI бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -4593,8 +5023,13 @@
       "Caption": "Формула расчета: ROMI = (Доход от маркетинга — Затраты на маркетинг) / Затраты на маркетинг × 100%"
     },
     {
-      "_t": "Heading2",
-      "Title": "Пример: ROMI по каналам за июль 2025"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: ROMI по каналам за июль 2025"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -4635,8 +5070,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Источники данных для расчета ROMI:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Источники данных для расчета ROMI:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -4662,8 +5102,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Связанные метрики:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Связанные метрики:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -4701,8 +5146,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт Return Rate бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт Return Rate бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -4760,8 +5210,13 @@
       "Caption": "Формула расчета: Return Rate (Процент возвратов)= (Количество возвращённых заказов / Общее количество заказов) × 100%"
     },
     {
-      "_t": "Heading2",
-      "Title": "Пример: Возвраты по категориям за июнь 2025"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример: Возвраты по категориям за июнь 2025"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -4802,8 +5257,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Источники данных для расчета Return Rate:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Источники данных для расчета Return Rate:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -4829,8 +5289,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Связанные метрики:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Связанные метрики:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -4854,8 +5319,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт Delivery Performance бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт Delivery Performance бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -4955,8 +5425,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Источники данных для расчета Delivery Performance:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Источники данных для расчета Delivery Performance:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -4982,8 +5457,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Связанные метрики:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Связанные метрики:"
+        }
+      ]
     },
     {
       "_t": "Table",

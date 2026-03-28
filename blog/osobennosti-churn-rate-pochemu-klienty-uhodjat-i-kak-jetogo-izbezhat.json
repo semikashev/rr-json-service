@@ -209,8 +209,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Решение:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Решение:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -310,8 +315,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Решение:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Решение:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -370,8 +380,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Решение:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Решение:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -430,8 +445,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Решение:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Решение:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -559,12 +579,22 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Инфоподдержка: e-pepper.ru"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Инфоподдержка: e-pepper.ru"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Иллюстрация обложки: storyset.com"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Иллюстрация обложки: storyset.com"
+        }
+      ]
     }
   ]
 }

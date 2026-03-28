@@ -26,8 +26,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Один день, когда лидеры рынка раскрывают карты"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Один день, когда лидеры рынка раскрывают карты"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -54,12 +59,22 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Приглашаем лидеров маркетинга будущего"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Приглашаем лидеров маркетинга будущего"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Retail Media 360"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Retail Media 360"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -71,8 +86,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "CX & Loyalty"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "CX & Loyalty"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -84,8 +104,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Next-Gen comms"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Next-Gen comms"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -659,16 +684,31 @@
       "Title": "H4 - Как работают отзывы со стороны участника Cofix Club"
     },
     {
-      "_t": "Heading2",
-      "Title": "Text 1 - Как работают отзывы со стороны участника Cofix Club"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Text 1 - Как работают отзывы со стороны участника Cofix Club"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Text 2 - Как работают отзывы со стороны участника Cofix Club"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Text 2 - Как работают отзывы со стороны участника Cofix Club"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Text 3 - Как работают отзывы со стороны участника Cofix Club"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Text 3 - Как работают отзывы со стороны участника Cofix Club"
+        }
+      ]
     }
   ]
 }

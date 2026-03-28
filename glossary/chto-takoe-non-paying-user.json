@@ -129,8 +129,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что показывает метрика:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что показывает метрика:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",

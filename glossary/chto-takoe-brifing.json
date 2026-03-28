@@ -89,8 +89,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Брифинг позволяет:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Брифинг позволяет:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -163,12 +168,22 @@
       "Title": "Структура брифинга"
     },
     {
-      "_t": "Heading2",
-      "Title": "Базовый бриф включает:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Базовый бриф включает:"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "1. Описание задачи:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "1. Описание задачи:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -194,8 +209,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "2. Цель проекта:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "2. Цель проекта:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -215,8 +235,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "3. Целевая аудитория:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "3. Целевая аудитория:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -254,8 +279,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "4. Контекст:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "4. Контекст:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -293,8 +323,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "5. Ресурсы:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "5. Ресурсы:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -338,8 +373,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "6. Сроки:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "6. Сроки:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -371,8 +411,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "7. Критерии успеха:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "7. Критерии успеха:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -404,8 +449,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "8. Ограничения:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "8. Ограничения:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",

@@ -289,8 +289,13 @@
       "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/blog/motivation-for-salespeople-methods-and-cases/Component-603-300x300.png"
     },
     {
-      "_t": "Heading2",
-      "Title": "Нематериальная мотивация включает в себя:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Нематериальная мотивация включает в себя:"
+        }
+      ]
     },
     {
       "_t": "Paragraph",

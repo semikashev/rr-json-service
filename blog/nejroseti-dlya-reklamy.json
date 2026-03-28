@@ -70,8 +70,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Задачи, которые решает ИИ:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Задачи, которые решает ИИ:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -109,8 +114,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Инструменты:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Инструменты:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -162,8 +172,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Примеры:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Примеры:"
+        }
+      ]
     },
     {
       "_t": "Heading3",
@@ -223,8 +238,13 @@
       "Caption": "Фото: Retail.ru"
     },
     {
-      "_t": "Heading2",
-      "Title": "Что нужно учитывать:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что нужно учитывать:"
+        }
+      ]
     },
     {
       "_t": "OrderedList",
@@ -295,8 +315,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Функциональность ИИ для видео:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Функциональность ИИ для видео:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -334,8 +359,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Инструменты:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Инструменты:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -376,8 +406,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Примеры:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Примеры:"
+        }
+      ]
     },
     {
       "_t": "Heading3",
@@ -464,8 +499,13 @@
       "VideoUrl": "https://www.youtube.com/embed/iYxGQeHvJ-U"
     },
     {
-      "_t": "Heading2",
-      "Title": "Что учитывать:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что учитывать:"
+        }
+      ]
     },
     {
       "_t": "OrderedList",
@@ -519,8 +559,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Задачи, которые закрывают ИИ-инструменты:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Задачи, которые закрывают ИИ-инструменты:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -558,8 +603,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Инструменты:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Инструменты:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -600,8 +650,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Примеры:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Примеры:"
+        }
+      ]
     },
     {
       "_t": "Heading3",
@@ -657,8 +712,13 @@
       "Caption": "Фото: Repina Branding"
     },
     {
-      "_t": "Heading2",
-      "Title": "Что учитывать:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что учитывать:"
+        }
+      ]
     },
     {
       "_t": "OrderedList",
@@ -706,8 +766,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Какие задачи решает:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Какие задачи решает:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -745,8 +810,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Инструменты:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Инструменты:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -787,8 +857,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Примеры:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Примеры:"
+        }
+      ]
     },
     {
       "_t": "Heading3",
@@ -856,8 +931,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "На что обращать внимание:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "На что обращать внимание:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -920,8 +1000,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Возможности применения:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Возможности применения:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -968,8 +1053,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Инструменты:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Инструменты:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1010,8 +1100,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Примеры:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Примеры:"
+        }
+      ]
     },
     {
       "_t": "Heading3",
@@ -1071,8 +1166,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "На что обращать внимание:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "На что обращать внимание:"
+        }
+      ]
     },
     {
       "_t": "OrderedList",
@@ -1190,8 +1290,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Основные критерии:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Основные критерии:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1256,8 +1361,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что можно автоматизировать:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что можно автоматизировать:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1283,8 +1393,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что нельзя заменить:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что нельзя заменить:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -1397,8 +1512,13 @@
       "Title": "Что думают потребители о рекламе, созданной ИИ"
     },
     {
-      "_t": "Heading2",
-      "Title": "Отношение аудитории к ИИ-контенту неоднозначное. Есть три ключевых риска:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Отношение аудитории к ИИ-контенту неоднозначное. Есть три ключевых риска:"
+        }
+      ]
     },
     {
       "_t": "OrderedList",
@@ -1439,8 +1559,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что работает:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что работает:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",

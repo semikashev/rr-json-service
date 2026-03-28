@@ -126,8 +126,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Welcome-цепочки решают ряд важных задач:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Welcome-цепочки решают ряд важных задач:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -277,8 +282,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "1. Слишком много информации"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "1. Слишком много информации"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -290,8 +300,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Пример:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -326,8 +341,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "2. Нужна сегментация базы"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "2. Нужна сегментация базы"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -339,8 +359,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Пример:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -369,8 +394,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "3. Много идей и задач"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "3. Много идей и задач"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -382,8 +412,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Пример:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -418,8 +453,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Когда одно письмо лучше цепочки"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Когда одно письмо лучше цепочки"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -449,8 +489,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Цепочка писем нужна, если:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Цепочка писем нужна, если:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",

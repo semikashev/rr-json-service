@@ -68,8 +68,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Пример:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример:"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -148,8 +153,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Пример:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример:"
+        }
+      ]
     },
     {
       "_t": "Paragraph",

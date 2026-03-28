@@ -36,12 +36,22 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Источник: airfocus Glossary"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Источник: airfocus Glossary"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Ключевые факты:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Ключевые факты:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -213,8 +223,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Привязка к KPI"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Привязка к KPI"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",

@@ -33,8 +33,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Пример growth-маркетинга"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пример growth-маркетинга"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",

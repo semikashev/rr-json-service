@@ -134,8 +134,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Что даёт бизнесу:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Что даёт бизнесу:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -290,8 +295,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Как улучшить платёжный цикл"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Как улучшить платёжный цикл"
+        }
+      ]
     },
     {
       "_t": "Paragraph",

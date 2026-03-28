@@ -36,8 +36,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Формула простая:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Формула простая:"
+        }
+      ]
     },
     {
       "_t": "Formula",
@@ -59,8 +64,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "ROAS нужен, чтобы:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "ROAS нужен, чтобы:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -231,8 +241,13 @@
       "Title": "Как рассчитать ROAS: формула и нюансы"
     },
     {
-      "_t": "Heading2",
-      "Title": "Базовая формула такая:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Базовая формула такая:"
+        }
+      ]
     },
     {
       "_t": "Image",

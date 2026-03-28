@@ -22,8 +22,13 @@
   "MetaTitle": "Интеграция Retail Rocket Group",
   "ContentBlockList": [
     {
-      "_t": "Heading2",
-      "Title": "Интеграция с популярными CMS"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Интеграция с популярными CMS"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -53,8 +58,13 @@
       "BtnUrl": "https://retailrocket.ru/demo/"
     },
     {
-      "_t": "Heading2",
-      "Title": "Индивидуальный процесс интеграции"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Индивидуальный процесс интеграции"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -417,12 +427,22 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Быстрый старт без глубоких настроек"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Быстрый старт без глубоких настроек"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Интеграция «клиент — сервер»"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Интеграция «клиент — сервер»"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -440,8 +460,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Каждые 2 часа"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Каждые 2 часа"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -469,8 +494,13 @@
       "Title": "Гибкое решение для партнеров уровня enterprise"
     },
     {
-      "_t": "Heading2",
-      "Title": "Интеграция «сервер — сервер»"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Интеграция «сервер — сервер»"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -488,8 +518,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "В реальном времени"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "В реальном времени"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -519,8 +554,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Свяжитесь с нами, чтобы узнать больше об интеграции продуктов и технологиях Retail Rocket Group"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Свяжитесь с нами, чтобы узнать больше об интеграции продуктов и технологиях Retail Rocket Group"
+        }
+      ]
     }
   ]
 }

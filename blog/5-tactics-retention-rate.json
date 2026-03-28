@@ -47,8 +47,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Формула для расчета Retention"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Формула для расчета Retention"
+        }
+      ]
     },
     {
       "_t": "Formula",
@@ -76,8 +81,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Где:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Где:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",

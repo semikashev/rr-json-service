@@ -28,8 +28,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Ограничиваем запрещенный и нежелательный контент"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Ограничиваем запрещенный и нежелательный контент"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -41,8 +46,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Работаем с коммуникациями ответственно и по закону"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Работаем с коммуникациями ответственно и по закону"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -54,8 +64,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Запускаем рассылки по проверенным адресам"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Запускаем рассылки по проверенным адресам"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -73,8 +88,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Можем посчитать за спам"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Можем посчитать за спам"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -119,8 +139,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "100%-ный спам"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "100%-ный спам"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -179,8 +204,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "01"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "01"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -192,8 +222,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "02"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "02"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -322,8 +357,13 @@
       "BtnUrl": "https://retailrocket.ru/demo/"
     },
     {
-      "_t": "Heading2",
-      "Title": "Свяжитесь с нами, чтобы узнать больше о технологиях безопасных рассылок"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Свяжитесь с нами, чтобы узнать больше о технологиях безопасных рассылок"
+        }
+      ]
     }
   ]
 }

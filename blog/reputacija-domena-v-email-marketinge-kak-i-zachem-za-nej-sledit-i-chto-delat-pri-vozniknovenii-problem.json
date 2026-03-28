@@ -299,8 +299,13 @@
       "Title": "2. Postmaster Tools Gmail.com"
     },
     {
-      "_t": "Heading2",
-      "Title": "Наверняка вы отправляете письма и пользователям Gmail. Почему бы тогда не узнать:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Наверняка вы отправляете письма и пользователям Gmail. Почему бы тогда не узнать:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -351,8 +356,13 @@
       "Title": "3. Постофис Yandex.ru"
     },
     {
-      "_t": "Heading2",
-      "Title": "Без почтовых ящиков на Яндексе также не обходится ни одна email-база. Сервис покажет:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Без почтовых ящиков на Яндексе также не обходится ни одна email-база. Сервис покажет:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -550,8 +560,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Постмастеры"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Постмастеры"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -563,8 +578,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Собственные инструменты"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Собственные инструменты"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -576,8 +596,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Анализ отчётов DMARC"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Анализ отчётов DMARC"
+        }
+      ]
     },
     {
       "_t": "Paragraph",

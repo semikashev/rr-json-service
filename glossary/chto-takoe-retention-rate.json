@@ -166,8 +166,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Разберём составляющую формулы:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Разберём составляющую формулы:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -187,8 +192,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Рассчитаем Retention Rate на выдуманном примере:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Рассчитаем Retention Rate на выдуманном примере:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -296,8 +306,13 @@
       "Title": "Способ 2. Использовать формулу Rolling Retention Rate"
     },
     {
-      "_t": "Heading2",
-      "Title": "Rolling Retention или плавающий ретеншн — показатель, который считают для трех задач:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Rolling Retention или плавающий ретеншн — показатель, который считают для трех задач:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -323,8 +338,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Рассчитать Rolling Retention Rate можно по этой формуле:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Рассчитать Rolling Retention Rate можно по этой формуле:"
+        }
+      ]
     },
     {
       "_t": "Image",
@@ -333,8 +353,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Разберем составляющую формулы:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Разберем составляющую формулы:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -360,8 +385,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Рассчитаем Rolling Retention Rate на выдуманном примере:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Рассчитаем Rolling Retention Rate на выдуманном примере:"
+        }
+      ]
     },
     {
       "_t": "Table",
@@ -402,8 +432,13 @@
       "Title": "Способ 1. Сравнивать коэффициент в динамике"
     },
     {
-      "_t": "Heading2",
-      "Title": "Для этого рассчитать коэффициент удержания клиентов бизнеса в разные периоды. Например, от квартала к кварталу или от года к году:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Для этого рассчитать коэффициент удержания клиентов бизнеса в разные периоды. Например, от квартала к кварталу или от года к году:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -862,8 +897,13 @@
       "Title": "MAU, WAU, DAU"
     },
     {
-      "_t": "Heading2",
-      "Title": "Метрики, которые показывают как часто клиенты заходят в приложение:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Метрики, которые показывают как часто клиенты заходят в приложение:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",

@@ -126,8 +126,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Преимущества сегментации Retail Rocket Group:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Преимущества сегментации Retail Rocket Group:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",

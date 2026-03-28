@@ -48,8 +48,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Основные темы выступления:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Основные темы выступления:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -136,8 +141,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Основные темы выступления:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Основные темы выступления:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",
@@ -215,8 +225,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Основные темы выступления:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Основные темы выступления:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",

@@ -36,12 +36,22 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Источник: Cambridge English Dictionary"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Источник: Cambridge English Dictionary"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Ключевые факты:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Ключевые факты:"
+        }
+      ]
     },
     {
       "_t": "UnorderedList",

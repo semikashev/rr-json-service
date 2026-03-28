@@ -39,8 +39,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Практика рынка:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Практика рынка:"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -52,8 +57,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Информация к выпуску:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Информация к выпуску:"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -69,16 +79,31 @@
       "Title": "*Подписаться на свежие выпуски:*RSS, iTunes, Android"
     },
     {
-      "_t": "Heading2",
-      "Title": "Послушать и подписаться на PodFM.ru"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Послушать и подписаться на PodFM.ru"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Скачать файл"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Скачать файл"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Текстовая версия выпуска:"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Текстовая версия выпуска:"
+        }
+      ]
     },
     {
       "_t": "Paragraph",

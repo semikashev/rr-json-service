@@ -51,8 +51,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Мгновенная сегментация без технических барьеров"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Мгновенная сегментация без технических барьеров"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -70,8 +75,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Интеграция с омниканальными платформами Retail Rocket Group"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Интеграция с омниканальными платформами Retail Rocket Group"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -89,8 +99,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Единый профиль клиента 360°"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Единый профиль клиента 360°"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -108,8 +123,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Гибкие фильтры для создания сложных воронок"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Гибкие фильтры для создания сложных воронок"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -136,8 +156,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Создавайте уникальные сегменты для проверки любых гипотез"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Создавайте уникальные сегменты для проверки любых гипотез"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -155,8 +180,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Поддерживайте актуальную структуру данных, профилей и сегментов"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Поддерживайте актуальную структуру данных, профилей и сегментов"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -168,8 +198,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Покажем, как Live CDP может сократить time-to-market ваших кампаний"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Покажем, как Live CDP может сократить time-to-market ваших кампаний"
+        }
+      ]
     },
     {
       "_t": "CtaPrimaryBlock",
@@ -193,8 +228,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Какие данные собирает платформа"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Какие данные собирает платформа"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -230,8 +270,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Узнайте, как выглядят ваши клиенты, — в цифрах, сегментах и действиях"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Узнайте, как выглядят ваши клиенты, — в цифрах, сегментах и действиях"
+        }
+      ]
     },
     {
       "_t": "CtaPrimaryBlock",
@@ -252,8 +297,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Статические сегменты"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Статические сегменты"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -271,8 +321,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Динамические сегменты"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Динамические сегменты"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -284,8 +339,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "По действиям и поведению клиентов"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "По действиям и поведению клиентов"
+        }
+      ]
     },
     {
       "_t": "Image",
@@ -294,8 +354,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Просмотренные товары"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Просмотренные товары"
+        }
+      ]
     },
     {
       "_t": "Image",
@@ -304,8 +369,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Добавление в корзину"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Добавление в корзину"
+        }
+      ]
     },
     {
       "_t": "Image",
@@ -314,8 +384,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Брошенные корзины"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Брошенные корзины"
+        }
+      ]
     },
     {
       "_t": "Image",
@@ -324,8 +399,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Оформление заказа"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Оформление заказа"
+        }
+      ]
     },
     {
       "_t": "Image",
@@ -334,8 +414,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Брошенные поисковые запросы"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Брошенные поисковые запросы"
+        }
+      ]
     },
     {
       "_t": "Image",
@@ -344,32 +429,22 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Просмотренные категории"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Просмотренные категории"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "По жизненному циклу клиента"
-    },
-    {
-      "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/icon.svg",
-      "Alt": "",
-      "Caption": null
-    },
-    {
-      "_t": "Heading2",
-      "Title": "Новые пользователи"
-    },
-    {
-      "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/icon.svg",
-      "Alt": "",
-      "Caption": null
-    },
-    {
-      "_t": "Heading2",
-      "Title": "Повторные покупки"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "По жизненному циклу клиента"
+        }
+      ]
     },
     {
       "_t": "Image",
@@ -378,22 +453,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Реактивация неактивных пользователей"
-    },
-    {
-      "_t": "Heading2",
-      "Title": "По интересу и вовлеченности"
-    },
-    {
-      "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/icon.svg",
-      "Alt": "",
-      "Caption": null
-    },
-    {
-      "_t": "Heading2",
-      "Title": "Просмотренные, но не купленные товары"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Новые пользователи"
+        }
+      ]
     },
     {
       "_t": "Image",
@@ -402,8 +468,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Часто интересующиеся категориями или акциями"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Повторные покупки"
+        }
+      ]
     },
     {
       "_t": "Image",
@@ -412,8 +483,22 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Оставленные товары в избранном или подписка на снижение цены"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Реактивация неактивных пользователей"
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "По интересу и вовлеченности"
+        }
+      ]
     },
     {
       "_t": "Image",
@@ -422,22 +507,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Подписка на уведомления о появлении товара в наличии"
-    },
-    {
-      "_t": "Heading2",
-      "Title": "По времени взаимодействия"
-    },
-    {
-      "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/icon.svg",
-      "Alt": "",
-      "Caption": null
-    },
-    {
-      "_t": "Heading2",
-      "Title": "Дата последнего визита"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Просмотренные, но не купленные товары"
+        }
+      ]
     },
     {
       "_t": "Image",
@@ -446,8 +522,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Дата последней покупки"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Часто интересующиеся категориями или акциями"
+        }
+      ]
     },
     {
       "_t": "Image",
@@ -456,8 +537,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Период бездействия"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Оставленные товары в избранном или подписка на снижение цены"
+        }
+      ]
     },
     {
       "_t": "Image",
@@ -466,32 +552,22 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Сезонные кампании (праздники, дни рождения)"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Подписка на уведомления о появлении товара в наличии"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "По профилю клиента"
-    },
-    {
-      "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/icon.svg",
-      "Alt": "",
-      "Caption": null
-    },
-    {
-      "_t": "Heading2",
-      "Title": "Регион и геолокация"
-    },
-    {
-      "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/icon.svg",
-      "Alt": "",
-      "Caption": null
-    },
-    {
-      "_t": "Heading2",
-      "Title": "Пол и возраст"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "По времени взаимодействия"
+        }
+      ]
     },
     {
       "_t": "Image",
@@ -500,8 +576,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Наличие подписки на маркетинговые сообщения"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Дата последнего визита"
+        }
+      ]
     },
     {
       "_t": "Image",
@@ -510,22 +591,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Способ регистрации: e-mail, социальные сети, офлайн"
-    },
-    {
-      "_t": "Heading2",
-      "Title": "По транзакционной активности"
-    },
-    {
-      "_t": "Image",
-      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/icon.svg",
-      "Alt": "",
-      "Caption": null
-    },
-    {
-      "_t": "Heading2",
-      "Title": "Последний заказ в офлайн-точке"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Дата последней покупки"
+        }
+      ]
     },
     {
       "_t": "Image",
@@ -534,8 +606,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Количество покупок за период"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Период бездействия"
+        }
+      ]
     },
     {
       "_t": "Image",
@@ -544,8 +621,22 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Средний чек"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Сезонные кампании (праздники, дни рождения)"
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "По профилю клиента"
+        }
+      ]
     },
     {
       "_t": "Image",
@@ -554,12 +645,136 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Использование промокодов или участие в акциях"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Регион и геолокация"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Посмотрите, какие возможности для бизнеса открывает персонализированная сегментация в реальном времени"
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/icon.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Пол и возраст"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/icon.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Наличие подписки на маркетинговые сообщения"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/icon.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Способ регистрации: e-mail, социальные сети, офлайн"
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "По транзакционной активности"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/icon.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Последний заказ в офлайн-точке"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/icon.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Количество покупок за период"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/icon.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Средний чек"
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://retailrocket.ru/wp-content/uploads/2025/08/icon.svg",
+      "Alt": "",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Использование промокодов или участие в акциях"
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Посмотрите, какие возможности для бизнеса открывает персонализированная сегментация в реальном времени"
+        }
+      ]
     },
     {
       "_t": "CtaPrimaryBlock",
@@ -616,8 +831,13 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Расскажем, как Live CDP объединяет данные и действия в омниканальном сценарии"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Расскажем, как Live CDP объединяет данные и действия в омниканальном сценарии"
+        }
+      ]
     },
     {
       "_t": "CtaPrimaryBlock",
@@ -713,8 +933,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Узнайте, как Live CDP помогает бизнесу расти"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Узнайте, как Live CDP помогает бизнесу расти"
+        }
+      ]
     },
     {
       "_t": "Paragraph",
@@ -726,8 +951,13 @@
       ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Live CDP"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Live CDP"
+        }
+      ]
     },
     {
       "_t": "Heading2",
@@ -750,28 +980,58 @@
       "Title": "Лояльность"
     },
     {
-      "_t": "Heading2",
-      "Title": "Промоакции"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Промоакции"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Live CDP"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Live CDP"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Ускорьте бизнес-процессы с помощью live-данных о поведении и предпочтениях клиентов"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Ускорьте бизнес-процессы с помощью live-данных о поведении и предпочтениях клиентов"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Скорость сегментации клиентской базы — 1 млн контактов в секунду"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Скорость сегментации клиентской базы — 1 млн контактов в секунду"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Единые клиентские профили 360° с тегами и атрибутами"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Единые клиентские профили 360° с тегами и атрибутами"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Гибкие методы интеграции и передачи данных"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Гибкие методы интеграции и передачи данных"
+        }
+      ]
     },
     {
       "_t": "CtaSecondaryBlock",
@@ -804,24 +1064,49 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Retail Мedia"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Retail Мedia"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Получайте дополнительный доход с помощью нативной рекламы на всех этапах CJM"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Получайте дополнительный доход с помощью нативной рекламы на всех этапах CJM"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Рекламный инвентарь для сайта, приложения и офлайн-магазина"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Рекламный инвентарь для сайта, приложения и офлайн-магазина"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Гибкие условия таргетинга в реальном времени по интересам и поведению посетителей"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Гибкие условия таргетинга в реальном времени по интересам и поведению посетителей"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Аналитика в атрибуции post-click и post-view"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Аналитика в атрибуции post-click и post-view"
+        }
+      ]
     },
     {
       "_t": "CtaSecondaryBlock",
@@ -854,24 +1139,49 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Омниканальные коммуникации"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Омниканальные коммуникации"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Персонализируйте каждое касание с клиентом — от e-mail до push и мессенджеров"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Персонализируйте каждое касание с клиентом — от e-mail до push и мессенджеров"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "17 триггерных сценариев на основе поведения клиентов"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "17 триггерных сценариев на основе поведения клиентов"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "WYSIWYG-редактор"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "WYSIWYG-редактор"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Омниканальность: e-mail, SMS, WhatsApp, push, чат-боты и уведомления в «Кошельке»"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Омниканальность: e-mail, SMS, WhatsApp, push, чат-боты и уведомления в «Кошельке»"
+        }
+      ]
     },
     {
       "_t": "CtaSecondaryBlock",
@@ -904,24 +1214,49 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Рекомендательные системы"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Рекомендательные системы"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Увеличивайте конверсии с помощью персонализированных AI- и ML-рекомендаций на всем пути клиента"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Увеличивайте конверсии с помощью персонализированных AI- и ML-рекомендаций на всем пути клиента"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "35+ высокоточных алгоритмов для любых сценариев"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "35+ высокоточных алгоритмов для любых сценариев"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Онлайн-, офлайн-, мобильные и email-рекомендации"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Онлайн-, офлайн-, мобильные и email-рекомендации"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Мгновенная синхронизация с базами данных товаров любого масштаба"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Мгновенная синхронизация с базами данных товаров любого масштаба"
+        }
+      ]
     },
     {
       "_t": "CtaSecondaryBlock",
@@ -954,24 +1289,49 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Умный поиск на базе ИИ"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Умный поиск на базе ИИ"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Помогайте клиентам быстрее находить нужное — и покупок станет больше"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Помогайте клиентам быстрее находить нужное — и покупок станет больше"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Учет абстракций, синонимов и опечаток при вводе запроса"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Учет абстракций, синонимов и опечаток при вводе запроса"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Понимание разных языков и раскладок клавиатуры"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Понимание разных языков и раскладок клавиатуры"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Персонализация SERP"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Персонализация SERP"
+        }
+      ]
     },
     {
       "_t": "CtaSecondaryBlock",
@@ -1004,24 +1364,49 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Управление лояльностью"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Управление лояльностью"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Удерживайте клиентов с помощью персонализированных бонусов и геймификации"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Удерживайте клиентов с помощью персонализированных бонусов и геймификации"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Настраиваемые уровни и статусы участия в программе лояльности"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Настраиваемые уровни и статусы участия в программе лояльности"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Гибкие правила бонусов в no-code-конструкторе"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Гибкие правила бонусов в no-code-конструкторе"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Управление подарками, реферальные программы и игровые механики"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Управление подарками, реферальные программы и игровые механики"
+        }
+      ]
     },
     {
       "_t": "CtaSecondaryBlock",
@@ -1054,24 +1439,49 @@
       "Caption": null
     },
     {
-      "_t": "Heading2",
-      "Title": "Промоакции"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Промоакции"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Повышайте частоту покупок с помощью таргетированных акций и гибкого ценообразования"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Повышайте частоту покупок с помощью таргетированных акций и гибкого ценообразования"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Конструктор no-code для создания промоакций: купонов, ваучеров, подарочных карт, комплектов и многого другого"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Конструктор no-code для создания промоакций: купонов, ваучеров, подарочных карт, комплектов и многого другого"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Инструменты для защиты от фрода"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Инструменты для защиты от фрода"
+        }
+      ]
     },
     {
-      "_t": "Heading2",
-      "Title": "Виртуальный терминал для тестирования акций"
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Виртуальный терминал для тестирования акций"
+        }
+      ]
     },
     {
       "_t": "CtaSecondaryBlock",
