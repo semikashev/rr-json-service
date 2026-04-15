@@ -14,6 +14,7 @@
 | `AuthorIdList` | `string[]` | Список slug-ов авторов |
 | `LeadText` | `Paragraph[]` | Краткое описание (превью) в формате rich-text |
 | `MetaTitle` | `string` | SEO-заголовок (из Yoast, fallback к Title) |
+| `MetaDescription` | `string` | SEO-описание (140-160 символов). Генерируется из LeadText с учётом типа секции |
 | `ContentBlockList` | `Block[]` | Массив контент-блоков (см. ниже) |
 
 Пример верхнеуровневой структуры:

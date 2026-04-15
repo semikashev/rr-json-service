@@ -18,6 +18,7 @@ Slug            string          URL-slug статьи
 Label           string[]        WP-категории (может быть несколько, или пустой для pages/events)
 Title           string          Заголовок (H1)
 MetaTitle       string          SEO-заголовок
+MetaDescription string          SEO-описание (140-160 символов, из LeadText)
 LeadText        Paragraph[]     Вводный абзац из WP excerpt (может быть пустой)
 PublishDate     {$date: string} MongoDB Extended JSON
 ImageUrl        string|null     Обложка (CDN URL или null)
