@@ -1,0 +1,362 @@
+{
+  "Slug": "konstruktor-pisem-kupony-i-dannye-podpischikov",
+  "Label": [
+    "Продуктовые обновления"
+  ],
+  "Title": "В конструкторе писем появились купоны и данные подписчиков",
+  "PublishDate": {
+    "$date": "2026-05-12T12:00:00"
+  },
+  "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/konstruktor-pisem-kupony-i-dannye-podpischikov/thumbnail.png",
+  "AuthorIdList": [
+    "anastasiya-loktionova"
+  ],
+  "LeadText": [
+    {
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Продолжаем развивать конструктор писем, где можно за 15 минут создать рассылку без кода и HTML-верстки. В нём уже есть готовые элементы писем, инструменты редактирования текста и настройки дизайна, а также блоки рекомендаций по 10+ алгоритмам, включая персональные. Следующий шаг — персонализация контента писем по любым данным о подписчиках, которые доступны CRM-маркетологу."
+        }
+      ]
+    }
+  ],
+  "MetaTitle": "В конструкторе писем появились купоны и данные подписчиков – Retail Rocket Group",
+  "MetaDescription": "В конструкторе писем Retail Rocket появились подстановка данных подписчиков и персональные купоны. Настраивайте персонализацию без кода и HTML-вёрстки.",
+  "ContentBlockList": [
+    {
+      "_t": "Heading2",
+      "Title": "Как и какие данные использовать для персонализации контента"
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Чтобы отправить из конструктора писем рассылку, которая обращается персонально к каждому подписчику, можно использовать любые доступные CRM-маркетологу данные персонально с привязкой к email. "
+        }
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Для этого требуется загрузить на платформу Retail Rocket файл с данными в формате .csv в разделе "
+        },
+        {
+          "_t": "Text",
+          "Content": "Подписчики →  Импорт.",
+          "IsHighlight": true
+        },
+        {
+          "_t": "Text",
+          "Content": " Названия доступных полей отобразятся в разделе "
+        },
+        {
+          "_t": "Text",
+          "Content": "Подписчики → Данные подписчиков.",
+          "IsHighlight": true
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/konstruktor-pisem-kupony-i-dannye-podpischikov/import-data-screen.png",
+      "Alt": "Интерфейс импорта подписчиков для персонализации в e-commerce на платформе данных о клиентах.",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Данные подписчиков дополнят и усилят персонализацию рассылок по массовым и триггерным сценариям — например, по брошенному просмотру или по следующей рекомендуемой покупке (next best offer). Из всех данных мы рекомендуем обратить внимание на "
+        },
+        {
+          "_t": "Text",
+          "Content": "имена, города, адреса или любые другие уникальные данные, соответствующие идее рассылки.",
+          "IsHighlight": true
+        },
+        {
+          "_t": "Text",
+          "Content": " В транзакционных сценариях такая подстановка данных пока невозможна, так как для них Retail Rocket использует другой источник данных."
+        }
+      ]
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/konstruktor-pisem-kupony-i-dannye-podpischikov/subscriber-data-example.png",
+      "Alt": "Пример персонализированного email-сообщения с данными подписчиков и купонами.",
+      "Caption": null
+    },
+    {
+      "_t": "Quote",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Запуск подстановки данных подписчиков — это важный шаг от шаблонных рассылок к управляемой персонализации на уровне каждого получателя. По сути, мы даём CRM-маркетологу инструмент, который раньше требовал участия разработчиков или сложной верстки."
+        },
+        {
+          "_t": "Text",
+          "Content": "Теперь персонализация становится не просто «обращением по имени», а полноценным механизмом управления контентом: можно учитывать поведенческие, транзакционные и предпочтения клиента прямо в письме. Это напрямую влияет на ключевые метрики — open rate, CTR и конверсию в покупку. "
+        }
+      ],
+      "Author": "Анастасия Локтионова",
+      "AuthorPosition": "Руководитель направления коммуникаций и лояльности",
+      "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/authors/anastasiya-loktionova-2.jpg"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/konstruktor-pisem-kupony-i-dannye-podpischikov/setup-data-demo.gif",
+      "Alt": "Интерфейс email конструктора с персонализированными данными для персонализации в e-commerce",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Как настроить подстановку данных в конструкторе писем:",
+          "IsHighlight": true
+        }
+      ]
+    },
+    {
+      "_t": "UnorderedList",
+      "Items": [
+        [
+          {
+            "_t": "Text",
+            "Content": "Выделить в тексте письма слово или фразу для подстановки данных;"
+          }
+        ],
+        [
+          {
+            "_t": "Text",
+            "Content": "На панели редактирования текста кликнуть самую правую иконку "
+          },
+          {
+            "_t": "Text",
+            "Content": "Выбрать источник данных",
+            "IsHighlight": true
+          },
+          {
+            "_t": "Text",
+            "Content": ";"
+          }
+        ],
+        [
+          {
+            "_t": "Text",
+            "Content": "Выбрать "
+          },
+          {
+            "_t": "Text",
+            "Content": "Строка из контактных данных с fallback;",
+            "IsHighlight": true
+          }
+        ],
+        [
+          {
+            "_t": "Text",
+            "Content": "В "
+          },
+          {
+            "_t": "Text",
+            "Content": "Название поля",
+            "IsHighlight": true
+          },
+          {
+            "_t": "Text",
+            "Content": " указать поле данных подписчика. Например, "
+          },
+          {
+            "_t": "Text",
+            "Content": "Имя Фамилия;",
+            "IsHighlight": true
+          },
+          {
+            "_t": "Text",
+            "Content": " "
+          }
+        ],
+        [
+          {
+            "_t": "Text",
+            "Content": "В поле "
+          },
+          {
+            "_t": "Text",
+            "Content": "Строка по умолчанию",
+            "IsHighlight": true
+          },
+          {
+            "_t": "Text",
+            "Content": " указать значение для пустых полей. Например, "
+          },
+          {
+            "_t": "Text",
+            "Content": "Уважаемый клиент",
+            "IsHighlight": true
+          },
+          {
+            "_t": "Text",
+            "Content": ";"
+          }
+        ],
+        [
+          {
+            "_t": "Text",
+            "Content": "Проверить корректную подстановку данных на тестовых письмах. "
+          }
+        ]
+      ]
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Еще при создании писем в Retail Rocket "
+        },
+        {
+          "_t": "Text",
+          "Content": "можно менять контент письма в зависимости от значения в поле данных подписчика.",
+          "IsHighlight": true
+        },
+        {
+          "_t": "Text",
+          "Content": " К примеру, если CRM-маркетолог захочет, чтобы к 23 февраля все мужчины получили рассылку с первым абзацем "
+        },
+        {
+          "_t": "Text",
+          "Content": "«С днем защитника отечества вас, Николай Николаевич»",
+          "IsHighlight": true
+        },
+        {
+          "_t": "Text",
+          "Content": ", а все женщины — с абзацем "
+        },
+        {
+          "_t": "Text",
+          "Content": "«Поздравьте папу, мужа, братьев и сыновей с днем защитника отечества, Анна Петровна»",
+          "IsHighlight": true
+        },
+        {
+          "_t": "Text",
+          "Content": ". Но для этого нужно обратиться с запросом на вёрстку по стандартным регламентам."
+        }
+      ]
+    },
+    {
+      "_t": "Heading2",
+      "Title": "Как добавить в письма промокоды и купоны"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/konstruktor-pisem-kupony-i-dannye-podpischikov/coupons-screen.png",
+      "Alt": "Скриншот e-commerce письма с персонализированными предложениями и купонами для клиентов.",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Теперь при создании рассылки в конструкторе писем можно отправить каждому подписчику уникальный код со скидкой или бонусами. Для этого CRM-маркетологу нужно получить ID купонов от CSM Retail Rocket."
+        }
+      ]
+    },
+    {
+      "_t": "Quote",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Отдельно важно, что купоны интегрированы в тот же сценарий: уникальные предложения можно выдавать автоматически и масштабировать без ручных процессов. Это открывает новые возможности для триггерных коммуникаций и программ лояльности — от реактивации до стимулирования повторных покупок. "
+        }
+      ],
+      "Author": "Анастасия Локтионова",
+      "AuthorPosition": "Руководитель направления коммуникаций и лояльности",
+      "AuthorImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/authors/anastasiya-loktionova-2.jpg"
+    },
+    {
+      "_t": "Image",
+      "ImageUrl": "https://landingcdn.retailrocket.ru/rrglanding_blog/updates/konstruktor-pisem-kupony-i-dannye-podpischikov/setup-coupons-demo.gif",
+      "Alt": "Интерфейс конструктора писем с купонами и данными подписчиков для персонализации в e-commerce.",
+      "Caption": null
+    },
+    {
+      "_t": "Paragraph",
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Как настроить подстановку данных в конструкторе писем:",
+          "IsHighlight": true
+        }
+      ]
+    },
+    {
+      "_t": "UnorderedList",
+      "Items": [
+        [
+          {
+            "_t": "Text",
+            "Content": "Выделить в тексте письма слово или фразу для подстановки данных;"
+          }
+        ],
+        [
+          {
+            "_t": "Text",
+            "Content": "На панели редактирования текста кликнуть самую правую иконку "
+          },
+          {
+            "_t": "Text",
+            "Content": "Выбрать источник данных;",
+            "IsHighlight": true
+          }
+        ],
+        [
+          {
+            "_t": "Text",
+            "Content": "Выбрать "
+          },
+          {
+            "_t": "Text",
+            "Content": "Следующий купон из пакета;",
+            "IsHighlight": true
+          }
+        ],
+        [
+          {
+            "_t": "Text",
+            "Content": "Указать идентификатор купона;"
+          }
+        ],
+        [
+          {
+            "_t": "Text",
+            "Content": "Проверить корректную подстановку данных на тестовых письмах. "
+          }
+        ]
+      ]
+    },
+    {
+      "_t": "CtaSecondaryBlock",
+      "TitleElements": [
+        {
+          "_t": "Text",
+          "Content": "Гибкая персонализация сообщений в нужный момент и нужном канале"
+        }
+      ],
+      "Elements": [
+        {
+          "_t": "Text",
+          "Content": "Проанализируем ваши коммуникации, покажем точки контакта, которые дадут максимальную отдачу — и предложим оптимальные технологические решения"
+        }
+      ],
+      "BtnText": "Запросить демо",
+      "BtnUrl": "https://retailrocket.ru/demo/"
+    }
+  ]
+}
